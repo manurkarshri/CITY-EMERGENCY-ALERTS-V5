@@ -1,0 +1,5 @@
+*{box-sizing:border-box}
+:root{--red:#b71c1c;--red2:#e02424;--green:#2e7d32;--yellow:#f9a825;--orange:#ef6c00;--blue:#1565c0;--dark:#212529;--muted:#666;--card:#fff;--bg:#f8f9fa}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:#212529}
+a{color:var(--red);font-weight:800}
+.hidden{display:none!important}

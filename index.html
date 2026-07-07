@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover" />
+  <title>CITY EMERGENCY ALERTS V5</title>
+  <meta name="theme-color" content="#b71c1c" />
+  <meta name="description" content="Community emergency intelligence dashboard for Pune and nearby regions." />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/icons/icon.svg" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/cards.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>🚨 CITY EMERGENCY ALERTS</h1>
+    <p>V5 Community Edition · Pune & Nearby Emergency Intelligence</p>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="home">Home</button>
+    <button class="tab" data-tab="alerts">Alerts</button>
+    <button class="tab" data-tab="incidents">Incidents</button>
+    <button class="tab" data-tab="official">Official</button>
+    <button class="tab" data-tab="emergency">Emergency</button>
+  </nav>
+
+  <main class="container">
+    <section id="home" class="panel">
+      <div class="selector-grid">
+        <div class="region-card">
+          <label>📍 Region</label>
+          <select id="regionSelect"></select>
+        </div>
+        <div class="region-card">
+          <label>🏘️ Locality</label>
+          <select id="localitySelect"></select>
+        </div>
+      </div>
+
+      <div class="status-row">
+        <span id="lastSync">Last synced: --</span>
+        <span id="dataAge">Data: --</span>
+      </div>
+
+      <div id="situationCard" class="situation-card"></div>
+
+      <div class="section-title">Weather & Rain</div>
+      <div id="weatherGrid" class="weather-grid"></div>
+
+      <div class="section-title">City Status</div>
+      <div id="cityStatusGrid" class="metric-grid"></div>
+
+      <div class="section-title">Quick Summary</div>
+      <div id="quickSummary" class="notice"></div>
+
+      <div class="section-title">Emergency Summary</div>
+      <div id="summary" class="summary compact-summary"></div>
+    </section>
+
+    <section id="alerts" class="panel hidden">
+      <div class="notice"><strong>Important:</strong> For life-threatening emergencies call <a href="tel:112">112</a>. Verify critical alerts using official sources.</div>
+      <input id="alertSearch" class="search" placeholder="Search alerts, area, road, source..." />
+      <div id="alertFilters" class="filters"></div>
+      <div class="section-title">Critical Alerts</div>
+      <div id="loader" class="loader">Loading emergency intelligence...</div>
+      <div id="alertFeed"></div>
+    </section>
+
+    <section id="incidents" class="panel hidden">
+      <div class="section-title">Local Incidents & News</div>
+      <div class="notice">Awareness feed for accidents, traffic, route closures, theft/crime, civic impact, rain incidents and nearby disruptions.</div>
+      <input id="incidentSearch" class="search" placeholder="Search incidents, area, road, keyword..." />
+      <div id="incidentFilters" class="filters"></div>
+      <div id="incidentFeed"></div>
+    </section>
+
+    <section id="official" class="panel hidden">
+      <div class="section-title">Official Sources</div>
+      <div class="notice">Use these official pages first during severe weather, traffic disruption, flood, fire, power outage, or civic emergency.</div>
+      <div id="sourceGrid" class="grid"></div>
+      <div class="section-title">Official X Alert Channels</div>
+      <div id="xLinks" class="list"></div>
+    </section>
+
+    <section id="emergency" class="panel hidden">
+      <div class="section-title">Emergency Dial</div>
+      <div id="dialList" class="list"></div>
+
+      <div class="section-title">Nearby Emergency Locations</div>
+      <div id="mapLinks" class="list"></div>
+
+      <div class="section-title">Safety Guidance</div>
+      <div id="safetyGuide" class="list"></div>
+
+      <div class="section-title">Quick Safety Checklist</div>
+      <div id="checklist" class="checklist"></div>
+    </section>
+  </main>
+
+  <dialog id="alertDialog" class="alert-dialog">
+    <div id="dialogContent"></div>
+    <button id="dialogClose" class="dialog-close">Close</button>
+  </dialog>
+
+  <button id="installBtn" class="install hidden">Install</button>
+
+  <footer>
+    <div>Developed by : <strong>Shriganesh Manurkar</strong></div>
+    <div id="clock" class="clock">...</div>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
