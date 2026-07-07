@@ -1,27 +1,31 @@
 # Node modules
 node_modules/
 
-# macOS
-.DS_Store
-
-# Environment files
-.env
-.env.local
-
 # Logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Temporary files
-*.tmp
-*.temp
+# Environment
+.env
+.env.local
 
-# VS Code
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
 .vscode/
-
-# JetBrains IDEs
 .idea/
 
-# OS generated files
-Thumbs.db
+# Build folders
+dist/
+.cache/
+coverage/
+
+# Temporary
+*.tmp
+*.bak
