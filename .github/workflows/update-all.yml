@@ -2,6 +2,7 @@ name: V5 Update All Emergency Data
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "*/30 * * * *"
 
@@ -19,14 +20,25 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
-      - name: Run V5 data pipeline
-        run: node scripts/run-all.js
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          fi
 
-      - name: Commit generated data
+      - name: Run complete V5 data pipeline
+        run: |
+          if [ -f scripts/run-all.js ]; then
+            node scripts/run-all.js
+          else
+            echo "scripts/run-all.js not found."
+          fi
+
+      - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update V5 emergency data"
+          commit_message: "Auto update emergency intelligence"
           file_pattern: |
             data/*.json
