@@ -1,0 +1,11 @@
+import { readJson, writeJson } from "./lib/io.js";
+import { mergeIncidents } from "./lib/dedupe.js";
+import { rank } from "./lib/classifier.js";
+const news=(await readJson("data/raw-news.json",{items:[]})).items||[];
+const official=(await readJson("data/raw-official.json",{items:[]})).items||[];
+const manual=(await readJson("data/manual-alerts.json",{alerts:[]})).alerts||[];
+const activeManual=manual.filter(x=>x.active!==false).map(x=>({...x,sourceClass:"official",confidence:"High",critical:true,sources:[x.source||"Manual Alert"]}));
+const merged=mergeIncidents([...official,...news,...activeManual],rank);
+const alerts=merged.filter(x=>x.critical||x.sourceClass==="official"||["emergency","warning"].includes(x.severity));
+const localNews=merged.filter(x=>!alerts.includes(x));
+await writeJson("data/live-alerts.json",{generatedAt:new Date().toISOString(),status:"ok",alerts,news:localNews,incidents:merged,summary:{total:merged.length,alerts:alerts.length,news:localNews.length}});

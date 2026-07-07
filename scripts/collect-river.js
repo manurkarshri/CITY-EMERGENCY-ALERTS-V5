@@ -1,0 +1,11 @@
+import { writeJson } from "./lib/io.js";
+const rivers=[
+  {name:"Khadakwasla",type:"dam",status:"monitor",note:"Check official irrigation / district updates during heavy rain."},
+  {name:"Panshet",type:"dam",status:"monitor",note:"Status placeholder until structured public feed is available."},
+  {name:"Varasgaon",type:"dam",status:"monitor",note:"Status placeholder until structured public feed is available."},
+  {name:"Temghar",type:"dam",status:"monitor",note:"Status placeholder until structured public feed is available."},
+  {name:"Mula River",type:"river",status:"monitor",note:"Monitor during heavy rainfall."},
+  {name:"Mutha River",type:"river",status:"monitor",note:"Monitor during heavy rainfall."},
+  {name:"Indrayani River",type:"river",status:"monitor",note:"Monitor Alandi and low-lying areas during heavy rain."}
+];
+await writeJson("data/river-status.json",{generatedAt:new Date().toISOString(),items:rivers});

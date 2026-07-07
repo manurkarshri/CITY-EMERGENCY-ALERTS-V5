@@ -1,0 +1,17 @@
+{
+  "name": "city-emergency-alerts-v5",
+  "version": "5.0.0",
+  "description": "Community emergency intelligence dashboard for Pune and nearby regions.",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/run-all.js",
+    "collect:news": "node scripts/collect-news.js",
+    "collect:weather": "node scripts/collect-weather.js",
+    "collect:official": "node scripts/collect-official.js",
+    "collect:river": "node scripts/collect-river.js",
+    "collect:traffic": "node scripts/collect-traffic.js",
+    "build:status": "node scripts/build-status.js",
+    "cleanup": "node scripts/cleanup-data.js",
+    "validate": "node scripts/validate-data.js"
+  }
+}
