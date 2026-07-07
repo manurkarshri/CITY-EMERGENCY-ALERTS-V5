@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# OS generated files
+Thumbs.db
