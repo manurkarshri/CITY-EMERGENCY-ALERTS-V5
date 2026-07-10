@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:31:09.078Z",
+  "generatedAt": "2026-07-10T23:53:26.852Z",
   "status": "ok",
   "alerts": [
     {
@@ -118,6 +118,38 @@
         "Jagran Josh"
       ],
       "confidence": "Medium",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "mumbai rains nowcast warning orange alert issued for city thane and palghar high tide expe",
+      "title": "Mumbai rains nowcast warning: Orange alert issued for city, Thane and Palghar; high tide expected",
+      "summary": "Mumbai rains nowcast warning: Orange alert issued for city, Thane and Palghar; high tide expected",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVkYzWHhDa3R6SW9JSFpRYzlyZlhoT1djRnRlbTRZTFMwSmtaaFBQcXNzTlFlT1ZZaUlYYzRfbDhxZEY0aWJzVWdwRWdIalNrejJBSVpaWW8tX0dsbkFaZ3VUcVRIX0ptWWJva1Boa09tak5fZEdJTlJyVXVnSkwxMnc2VUJYWDd5MUVDbmV2TDNCdTROd0M3czBvMDZjdjJxeU5LdTdYWkdFU0FMdkVNaURFcThVLTJTVzUzOHBVZHFseFFnX0diV29RejcyYmRjbFIzcVNxNzRCZjlOQTVER1I1dXZ1cU5IWk5V?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 21:32:45 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 21:32:45 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
       "w": [
         "red alert",
         "school closed",
@@ -391,6 +423,38 @@
       ]
     },
     {
+      "id": "monsoon mayhem mumbai expressway old highway shut after landslide trains also impacted",
+      "title": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted",
+      "summary": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPQWhERmU2OFQxVUhkOHJySmE2MXQ2T21oSW0zM1FIWE1kS0NsQW1LLXA3QmFNZTFFcXZqQnZ0TjV1dlpXVTJGTklsYmF2Yk5BVEhZUEI4SE5MOWFNTC1PTGlmNmNZZmp5dmVobXNES0NKQ1JBdGFRdmVfazRmNy1XalU2MjVhV1FrZnd1eFZOd3VCbHU4dGM3WXc5UC04anVvYTluekJ2Vy1fUnhOem5VbE1hWDFuTGRKTmY5MmhIM21FbEY5ZkxFMTZDSjFLZnZHTmtTSzNtUTBGMnVEVVJtbXdWQmExcV83aHRwWUpYX3FlQUhyb3JuTXZhN2NpakRmZ1o4Tk14cFpsRmNFamlZUzA4VmtQSG9rZ0tzVjhUZlMza1RvWDduYTZnemNEdzloNXhzTFBtQmNBZTVaLVpwS2J1bjZYTUg3TTlVcXZLWTJwLTdXc3pxbHJHM2xBUzhtYVFka3VEa2VKVTdhVDFLUGFCQTdGeGl5RzdmLUE0eWh3LVMtTHlMSTlxZUxMNkYtUUFETkl0MHRrMlNHWUVKZmRuVWZWMmYxOU9JRGl6Zw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 09:09:06 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 09:09:06 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "lonavala karjat railway route landslide affects express trains on lonavala karjat route se",
       "title": "Lonavala Karjat Railway Route Update: Landslide Affects Express Trains on Lonavala-Karjat Route, Several Express Services Canceled from July 10 to 17",
       "summary": "Lonavala Karjat Railway Route Update: Landslide Affects Express Trains on Lonavala-Karjat Route, Several Express Services Canceled from July 10 to 17",
@@ -526,7 +590,7 @@
       "summary": "Landslide, flash flood alerts in Himachal; schools shut in Sirmaur, Solan amid heavy rain",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUTcyaGVZWEJ5U2RHRTZSekp5OGRKd3BiN1VDRXEtRGcyY0lJZVNvMzB0cmFKd29qcTFCTnd6SVA1cXB6ZkxPNHFpTlF6ek55LUVKc3dYWXlraVNMS1VmbTREazc1Y3hMNjBTUVB1NXBsOGJDX0FUNEpqcDN1dGl4S0dCUS1mZHA5NGJUUGFxOXdRa0ZRY1Jyb3FfdW94d3dmem5vSVN1d05HMGprd2FCMVoxWm83TXQyRkVHa3pid2VrZG5nazZMUUsyakVxQ1NHSGJNRWJ4eUlhWjEwb19ITEFqS0htSWJQWlg2ZUFNT2F5MHNIZkJB0gH3AUFVX3lxTE9RNzJoZVlYQnlTZEdFNlJ6Snk4ZEp3cGI3VUNFcS1EZzJjSUllU28zMHRyYUp3b2pxMUJOd3pJUDVxcHpmTE80cWlOUXp6TnktRUpzd1hZeWtpU0xLVWZtNERrNzVjeEw2MFNRUHU1cGw4YkNfQVQ0SmpwM3V0aXhLR0JRLWZkcDk0YlRQYXE5d1FrRlFjUnJvcV91b3h3d2Z6bm9JU3V3Tkcwamt3YUIxWjFabzdNdDJGRUdremJ3ZWtkbmdrNkxRSzJqRXFDU0dIYk1FYnh5SWFaMTBvX0hMQWpLSG1JYlBaWDZlQU1PYXkwc0hmQkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTG9tWXBuUkhHcDQtVDVlU0kzdlVQR2dwTFF3b2h6RUtZeXJXbnJIaWxsdWZ1Sl8xQVNiOUR5WkJfQ19odkFWZW9odDd2NC1ZSVVKNUZ0bkdxOVl2UjFkZHNsZ2x2cDhBUlZobzJJRUZzWmxvN2F1eWhXdVB1Z0NrbkZ2bjFSTVNUS1dRd0RLSEhLZ1ZhVzNPbnRtdTFSSVR2QXhlRGRaUXFjdFFDX1JYOTRGaERSaUJ3RnFfNi1fS1NFQWFIQjhOOFFsQWVraF8xdmdUTmpNbEtmSnNwMzNKVnQzSng1MEh0Nmx1WnpSR3Bid9IB9wFBVV95cUxPUTcyaGVZWEJ5U2RHRTZSekp5OGRKd3BiN1VDRXEtRGcyY0lJZVNvMzB0cmFKd29qcTFCTnd6SVA1cXB6ZkxPNHFpTlF6ek55LUVKc3dYWXlraVNMS1VmbTREazc1Y3hMNjBTUVB1NXBsOGJDX0FUNEpqcDN1dGl4S0dCUS1mZHA5NGJUUGFxOXdRa0ZRY1Jyb3FfdW94d3dmem5vSVN1d05HMGprd2FCMVoxWm83TXQyRkVHa3pid2VrZG5nazZMUUsyakVxQ1NHSGJNRWJ4eUlhWjEwb19ITEFqS0htSWJQWlg2ZUFNT2F5MHNIZkJB?oc=5",
       "pubDate": "Fri, 10 Jul 2026 05:17:00 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 05:17:00 GMT",
       "areas": [],
@@ -584,39 +648,6 @@
       ]
     },
     {
-      "id": "mumbai rain train services suspended after landslides mumbai expressway shut helplines iss",
-      "title": "Mumbai rain: Train services suspended after landslides, Mumbai-Pune Expressway shut; helplines issued",
-      "summary": "Mumbai rain: Train services suspended after landslides, Mumbai-Pune Expressway shut; helplines issued",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNejYzajNJb29aZWxtMTRkVGQ3MUw3U2E5TEZBOFpHT1hKZWhQdWlDUUNjUVk2d2NSQ2FMeC14VXRuVkpSZVlLcHZjRUNfazVKNFhHWFk5WDhaT19uNUxBX2dwR0hVZVdIZWs5ajNlaXBJb3VLa3NQelBva0JYQWdVVjhaUmxFZDRZMGloU3Q5bzZYNVc4VDFoN2pEemxfeVhpX203YzJmcDFxTFFZRm51VkNwLVphd3h4Wnc3RVpzTG5uTVBwajg0MjU3aDRKZGNiWDFpeUdvbUExSDhlN01WWA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 04:23:19 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 04:23:19 GMT",
-      "areas": [
-        "Sus",
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "uttarakhand rains trigger flash flood risk in dehradun rivers overflowing nainital other d",
       "title": "Uttarakhand rains trigger flash flood risk in Dehradun: Rivers overflowing; Nainital, other districts on IMD's red alert",
       "summary": "Uttarakhand rains trigger flash flood risk in Dehradun: Rivers overflowing; Nainital, other districts on IMD's red alert",
@@ -644,6 +675,36 @@
       "icon": "🚨",
       "critical": true,
       "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "railway minister reviews mumbai ghat restoration trains to continue with two locomotives o",
+      "title": "Railway minister reviews Mumbai–Pune ghat restoration, trains to continue with two locomotives on restored line",
+      "summary": "Railway minister reviews Mumbai–Pune ghat restoration, trains to continue with two locomotives on restored line",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOdE5hS3dVXzFBMzI3akFwVlVvTjdObE5HLXFBQ3RNaUhCbjZXbkg1bjBjakRobjloWkFGNnF5NGdYRlExSGJfTmxXUlF4TjM5X2Z5czU4SkdnZG9PSEtRVzNuUkpIMzFiZ3k5Yzc1TDVRYnBac1FFT3Rydjg0RXFlX3RrWkI3Ny0zQ0ZkcnUyZkNWaXRSNmJ6TlhROHFVWWluMDVYMDVwT0NVN2l5cDhUUzVaa3B2RnU1cjBEa3BsVWc5S2VwRnhSVFVkamdvdTU4UEdsbzN4NFg0Nk9mVGxCWGFnWE4zUFdPMGIyWFB4R2c1TDM5NFk0RVlzcU52YVNqeTRjOTNyOVl3RnN4bnpjRlFFbGxlV1gtM3JobmdUZm5RV3l5UU1zeEZsWl9wY1RicXFzLW0tWmlpRGdHTElBR3paQkpNUHU1aDNWcWVXT093d21mcnFUeURXWmRiWUdqTnRqLXpfQVNIRzlkYlZDZWZQOTNWRFo4THp2d0pMYUg2Rk12SFdGaWEtSExJV3NiUW5BeW1qMllFdnNRYzZnSlBjTGlfZ3VsZ296dlp6S3dLYndFd19HcEtBNVBxa1JlTzVKTjNKbDlvdw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 03:06:09 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 03:06:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -768,39 +829,6 @@
       "action": "Avoid low-lying areas, river banks and flooded roads.",
       "correlation": [
         "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "mumbai school holiday july 10 are schools open or closed imd issues red alert across mahar",
-      "title": "Mumbai School Holiday Today (July 10): Are Schools Open or Closed? IMD Issues Red Alert Across Maharashtra; Check BMC Latest Update, Online Classes, Traffic Advisory & Heavy Rain Forecast",
-      "summary": "Mumbai School Holiday Today (July 10): Are Schools Open or Closed? IMD Issues Red Alert Across Maharashtra; Check BMC Latest Update, Online Classes, Traffic Advisory & Heavy Rain Forecast",
-      "source": "The Sunday Guardian",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd1dqRnltckI3b3I2eW5qTlRxSkVWQVI1d3dFVVo5MzJkWnhTYS1JOHBlV2ViRTFkeXpXcThPTUx4MzhJb09MSUNCS0dGdWRTWFRORjl3WElZWVhvazJtYXpEVXRYVF9CR1VTcTNXRDJDeUdEeTJTeUNpSzBKVnpWMkVRZ25ubFBZc1dJVkdlemJNOTNTNXItT3JSQ01EbzFRMUY4cDUtN3pWWDFzOHVZdFhSXzNBVGwxMmVYX2sydVN5d0xweFFoQUlyeDFNSXpiWm16cEIwcWY1UkJfOFFSeFdXYzd5dDZxOGNWa3g5S2xpOUN0Ukp4dXExcVk0WUdVSXl0NUlkZXN6TW5LQWJvdGtwYmZ6TXBnWlRQLXhzS2RQRDl4czV5ZmF1czQ0c1BXSDhsekt2TTdsY1Zvb3ozSmhBaUhFUXg0bHVJ0gHLAkFVX3lxTFB3V2pGeW1yQjdvcjZ5bmpOVHFKRVZBUjV3d0VVWjkzMmRaeFNhLUk4cGVXZWJFMWR5eldxOE9NTHgzOElvT0xJQ0JLR0Z1ZFNYVE5GOXdYSVlZWG9rMm1hekRVdFhUX0JHVVNxM1dEMkN5R0R5MlN5Q2lLMEpWelYyRVFnbm5sUFlzV0lWR2V6Yk05M1M1ci1PclJDTURvMVExRjhwNS03elZYMXM4dVl0WFJfM0FUbDEyZVhfazJ1U3l3THB4UWhBSXJ4MU1JemJabXpwQjBxZjVSQl84UVJ4V1djN3l0NnE4Y1ZreDlLbGk5Q3RSSnh1cTFxWTRZR1VJeXQ1SWRlc3pNbktBYm90a3BiZnpNcGdaVFAteHNLZFBEOXhzNXlmYXVzNDRzUFdIOGx6S3ZNN2xjVm9vejNKaEFpSEVReDRsdUk?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:42:20 GMT",
-      "lastUpdated": "Thu, 09 Jul 2026 22:42:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Road delay or diversion possible."
       ]
     },
     {
@@ -1055,6 +1083,42 @@
       ]
     },
     {
+      "id": "heavy rain and waterlogging disrupt flyers plans",
+      "title": "Heavy rain and waterlogging disrupt flyers’ plans",
+      "summary": "Heavy rain and waterlogging disrupt flyers’ plans",
+      "source": "The Times of India + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk8zVi1XakRfOEZ4U18wd18tSUhpdDVwZktSaXFuSHdzQU1KdlpNYlNRVHVmODFDZE1PdGFRUExTcnA0UjlYSkYxc0dEUVd2NjdqNEdXQmppTms2NThnUVBaNDJCeEt2YkFfd1pjbWJTa0lIejczY0Z3djVaMUNZOTc1dW1CQXdYZFIzX3c1WC1fZkQyampMUkZMU3d5QjJfTHlwcFFTOTl4YWZYb2UtN1lXcnhEMlJwZGVHSEFMVWRvT1RwdHfSAcYBQVVfeXFMTUpPM1YtV2pEXzhGeFNfMHdfLUlIaXQ1cGZLUmlxbkh3c0FNSnZaTWJTUVR1ZjgxQ2RNT3RhUVBMU3JwNFI5WEpGMXNHRFFXdjY3ajRHV0JqaU5rNjU4Z1FQWjQyQnhLdmJBX3daY21iU2tJSHo3M2NGd3Y1WjFDWTk3NXVtQkF3WGRSM193NVgtX2ZEMmpqTFJGTFN3eUIyX0x5cHBRUzk5eGFmWG9lLTdZV3J4RDJScGRlR0hBTFVkb09UcHR3?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:54:00 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 17:54:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India",
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "flight status delayed or cancelled due to heavy rain here s when you can claim a refund fr",
       "title": "Flight status delayed or cancelled due to heavy rain? Here's when you can claim a refund, free meals and h",
       "summary": "Flight status delayed or cancelled due to heavy rain? Here's when you can claim a refund, free meals and h",
@@ -1106,41 +1170,6 @@
         "Moneycontrol.com"
       ],
       "confidence": "Medium",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "heavy rain and waterlogging disrupt flyers plans",
-      "title": "Heavy rain and waterlogging disrupt flyers’ plans",
-      "summary": "Heavy rain and waterlogging disrupt flyers’ plans",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk8zVi1XakRfOEZ4U18wd18tSUhpdDVwZktSaXFuSHdzQU1KdlpNYlNRVHVmODFDZE1PdGFRUExTcnA0UjlYSkYxc0dEUVd2NjdqNEdXQmppTms2NThnUVBaNDJCeEt2YkFfd1pjbWJTa0lIejczY0Z3djVaMUNZOTc1dW1CQXdYZFIzX3c1WC1fZkQyampMUkZMU3d5QjJfTHlwcFFTOTl4YWZYb2UtN1lXcnhEMlJwZGVHSEFMVWRvT1RwdHfSAcYBQVVfeXFMTUpPM1YtV2pEXzhGeFNfMHdfLUlIaXQ1cGZLUmlxbkh3c0FNSnZaTWJTUVR1ZjgxQ2RNT3RhUVBMU3JwNFI5WEpGMXNHRFFXdjY3ajRHV0JqaU5rNjU4Z1FQWjQyQnhLdmJBX3daY21iU2tJSHo3M2NGd3Y1WjFDWTk3NXVtQkF3WGRSM193NVgtX2ZEMmpqTFJGTFN3eUIyX0x5cHBRUzk5eGFmWG9lLTdZV3J4RDJScGRlR0hBTFVkb09UcHR3?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 17:54:00 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 17:54:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
       "w": [
         "tree fall",
         "trees fall",
@@ -1315,7 +1344,7 @@
       "summary": "Mumbai-Pune Passengers, Beware: Deccan Queen, Pune Intercity SF Among Trains Cancelled Till July 17",
       "source": "NDTV Profit",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlBsMWx0cERaay12TEplVEpKalhFMnhhaWZUcWRsd1B5ZFZyaURtaV9ZVHRKaHpHR2lJOGllazE1MjhYYjFpRlIxMXpzelFZaFpCV3JXQkZDem16bG50Yk1hUV9ZTlNXalZabTFwUGYwTEFwblVfOXNIcWJTd3RrZlZjd2oyTktSWVZFT2FFT2x6MFFYU1I2RDYtbE12OVVmZFNJRkpDcFhfZWRpbHZzLUwyaUpsYXZtNjdnbTJ1YUYzcHhQV01rUS1hcTRlblBsVXVlMNIB3AFBVV95cUxOMVhaRzdzT3U5Q0U4UjNLUENqSXZJMkxVdEIySTZVbXI5eFhSRzV5NjJhMTR3WG9uVk05bjJUS2hsQVl2Ynoxb2RYRmE3a1lsRnVPa3FIQW9qYjYxUlMxdjJUVzQ1MkFNVGgyblRKZ29TTXRfRDVOTnZfV3JHOTFNa2MtOXNyNTVVUEFZMVdOQkNkbFN5Y3ZPd0xJU3YyUlVjNEFIcmJibFlINnYxcjNGUW9Vc1hOSGEyYWVBWm52N2g1ODN4V3h0Y05WUHVMV2x1bVdvd1BfVERYWS0t?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVhaRzdzT3U5Q0U4UjNLUENqSXZJMkxVdEIySTZVbXI5eFhSRzV5NjJhMTR3WG9uVk05bjJUS2hsQVl2Ynoxb2RYRmE3a1lsRnVPa3FIQW9qYjYxUlMxdjJUVzQ1MkFNVGgyblRKZ29TTXRfRDVOTnZfV3JHOTFNa2MtOXNyNTVVUEFZMVdOQkNkbFN5Y3ZPd0xJU3YyUlVjNEFIcmJibFlINnYxcjNGUW9Vc1hOSGEyYWVBWm52N2g1ODN4V3h0Y05WUHVMV2x1bVdvd1BfVERYWS0t0gHcAUFVX3lxTE4xWFpHN3NPdTlDRThSM0tQQ2pJdkkyTFV0QjJJNlVtcjl4WFJHNXk2MmExNHdYb25WTTluMlRLaGxBWXZiejFvZFhGYTdrWWxGdU9rcUhBb2piNjFSUzF2MlRXNDUyQU1UaDJuVEpnb1NNdF9ENU5Odl9Xckc5MU1rYy05c3I1NVVQQVkxV05CQ2RsU3ljdk93TElTdjJSVWM0QUhyYmJsWUg2djFyM0ZRb1VzWE5IYTJhZUFabnY3aDU4M3hXeHRjTlZQdUxXbHVtV293UF9URFhZLS0?oc=5",
       "pubDate": "Fri, 10 Jul 2026 05:40:02 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 05:40:02 GMT",
       "areas": [
@@ -1490,28 +1519,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आष",
-      "title": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट; व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आषाढी वारीच्या धामधुमीत पोलिसांच्या फोटोशूटचा एक व्हिडिओ सोशल मीडियावर समोर आला आह",
-      "summary": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट; व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आषाढी वारीच्या धामधुमीत पोलिसांच्या फोटोशूटचा एक व्हिडिओ सोशल मीडियावर समोर आला आह",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HQjRveWZ5ZW1GYTlwdDN4R3N4bUFVZExHbEEyUDM2Vnp4aDJ6Q3oyQVFjOHV2SE56V1BnUFNLbTlqcVJ0SFVyY0pKNnNHRzlJazJScU5R?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 19:04:45 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 19:04:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "2 men electrocuted in kolhapur and sangli",
       "title": "2 men electrocuted in Kolhapur and Sangli",
       "summary": "2 men electrocuted in Kolhapur and Sangli",
@@ -1615,6 +1622,28 @@
       "region": "pune",
       "sources": [
         "Navakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "my govt put missing link project on hold over safety concerns former cm prithviraj chavan",
+      "title": "My govt put Missing Link project on hold over safety concerns: former CM Prithviraj Chavan",
+      "summary": "My govt put Missing Link project on hold over safety concerns: former CM Prithviraj Chavan",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXptYzFKM3hnVzhoOXFhRVFvb1ZhZU94S1ZJYW1Ca0J2ZTFBUzV5elRPcFRBTm5BU3pEOUVwZDhWam9fWGJ1X3NDTjlkUnVZWnltM0dFcTN3dGR0ME50dHNKVVJYc2lTTlN2VWtvbTJqMHg5R25jSnhDaUdWbWg5Q04weFBtNndSTTZ0NGVEaGdNX1ppaUhuN0VXWF92SDk2UzZvRUhBT2VTTVN1VWxiajFsTlc0UTZWSVV4VTVGNUJ3dmF1VVZKRVZyMWJ4MnZWcHVaTw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:03:58 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 16:03:58 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2228,28 +2257,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "eng w vs ind w streaming when and where to watch india vs england one off test probable pl",
-      "title": "ENG W vs IND W Live Streaming: When and where to watch India vs England one-off test, probable playing XIs, pitch report and weather forecast",
-      "summary": "ENG W vs IND W Live Streaming: When and where to watch India vs England one-off test, probable playing XIs, pitch report and weather forecast",
-      "source": "The Economic Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOS0tCYnhsV2txeFpoMFp4TjNSdXE3eFRwcVZDc1p6cDZ6M0U1c3pXeVJSM2twNjQ2OF9FdHdHX0I3NzNOZXVJVHFQLWdkU1dLUnV0dVNCN1BZb1dUcExJaG0wRkpod3h1ajlERkx1OTFnTklfUHBZQkdJVjlmTExJZ3lsb3I0TVgzVkc0LTlFeGxlMkRYRU5BeHlRamxuR2RHQjZjakxpWWUtcWgxYVY1Ukozb1VSZlhCTnBYU2hPSEM0bHk2cFluUF85cHNqRnR6ZzdWQnh5Vi1ZazJMVE9RNWlDU095RGZuQmJidk9UTHJOb3ZYX2Vta1Qxa0FmUlM0TFZabEIzNWdqclVnbXpVa25MWGJBWkpETmVtdERvSk1VMHd3R1gzSTVzUEF4dDdsbzNoUVlDRFluYW1nRGNLR3hKOGdDWDg?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:11:25 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 08:11:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Economic Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "प्रवाशांसाठी महत्त्वाची बातमी भूस्खलनामुळे अनेक गाड्या रद्द",
       "title": "प्रवाशांसाठी महत्त्वाची बातमी 'भूस्खलनामुळे अनेक गाड्या रद्द'",
       "summary": "प्रवाशांसाठी महत्त्वाची बातमी 'भूस्खलनामुळे अनेक गाड्या रद्द'",
@@ -2657,7 +2664,7 @@
       "summary": "Delhi, Mumbai grapple with monsoon havoc; 11 feared trapped in Pune building collapse amid heavy rain",
       "source": "MSN",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQZXZ5YWZZSjNVa3VYSFZHYUZacUNHMXR5T29iVzFXVVBYQ1NIcGRaVHdpWVp3R3daQldOeFphRW1mSklycW0yZlVRQmZXWnozZjJKbTlxZ0YtTDhYakVSaERFZHhaVXhUbnMwaEdyUGNhWFF4eFRsVWtuZ2plenJ3anloRkdqNjdEYl9fNlhxZnRPXzdRTnlDTUVNTURfZTZiQlBYZklWOUsxVzZGa1NiVUNJdmp4c0tjaFVtM25oaG9VYURmNDlJSmtaMkswQmczMjQwOWVTQUpMbXRUY19WbFQxQkIzaGlSbVlNcVpiWXRBNm9YSnplMU1GY1dKRFVuRzFfSU9SSlk3NTFUNEFvV0NlM1F6UHlPWno2MXJsNnQ5U2d1Xy1JWkxlTHhKdGxWbzlqVzdmSjlhRjBJTkZLRlhnTXBMYk5iLWc4bVdFZWNNV2ZMWVh0V09iZVdzRHVXcm5VSnBFcm9HN1JpVmhseHFJaVA4NmVxdnlQRV9PQ2xFUGNUWENDeXlXdWVaTDJjM0ZkRXhrbEdRcjRxTENCZnpSdHB5d1ltX1pxd3Faa3VZOVl6T3lMNF9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOV1l3UWFHUzYxTjJFSXU5cW9qYkdHN0dlUXJ1QUNuTlMyVVRJNmNhUjdoQUxxUXJSQUpuUTZ4UTNvcE1pQTBVWHNHaGRFelM0c3VlNW1LNUJadktWT1FzUmd0aUN5b0ZteWpidWFHODdWMDVLZGlhQ29BU01EUDRPeGFKOVJZQUtNZnpSQS1HYTNkem04OVpTbjNXb3hpV2JUdE1jOEN2U3BGTmhXZmlRaTJqWkVLcUJFcGJxdTlSMDA4VGstejhYVW1QWW9YOWJISnhOR1R1Rl9pTEJ4SlhLQnNPWno4Qm1USGQzVnlhWmpvSHVtNlAzX2FESTQwWTl2OTVCTVlrQ3RZVElaNTY5eDE4YTg4cFNlWFc0Q3JVT1RzRFFuMEM2VVdaUmc1eGVPMHIxdlBWZ0NLTjI4eW1FbGd5cjlhS2F0MVlPbndSNXgyTTZsdzk1V2tRT2RnSjFTbFZaUk9ubmZOOTVwWVlheHpaVnl2V19KR182bU9QeXZGSDM2NkEtUFlVTlVvOTdlRE5IcjFuNnpiV1Fya044bWVIX0xtUG95cktsTjMtSUIxcWYwSnhmcU9sSQ?oc=5",
       "pubDate": "Fri, 10 Jul 2026 02:53:17 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 02:53:17 GMT",
       "areas": [],
@@ -2868,7 +2875,7 @@
       "summary": "Weather Report: Monsoon fury batters several states, over 10 dead in rain-related incidents",
       "source": "livemint.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZmNES0R5M3p1aTBSOENNREFROURMLXhqdEM2SEFVWV9Ecm5HRVpMamRhU3NCWGJiZnU0cEZ4bFBuWkU4T3JCX18zMXdGb2YwdVNORmZreVE3RTJOenZEZ05WQWtzNWtuNXlJcnBzQVhOeVo2ekdOYTRCMnV2ZjhtT3JyX1RjSFFWMW9ieU9mQ09SSVFPSzhtX2RBclR4aEM2ZTNIOFJzMV9wR3dlOHoyeGxfNUtnbnJ3bDMzV2dqLXJYUzNma3MzX3R4Q3AySVZuWU5qRGROWVQ3enFXcjlQWGJDbFoyaUczM0E5bWNXcU5ZSURsUTlFQUlHNlAtT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZmNES0R5M3p1aTBSOENNREFROURMLXhqdEM2SEFVWV9Ecm5HRVpMamRhU3NCWGJiZnU0cEZ4bFBuWkU4T3JCX18zMXdGb2YwdVNORmZreVE3RTJOenZEZ05WQWtzNWtuNXlJcnBzQVhOeVo2ekdOYTRCMnV2ZjhtT3JyX1RjSFFWMW9ieU9mQ09SSVFPSzhtX2RBclR4aEM2ZTNIOFJzMV9wR3dlOHoyeGxfNUtnbnJ3bDMzV2dqLXJYUzNma3MzX3R4Q3AySVZuWU5qRGROWVQ3enFXcjlQWGJDbFoyaUczM0E5bWNXcU5ZSURsUTlFQUlHNlAtT3fSAYQCQVVfeXFMUGFWbFBnblBQdURFdXI5cTBZSU9oQTBQRXViNHNsaEE4d1Axd185dm5sU0hxZHpHSlpnQy00MHVKLWZaM19FbVk3V0MxSzBCeE5FbTRRenBob1Q1bUZQQmdFMnAtVEJDWEtDcWZiN0t1WGZ6Uko4dk1xanJPbkFqU1NOdjVKNjVyd3VNemQwUmRrU04xNDhlNzJTbEtFdnZCaXUzLWFQbUtqY1ZCOVZQSk1USmlucmM4MmZYRDc4amhJSGFGbUdtUVdWX1hLM0VOWVc5aGJqdHN3TjFZSHdQOGNSX2NUdVpRa3JFTDlndGoxZ25veGt2TDhyVzVrWldVd3VKeXA?oc=5",
       "pubDate": "Fri, 10 Jul 2026 01:46:01 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 01:46:01 GMT",
       "areas": [],
@@ -2930,31 +2937,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "rain hit pays more as surge pricing adds to monsoon troubles",
-      "title": "Rain-hit Pune pays more as surge pricing adds to monsoon troubles",
-      "summary": "Rain-hit Pune pays more as surge pricing adds to monsoon troubles",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa29nQTdjTlZjVURuZTFGb0xjbEpoQ3JmakpwY3F2Q3RIRm1rdnhpeG1OX1pqVV9xSmxEQVM4Q1NPM1ByNTJ6R1VaRkkwMjNEMjV4ajl5RlA5YU82cl9RUHdmNGlUcUtid2tjcmxWVE54M3AwZ3JseVg2QlJwQzZHNGhPVkRWaVVYYk5OekNOZGIxWUIxT0dtSVhyM2hPYThDSV85Z05qVXpiZ1V5YmpQaXRwU0o?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 23:23:06 GMT",
-      "lastUpdated": "Thu, 09 Jul 2026 23:23:06 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -3065,6 +3047,35 @@
         "Jagran Josh"
       ],
       "confidence": "Medium",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "mumbai rains nowcast warning orange alert issued for city thane and palghar high tide expe",
+      "title": "Mumbai rains nowcast warning: Orange alert issued for city, Thane and Palghar; high tide expected",
+      "summary": "Mumbai rains nowcast warning: Orange alert issued for city, Thane and Palghar; high tide expected",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVkYzWHhDa3R6SW9JSFpRYzlyZlhoT1djRnRlbTRZTFMwSmtaaFBQcXNzTlFlT1ZZaUlYYzRfbDhxZEY0aWJzVWdwRWdIalNrejJBSVpaWW8tX0dsbkFaZ3VUcVRIX0ptWWJva1Boa09tak5fZEdJTlJyVXVnSkwxMnc2VUJYWDd5MUVDbmV2TDNCdTROd0M3czBvMDZjdjJxeU5LdTdYWkdFU0FMdkVNaURFcThVLTJTVzUzOHBVZHFseFFnX0diV29RejcyYmRjbFIzcVNxNzRCZjlOQTVER1I1dXZ1cU5IWk5V?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 21:32:45 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 21:32:45 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
       "w": [
         "red alert",
         "school closed",
@@ -3310,6 +3321,35 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
+      "id": "monsoon mayhem mumbai expressway old highway shut after landslide trains also impacted",
+      "title": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted",
+      "summary": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPQWhERmU2OFQxVUhkOHJySmE2MXQ2T21oSW0zM1FIWE1kS0NsQW1LLXA3QmFNZTFFcXZqQnZ0TjV1dlpXVTJGTklsYmF2Yk5BVEhZUEI4SE5MOWFNTC1PTGlmNmNZZmp5dmVobXNES0NKQ1JBdGFRdmVfazRmNy1XalU2MjVhV1FrZnd1eFZOd3VCbHU4dGM3WXc5UC04anVvYTluekJ2Vy1fUnhOem5VbE1hWDFuTGRKTmY5MmhIM21FbEY5ZkxFMTZDSjFLZnZHTmtTSzNtUTBGMnVEVVJtbXdWQmExcV83aHRwWUpYX3FlQUhyb3JuTXZhN2NpakRmZ1o4Tk14cFpsRmNFamlZUzA4VmtQSG9rZ0tzVjhUZlMza1RvWDduYTZnemNEdzloNXhzTFBtQmNBZTVaLVpwS2J1bjZYTUg3TTlVcXZLWTJwLTdXc3pxbHJHM2xBUzhtYVFka3VEa2VKVTdhVDFLUGFCQTdGeGl5RzdmLUE0eWh3LVMtTHlMSTlxZUxMNkYtUUFETkl0MHRrMlNHWUVKZmRuVWZWMmYxOU9JRGl6Zw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 09:09:06 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 09:09:06 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
       "id": "lonavala karjat railway route landslide affects express trains on lonavala karjat route se",
       "title": "Lonavala Karjat Railway Route Update: Landslide Affects Express Trains on Lonavala-Karjat Route, Several Express Services Canceled from July 10 to 17",
       "summary": "Lonavala Karjat Railway Route Update: Landslide Affects Express Trains on Lonavala-Karjat Route, Several Express Services Canceled from July 10 to 17",
@@ -3431,7 +3471,7 @@
       "summary": "Landslide, flash flood alerts in Himachal; schools shut in Sirmaur, Solan amid heavy rain",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUTcyaGVZWEJ5U2RHRTZSekp5OGRKd3BiN1VDRXEtRGcyY0lJZVNvMzB0cmFKd29qcTFCTnd6SVA1cXB6ZkxPNHFpTlF6ek55LUVKc3dYWXlraVNMS1VmbTREazc1Y3hMNjBTUVB1NXBsOGJDX0FUNEpqcDN1dGl4S0dCUS1mZHA5NGJUUGFxOXdRa0ZRY1Jyb3FfdW94d3dmem5vSVN1d05HMGprd2FCMVoxWm83TXQyRkVHa3pid2VrZG5nazZMUUsyakVxQ1NHSGJNRWJ4eUlhWjEwb19ITEFqS0htSWJQWlg2ZUFNT2F5MHNIZkJB0gH3AUFVX3lxTE9RNzJoZVlYQnlTZEdFNlJ6Snk4ZEp3cGI3VUNFcS1EZzJjSUllU28zMHRyYUp3b2pxMUJOd3pJUDVxcHpmTE80cWlOUXp6TnktRUpzd1hZeWtpU0xLVWZtNERrNzVjeEw2MFNRUHU1cGw4YkNfQVQ0SmpwM3V0aXhLR0JRLWZkcDk0YlRQYXE5d1FrRlFjUnJvcV91b3h3d2Z6bm9JU3V3Tkcwamt3YUIxWjFabzdNdDJGRUdremJ3ZWtkbmdrNkxRSzJqRXFDU0dIYk1FYnh5SWFaMTBvX0hMQWpLSG1JYlBaWDZlQU1PYXkwc0hmQkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTG9tWXBuUkhHcDQtVDVlU0kzdlVQR2dwTFF3b2h6RUtZeXJXbnJIaWxsdWZ1Sl8xQVNiOUR5WkJfQ19odkFWZW9odDd2NC1ZSVVKNUZ0bkdxOVl2UjFkZHNsZ2x2cDhBUlZobzJJRUZzWmxvN2F1eWhXdVB1Z0NrbkZ2bjFSTVNUS1dRd0RLSEhLZ1ZhVzNPbnRtdTFSSVR2QXhlRGRaUXFjdFFDX1JYOTRGaERSaUJ3RnFfNi1fS1NFQWFIQjhOOFFsQWVraF8xdmdUTmpNbEtmSnNwMzNKVnQzSng1MEh0Nmx1WnpSR3Bid9IB9wFBVV95cUxPUTcyaGVZWEJ5U2RHRTZSekp5OGRKd3BiN1VDRXEtRGcyY0lJZVNvMzB0cmFKd29qcTFCTnd6SVA1cXB6ZkxPNHFpTlF6ek55LUVKc3dYWXlraVNMS1VmbTREazc1Y3hMNjBTUVB1NXBsOGJDX0FUNEpqcDN1dGl4S0dCUS1mZHA5NGJUUGFxOXdRa0ZRY1Jyb3FfdW94d3dmem5vSVN1d05HMGprd2FCMVoxWm83TXQyRkVHa3pid2VrZG5nazZMUUsyakVxQ1NHSGJNRWJ4eUlhWjEwb19ITEFqS0htSWJQWlg2ZUFNT2F5MHNIZkJB?oc=5",
       "pubDate": "Fri, 10 Jul 2026 05:17:00 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 05:17:00 GMT",
       "areas": [],
@@ -3482,36 +3522,6 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
-      "id": "mumbai rain train services suspended after landslides mumbai expressway shut helplines iss",
-      "title": "Mumbai rain: Train services suspended after landslides, Mumbai-Pune Expressway shut; helplines issued",
-      "summary": "Mumbai rain: Train services suspended after landslides, Mumbai-Pune Expressway shut; helplines issued",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNejYzajNJb29aZWxtMTRkVGQ3MUw3U2E5TEZBOFpHT1hKZWhQdWlDUUNjUVk2d2NSQ2FMeC14VXRuVkpSZVlLcHZjRUNfazVKNFhHWFk5WDhaT19uNUxBX2dwR0hVZVdIZWs5ajNlaXBJb3VLa3NQelBva0JYQWdVVjhaUmxFZDRZMGloU3Q5bzZYNVc4VDFoN2pEemxfeVhpX203YzJmcDFxTFFZRm51VkNwLVphd3h4Wnc3RVpzTG5uTVBwajg0MjU3aDRKZGNiWDFpeUdvbUExSDhlN01WWA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 04:23:19 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 04:23:19 GMT",
-      "areas": [
-        "Sus",
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
       "id": "uttarakhand rains trigger flash flood risk in dehradun rivers overflowing nainital other d",
       "title": "Uttarakhand rains trigger flash flood risk in Dehradun: Rivers overflowing; Nainital, other districts on IMD's red alert",
       "summary": "Uttarakhand rains trigger flash flood risk in Dehradun: Rivers overflowing; Nainital, other districts on IMD's red alert",
@@ -3539,6 +3549,33 @@
       "icon": "🚨",
       "critical": true,
       "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "railway minister reviews mumbai ghat restoration trains to continue with two locomotives o",
+      "title": "Railway minister reviews Mumbai–Pune ghat restoration, trains to continue with two locomotives on restored line",
+      "summary": "Railway minister reviews Mumbai–Pune ghat restoration, trains to continue with two locomotives on restored line",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOdE5hS3dVXzFBMzI3akFwVlVvTjdObE5HLXFBQ3RNaUhCbjZXbkg1bjBjakRobjloWkFGNnF5NGdYRlExSGJfTmxXUlF4TjM5X2Z5czU4SkdnZG9PSEtRVzNuUkpIMzFiZ3k5Yzc1TDVRYnBac1FFT3Rydjg0RXFlX3RrWkI3Ny0zQ0ZkcnUyZkNWaXRSNmJ6TlhROHFVWWluMDVYMDVwT0NVN2l5cDhUUzVaa3B2RnU1cjBEa3BsVWc5S2VwRnhSVFVkamdvdTU4UEdsbzN4NFg0Nk9mVGxCWGFnWE4zUFdPMGIyWFB4R2c1TDM5NFk0RVlzcU52YVNqeTRjOTNyOVl3RnN4bnpjRlFFbGxlV1gtM3JobmdUZm5RV3l5UU1zeEZsWl9wY1RicXFzLW0tWmlpRGdHTElBR3paQkpNUHU1aDNWcWVXT093d21mcnFUeURXWmRiWUdqTnRqLXpfQVNIRzlkYlZDZWZQOTNWRFo4THp2d0pMYUg2Rk12SFdGaWEtSExJV3NiUW5BeW1qMllFdnNRYzZnSlBjTGlfZ3VsZ296dlp6S3dLYndFd19HcEtBNVBxa1JlTzVKTjNKbDlvdw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 03:06:09 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 03:06:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "potholes now a landslide rs 6 695 crore mumbai expressway link could not survive one monso",
@@ -3655,35 +3692,6 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
-      "id": "mumbai school holiday july 10 are schools open or closed imd issues red alert across mahar",
-      "title": "Mumbai School Holiday Today (July 10): Are Schools Open or Closed? IMD Issues Red Alert Across Maharashtra; Check BMC Latest Update, Online Classes, Traffic Advisory & Heavy Rain Forecast",
-      "summary": "Mumbai School Holiday Today (July 10): Are Schools Open or Closed? IMD Issues Red Alert Across Maharashtra; Check BMC Latest Update, Online Classes, Traffic Advisory & Heavy Rain Forecast",
-      "source": "The Sunday Guardian",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd1dqRnltckI3b3I2eW5qTlRxSkVWQVI1d3dFVVo5MzJkWnhTYS1JOHBlV2ViRTFkeXpXcThPTUx4MzhJb09MSUNCS0dGdWRTWFRORjl3WElZWVhvazJtYXpEVXRYVF9CR1VTcTNXRDJDeUdEeTJTeUNpSzBKVnpWMkVRZ25ubFBZc1dJVkdlemJNOTNTNXItT3JSQ01EbzFRMUY4cDUtN3pWWDFzOHVZdFhSXzNBVGwxMmVYX2sydVN5d0xweFFoQUlyeDFNSXpiWm16cEIwcWY1UkJfOFFSeFdXYzd5dDZxOGNWa3g5S2xpOUN0Ukp4dXExcVk0WUdVSXl0NUlkZXN6TW5LQWJvdGtwYmZ6TXBnWlRQLXhzS2RQRDl4czV5ZmF1czQ0c1BXSDhsekt2TTdsY1Zvb3ozSmhBaUhFUXg0bHVJ0gHLAkFVX3lxTFB3V2pGeW1yQjdvcjZ5bmpOVHFKRVZBUjV3d0VVWjkzMmRaeFNhLUk4cGVXZWJFMWR5eldxOE9NTHgzOElvT0xJQ0JLR0Z1ZFNYVE5GOXdYSVlZWG9rMm1hekRVdFhUX0JHVVNxM1dEMkN5R0R5MlN5Q2lLMEpWelYyRVFnbm5sUFlzV0lWR2V6Yk05M1M1ci1PclJDTURvMVExRjhwNS03elZYMXM4dVl0WFJfM0FUbDEyZVhfazJ1U3l3THB4UWhBSXJ4MU1JemJabXpwQjBxZjVSQl84UVJ4V1djN3l0NnE4Y1ZreDlLbGk5Q3RSSnh1cTFxWTRZR1VJeXQ1SWRlc3pNbktBYm90a3BiZnpNcGdaVFAteHNLZFBEOXhzNXlmYXVzNDRzUFdIOGx6S3ZNN2xjVm9vejNKaEFpSEVReDRsdUk?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:42:20 GMT",
-      "lastUpdated": "Thu, 09 Jul 2026 22:42:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "traafic diversion पुण्याच्या वाहतुकीत आज रात्रीपासून बदल",
@@ -3804,6 +3812,39 @@
       "action": "Be cautious in the affected area."
     },
     {
+      "id": "heavy rain and waterlogging disrupt flyers plans",
+      "title": "Heavy rain and waterlogging disrupt flyers’ plans",
+      "summary": "Heavy rain and waterlogging disrupt flyers’ plans",
+      "source": "The Times of India + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk8zVi1XakRfOEZ4U18wd18tSUhpdDVwZktSaXFuSHdzQU1KdlpNYlNRVHVmODFDZE1PdGFRUExTcnA0UjlYSkYxc0dEUVd2NjdqNEdXQmppTms2NThnUVBaNDJCeEt2YkFfd1pjbWJTa0lIejczY0Z3djVaMUNZOTc1dW1CQXdYZFIzX3c1WC1fZkQyampMUkZMU3d5QjJfTHlwcFFTOTl4YWZYb2UtN1lXcnhEMlJwZGVHSEFMVWRvT1RwdHfSAcYBQVVfeXFMTUpPM1YtV2pEXzhGeFNfMHdfLUlIaXQ1cGZLUmlxbkh3c0FNSnZaTWJTUVR1ZjgxQ2RNT3RhUVBMU3JwNFI5WEpGMXNHRFFXdjY3ajRHV0JqaU5rNjU4Z1FQWjQyQnhLdmJBX3daY21iU2tJSHo3M2NGd3Y1WjFDWTk3NXVtQkF3WGRSM193NVgtX2ZEMmpqTFJGTFN3eUIyX0x5cHBRUzk5eGFmWG9lLTdZV3J4RDJScGRlR0hBTFVkb09UcHR3?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:54:00 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 17:54:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India",
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
+    },
+    {
       "id": "flight status delayed or cancelled due to heavy rain here s when you can claim a refund fr",
       "title": "Flight status delayed or cancelled due to heavy rain? Here's when you can claim a refund, free meals and h",
       "summary": "Flight status delayed or cancelled due to heavy rain? Here's when you can claim a refund, free meals and h",
@@ -3896,38 +3937,6 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
-    },
-    {
-      "id": "heavy rain and waterlogging disrupt flyers plans",
-      "title": "Heavy rain and waterlogging disrupt flyers’ plans",
-      "summary": "Heavy rain and waterlogging disrupt flyers’ plans",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk8zVi1XakRfOEZ4U18wd18tSUhpdDVwZktSaXFuSHdzQU1KdlpNYlNRVHVmODFDZE1PdGFRUExTcnA0UjlYSkYxc0dEUVd2NjdqNEdXQmppTms2NThnUVBaNDJCeEt2YkFfd1pjbWJTa0lIejczY0Z3djVaMUNZOTc1dW1CQXdYZFIzX3c1WC1fZkQyampMUkZMU3d5QjJfTHlwcFFTOTl4YWZYb2UtN1lXcnhEMlJwZGVHSEFMVWRvT1RwdHfSAcYBQVVfeXFMTUpPM1YtV2pEXzhGeFNfMHdfLUlIaXQ1cGZLUmlxbkh3c0FNSnZaTWJTUVR1ZjgxQ2RNT3RhUVBMU3JwNFI5WEpGMXNHRFFXdjY3ajRHV0JqaU5rNjU4Z1FQWjQyQnhLdmJBX3daY21iU2tJSHo3M2NGd3Y1WjFDWTk3NXVtQkF3WGRSM193NVgtX2ZEMmpqTFJGTFN3eUIyX0x5cHBRUzk5eGFmWG9lLTdZV3J4RDJScGRlR0hBTFVkb09UcHR3?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 17:54:00 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 17:54:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
     },
     {
       "id": "himachal empowers dcs to declare school holidays amid heavy rain",
@@ -4139,7 +4148,7 @@
       "summary": "Mumbai-Pune Passengers, Beware: Deccan Queen, Pune Intercity SF Among Trains Cancelled Till July 17",
       "source": "NDTV Profit",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlBsMWx0cERaay12TEplVEpKalhFMnhhaWZUcWRsd1B5ZFZyaURtaV9ZVHRKaHpHR2lJOGllazE1MjhYYjFpRlIxMXpzelFZaFpCV3JXQkZDem16bG50Yk1hUV9ZTlNXalZabTFwUGYwTEFwblVfOXNIcWJTd3RrZlZjd2oyTktSWVZFT2FFT2x6MFFYU1I2RDYtbE12OVVmZFNJRkpDcFhfZWRpbHZzLUwyaUpsYXZtNjdnbTJ1YUYzcHhQV01rUS1hcTRlblBsVXVlMNIB3AFBVV95cUxOMVhaRzdzT3U5Q0U4UjNLUENqSXZJMkxVdEIySTZVbXI5eFhSRzV5NjJhMTR3WG9uVk05bjJUS2hsQVl2Ynoxb2RYRmE3a1lsRnVPa3FIQW9qYjYxUlMxdjJUVzQ1MkFNVGgyblRKZ29TTXRfRDVOTnZfV3JHOTFNa2MtOXNyNTVVUEFZMVdOQkNkbFN5Y3ZPd0xJU3YyUlVjNEFIcmJibFlINnYxcjNGUW9Vc1hOSGEyYWVBWm52N2g1ODN4V3h0Y05WUHVMV2x1bVdvd1BfVERYWS0t?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVhaRzdzT3U5Q0U4UjNLUENqSXZJMkxVdEIySTZVbXI5eFhSRzV5NjJhMTR3WG9uVk05bjJUS2hsQVl2Ynoxb2RYRmE3a1lsRnVPa3FIQW9qYjYxUlMxdjJUVzQ1MkFNVGgyblRKZ29TTXRfRDVOTnZfV3JHOTFNa2MtOXNyNTVVUEFZMVdOQkNkbFN5Y3ZPd0xJU3YyUlVjNEFIcmJibFlINnYxcjNGUW9Vc1hOSGEyYWVBWm52N2g1ODN4V3h0Y05WUHVMV2x1bVdvd1BfVERYWS0t0gHcAUFVX3lxTE4xWFpHN3NPdTlDRThSM0tQQ2pJdkkyTFV0QjJJNlVtcjl4WFJHNXk2MmExNHdYb25WTTluMlRLaGxBWXZiejFvZFhGYTdrWWxGdU9rcUhBb2piNjFSUzF2MlRXNDUyQU1UaDJuVEpnb1NNdF9ENU5Odl9Xckc5MU1rYy05c3I1NVVQQVkxV05CQ2RsU3ljdk93TElTdjJSVWM0QUhyYmJsWUg2djFyM0ZRb1VzWE5IYTJhZUFabnY3aDU4M3hXeHRjTlZQdUxXbHVtV293UF9URFhZLS0?oc=5",
       "pubDate": "Fri, 10 Jul 2026 05:40:02 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 05:40:02 GMT",
       "areas": [
@@ -4333,28 +4342,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आष",
-      "title": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट; व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आषाढी वारीच्या धामधुमीत पोलिसांच्या फोटोशूटचा एक व्हिडिओ सोशल मीडियावर समोर आला आह",
-      "summary": "पुण्यात आषाढी वारीच्या धामधुमीत पोलिसांचे फोटोशूट; व्हिडिओ व्हायरल पुण्यात सुरू असलेल्या आषाढी वारीच्या धामधुमीत पोलिसांच्या फोटोशूटचा एक व्हिडिओ सोशल मीडियावर समोर आला आह",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HQjRveWZ5ZW1GYTlwdDN4R3N4bUFVZExHbEEyUDM2Vnp4aDJ6Q3oyQVFjOHV2SE56V1BnUFNLbTlqcVJ0SFVyY0pKNnNHRzlJazJScU5R?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 19:04:45 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 19:04:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "2 men electrocuted in kolhapur and sangli",
       "title": "2 men electrocuted in Kolhapur and Sangli",
       "summary": "2 men electrocuted in Kolhapur and Sangli",
@@ -4455,6 +4442,28 @@
       "region": "pune",
       "sources": [
         "Navakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "my govt put missing link project on hold over safety concerns former cm prithviraj chavan",
+      "title": "My govt put Missing Link project on hold over safety concerns: former CM Prithviraj Chavan",
+      "summary": "My govt put Missing Link project on hold over safety concerns: former CM Prithviraj Chavan",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXptYzFKM3hnVzhoOXFhRVFvb1ZhZU94S1ZJYW1Ca0J2ZTFBUzV5elRPcFRBTm5BU3pEOUVwZDhWam9fWGJ1X3NDTjlkUnVZWnltM0dFcTN3dGR0ME50dHNKVVJYc2lTTlN2VWtvbTJqMHg5R25jSnhDaUdWbWg5Q04weFBtNndSTTZ0NGVEaGdNX1ppaUhuN0VXWF92SDk2UzZvRUhBT2VTTVN1VWxiajFsTlc0UTZWSVV4VTVGNUJ3dmF1VVZKRVZyMWJ4MnZWcHVaTw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:03:58 GMT",
+      "lastUpdated": "Fri, 10 Jul 2026 16:03:58 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -5059,28 +5068,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "eng w vs ind w streaming when and where to watch india vs england one off test probable pl",
-      "title": "ENG W vs IND W Live Streaming: When and where to watch India vs England one-off test, probable playing XIs, pitch report and weather forecast",
-      "summary": "ENG W vs IND W Live Streaming: When and where to watch India vs England one-off test, probable playing XIs, pitch report and weather forecast",
-      "source": "The Economic Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOS0tCYnhsV2txeFpoMFp4TjNSdXE3eFRwcVZDc1p6cDZ6M0U1c3pXeVJSM2twNjQ2OF9FdHdHX0I3NzNOZXVJVHFQLWdkU1dLUnV0dVNCN1BZb1dUcExJaG0wRkpod3h1ajlERkx1OTFnTklfUHBZQkdJVjlmTExJZ3lsb3I0TVgzVkc0LTlFeGxlMkRYRU5BeHlRamxuR2RHQjZjakxpWWUtcWgxYVY1Ukozb1VSZlhCTnBYU2hPSEM0bHk2cFluUF85cHNqRnR6ZzdWQnh5Vi1ZazJMVE9RNWlDU095RGZuQmJidk9UTHJOb3ZYX2Vta1Qxa0FmUlM0TFZabEIzNWdqclVnbXpVa25MWGJBWkpETmVtdERvSk1VMHd3R1gzSTVzUEF4dDdsbzNoUVlDRFluYW1nRGNLR3hKOGdDWDg?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:11:25 GMT",
-      "lastUpdated": "Fri, 10 Jul 2026 08:11:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Economic Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "प्रवाशांसाठी महत्त्वाची बातमी भूस्खलनामुळे अनेक गाड्या रद्द",
       "title": "प्रवाशांसाठी महत्त्वाची बातमी 'भूस्खलनामुळे अनेक गाड्या रद्द'",
       "summary": "प्रवाशांसाठी महत्त्वाची बातमी 'भूस्खलनामुळे अनेक गाड्या रद्द'",
@@ -5464,7 +5451,7 @@
       "summary": "Delhi, Mumbai grapple with monsoon havoc; 11 feared trapped in Pune building collapse amid heavy rain",
       "source": "MSN",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQZXZ5YWZZSjNVa3VYSFZHYUZacUNHMXR5T29iVzFXVVBYQ1NIcGRaVHdpWVp3R3daQldOeFphRW1mSklycW0yZlVRQmZXWnozZjJKbTlxZ0YtTDhYakVSaERFZHhaVXhUbnMwaEdyUGNhWFF4eFRsVWtuZ2plenJ3anloRkdqNjdEYl9fNlhxZnRPXzdRTnlDTUVNTURfZTZiQlBYZklWOUsxVzZGa1NiVUNJdmp4c0tjaFVtM25oaG9VYURmNDlJSmtaMkswQmczMjQwOWVTQUpMbXRUY19WbFQxQkIzaGlSbVlNcVpiWXRBNm9YSnplMU1GY1dKRFVuRzFfSU9SSlk3NTFUNEFvV0NlM1F6UHlPWno2MXJsNnQ5U2d1Xy1JWkxlTHhKdGxWbzlqVzdmSjlhRjBJTkZLRlhnTXBMYk5iLWc4bVdFZWNNV2ZMWVh0V09iZVdzRHVXcm5VSnBFcm9HN1JpVmhseHFJaVA4NmVxdnlQRV9PQ2xFUGNUWENDeXlXdWVaTDJjM0ZkRXhrbEdRcjRxTENCZnpSdHB5d1ltX1pxd3Faa3VZOVl6T3lMNF9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOV1l3UWFHUzYxTjJFSXU5cW9qYkdHN0dlUXJ1QUNuTlMyVVRJNmNhUjdoQUxxUXJSQUpuUTZ4UTNvcE1pQTBVWHNHaGRFelM0c3VlNW1LNUJadktWT1FzUmd0aUN5b0ZteWpidWFHODdWMDVLZGlhQ29BU01EUDRPeGFKOVJZQUtNZnpSQS1HYTNkem04OVpTbjNXb3hpV2JUdE1jOEN2U3BGTmhXZmlRaTJqWkVLcUJFcGJxdTlSMDA4VGstejhYVW1QWW9YOWJISnhOR1R1Rl9pTEJ4SlhLQnNPWno4Qm1USGQzVnlhWmpvSHVtNlAzX2FESTQwWTl2OTVCTVlrQ3RZVElaNTY5eDE4YTg4cFNlWFc0Q3JVT1RzRFFuMEM2VVdaUmc1eGVPMHIxdlBWZ0NLTjI4eW1FbGd5cjlhS2F0MVlPbndSNXgyTTZsdzk1V2tRT2RnSjFTbFZaUk9ubmZOOTVwWVlheHpaVnl2V19KR182bU9QeXZGSDM2NkEtUFlVTlVvOTdlRE5IcjFuNnpiV1Fya044bWVIX0xtUG95cktsTjMtSUIxcWYwSnhmcU9sSQ?oc=5",
       "pubDate": "Fri, 10 Jul 2026 02:53:17 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 02:53:17 GMT",
       "areas": [],
@@ -5662,7 +5649,7 @@
       "summary": "Weather Report: Monsoon fury batters several states, over 10 dead in rain-related incidents",
       "source": "livemint.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZmNES0R5M3p1aTBSOENNREFROURMLXhqdEM2SEFVWV9Ecm5HRVpMamRhU3NCWGJiZnU0cEZ4bFBuWkU4T3JCX18zMXdGb2YwdVNORmZreVE3RTJOenZEZ05WQWtzNWtuNXlJcnBzQVhOeVo2ekdOYTRCMnV2ZjhtT3JyX1RjSFFWMW9ieU9mQ09SSVFPSzhtX2RBclR4aEM2ZTNIOFJzMV9wR3dlOHoyeGxfNUtnbnJ3bDMzV2dqLXJYUzNma3MzX3R4Q3AySVZuWU5qRGROWVQ3enFXcjlQWGJDbFoyaUczM0E5bWNXcU5ZSURsUTlFQUlHNlAtT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZmNES0R5M3p1aTBSOENNREFROURMLXhqdEM2SEFVWV9Ecm5HRVpMamRhU3NCWGJiZnU0cEZ4bFBuWkU4T3JCX18zMXdGb2YwdVNORmZreVE3RTJOenZEZ05WQWtzNWtuNXlJcnBzQVhOeVo2ekdOYTRCMnV2ZjhtT3JyX1RjSFFWMW9ieU9mQ09SSVFPSzhtX2RBclR4aEM2ZTNIOFJzMV9wR3dlOHoyeGxfNUtnbnJ3bDMzV2dqLXJYUzNma3MzX3R4Q3AySVZuWU5qRGROWVQ3enFXcjlQWGJDbFoyaUczM0E5bWNXcU5ZSURsUTlFQUlHNlAtT3fSAYQCQVVfeXFMUGFWbFBnblBQdURFdXI5cTBZSU9oQTBQRXViNHNsaEE4d1Axd185dm5sU0hxZHpHSlpnQy00MHVKLWZaM19FbVk3V0MxSzBCeE5FbTRRenBob1Q1bUZQQmdFMnAtVEJDWEtDcWZiN0t1WGZ6Uko4dk1xanJPbkFqU1NOdjVKNjVyd3VNemQwUmRrU04xNDhlNzJTbEtFdnZCaXUzLWFQbUtqY1ZCOVZQSk1USmlucmM4MmZYRDc4amhJSGFGbUdtUVdWX1hLM0VOWVc5aGJqdHN3TjFZSHdQOGNSX2NUdVpRa3JFTDlndGoxZ25veGt2TDhyVzVrWldVd3VKeXA?oc=5",
       "pubDate": "Fri, 10 Jul 2026 01:46:01 GMT",
       "lastUpdated": "Fri, 10 Jul 2026 01:46:01 GMT",
       "areas": [],
@@ -5721,34 +5708,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "rain hit pays more as surge pricing adds to monsoon troubles",
-      "title": "Rain-hit Pune pays more as surge pricing adds to monsoon troubles",
-      "summary": "Rain-hit Pune pays more as surge pricing adds to monsoon troubles",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa29nQTdjTlZjVURuZTFGb0xjbEpoQ3JmakpwY3F2Q3RIRm1rdnhpeG1OX1pqVV9xSmxEQVM4Q1NPM1ByNTJ6R1VaRkkwMjNEMjV4ajl5RlA5YU82cl9RUHdmNGlUcUtid2tjcmxWVE54M3AwZ3JseVg2QlJwQzZHNGhPVkRWaVVYYk5OekNOZGIxWUIxT0dtSVhyM2hPYThDSV85Z05qVXpiZ1V5YmpQaXRwU0o?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 23:23:06 GMT",
-      "lastUpdated": "Thu, 09 Jul 2026 23:23:06 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 121,
+    "total": 119,
     "alerts": 42,
-    "news": 79
+    "news": 77
   },
-  "cleanedAt": "2026-07-10T22:31:09.093Z"
+  "cleanedAt": "2026-07-10T23:53:26.865Z"
 }
