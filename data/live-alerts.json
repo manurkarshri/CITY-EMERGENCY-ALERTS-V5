@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:59:38.761Z",
+  "generatedAt": "2026-07-13T22:59:31.586Z",
   "status": "ok",
   "alerts": [
     {
@@ -57,6 +57,65 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "sms hosp icu fire among 14 of india s deadliest in decade report",
+      "title": "SMS Hosp ICU fire among 14 of India’s deadliest in decade: Report",
+      "summary": "SMS Hosp ICU fire among 14 of India’s deadliest in decade: Report",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2xBNFQ4RF8xQ2gwVGNENFVBOTEtZGNPSGR6dDFDWkluNmpKcmhUSDZmQ3VVMDh2N0VkQXdIWXBKejJhTTZiRGtvdDBEcU4xdnJGMGJYbDBYU3lteDFWZGI5cDBWNWpIdExDaHJLanI2b3pSYk0zNGNIdFR4ZTBSYlVINUUyWDEzMXRud0Ffb19wY25uVUxxU0ZQejdaUVpNYWo5ZUFndzBLZkVvOHRWLXJKeHQxczRtVXE4eVBYUm5idWdrN2NfaGpnOHF4WWxpUjV2elNZVFbSAdgBQVVfeXFMTTNsQTRUOERfMUNoMFRjRDRVQTkxLWRjT0hkenQxQ1pJbjZqSnJoVEg2ZkN1VTA4djdFZEF3SFlwSnoyYU02YkRrb3QwRHFOMXZyRjBiWGwwWFN5bXgxVmRiOXAwVjVqSHRMQ2hyS2pyNm96UmJNMzRjSHRUeGUwUmJVSDVFMlgxMzF0bndBX29fcGNublVMcVNGUHo3WlFaTWFqOWVBZ3cwS2ZFbzh0Vi1ySnh0MXM0bVVxOHlQWFJuYnVnazdjX2hqZzhxeFlsaVI1dnpTWVRW?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:40:00 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 17:40:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "mumbai rain fury flights hit schools and colleges shut as imd keeps red alert top developm",
+      "title": "Mumbai rain fury: Flights hit, schools and colleges shut as IMD keeps red alert | Top developments",
+      "summary": "Mumbai rain fury: Flights hit, schools and colleges shut as IMD keeps red alert | Top developments",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORVhwNUQ2VDlEdEJjRl9lMDBYQ3ZZTFZtSDRsNkFwVHdzaUx3aDQxN29ERlRFZWdvZ2NTZEgxV2tROF9RTzkxSWt1NlBNS2dXUXcwN2JWUV9yUWdHMG12bmcwbFl2WUt4MHFPT195eGVDODRGcXJhZnNEUnN3WmVuTjdJWXZWc2RoOVpRaWttMGlvcE9NRGkxajJnSHkySGZab1JZWXU2MnJ3UzBKMVZJQ2VjTWQ4SVB4ZVJKRXFULWQ3VzNCM18tbU9UZ1l1SVVybHR5REN1SkdONlRLbFhHaVlDZmhHZDlIU1VhUVVJZGZmcHBzak5BRXkyNmhFbDZ0bkZ4SGVMZmJkUXRyWnp1blJaMlVKVlZzZWxOUVYzbFloaW1laW83T1lwaGd3Q1FCdC1YRDM5YzhwQnB1Ynp5UDJXMEZEVXNZbUxyQXYtNEVwV2RITlB0US1jeUdDeXkwMTNfcjFxRFdObnNzTGlrWWF3?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 14:03:50 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 14:03:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -269,38 +328,6 @@
       ]
     },
     {
-      "id": "monsoon mayhem imd puts delhi on red alert mumbai battles flooding transport chaos",
-      "title": "Monsoon mayhem: IMD puts Delhi on red alert; Mumbai battles flooding, transport chaos",
-      "summary": "Monsoon mayhem: IMD puts Delhi on red alert; Mumbai battles flooding, transport chaos",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPdGJZVUlBMXFKWUU3ZGk3X1lwMklLYWRWS05zb015b0tGaWhKRVdTRU14QVZITzJiam95ZnAxelNUR2o5dS1LeWM3Q0liQnplakxYbU1TV2lFQnF3dmEwZGlTaWpqOHBUc2Q3M1FHSVpyS0pGdUJyQ2tZaEJhc0xzd2RDY291cDh5UFRvUTZjMm45SFdPUmZDVUduSmFLY24xeFl4bFA5WUg0VDNtWTJ0TkVWM3ZGNGprdW0tdVRhUzZ0a1B6SjZXLXMtTXFVZmFtd2J3SVhra1E0Ql9reUxMaEtvSHdxZERndzUycWxhNlhlZGVSdVpWSm5IYUU2aHFQaGlmWlFUdmRHWFk5VTNudmQ5QWdTVmloUk1MMlhIbFh5TGE3eEFsUzJCZUVISXZLakRNbVNLbHp0NmJSWlJYQVZwRXNtRnBGei1jc19idWRTb0JJWVdaRUZTU0k3ejJrYnh4NVFOU0FOUjdwX2VPRjJ6RWE0cEFvekNtb2U5cmtZa2pHQ2s3TlpkNUpyVGV0ekswYTRLNlYtczV5N2M0enZ5WUEyZGM?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 22:56:48 GMT",
-      "lastUpdated": "Sun, 12 Jul 2026 22:56:48 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "m11 crash july 13 major multi vehicle collision near harlow causes 75 minute delays on the",
       "title": "M11 Crash Latest News Today (July 13): Major Multi-Vehicle Collision Near Harlow Causes 75-Minute Delays on the London-Bound M11 – Check Closed Roads, Diversion Routes, Reopening Status & More",
       "summary": "M11 Crash Latest News Today (July 13): Major Multi-Vehicle Collision Near Harlow Causes 75-Minute Delays on the London-Bound M11 – Check Closed Roads, Diversion Routes, Reopening Status & More",
@@ -386,38 +413,6 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
-    },
-    {
-      "id": "residents struggle as incessant rain waterlogging cripple power supply",
-      "title": "Residents struggle as incessant rain, waterlogging cripple power supply",
-      "summary": "Residents struggle as incessant rain, waterlogging cripple power supply",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1dITDRlNTh6YnFaOF9qT0tQMjBTZXB2S1ZsU25DUjZDUzd5aDFoaUU2am5Bejl5cXBtTVJBc3JFRThKR3U3VVVnZkVJRWdab2RTVmZsbmhRM2R2SkNPZldPU1lqUUNmUnE2N19SUGZZdmg5b3NtYTFHMk45VTZpYkpLWG9XRlc2TnVsUFVHaVI2Y3YwMkhDamZvLUF0Q1lFdGVhdEt1blBSM084anFQTTh5ZWs2aEIzd1RxTjlaOUt3Z0hzdy1meGNkaw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 11:52:21 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 11:52:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Power supply impact possible."
-      ]
     }
   ],
   "news": [
@@ -1094,6 +1089,28 @@
       ]
     },
     {
+      "id": "नागपूरकर उकाड्याने हैराण पाऊस पुन्हा मुसळधार कधी बरसणार",
+      "title": "नागपूरकर उकाड्याने हैराण! पाऊस पुन्हा मुसळधार कधी बरसणार?",
+      "summary": "नागपूरकर उकाड्याने हैराण! पाऊस पुन्हा मुसळधार कधी बरसणार?",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUxuQUQyZEtLZ2szZEJSNXV0d0ZOYjY3OEhQdVQxbG5UMHNrWHA2SW1JN2Mtc0lTd29BdGlCMTFiRTZlSmRBRG9VRW14amQzck9XV2lLLTZmdW5iaC0wSjlfcVNFOGFBeEpsNi10LURYbTNoaVlldU96Z0FSNXctZFNCaFBSUFVfa1FlNzk5VkNxV2Via3JlSFBkY09wVERzbUVsd3FrNmdRLVB5RUVBeVBNQ1l0dkxZYnRHeHB4RDNieTZJ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 10:07:26 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 10:07:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain andaj राज्यात पावसाची उघडीप पुढील पाच दिवसांचा अंदाज काय",
       "title": "Rain Andaj: राज्यात पावसाची उघडीप; पुढील पाच दिवसांचा अंदाज काय?",
       "summary": "Rain Andaj: राज्यात पावसाची उघडीप; पुढील पाच दिवसांचा अंदाज काय?",
@@ -1340,53 +1357,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "deadly monsoon batters india 4 killed in maha himachal transport networks hit odisha on al",
-      "title": "Deadly monsoon batters India: 4 killed in Maha, Himachal; transport networks hit, Odisha on alert",
-      "summary": "Deadly monsoon batters India: 4 killed in Maha, Himachal; transport networks hit, Odisha on alert",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcW9xLVpRandWNXFoN2J1cGI2dTVjbzhscERMNmd0UzJOZEJoT2lLQUh0RW85N2NvcUk0YkdEWWhBdFBTQTFKY1F1OHRqVmxwT1lIbS1Kd0FhaldzUW56N1RPbVBoeVU5MzhDajhvM1ZXQjNfenc4VWR1N3Y3aDNvazZoRUJxSjlVWEx2VWtyZEgyMDdZR1Zxb0wwS0dhSS1uMlRTaDIycE5MRTJyRGFRN0lGMnJSVXlscjdIOWFtakh4dzRuODVoOEdYZ1RDQUk2WDNKRGRKc2s5QQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 06:43:49 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 06:43:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "delhi weather heavy rain alert for city as monsoon covers entire country",
-      "title": "Delhi weather update: Heavy rain alert for city as monsoon covers entire country",
-      "summary": "Delhi weather update: Heavy rain alert for city as monsoon covers entire country",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVlLRDI0cEVMYTgwQWJqUlhtZXZNenQzSnJxMVBjTHBzZGZyTk9HNTMzTmF6RmhLcE43LUV0M1lzLVFCdDVWckJyb25jTlBMcm5sXzEya2hyZE05aEE3NkxFWkpobGFVYU54ZVpmMkNyOGwtWkl0YmZLaVdXZnBDbU9MaFZUdEpLWlBSZ3l2N3JoNnI3cTFqRDRRTFkwUi1HRmh0Vl9VbHBxRHU3aWpfdTZNTDU4a2Y4OWZfMzNuTlh6LVlYR1FZ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 06:09:41 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 06:09:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "khadakwasla dam खडकवासला धरणसाखळीत १६ ८० टीएमसी पाणीसाठा गेल्या वर्षीच्या तुलनेत अद्याप ४ ",
@@ -1721,6 +1691,62 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
+      "id": "sms hosp icu fire among 14 of india s deadliest in decade report",
+      "title": "SMS Hosp ICU fire among 14 of India’s deadliest in decade: Report",
+      "summary": "SMS Hosp ICU fire among 14 of India’s deadliest in decade: Report",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2xBNFQ4RF8xQ2gwVGNENFVBOTEtZGNPSGR6dDFDWkluNmpKcmhUSDZmQ3VVMDh2N0VkQXdIWXBKejJhTTZiRGtvdDBEcU4xdnJGMGJYbDBYU3lteDFWZGI5cDBWNWpIdExDaHJLanI2b3pSYk0zNGNIdFR4ZTBSYlVINUUyWDEzMXRud0Ffb19wY25uVUxxU0ZQejdaUVpNYWo5ZUFndzBLZkVvOHRWLXJKeHQxczRtVXE4eVBYUm5idWdrN2NfaGpnOHF4WWxpUjV2elNZVFbSAdgBQVVfeXFMTTNsQTRUOERfMUNoMFRjRDRVQTkxLWRjT0hkenQxQ1pJbjZqSnJoVEg2ZkN1VTA4djdFZEF3SFlwSnoyYU02YkRrb3QwRHFOMXZyRjBiWGwwWFN5bXgxVmRiOXAwVjVqSHRMQ2hyS2pyNm96UmJNMzRjSHRUeGUwUmJVSDVFMlgxMzF0bndBX29fcGNublVMcVNGUHo3WlFaTWFqOWVBZ3cwS2ZFbzh0Vi1ySnh0MXM0bVVxOHlQWFJuYnVnazdjX2hqZzhxeFlsaVI1dnpTWVRW?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:40:00 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 17:40:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "mumbai rain fury flights hit schools and colleges shut as imd keeps red alert top developm",
+      "title": "Mumbai rain fury: Flights hit, schools and colleges shut as IMD keeps red alert | Top developments",
+      "summary": "Mumbai rain fury: Flights hit, schools and colleges shut as IMD keeps red alert | Top developments",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORVhwNUQ2VDlEdEJjRl9lMDBYQ3ZZTFZtSDRsNkFwVHdzaUx3aDQxN29ERlRFZWdvZ2NTZEgxV2tROF9RTzkxSWt1NlBNS2dXUXcwN2JWUV9yUWdHMG12bmcwbFl2WUt4MHFPT195eGVDODRGcXJhZnNEUnN3WmVuTjdJWXZWc2RoOVpRaWttMGlvcE9NRGkxajJnSHkySGZab1JZWXU2MnJ3UzBKMVZJQ2VjTWQ4SVB4ZVJKRXFULWQ3VzNCM18tbU9UZ1l1SVVybHR5REN1SkdONlRLbFhHaVlDZmhHZDlIU1VhUVVJZGZmcHBzak5BRXkyNmhFbDZ0bkZ4SGVMZmJkUXRyWnp1blJaMlVKVlZzZWxOUVYzbFloaW1laW83T1lwaGd3Q1FCdC1YRDM5YzhwQnB1Ynp5UDJXMEZEVXNZbUxyQXYtNEVwV2RITlB0US1jeUdDeXkwMTNfcjFxRFdObnNzTGlrWWF3?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 14:03:50 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 14:03:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
       "id": "expressway reopens for traffic after landslide clearance",
       "title": "Pune Expressway reopens for traffic after landslide clearance",
       "summary": "Pune Expressway reopens for traffic after landslide clearance",
@@ -1914,35 +1940,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "monsoon mayhem imd puts delhi on red alert mumbai battles flooding transport chaos",
-      "title": "Monsoon mayhem: IMD puts Delhi on red alert; Mumbai battles flooding, transport chaos",
-      "summary": "Monsoon mayhem: IMD puts Delhi on red alert; Mumbai battles flooding, transport chaos",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPdGJZVUlBMXFKWUU3ZGk3X1lwMklLYWRWS05zb015b0tGaWhKRVdTRU14QVZITzJiam95ZnAxelNUR2o5dS1LeWM3Q0liQnplakxYbU1TV2lFQnF3dmEwZGlTaWpqOHBUc2Q3M1FHSVpyS0pGdUJyQ2tZaEJhc0xzd2RDY291cDh5UFRvUTZjMm45SFdPUmZDVUduSmFLY24xeFl4bFA5WUg0VDNtWTJ0TkVWM3ZGNGprdW0tdVRhUzZ0a1B6SjZXLXMtTXFVZmFtd2J3SVhra1E0Ql9reUxMaEtvSHdxZERndzUycWxhNlhlZGVSdVpWSm5IYUU2aHFQaGlmWlFUdmRHWFk5VTNudmQ5QWdTVmloUk1MMlhIbFh5TGE3eEFsUzJCZUVISXZLakRNbVNLbHp0NmJSWlJYQVZwRXNtRnBGei1jc19idWRTb0JJWVdaRUZTU0k3ejJrYnh4NVFOU0FOUjdwX2VPRjJ6RWE0cEFvekNtb2U5cmtZa2pHQ2s3TlpkNUpyVGV0ekswYTRLNlYtczV5N2M0enZ5WUEyZGM?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 22:56:48 GMT",
-      "lastUpdated": "Sun, 12 Jul 2026 22:56:48 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "m11 crash july 13 major multi vehicle collision near harlow causes 75 minute delays on the",
@@ -2144,34 +2141,6 @@
       "icon": "🚦",
       "critical": false,
       "action": "Check route before starting travel."
-    },
-    {
-      "id": "residents struggle as incessant rain waterlogging cripple power supply",
-      "title": "Residents struggle as incessant rain, waterlogging cripple power supply",
-      "summary": "Residents struggle as incessant rain, waterlogging cripple power supply",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1dITDRlNTh6YnFaOF9qT0tQMjBTZXB2S1ZsU25DUjZDUzd5aDFoaUU2am5Bejl5cXBtTVJBc3JFRThKR3U3VVVnZkVJRWdab2RTVmZsbmhRM2R2SkNPZldPU1lqUUNmUnE2N19SUGZZdmg5b3NtYTFHMk45VTZpYkpLWG9XRlc2TnVsUFVHaVI2Y3YwMkhDamZvLUF0Q1lFdGVhdEt1blBSM084anFQTTh5ZWs2aEIzd1RxTjlaOUt3Z0hzdy1meGNkaw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 11:52:21 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 11:52:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
       "id": "crime burglars tunnel into jewellery store in manjari escape with around 30 kg of gold and",
@@ -2708,6 +2677,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "नागपूरकर उकाड्याने हैराण पाऊस पुन्हा मुसळधार कधी बरसणार",
+      "title": "नागपूरकर उकाड्याने हैराण! पाऊस पुन्हा मुसळधार कधी बरसणार?",
+      "summary": "नागपूरकर उकाड्याने हैराण! पाऊस पुन्हा मुसळधार कधी बरसणार?",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUxuQUQyZEtLZ2szZEJSNXV0d0ZOYjY3OEhQdVQxbG5UMHNrWHA2SW1JN2Mtc0lTd29BdGlCMTFiRTZlSmRBRG9VRW14amQzck9XV2lLLTZmdW5iaC0wSjlfcVNFOGFBeEpsNi10LURYbTNoaVlldU96Z0FSNXctZFNCaFBSUFVfa1FlNzk5VkNxV2Via3JlSFBkY09wVERzbUVsd3FrNmdRLVB5RUVBeVBNQ1l0dkxZYnRHeHB4RDNieTZJ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 10:07:26 GMT",
+      "lastUpdated": "Mon, 13 Jul 2026 10:07:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain andaj राज्यात पावसाची उघडीप पुढील पाच दिवसांचा अंदाज काय",
       "title": "Rain Andaj: राज्यात पावसाची उघडीप; पुढील पाच दिवसांचा अंदाज काय?",
       "summary": "Rain Andaj: राज्यात पावसाची उघडीप; पुढील पाच दिवसांचा अंदाज काय?",
@@ -2940,50 +2931,6 @@
       "region": "pune",
       "sources": [
         "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "deadly monsoon batters india 4 killed in maha himachal transport networks hit odisha on al",
-      "title": "Deadly monsoon batters India: 4 killed in Maha, Himachal; transport networks hit, Odisha on alert",
-      "summary": "Deadly monsoon batters India: 4 killed in Maha, Himachal; transport networks hit, Odisha on alert",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcW9xLVpRandWNXFoN2J1cGI2dTVjbzhscERMNmd0UzJOZEJoT2lLQUh0RW85N2NvcUk0YkdEWWhBdFBTQTFKY1F1OHRqVmxwT1lIbS1Kd0FhaldzUW56N1RPbVBoeVU5MzhDajhvM1ZXQjNfenc4VWR1N3Y3aDNvazZoRUJxSjlVWEx2VWtyZEgyMDdZR1Zxb0wwS0dhSS1uMlRTaDIycE5MRTJyRGFRN0lGMnJSVXlscjdIOWFtakh4dzRuODVoOEdYZ1RDQUk2WDNKRGRKc2s5QQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 06:43:49 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 06:43:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "delhi weather heavy rain alert for city as monsoon covers entire country",
-      "title": "Delhi weather update: Heavy rain alert for city as monsoon covers entire country",
-      "summary": "Delhi weather update: Heavy rain alert for city as monsoon covers entire country",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVlLRDI0cEVMYTgwQWJqUlhtZXZNenQzSnJxMVBjTHBzZGZyTk9HNTMzTmF6RmhLcE43LUV0M1lzLVFCdDVWckJyb25jTlBMcm5sXzEya2hyZE05aEE3NkxFWkpobGFVYU54ZVpmMkNyOGwtWkl0YmZLaVdXZnBDbU9MaFZUdEpLWlBSZ3l2N3JoNnI3cTFqRDRRTFkwUi1HRmh0Vl9VbHBxRHU3aWpfdTZNTDU4a2Y4OWZfMzNuTlh6LVlYR1FZ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 06:09:41 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 06:09:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3263,9 +3210,9 @@
     }
   ],
   "summary": {
-    "total": 78,
+    "total": 77,
     "alerts": 26,
-    "news": 52
+    "news": 51
   },
-  "cleanedAt": "2026-07-13T21:59:38.775Z"
+  "cleanedAt": "2026-07-13T22:59:31.600Z"
 }
