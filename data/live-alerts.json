@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:09:47.609Z",
+  "generatedAt": "2026-07-14T17:39:16.556Z",
   "status": "ok",
   "alerts": [
     {
@@ -183,66 +183,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "monsoon havoc mumbai expressway old highway shut after landslide heavy rain disrupt traffi",
-      "title": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic",
-      "summary": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ19tN3RwZHJLRjYySlktQk1TWVdBLTZkLWF2YTRmUWNHWGpMRDB6TkpUeDA2TlVLYUI0LU9lRkF5TWNqNlhHdjBPWFNyVWlESFE0b1pmX3RYUm1TMVB4WXdhcXRCWlZHaUppN2g2dEg2V2VmWXJ2ekJWcjYzQUVYTHVXbENBaEhUWnd5Q1VKOE04a3hBVWYzZFRxVzVfbEpVQ21kZ2hMTzNYN0s1bVhKcjg4LUdPeGt0VzRnSVlhc2IyanZ1MWhSdDN5alYwMWtaV05VRHNnUlZ3b3VPNHc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 06:19:00 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 06:19:00 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "mumbai expressway link reopens after landslide in maharashtra",
-      "title": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "summary": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkFoTkRRRDF3dUg4cTVhckxLV1Q3VV9kNGpBbGZuazlkaXRIWmJBbGhnQ1NEei1kc2NvQTA1RkNkY1RzV1doZGk5dVgtbUlzM05OWEFSV0ZyRFdYZG0zWW9uei1lZDRXaDVfb2pxTm9mbHdpcFhyWTc1UktHV2VwMGJtU1N5bGZpQlZEaE4zQzRtZk01YzFXT2lXcm9vMkVHNEtqVDR1bWZMcVFRbkdxZENBMXU5MXRZeTVieHhqNA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 04:37:21 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 04:37:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
       "id": "andharban nature trail shut after landslides entry permits cancelled till july 31",
       "title": "Andharban nature trail shut after landslides; entry permits cancelled till July 31",
       "summary": "Andharban nature trail shut after landslides; entry permits cancelled till July 31",
@@ -386,6 +326,36 @@
     }
   ],
   "news": [
+    {
+      "id": "maharashtra restores mumbai expressway link",
+      "title": "Maharashtra Restores Pune Mumbai Expressway Link",
+      "summary": "Maharashtra Restores Pune Mumbai Expressway Link",
+      "source": "urbanacres.in + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YnB0d3NIdmNRaHRLWGJTd0RRaVI1YzBDMmkwY2ZzNGdZaWdBY08wTUVRXy1XcU5MWTh0X3JhLVI0Q2pxci1paTNnTzVPTTBMOUI2a3M4b0d2N0Z4ZExjdS13MTVJUDNnMTNmSlJYMnVZb2VRdzk2UFdzQQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:55:35 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 16:55:35 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in",
+        "The News Mill"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
     {
       "id": "water cut cancelled पुण्यातील पाणीकपात निर्णय मागे खडकवासला धरणात ५८ टक्के साठा २२ जुलैनंत",
       "title": "Pune Water Cut Cancelled: पुण्यातील पाणीकपात निर्णय मागे; खडकवासला धरणात ५८ टक्के साठा, २२ जुलैनंतर नव्याने आढावा",
@@ -545,6 +515,28 @@
       "action": "Stay alert and follow police advisories."
     },
     {
+      "id": "दिल्लीमध्ये राजकीय घडामोडींना वेग ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांच",
+      "title": "दिल्लीमध्ये राजकीय घडामोडींना वेग, ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांची भेट, बैठक संपली",
+      "summary": "दिल्लीमध्ये राजकीय घडामोडींना वेग, ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांची भेट, बैठक संपली",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlI4a2c3bDRyTTVRaUh5MGJnaWJ4RU9kbWM0S2NVdV9YVzdXOXJHdTFKMUNqT2VRSzVlT2VhNE1FN1NJdVl6S01tTnlvVXFYQUJzQVhiYUJyemp5V0dsYVJSYVVIYlhkLWpMZzZlSU9zb0JlMTl4cXRGVHQ2eHBEOThKMi1LblE3REZ0THk4WUhld1hmQ1VLSTBBeXRKUWpVSGNnZHp1QUl5TXljYmN3aV9aR180ZVJVZU9TRVJlOUxoenZISzZZblZULWFUSm8z?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:44:11 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 16:44:11 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुणे वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्",
       "title": "पुणे : वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला; एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्यू पुणे: मंचर येथील महात्मा गांधी विद्यालयासमोर जुन्या पुणे–नाशिक महामार्गावर एसटी ब",
       "summary": "पुणे : वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला; एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्यू पुणे: मंचर येथील महात्मा गांधी विद्यालयासमोर जुन्या पुणे–नाशिक महामार्गावर एसटी ब",
@@ -638,7 +630,7 @@
       "summary": "Central Railway eyes phased restoration of Mumbai-Pune train services from July 15 after track trials",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUERsOHlFMzE3NnF2STZzTVJ6Z0lFUkVBellQS1F2UXdLeENKUl82NFF6RFc3aEl5dWwwRkFTNFFDWFZteG5pankzUjZxbS1xbzVLSUI4RjdIeEZDeS0xQkprRlRFNW5OQ194aERXY0ZydnBJbVpHc1I4eEJiaFJKMmdCNHFxR0k2U01ZZDJiaS04dXdMXy14bVlHMm0ySlVOeTdJMm12Z0F6dWJDblRaME1Vc0trdFVVSFdrX3ZwdFg3c0ptX2ZfRWRDamNiLWFkUHZ4OGhfQ3dXTFpiSkZsRTIxOE5KVmJhMmdiMDlYM2pvajdfOTNXcjM1UDBJQmpyZE1rVzJB0gGLAkFVX3lxTE1xT0xkTzlNRkNWNjFULWw4bjBrdWozb1lUZmItcVg5WTZidTlPMFBJckJpeWtaQ3NrMzNyS0FhZEEyNHU4LVpSQnZmRnFrdFpNOWtDYTRBWFplekFPREpXa0dyV3huM3ZmSERoMDhNeFBDbk42d1ZGTE85TXdUY3lfZUwydEVLWldHU1hmcy12NFotaDB3RmxTaU8zVXdNZDlJQTk5SDlPcDNqSmpuc2lra0UwVGp4SDRaWlJ3SEljLTR4ci1mN0ZzbUc5SmE0MjJpOThva0VFckJxbmptb0hnNm82NzlDUldOeXpWRWxWU0lGTVZDNl9mcl9WZ0FTNTRFWllxV0k2QmszTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcU9MZE85TUZDVjYxVC1sOG4wa3VqM29ZVGZiLXFYOVk2YnU5TzBQSXJCaXlrWkNzazMzcktBYWRBMjR1OC1aUkJ2ZkZxa3RaTTlrQ2E0QVhaZXpBT0RKV2tHcld4bjN2ZkhEaDA4TXhQQ25ONndWRkxPOU13VGN5X2VMMnRFS1pXR1NYZnMtdjRaLWgwd0ZsU2lPM1V3TWQ5SUE5OUg5T3AzakpqbnNpa2tFMFRqeEg0WlpSd0hJYy00eHItZjdGc21HOUphNDIyaTk4b2tFRXJCcW5qbW9IZzZvNjc5Q1JXTnl6VkVsVlNJRk1WQzZfZnJfVmdBUzU0RVpZcVdJNkJrM03SAYsCQVVfeXFMTXFPTGRPOU1GQ1Y2MVQtbDhuMGt1ajNvWVRmYi1xWDlZNmJ1OU8wUElyQml5a1pDc2szM3JLQWFkQTI0dTgtWlJCdmZGcWt0Wk05a0NhNEFYWmV6QU9ESldrR3JXeG4zdmZIRGgwOE14UENuTjZ3VkZMTzlNd1RjeV9lTDJ0RUtaV0dTWGZzLXY0Wi1oMHdGbFNpTzNVd01kOUlBOTlIOU9wM2pKam5zaWtrRTBUanhINFpaUndISWMtNHhyLWY3RnNtRzlKYTQyMmk5OG9rRUVyQnFuam1vSGc2bzY3OUNSV055elZFbFZTSUZNVkM2X2ZyX1ZnQVM1NEVaWXFXSTZCazNN?oc=5",
       "pubDate": "Tue, 14 Jul 2026 14:47:00 GMT",
       "lastUpdated": "Tue, 14 Jul 2026 14:47:00 GMT",
       "areas": [],
@@ -742,6 +734,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "pmrda razes 680 illegal tin sheds across 35 hectares in biggest demolition drive",
+      "title": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
+      "summary": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUtzdE5rNGE5ckNLMXd0LWVZbmhRNzFnRTdxcktWVWNtblVFMWNMWnNSbUhCX0NTclFldE82bGJ5bXFEX2V4TlFyNGZDTmg3NWIzNmo5OWE0Z2tFOVFaNG5PWjFnRloteDRtUFdoTFZUdEhGNEV0czBneVp6MFdsTy1vcWR4d1RZODRDZTQ4VE5fM2xkTzZmUGo5aVhFQXpOUGFiaWVUWWdxUjdk?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:08:23 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 13:08:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -906,28 +920,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "cm विजय यांना मिळालं गिफ्ट छोटी कार पाहून खूश झाले थलापती भर मीटिंगमध्ये खेळण्यात दंग vira",
-      "title": "CM विजय यांना मिळालं गिफ्ट, छोटी कार पाहून खूश झाले थलापती! भर मीटिंगमध्ये खेळण्यात दंग, VIRAL VIDEO",
-      "summary": "CM विजय यांना मिळालं गिफ्ट, छोटी कार पाहून खूश झाले थलापती! भर मीटिंगमध्ये खेळण्यात दंग, VIRAL VIDEO",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONkZsTzF6NXJhM25QQlhnQUcwN0w3MnVlZ09hT3FQenhOZUt6c0JaaVY5cnowZlJLMHJFb1FDeWVJSDJPVEdjNTZYeEhoQ2IyRUloTjQtU2l2Sk1NMDRxdnRUdmpZcFpnOWhCZVRLMHpQcXo5YlRSemNrMnd6X1ItRFNIYVR5X2VzaTBLR0tPVW9CNkx6Uk1DMDZfV3VuVnIyT0JrOWU2NFRUQnlYVDVZeEt3T3g0aEJ4UHJ1VXRsS0E2YkU0dHFMNjREQnlmb3lpbVE4V2NIZHFINFAxUS1tZzg2V1BVYkQ4NFVad0theFdnZXJod0dQY2JxTW0ybTQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 11:50:00 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 11:50:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "water enters pimpri chinchwad s morya gosavi ganpati temple as pawana river level rises",
       "title": "Water enters Pimpri-Chinchwad’s Morya Gosavi Ganpati Temple as Pawana River level rises",
       "summary": "Water enters Pimpri-Chinchwad’s Morya Gosavi Ganpati Temple as Pawana River level rises",
@@ -953,9 +945,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather tomorrow उद्याचे हवामान राज्यात बहुतांश भागात पावसाची उघडीप या 7 जिल्ह",
-      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, 'या' 7 जिल्ह्यांना यलो अलर",
-      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, 'या' 7 जिल्ह्यांना यलो अलर",
+      "id": "maharashtra weather tomorrow उद्याचे हवामान राज्यात बहुतांश भागात पावसाची उघडीप मात्र या 7",
+      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, मात्र 'या' 7 जिल्ह्यांना य",
+      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, मात्र 'या' 7 जिल्ह्यांना य",
       "source": "Times Now Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObGxpNkVQUE9NLUp3dEdtdHUxcmlnZEpyUzFmMXlaZjIzbmFYbjVVT04tS3piRll6V2daOEdfaW44QXJHYkctUHBubUYxTGNVZHdMT0lVODA4UF9GMUxaWk0yLU5IQWpORTgxdUl0OHNXdlFnR0o4ZFFfVnV0aHgwSFJhOVpoSm5KS1EzZmUzbi1IS1FSSU0wTGlHWEtaaEFSMWhZUzdveXhrUzVRQ011S1EtNDBvSHJHZE8wZmNFNDlFZk9rVmFqOXZNbWt1ZlB6YWRNLUhfeFhxdmpkUm5BU1VEZ055Q2Q3ellTTjBRUjBaNHVSZVVIS3dCazhZLTBhTGlxY3dNNktEVXFVLWt4NzJ2dWNTc2xvV3pN0gGgAkFVX3lxTFAzbncyNTRwMmpBMERMRVJPUTBGcTZiUkc3R0lMU0U3OHl2V21sZ09SQW9HLWI1dC1WWlMyVnIzQm14Ul91RzY1QlNFc1p1WXY3QThiLWZyWThSUmQtcHN6VnBvRnJ6X3E0Z2o2QUlxMGgxZlNCQXJEMVNaX093UG42SWdpelg2Nlo0VzcteXV0RlBmc1NmbGplS2ZaMlhNMUluVzlqSUpRTG11UHQxTnB5QXN4dnpCczBiNERVeXB4WGRLVWR1d2xNWjFKTVlMWXNVWEJBZmJUYXh2SkRSV1QxdjNCOHY2SjZFNlFySlg3MzFCcjN4R0ItRktrWHJZTThiN2YxdEF2c1RLRy1qSGxpR2JfMlpEamhOWE5FTUlvZw?oc=5",
@@ -1332,36 +1324,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "चीनमध्ये जलप्रलय 20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "title": "चीनमध्ये जलप्रलय;20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "summary": "चीनमध्ये जलप्रलय;20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUNmZjV2ZDZybUxFY0M2LUVFbFRkdkM3MDBGM3ZLc3ZNV1ctTmNoYnJUNVZiVmlpUlRfUFlVU3czaUI1VlhDQ2RLWEtkeXJtSTV2NV84UGIxT0tHOWxEdWZhbXgtczVvUW9SMWZ3V1NaaWg3MzV3RjQ5bXFaWmhnOHRB?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 05:37:30 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 05:37:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "nagar road potholes नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा खड्ड्यांमुळे वाहनचालक त्रस",
       "title": "Pune Nagar Road Potholes: नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा; खड्ड्यांमुळे वाहनचालक त्रस्त",
       "summary": "Pune Nagar Road Potholes: नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा; खड्ड्यांमुळे वाहनचालक त्रस्त",
       "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUhsZTA2elU2a08wNlFrR0l1Z19jSDdyTUJ2eEZIbW5uYlY1TUFHR2RKdFhVTS14cE9vTm10WkYxMnNaeE05eTR0blRfUVdhLTI4WFBkLWVPZzc3a01ZNHZsNW1mSFFoZ3JERDNJbHh4eWVYX3lyaFRGcFR0Yk9NSmpVWmp5cWJuak9OR2JRckpDZTJDTFlPZ0hWS3FNWG5aZ2hBcmF4MjJQT1BkYWZn0gGvAUFVX3lxTE5BSGxlMDZ6VTZrTzA2UWtHSXVnX2NIN3JNQnZ4Rkhtbm5iVjVNQUdHZEp0WFVNLXhwT29ObXRaRjEyc1p4TTl5NHRuVF9RV2EtMjhYUGQtZU9nNzdrTVk0dmw1bWZIUWhnckREM0lseHh5ZVhfeXJoVEZwVHRiT01KalVaanlxYm5qT05HYlFySkNlMkNMWU9nSFZLcU1YblpnaEFyYXgyMlBPUGRhZmc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 05:34:56 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 05:34:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUm81VXFzNEJ0QmNtTWhUQ0ZUdGdiQ2ZrRnZ0OGZjcHcyaU0wQTFtT3Btc3k2clpRUFJhME1NdXdLbmVCSGxiR040MUM4ZHEwcmJLek9VMHZFcUZmYThmd0dJcDZNVnhKRlk5X1RVUWhub3d0VDVIdzI2QnFlaGZ1V0YwNzFhQ0haMmhLSUN2N28zU2FyZ2dWZGFLYWpPUEROWWfSAa8BQVVfeXFMTkFIbGUwNnpVNmtPMDZRa0dJdWdfY0g3ck1CdnhGSG1ubmJWNU1BR0dkSnRYVU0teHBPb05tdFpGMTJzWnhNOXk0dG5UX1FXYS0yOFhQZC1lT2c3N2tNWTR2bDVtZkhRaGdyREQzSWx4eHllWF95cmhURnBUdGJPTUpqVVpqeXFibmpPTkdiUXJKQ2UyQ0xZT2dIVktxTVhuWmdoQXJheDIyUE9QZGFmZw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 05:31:59 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 05:31:59 GMT",
       "areas": [
         "Nagar Road"
       ],
@@ -1661,53 +1631,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "maha rains disrupt key railway routes kalyana karnataka travelers hit",
-      "title": "Maha rains disrupt key railway routes, Kalyana Karnataka travelers hit",
-      "summary": "Maha rains disrupt key railway routes, Kalyana Karnataka travelers hit",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTBJUXRwRjBKZWRDOHo4YmFTS3VRWWdCVjluSnVHX1FPMEgxSHlMMHNrMV9xTXJZZDBLRjN1WWVvLUNSMnpCOFNsU04ycko2cUtFQm9CQXRJd2JSbHFTZmJRSW41SG1sSFZhaXRsYlk2RFRuT1FjLTczSmVYbkNuaGV2OFd0Nl9iMkx1X0NPb1FYT01KaXJXX0NvU3lFM2V4NG5sTzN1REF1eXBURk44MDVZX2JqdThWaXkzb1dBVkFIQU82NG12QmlUbVBtRGxrVzc5WEZHdkRGUEQ5OU8xU3pHc9IB4wFBVV95cUxQRTBJUXRwRjBKZWRDOHo4YmFTS3VRWWdCVjluSnVHX1FPMEgxSHlMMHNrMV9xTXJZZDBLRjN1WWVvLUNSMnpCOFNsU04ycko2cUtFQm9CQXRJd2JSbHFTZmJRSW41SG1sSFZhaXRsYlk2RFRuT1FjLTczSmVYbkNuaGV2OFd0Nl9iMkx1X0NPb1FYT01KaXJXX0NvU3lFM2V4NG5sTzN1REF1eXBURk44MDVZX2JqdThWaXkzb1dBVkFIQU82NG12QmlUbVBtRGxrVzc5WEZHdkRGUEQ5OU8xU3pHcw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:57:00 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 16:57:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "येरे येरे पावसा",
-      "title": "‘येरे येरे पावसा..!’",
-      "summary": "‘येरे येरे पावसा..!’",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GRFpxeWFzd2hhdy16NzJhZ1czYVRLQ1d5ZjlpcW5QZUc0cXpnUGFVNzlfeTFkRzRXWExVTzl3cDBkSkNaRTNaSy1fZkpGTDE5c2l4Rkw1bTd1YUg5ZmNpT2x5czZUbkd0M0liQWpRbHN5QQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:37:26 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 16:37:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1878,62 +1801,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "monsoon havoc mumbai expressway old highway shut after landslide heavy rain disrupt traffi",
-      "title": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic",
-      "summary": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ19tN3RwZHJLRjYySlktQk1TWVdBLTZkLWF2YTRmUWNHWGpMRDB6TkpUeDA2TlVLYUI0LU9lRkF5TWNqNlhHdjBPWFNyVWlESFE0b1pmX3RYUm1TMVB4WXdhcXRCWlZHaUppN2g2dEg2V2VmWXJ2ekJWcjYzQUVYTHVXbENBaEhUWnd5Q1VKOE04a3hBVWYzZFRxVzVfbEpVQ21kZ2hMTzNYN0s1bVhKcjg4LUdPeGt0VzRnSVlhc2IyanZ1MWhSdDN5alYwMWtaV05VRHNnUlZ3b3VPNHc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 06:19:00 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 06:19:00 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "mumbai expressway link reopens after landslide in maharashtra",
-      "title": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "summary": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkFoTkRRRDF3dUg4cTVhckxLV1Q3VV9kNGpBbGZuazlkaXRIWmJBbGhnQ1NEei1kc2NvQTA1RkNkY1RzV1doZGk5dVgtbUlzM05OWEFSV0ZyRFdYZG0zWW9uei1lZDRXaDVfb2pxTm9mbHdpcFhyWTc1UktHV2VwMGJtU1N5bGZpQlZEaE4zQzRtZk01YzFXT2lXcm9vMkVHNEtqVDR1bWZMcVFRbkdxZENBMXU5MXRZeTVieHhqNA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 04:37:21 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 04:37:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
       "id": "andharban nature trail shut after landslides entry permits cancelled till july 31",
       "title": "Andharban nature trail shut after landslides; entry permits cancelled till July 31",
       "summary": "Andharban nature trail shut after landslides; entry permits cancelled till July 31",
@@ -2071,6 +1938,36 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "maharashtra restores mumbai expressway link",
+      "title": "Maharashtra Restores Pune Mumbai Expressway Link",
+      "summary": "Maharashtra Restores Pune Mumbai Expressway Link",
+      "source": "urbanacres.in + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YnB0d3NIdmNRaHRLWGJTd0RRaVI1YzBDMmkwY2ZzNGdZaWdBY08wTUVRXy1XcU5MWTh0X3JhLVI0Q2pxci1paTNnTzVPTTBMOUI2a3M4b0d2N0Z4ZExjdS13MTVJUDNnMTNmSlJYMnVZb2VRdzk2UFdzQQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:55:35 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 16:55:35 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in",
+        "The News Mill"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
     },
     {
       "id": "water cut cancelled पुण्यातील पाणीकपात निर्णय मागे खडकवासला धरणात ५८ टक्के साठा २२ जुलैनंत",
@@ -2225,6 +2122,28 @@
       "action": "Stay alert and follow police advisories."
     },
     {
+      "id": "दिल्लीमध्ये राजकीय घडामोडींना वेग ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांच",
+      "title": "दिल्लीमध्ये राजकीय घडामोडींना वेग, ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांची भेट, बैठक संपली",
+      "summary": "दिल्लीमध्ये राजकीय घडामोडींना वेग, ठाकरे गटाच्या खासदारांसह एकनाथ शिंदेंनी घेतली अमित शहांची भेट, बैठक संपली",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlI4a2c3bDRyTTVRaUh5MGJnaWJ4RU9kbWM0S2NVdV9YVzdXOXJHdTFKMUNqT2VRSzVlT2VhNE1FN1NJdVl6S01tTnlvVXFYQUJzQVhiYUJyemp5V0dsYVJSYVVIYlhkLWpMZzZlSU9zb0JlMTl4cXRGVHQ2eHBEOThKMi1LblE3REZ0THk4WUhld1hmQ1VLSTBBeXRKUWpVSGNnZHp1QUl5TXljYmN3aV9aR180ZVJVZU9TRVJlOUxoenZISzZZblZULWFUSm8z?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:44:11 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 16:44:11 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुणे वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्",
       "title": "पुणे : वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला; एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्यू पुणे: मंचर येथील महात्मा गांधी विद्यालयासमोर जुन्या पुणे–नाशिक महामार्गावर एसटी ब",
       "summary": "पुणे : वाढदिवसाच्या दुसऱ्याच दिवशी काळाचा घाला; एसटीच्या धडकेत अकरावीच्या विद्यार्थ्याचा मृत्यू पुणे: मंचर येथील महात्मा गांधी विद्यालयासमोर जुन्या पुणे–नाशिक महामार्गावर एसटी ब",
@@ -2318,7 +2237,7 @@
       "summary": "Central Railway eyes phased restoration of Mumbai-Pune train services from July 15 after track trials",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUERsOHlFMzE3NnF2STZzTVJ6Z0lFUkVBellQS1F2UXdLeENKUl82NFF6RFc3aEl5dWwwRkFTNFFDWFZteG5pankzUjZxbS1xbzVLSUI4RjdIeEZDeS0xQkprRlRFNW5OQ194aERXY0ZydnBJbVpHc1I4eEJiaFJKMmdCNHFxR0k2U01ZZDJiaS04dXdMXy14bVlHMm0ySlVOeTdJMm12Z0F6dWJDblRaME1Vc0trdFVVSFdrX3ZwdFg3c0ptX2ZfRWRDamNiLWFkUHZ4OGhfQ3dXTFpiSkZsRTIxOE5KVmJhMmdiMDlYM2pvajdfOTNXcjM1UDBJQmpyZE1rVzJB0gGLAkFVX3lxTE1xT0xkTzlNRkNWNjFULWw4bjBrdWozb1lUZmItcVg5WTZidTlPMFBJckJpeWtaQ3NrMzNyS0FhZEEyNHU4LVpSQnZmRnFrdFpNOWtDYTRBWFplekFPREpXa0dyV3huM3ZmSERoMDhNeFBDbk42d1ZGTE85TXdUY3lfZUwydEVLWldHU1hmcy12NFotaDB3RmxTaU8zVXdNZDlJQTk5SDlPcDNqSmpuc2lra0UwVGp4SDRaWlJ3SEljLTR4ci1mN0ZzbUc5SmE0MjJpOThva0VFckJxbmptb0hnNm82NzlDUldOeXpWRWxWU0lGTVZDNl9mcl9WZ0FTNTRFWllxV0k2QmszTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcU9MZE85TUZDVjYxVC1sOG4wa3VqM29ZVGZiLXFYOVk2YnU5TzBQSXJCaXlrWkNzazMzcktBYWRBMjR1OC1aUkJ2ZkZxa3RaTTlrQ2E0QVhaZXpBT0RKV2tHcld4bjN2ZkhEaDA4TXhQQ25ONndWRkxPOU13VGN5X2VMMnRFS1pXR1NYZnMtdjRaLWgwd0ZsU2lPM1V3TWQ5SUE5OUg5T3AzakpqbnNpa2tFMFRqeEg0WlpSd0hJYy00eHItZjdGc21HOUphNDIyaTk4b2tFRXJCcW5qbW9IZzZvNjc5Q1JXTnl6VkVsVlNJRk1WQzZfZnJfVmdBUzU0RVpZcVdJNkJrM03SAYsCQVVfeXFMTXFPTGRPOU1GQ1Y2MVQtbDhuMGt1ajNvWVRmYi1xWDlZNmJ1OU8wUElyQml5a1pDc2szM3JLQWFkQTI0dTgtWlJCdmZGcWt0Wk05a0NhNEFYWmV6QU9ESldrR3JXeG4zdmZIRGgwOE14UENuTjZ3VkZMTzlNd1RjeV9lTDJ0RUtaV0dTWGZzLXY0Wi1oMHdGbFNpTzNVd01kOUlBOTlIOU9wM2pKam5zaWtrRTBUanhINFpaUndISWMtNHhyLWY3RnNtRzlKYTQyMmk5OG9rRUVyQnFuam1vSGc2bzY3OUNSV055elZFbFZTSUZNVkM2X2ZyX1ZnQVM1NEVaWXFXSTZCazNN?oc=5",
       "pubDate": "Tue, 14 Jul 2026 14:47:00 GMT",
       "lastUpdated": "Tue, 14 Jul 2026 14:47:00 GMT",
       "areas": [],
@@ -2413,6 +2332,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "pmrda razes 680 illegal tin sheds across 35 hectares in biggest demolition drive",
+      "title": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
+      "summary": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUtzdE5rNGE5ckNLMXd0LWVZbmhRNzFnRTdxcktWVWNtblVFMWNMWnNSbUhCX0NTclFldE82bGJ5bXFEX2V4TlFyNGZDTmg3NWIzNmo5OWE0Z2tFOVFaNG5PWjFnRloteDRtUFdoTFZUdEhGNEV0czBneVp6MFdsTy1vcWR4d1RZODRDZTQ4VE5fM2xkTzZmUGo5aVhFQXpOUGFiaWVUWWdxUjdk?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:08:23 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 13:08:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2577,28 +2518,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "cm विजय यांना मिळालं गिफ्ट छोटी कार पाहून खूश झाले थलापती भर मीटिंगमध्ये खेळण्यात दंग vira",
-      "title": "CM विजय यांना मिळालं गिफ्ट, छोटी कार पाहून खूश झाले थलापती! भर मीटिंगमध्ये खेळण्यात दंग, VIRAL VIDEO",
-      "summary": "CM विजय यांना मिळालं गिफ्ट, छोटी कार पाहून खूश झाले थलापती! भर मीटिंगमध्ये खेळण्यात दंग, VIRAL VIDEO",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONkZsTzF6NXJhM25QQlhnQUcwN0w3MnVlZ09hT3FQenhOZUt6c0JaaVY5cnowZlJLMHJFb1FDeWVJSDJPVEdjNTZYeEhoQ2IyRUloTjQtU2l2Sk1NMDRxdnRUdmpZcFpnOWhCZVRLMHpQcXo5YlRSemNrMnd6X1ItRFNIYVR5X2VzaTBLR0tPVW9CNkx6Uk1DMDZfV3VuVnIyT0JrOWU2NFRUQnlYVDVZeEt3T3g0aEJ4UHJ1VXRsS0E2YkU0dHFMNjREQnlmb3lpbVE4V2NIZHFINFAxUS1tZzg2V1BVYkQ4NFVad0theFdnZXJod0dQY2JxTW0ybTQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 11:50:00 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 11:50:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "water enters pimpri chinchwad s morya gosavi ganpati temple as pawana river level rises",
       "title": "Water enters Pimpri-Chinchwad’s Morya Gosavi Ganpati Temple as Pawana River level rises",
       "summary": "Water enters Pimpri-Chinchwad’s Morya Gosavi Ganpati Temple as Pawana River level rises",
@@ -2624,9 +2543,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather tomorrow उद्याचे हवामान राज्यात बहुतांश भागात पावसाची उघडीप या 7 जिल्ह",
-      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, 'या' 7 जिल्ह्यांना यलो अलर",
-      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, 'या' 7 जिल्ह्यांना यलो अलर",
+      "id": "maharashtra weather tomorrow उद्याचे हवामान राज्यात बहुतांश भागात पावसाची उघडीप मात्र या 7",
+      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, मात्र 'या' 7 जिल्ह्यांना य",
+      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): राज्यात बहुतांश भागात पावसाची उघडीप, मात्र 'या' 7 जिल्ह्यांना य",
       "source": "Times Now Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObGxpNkVQUE9NLUp3dEdtdHUxcmlnZEpyUzFmMXlaZjIzbmFYbjVVT04tS3piRll6V2daOEdfaW44QXJHYkctUHBubUYxTGNVZHdMT0lVODA4UF9GMUxaWk0yLU5IQWpORTgxdUl0OHNXdlFnR0o4ZFFfVnV0aHgwSFJhOVpoSm5KS1EzZmUzbi1IS1FSSU0wTGlHWEtaaEFSMWhZUzdveXhrUzVRQ011S1EtNDBvSHJHZE8wZmNFNDlFZk9rVmFqOXZNbWt1ZlB6YWRNLUhfeFhxdmpkUm5BU1VEZ055Q2Q3ellTTjBRUjBaNHVSZVVIS3dCazhZLTBhTGlxY3dNNktEVXFVLWt4NzJ2dWNTc2xvV3pN0gGgAkFVX3lxTFAzbncyNTRwMmpBMERMRVJPUTBGcTZiUkc3R0lMU0U3OHl2V21sZ09SQW9HLWI1dC1WWlMyVnIzQm14Ul91RzY1QlNFc1p1WXY3QThiLWZyWThSUmQtcHN6VnBvRnJ6X3E0Z2o2QUlxMGgxZlNCQXJEMVNaX093UG42SWdpelg2Nlo0VzcteXV0RlBmc1NmbGplS2ZaMlhNMUluVzlqSUpRTG11UHQxTnB5QXN4dnpCczBiNERVeXB4WGRLVWR1d2xNWjFKTVlMWXNVWEJBZmJUYXh2SkRSV1QxdjNCOHY2SjZFNlFySlg3MzFCcjN4R0ItRktrWHJZTThiN2YxdEF2c1RLRy1qSGxpR2JfMlpEamhOWE5FTUlvZw?oc=5",
@@ -3000,36 +2919,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "चीनमध्ये जलप्रलय 20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "title": "चीनमध्ये जलप्रलय;20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "summary": "चीनमध्ये जलप्रलय;20 लाखांहून अधिक नागरिकांचे स्थलांतर",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUNmZjV2ZDZybUxFY0M2LUVFbFRkdkM3MDBGM3ZLc3ZNV1ctTmNoYnJUNVZiVmlpUlRfUFlVU3czaUI1VlhDQ2RLWEtkeXJtSTV2NV84UGIxT0tHOWxEdWZhbXgtczVvUW9SMWZ3V1NaaWg3MzV3RjQ5bXFaWmhnOHRB?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 05:37:30 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 05:37:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "nagar road potholes नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा खड्ड्यांमुळे वाहनचालक त्रस",
       "title": "Pune Nagar Road Potholes: नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा; खड्ड्यांमुळे वाहनचालक त्रस्त",
       "summary": "Pune Nagar Road Potholes: नगर रोड परिसरातील रस्त्यांची पावसात दुर्दशा; खड्ड्यांमुळे वाहनचालक त्रस्त",
       "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUhsZTA2elU2a08wNlFrR0l1Z19jSDdyTUJ2eEZIbW5uYlY1TUFHR2RKdFhVTS14cE9vTm10WkYxMnNaeE05eTR0blRfUVdhLTI4WFBkLWVPZzc3a01ZNHZsNW1mSFFoZ3JERDNJbHh4eWVYX3lyaFRGcFR0Yk9NSmpVWmp5cWJuak9OR2JRckpDZTJDTFlPZ0hWS3FNWG5aZ2hBcmF4MjJQT1BkYWZn0gGvAUFVX3lxTE5BSGxlMDZ6VTZrTzA2UWtHSXVnX2NIN3JNQnZ4Rkhtbm5iVjVNQUdHZEp0WFVNLXhwT29ObXRaRjEyc1p4TTl5NHRuVF9RV2EtMjhYUGQtZU9nNzdrTVk0dmw1bWZIUWhnckREM0lseHh5ZVhfeXJoVEZwVHRiT01KalVaanlxYm5qT05HYlFySkNlMkNMWU9nSFZLcU1YblpnaEFyYXgyMlBPUGRhZmc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 05:34:56 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 05:34:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUm81VXFzNEJ0QmNtTWhUQ0ZUdGdiQ2ZrRnZ0OGZjcHcyaU0wQTFtT3Btc3k2clpRUFJhME1NdXdLbmVCSGxiR040MUM4ZHEwcmJLek9VMHZFcUZmYThmd0dJcDZNVnhKRlk5X1RVUWhub3d0VDVIdzI2QnFlaGZ1V0YwNzFhQ0haMmhLSUN2N28zU2FyZ2dWZGFLYWpPUEROWWfSAa8BQVVfeXFMTkFIbGUwNnpVNmtPMDZRa0dJdWdfY0g3ck1CdnhGSG1ubmJWNU1BR0dkSnRYVU0teHBPb05tdFpGMTJzWnhNOXk0dG5UX1FXYS0yOFhQZC1lT2c3N2tNWTR2bDVtZkhRaGdyREQzSWx4eHllWF95cmhURnBUdGJPTUpqVVpqeXFibmpPTkdiUXJKQ2UyQ0xZT2dIVktxTVhuWmdoQXJheDIyUE9QZGFmZw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 05:31:59 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 05:31:59 GMT",
       "areas": [
         "Nagar Road"
       ],
@@ -3308,56 +3205,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maha rains disrupt key railway routes kalyana karnataka travelers hit",
-      "title": "Maha rains disrupt key railway routes, Kalyana Karnataka travelers hit",
-      "summary": "Maha rains disrupt key railway routes, Kalyana Karnataka travelers hit",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTBJUXRwRjBKZWRDOHo4YmFTS3VRWWdCVjluSnVHX1FPMEgxSHlMMHNrMV9xTXJZZDBLRjN1WWVvLUNSMnpCOFNsU04ycko2cUtFQm9CQXRJd2JSbHFTZmJRSW41SG1sSFZhaXRsYlk2RFRuT1FjLTczSmVYbkNuaGV2OFd0Nl9iMkx1X0NPb1FYT01KaXJXX0NvU3lFM2V4NG5sTzN1REF1eXBURk44MDVZX2JqdThWaXkzb1dBVkFIQU82NG12QmlUbVBtRGxrVzc5WEZHdkRGUEQ5OU8xU3pHc9IB4wFBVV95cUxQRTBJUXRwRjBKZWRDOHo4YmFTS3VRWWdCVjluSnVHX1FPMEgxSHlMMHNrMV9xTXJZZDBLRjN1WWVvLUNSMnpCOFNsU04ycko2cUtFQm9CQXRJd2JSbHFTZmJRSW41SG1sSFZhaXRsYlk2RFRuT1FjLTczSmVYbkNuaGV2OFd0Nl9iMkx1X0NPb1FYT01KaXJXX0NvU3lFM2V4NG5sTzN1REF1eXBURk44MDVZX2JqdThWaXkzb1dBVkFIQU82NG12QmlUbVBtRGxrVzc5WEZHdkRGUEQ5OU8xU3pHcw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:57:00 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 16:57:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "येरे येरे पावसा",
-      "title": "‘येरे येरे पावसा..!’",
-      "summary": "‘येरे येरे पावसा..!’",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GRFpxeWFzd2hhdy16NzJhZ1czYVRLQ1d5ZjlpcW5QZUc0cXpnUGFVNzlfeTFkRzRXWExVTzl3cDBkSkNaRTNaSy1fZkpGTDE5c2l4Rkw1bTd1YUg5ZmNpT2x5czZUbkd0M0liQWpRbHN5QQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:37:26 GMT",
-      "lastUpdated": "Mon, 13 Jul 2026 16:37:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 77,
-    "alerts": 21,
-    "news": 56
+    "total": 74,
+    "alerts": 19,
+    "news": 55
   },
-  "cleanedAt": "2026-07-14T16:09:47.622Z"
+  "cleanedAt": "2026-07-14T17:39:16.568Z"
 }
