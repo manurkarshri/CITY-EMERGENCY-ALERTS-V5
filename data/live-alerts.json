@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:49:38.203Z",
+  "generatedAt": "2026-07-15T14:43:33.431Z",
   "status": "ok",
   "alerts": [
     {
@@ -58,6 +58,36 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "landslides disrupt mumbai highway and train services",
+      "title": "Landslides disrupt Mumbai-Pune highway and train services",
+      "summary": "Landslides disrupt Mumbai-Pune highway and train services",
+      "source": "The News Mill",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1lLNHBmT1I1eTB4NUM4Tld6UjNBd2NqbFIwXzJlSnFoVXl1TlhsZ0FGSWhsUTcxR1BRRnZrS2Y0TmpYMWtGZ2dzU3Yxc0ZWbEhPRlBlcTE4bWIwMTRfaHczaGhIQmlKUWthX1JGM1ptSEVTTE5vZXVfSFZoRThCOXExSkU2dC1acklGekZSWnExQzlaeEdYQ0VGNVpYeEd2RVJ1LXluUTBzN0t4dEZLRmRvdw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:32:14 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 10:32:14 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The News Mill"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "mumbai coastal road fire मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट 500 हून अधिक वाहने ",
       "title": "Mumbai Coastal Road Fire: मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट; 500 हून अधिक वाहने अडकली, जीव वाचवण्यासाठी...",
       "summary": "Mumbai Coastal Road Fire: मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट; 500 हून अधिक वाहने अडकली, जीव वाचवण्यासाठी...",
@@ -70,36 +100,6 @@
       "region": "pune",
       "sources": [
         "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "mumbai car catches fire inside coastal road tunnel causing panic among motorists videos",
-      "title": "Mumbai: Car Catches Fire Inside Coastal Road Tunnel Causing Panic Among Motorists; VIDEOS",
-      "summary": "Mumbai: Car Catches Fire Inside Coastal Road Tunnel Causing Panic Among Motorists; VIDEOS",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclU4SkNHZnVJcHlPNjZGdTZtdWRtaW9SNHBjcHpEOGFMRU1NSVhaZV9UckFGYmItLUx0Q1R6UlBXRU5DTFU0XzVVanU4ZnMzT3cwbFNpSVY0NGhGM2JNSWR3clhIQWVWT0hydEFQX3U2dlFqMUtYbERGUFRiMlgyNGF2bDlRaFY4NWZOS2x6MmNULXBSVkZoVWh2SkY5M3h2NTdqSlNSRVNObjBRQ2g0YktJb1ZqUERwM1QwU004NENvSTBh0gHKAUFVX3lxTFA5NFQtaGxyNUpmNjk5d0hDZy00TGF5bDhFTzNXYWp0YUd2T0NwSFdpMVNKa0xpSVdqMVl0VlBQdTJpcnpBZlplM3F0X243NmZkY2MxVU92REZ5clNRQWpTdlR4cGNLVWFIY3RWT0pKLUhzZU5RSENBR3NqSS1iZU10VnJ0bFVzRk81ZVFhRG1TNkZ3X050V0tFMVlzbGlxOEpnRGFjTG1mbTFQSURiTG45aWVuaFd0Z0Y4RDBvZXdPWXpiQXAxVHhuMWc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:17:42 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 07:17:42 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -264,6 +264,37 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "adani power msedcl ink pact for 1 600 mw power supply",
+      "title": "Adani Power, MSEDCL ink pact for 1,600 MW power supply",
+      "summary": "Adani Power, MSEDCL ink pact for 1,600 MW power supply",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0VzZzBaMXl2ZTZfX1JqZ0ZsdkRSR0UzS3hVZk1ud3dZZElDbnNOT211b1k1X1Q5aVNKb3JEME9UTUZZeHdXLVRCMWZHVGhVWFl4UndNdWR6S3NCZmxnRTRSdndwanEweno1MXc0aGZVTWpEZG9iRXVXdGN5MTY2cS1wNU8xblZoeFd5VkVrMWFMZ2pFRDFWVFlIaGVRVG1fUnZ4Q0JUcGNKTGg5WmZFcGNtNEFzSEttZkZKLVNrdGt6TXhwVTl30gHMAUFVX3lxTE9qekJQZmM1bFV6RXdJRlZWQk1wOGhia1ZZd3o5T2EtS2RXY284cXdfSlo4b3U2YjRLSFZfcTN3eVNhY0ljVG5iNkdWdk9wTF9OVlNRUjA2YUZpLUhVcGJfRldGbVNOMzVGOTVuWkJLX3pZWWV2cElBVEpnZHotdkR6THpUTXJjSGJYNTlkdEYycHkyczVybHNaR09lcXNDbWs0TEl5VG5MeGhCMFdMMldrUERDOXljWE5oYUdGa0E3c1lqZEVUTl9JVnJwWA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:08:13 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:08:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     }
   ],
   "news": [
@@ -357,41 +388,6 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "mumbai train services disrupted till july 17 30 trains cancelled 200 extra msrtc buses add",
-      "title": "Mumbai–Pune Train Services Disrupted Till July 17: 30 Trains Cancelled, 200 Extra MSRTC Buses Added",
-      "summary": "Mumbai–Pune Train Services Disrupted Till July 17: 30 Trains Cancelled, 200 Extra MSRTC Buses Added",
-      "source": "Check Cancelled Trains and Alternate Routes - Trade Brains",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3pRbGFUcmNwS3V4dWVtcklMWUdOdUZkSHRrTzBXbzFscmRNSzVXdUpkRmk2ODNJTGl1MTIyek53dWMxcEZ5OG04bFpyRWhhbVVCQjRoZGdYdE9xeE5weE81a2p4Q0phMmRhTFBTUDAteXJRRzdDVldvRENzdXBmVTBMV2JSbzZxZ1JhLXFtVmFBVUNPcXRISEg4dzVQbUUwU3FWd0NJTHUtcjRLOGpjRS04MHd2OFl0T3o2R3p5X284RGtLbGc4ZXBxSVdXenY2M01IOGhQdUluckFod3QtRDlvX3cxMVBncmdFb0w5RklkWkVaeFNFamZkYWo3djNx?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:16:59 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:16:59 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Check Cancelled Trains and Alternate Routes - Trade Brains"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
       "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
       "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
@@ -424,7 +420,9 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
       "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "areas": [],
+      "areas": [
+        "Sus"
+      ],
       "region": "pune",
       "sources": [
         "DD News",
@@ -442,6 +440,188 @@
       ]
     },
     {
+      "id": "weather alert महाराष्ट्रातला पाऊस गेला कुठे गुरुवारीही पावसाच्या हलक्या सरी 6 जिल्ह्यांसाठ",
+      "title": "Weather Alert : महाराष्ट्रातला पाऊस गेला कुठे? गुरुवारीही पावसाच्या हलक्या सरी, 6 जिल्ह्यांसाठी यलो अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रातला पाऊस गेला कुठे? गुरुवारीही पावसाच्या हलक्या सरी, 6 जिल्ह्यांसाठी यलो अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcUN0T3NWSk9SSFg3UFBOR0VpRVZYLTZnQlQ3RDY5MHQwb0Q5S3BaSk5vVUI4ZVNtS1VKOGswVW5qeEQ2SlNjYmJiWGhwN0hXYXowdzZqcW52TXdFV1llLVdSUWV3Q2pHVGlsX3hXRFVBWWhCWEFadGs3SnktOGwtRENqQVpoWG1xWm5ZU2VpbmlqZFlNbWJzeXkza2JQTTV6VGR3UzIwczNIbHdQclFuUW8tX3AyWlJjNWpSLS1Wa0h4ZTVKNnA1WlVfbnVQcHo4aFM0SzNjVm96M1NTNHFZc0d0NTdNZGZHOVJSZndCd3Y?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 14:10:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 14:10:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मुंबई पुणे मार्गावर कारवर गर्डर कोसळला मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा मुंबई पुणे ",
+      "title": "मुंबई-पुणे मार्गावर कारवर गर्डर कोसळला | मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा–मुंबई पुणे मार्गावर उड्डाणपुलाचे काम सुरू असताना एक गर्डर कारवर कोसळल्याची घटना घडली. सुदैवाने या घटनेत",
+      "summary": "मुंबई-पुणे मार्गावर कारवर गर्डर कोसळला | मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा–मुंबई पुणे मार्गावर उड्डाणपुलाचे काम सुरू असताना एक गर्डर कारवर कोसळल्याची घटना घडली. सुदैवाने या घटनेत",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zYV9aN3BlZ0tyczNtWEh3bV9WLWZtdWJCNl82Qmx0TkxIbk9sc2NMQ1hUQ2RVYWpIdlFIYThRVllYV1p2aFZiTGFfaFJEUWNDTXZhZ2hR?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:58:15 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:58:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "why can t mumbai replicate indore s success in cleanliness asks hc bats for garbage free r",
+      "title": "Why Can't Mumbai Replicate Indore's Success In Cleanliness? Asks HC; Bats For Garbage-Free Roads",
+      "summary": "Why Can't Mumbai Replicate Indore's Success In Cleanliness? Asks HC; Bats For Garbage-Free Roads",
+      "source": "ETV Bharat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVjVoTFVVYURteFpQQmxHMEY2NDVMenZZbG1xcnlXQWQwZ0ZRUWdfajRCdm5uTU0xVWxQRm1mbXlBejBrVVNiYl93c2VfSl9wRGZQOXgtZ2ZpbVFfWUw3NjNvMjcwZGtCRnlhNnVnY1hHQUhWTTd2TlVKandKWE9CWXVuRkt3c3FHYVZ0M054ek5kSk1yMm05NFg3eHF0ckRKQWhhZGE4alJ5cTNrN3pWV2dXQTdFM2YxQ2VQcl94ajZyTHpnYjVKSWJmVzBKR2gyM2E2UjJGc3lyZGUyTjBMMi1JNUMyLUhjNkxTeA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:54:53 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:54:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ETV Bharat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
+      "id": "maharashtra rain alert कुणी तरी येणार गं पुण्यात पावसाच्या हलक्या सरी कायम पुढील चार दिवस",
+      "title": "Maharashtra Rain Alert: कुणी तरी येणार गं! पुण्यात पावसाच्या हलक्या सरी कायम; पुढील चार दिवस...",
+      "summary": "Maharashtra Rain Alert: कुणी तरी येणार गं! पुण्यात पावसाच्या हलक्या सरी कायम; पुढील चार दिवस...",
+      "source": "navarashtra.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMldnTmxLWlZxNzE1WTR6aEZYUW5VOWl0SkZRTXQtUVZ3c1ZyeWtFcGJTTWRXYzYwYXhYcnlJWk5qREMyb1ltSzR3cGNGQVQ4UGxIZ3RVYllnMWhhUzRhUDVia2JPWmVkazFfRFhFV3JRc3JNYkUzQU5tOWMyTkxpbU96ekp1azRYT3lDN3hXMkZibHF0ZFJjYUR6Q0ZjdXV1MHl1WUhtQVlnd2dseGNXV3Bka3NEUWhMbTF0U2ZOZnRCQzk2bGU0OHdYZlVPaWxkVVdTM3NUeExpSHVBemFfcjNBTE9SeGJHRmc4aVBlQdIB9AFBVV95cUxQQVE4THRoZmE0aHlnTi1KTG1RMmJsV0QyVmRuWW5VODEwTjR0cDlSb0p4cmtOWnBmaG5BZVViakpjNE5tUFNjdy1DeTBleFp1bWlZNWlzLUdrMXFWM1JSSGhwcmlHM3Bsd2Zuc0RjcklHOWEwSUM5NVRsQUxHd1ZwTEVTaXlsbjd1TEdmdzZqVjl6NmlzOFBQSmVaVkpWSDJ4MHM5Zk16eVVKMHBJZEtuRkFuMU8wcGNJMjBBdU5CeWhrV0dBdWtjY3FsOEJ2WE14bDk1SDJkLVBxUU1XMDNPVkQyN1JRejgwNVJHQ1RCMHVWSzJK?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:19:18 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:19:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "navarashtra.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "weather पुढील १० तासात धुव्वाधार कोसळणार पाऊस १५ राज्यांना पावसाचा हाय अलर्ट",
+      "title": "Weather Update: पुढील १० तासात धुव्वाधार कोसळणार पाऊस; १५ राज्यांना पावसाचा हाय अलर्ट",
+      "summary": "Weather Update: पुढील १० तासात धुव्वाधार कोसळणार पाऊस; १५ राज्यांना पावसाचा हाय अलर्ट",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTVzRk9Rc2VaTU54Z0wyVkpKSmtYd2VhalZlclFfajc5ZFZmY01KRzV5dHpvdGhpbGpWcC1ZVEphSVlveVhkeEJJVnl0XzkyLWhXTWZucnNjYnAxM3BsV19iQWR0NzNBamx6aWdMMEE2WlNuMmM1V3RmN0lkblJRbTRtYXBJdDZTc2cxS2hlRTZNdjFWQUV1QTZFY1hSOHhOUTVvcnFwRXNVTWVZd1dOQXNWZU1YVHFNY0ZCNHNsdTMxS0k5cmI0UU5CQWlRSU5ZWXkwd0ZGMFBSZGFWZ2pBWEdEdmJibXN1TXJOcFNVV1FZTldVN0tld1JORUY4UlBWWEN4UFp5NjRkZ2c4eGVxdjRFUTFQTmZpTFRIeXlzR29oSE3SAaMCQVVfeXFMTTk1c0ZPUXNlWk1OeGdMMlZKSkprWHdlYWpWZXJRX2o3OWRWZmNNSkc1eXR6b3RoaWxqVnAtWVRKYUlZb3lYZHhCSVZ5dF85Mi1oV01mbnJzY2JwMTNwbFdfYkFkdDczQWpsemlnTDBBNlpTbjJjNVd0ZjdJZG5SUW00bWFwSXQ2U3NnMUtoZUU2TXYxVkFFdUE2RWNYUjh4TlE1b3JxcEVzVU1lWXdXTkFzVmVNWFRxTWNGQjRzbHUzMUtJOXJiNFFOQkFpUUlOWVl5MHdGRjBQUmRhVmdqQVhHRHZiYm1zdU1yTnBTVVdRWU5XVTdLZXdSTkVGOFJQVlhDeFBaeTY0ZGdnOHhlcXY0RVExUE5maUxUSHl5c0dvaEhN?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:05:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "वारकऱ्यांसाठी आनंदाची बातमी पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत",
+      "title": "वारकऱ्यांसाठी आनंदाची बातमी! पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत्री वारकरी महामंडळाच्या माध्यमातून मानाच्या १० पालख्यांसोबत सहभागी होणाऱ्या दिंड्",
+      "summary": "वारकऱ्यांसाठी आनंदाची बातमी! पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत्री वारकरी महामंडळाच्या माध्यमातून मानाच्या १० पालख्यांसोबत सहभागी होणाऱ्या दिंड्",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95U2VYZTJDT2R2ZGZ0NUlHclFkbUpFWXZoM3RHVWhSbHFxR0FabHdieVpxMWdjekh2MVVtTGdUMGV0Uk54MnRYcFdZSmxrNlh6UVE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:42:26 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:42:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather पावसाचा ब्रेक उन्हाचा तडाखा महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज 21 जुलैनंतर",
+      "title": "Weather Update : पावसाचा ब्रेक, उन्हाचा तडाखा! महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज; 21 जुलैनंतर जोरदार पावसाची शक्यता",
+      "summary": "Weather Update : पावसाचा ब्रेक, उन्हाचा तडाखा! महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज; 21 जुलैनंतर जोरदार पावसाची शक्यता",
+      "source": "Lokshahi Marathi News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXVxZ3M0bTRqVG9zOGtRaDRfblZwcWs2VEExV04zQ1VLV3AyT0doSlo1M0RFRFRFWlJwOXNwaTVVcWVXMzBLdXVGX0dWX0xkdVJKaHNJclRYYTVrLTFXM28xbFNiZVB5cFdYZHRaODRSZV9aTXZGNlhqM3g5NjVfUElIa1ZiM2hWamR6eEVJMlFfU0x6UnpYc2hQZms3bTdRZ3lRbDFLTllaZThaUnk1RUtnbTZocTFUMGI0aWs5emtnTE5LNV83Xy1mOHh2SUgyOVBOa3pnOUJkRUY4Z2t3MUR3SlVfYzDSAecBQVVfeXFMTVF1cWdzNG00alRvczhrUWg0X25WcHFrNlRBMVdOM0NVS1dwMk9HaEpaNTNERURURVpScDlzcGk1VXFlVzMwS3V1Rl9HVl9MZHVSSmhzSXJUWGE1ay0xVzNvMWxTYmVQeXBXWGR0Wjg0UmVfWk12RjZYajN4OTY1X1BJSGtWYjNoVmpkenhFSTJRX1NMelJ6WHNoUGZrN203UWd5UWwxS05ZWmU4WlJ5NUVLZ202aHExVDBiNGlrOXprZ0xOSzVfN18tZjh4dklIMjlQTmt6ZzlCZEVGOGdrdzFEd0pVX2Mw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:00:52 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:00:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokshahi Marathi News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "४१ मिनिटं शेवटचा फोन अन् कायमचा निरोप s heramba ends in the gulf",
+      "title": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
+      "summary": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2NxWEZVTVBIUGV6R19fQWo1WVowWjlkeWUtaFBFZFNNaHRMQmRYT2ZnRjJDSnJmNXVUMDU5NThpbFFrck1qREgxSVJyVXZYNTJDT3FjZnV4bXFIUnNzdU12UHFjeHdOTTRnckw1aHZ6QW9kelJUdnBnQ2wtWHk2YjlOdl9DQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:56:23 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:56:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "weather तो पुन्हा येतोय राज्यात पावसाने घेतली विश्रांती उकाडा वाढला 21 जुलैनंतर पुन्हा मुस",
       "title": "Weather Update : 'तो' पुन्हा येतोय?' राज्यात पावसाने घेतली विश्रांती; उकाडा वाढला, 21 जुलैनंतर पुन्हा मुसळधार पावसाची शक्यता",
       "summary": "Weather Update : 'तो' पुन्हा येतोय?' राज्यात पावसाने घेतली विश्रांती; उकाडा वाढला, 21 जुलैनंतर पुन्हा मुसळधार पावसाची शक्यता",
@@ -454,6 +634,50 @@
       "region": "pune",
       "sources": [
         "navarashtra.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rajesh vitekar अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "title": "Rajesh Vitekar : अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "summary": "Rajesh Vitekar : अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUNoSkRXQVh6SDJJNGw4Sl8wSTNaNVJPdzNyWjZHUnZEVGQ0dWZpbEw2VWpaNVlRUnhKd0RYYUR0MmZxSzZSZTEtbUR5UC1meDZSMzBSc2JIbFFoakw3WXFGY2pDemVsTXM1TnBKYi1qLXhjSFNRSDlHUnQ4Y2FGRy1jVklTWkJkZ1I3Vm9fSkFWbktaa3VZZUNlZWdsVXJUeXZfWHZrTjNXNExpZ0gtUkVRdTRXUXRCWjdlSWxVS01INWV0S3lLaDV6SkxqajTSAc8BQVVfeXFMTnFDaEpEV0FYekgySTRsOEpfMEkzWjVST3czclo2R1J2RFRkNHVmaWxMNlVqWjVZUVJ4SndEWGFEdDJmcUs2UmUxLW1EeVAtZng2UjMwUnNiSGxRaGpMN1lxRmNqQ3plbE1zNU5wSmItai14Y0hTUUg5R1J0OGNhRkctY1ZJU1pCZGdSN1ZvX0pBVm5LWmt1WWVDZWVnbFVyVHl2X1h2a04zVzRMaWdILVJFUXU0V1F0Qlo3ZUlsVUtNSDVldEt5S2g1ekpMamo0?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:08:48 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:08:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "सेफ फूड सेफ ड्रग सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "title": "सेफ फूड, सेफ ड्रग, सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "summary": "सेफ फूड, सेफ ड्रग, सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUHE2MTBpSWt1UE9iSmxRQXh0VVFwX1BERzVUSm1nZ1h1czRJWlZsU3QxZUJPMUpyY0NrdklKT3poejZnVXZBNERQdV9GdXNIOVV1cHlmWXNkN3l2ZXZfV1Q5V08xWTlTRFozdzlXZVdISEJCdjFGemJrNWh0ZXdrMjBCVV82Wk5uYUFMWV9TaHBwWGVuWjAtNHRjT19rUlh4V2lUZ2tzXzN6OGZSaVBhUHozN0FCSkZSWUc3cEpad1Mtd1RBMGZBMzZ2cTN5OTA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:07:36 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:07:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -538,9 +762,9 @@
       "summary": "घरातली लोक झोपलेली, दाराची कडी लावली अन् स्मार्ट मीटर बसवून गेले; महावितरणचा गजब कारभार",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlprUGJWVHVJbF93UV9oOWo2ZWVBd1IxUzNacUdmeDhmSjE3ZGt1Y3p2dl9HUzJpNVBfeXB3Q3AxSGNyOEF3V2dqQTAtTUhLQjlsYi1tMWg2NXF4UkQ5QTU0UUdWeFkxTHIzQXJESFZJTi1zZDJtUVJteEtwRG1obW9uTHVCdUk5NE9yVFVGOHdrY1ktUTdoRWItUUhJX19SLThWejM5eG1NQlpTNkVSaDJVYW02ajEyR2lvNGpKS3lDTUFkRkNOdFRYa0VsU1NVd1o4dNIB4gFBVV95cUxNVEU0Ukt5TEEtU3lPZXNCM3MzOU1ydFF5QUZsZzRLaVhpWk1EelVlSHZwV29XSVk0ajRWZ1dQdWRNUkk1NXZqMTQ5Z095cjNvM05QNC02NzVVMkQ1c2lwd0RoUGNVR2NVSVJvbHdjQS1xQkREN0lGR1F3blpqMDFTcjVhdm5sdzVyU2VEWEIwWVc2MFlwMXpDaG56ekNGSGgtcGlHM3J4WFc5R0lKalN0ZWplWkExQzVXeUJQT1FHdEd0SGxGVy1oTXdFZExqUmltUUo4MXM3MExpRjRYZjI4X0hB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 09:45:09 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 09:45:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEU0Ukt5TEEtU3lPZXNCM3MzOU1ydFF5QUZsZzRLaVhpWk1EelVlSHZwV29XSVk0ajRWZ1dQdWRNUkk1NXZqMTQ5Z095cjNvM05QNC02NzVVMkQ1c2lwd0RoUGNVR2NVSVJvbHdjQS1xQkREN0lGR1F3blpqMDFTcjVhdm5sdzVyU2VEWEIwWVc2MFlwMXpDaG56ekNGSGgtcGlHM3J4WFc5R0lKalN0ZWplWkExQzVXeUJQT1FHdEd0SGxGVy1oTXdFZExqUmltUUo4MXM3MExpRjRYZjI4X0hB0gHiAUFVX3lxTE1URTRSS3lMQS1TeU9lc0IzczM5TXJ0UXlBRmxnNEtpWGlaTUR6VWVIdnBXb1dJWTRqNFZnV1B1ZE1SSTU1dmoxNDlnT3lyM28zTlA0LTY3NVUyRDVzaXB3RGhQY1VHY1VJUm9sd2NBLXFCREQ3SUZHUXduWmowMVNyNWF2bmx3NXJTZURYQjBZVzYwWXAxekNobnp6Q0ZIaC1waUczcnhYVzlHSUpqU3RlamVaQTFDNVd5QlBPUUd0R3RIbEZXLWhNd0VkTGpSaW1RSjgxczcwTGlGNFhmMjhfSEE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:45:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 09:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -674,28 +898,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग धुरामुळे वाहतूक ठप्प मुंबई मुंबईतील कोस्टल रोडच्या ",
-      "title": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग; धुरामुळे वाहतूक ठप्प मुंबई : मुंबईतील कोस्टल रोडच्या बोगद्यात एका कारला अचानक आग लागल्याची घटना घडली. बोगद्यात प्रवेश केल्यानंतर काही वेळातच क",
-      "summary": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग; धुरामुळे वाहतूक ठप्प मुंबई : मुंबईतील कोस्टल रोडच्या बोगद्यात एका कारला अचानक आग लागल्याची घटना घडली. बोगद्यात प्रवेश केल्यानंतर काही वेळातच क",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUng0RGItT3RLbFJVZlJoeHVLM0xNS21UYVprUnlJLWxYMmJtZlJsakMtWEpnVkc0dUsyTlJwTVJYNDBXdWtaLTB4ekFtTTVrSVJDcVBn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:44:48 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 08:44:48 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "मोठा अधिकारी पण पैशांसमोर झुकला चाकणमधील पोलिसाचं नको ते कांड शेवटी रंगेहात पकडलं",
       "title": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
       "summary": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
@@ -708,28 +910,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "४१ मिनिटं शेवटचा फोन अन् कायमचा निरोप s heramba ends in the gulf",
-      "title": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
-      "summary": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2NxWEZVTVBIUGV6R19fQWo1WVowWjlkeWUtaFBFZFNNaHRMQmRYT2ZnRjJDSnJmNXVUMDU5NThpbFFrck1qREgxSVJyVXZYNTJDT3FjZnV4bXFIUnNzdU12UHFjeHdOTTRnckw1aHZ6QW9kelJUdnBnQ2wtWHk2YjlOdl9DQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:37:32 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 07:37:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -774,28 +954,6 @@
       "region": "pune",
       "sources": [
         "TV9 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन पुण्यात बरसणार का सरी हवामान विभागाचा ",
-      "title": "Pune Weather : राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन, पुण्यात बरसणार का सरी? हवामान विभागाचा अंदाज",
-      "summary": "Pune Weather : राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन, पुण्यात बरसणार का सरी? हवामान विभागाचा अंदाज",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0FubzcwSk9IbnFLbWxmb0tBX0VtWDAyYnVoYmtVdGgxZW4yWDZVcVJZUE5EeTg2V3ZmRllMUUpNbGhzRm5EeHktRThxUzJBNG1abTRnX2tRRkJUaE5ScmVGeVE2MEExVkVZR3lISXYtNXlpR0JGcDVfMktJbmZnRF9tdWwzWnRmNzhWSnRBMEM0ZGJTYzU5REplODZ3dDA4aXN2ZTJIRDRYUWlsamhhYXluR1lIc0djY1F0WXNjZElBRTNubWVJcw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:53:07 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 06:53:07 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -851,6 +1009,28 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई ",
+      "title": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग; कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई: आनंद नगरमधील भजनलाल दूधवाला यांच्या दुकानाजवळ उभी असलेली बॅटरीवर चालणारी इलेक्ट्रिक दुचा",
+      "summary": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग; कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई: आनंद नगरमधील भजनलाल दूधवाला यांच्या दुकानाजवळ उभी असलेली बॅटरीवर चालणारी इलेक्ट्रिक दुचा",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMM0p1R0l1WUIyRVdJZVhpTUtZLUxkNFRuM0QwcmRjQ01FRjRzZG9PcWkwUHdjRWpUOS1iNmhIVk9BdTBtZ1kyX2lVbHp6WE9ZZkpFN1FR?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:09:34 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 06:09:34 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "maval tourism निसर्ग पर्यटनाला रक्ताचा डाग वाहनांखाली चिरडली जातेय मावळची जैवविविधता",
@@ -1039,28 +1219,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather आजचे हवामान हवामानाचा युटर्न या जिल्ह्यांना विजांसह मुसळधार वादळी पावस",
-      "title": "Maharashtra Weather Today (आजचे हवामान): हवामानाचा युटर्न! 'या' जिल्ह्यांना विजांसह मुसळधार वादळी पावसाचा यलो",
-      "summary": "Maharashtra Weather Today (आजचे हवामान): हवामानाचा युटर्न! 'या' जिल्ह्यांना विजांसह मुसळधार वादळी पावसाचा यलो",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU0VlUkxQTHc5VjExc211WEgtMjN0V0c4RldTeFlrcDF5RlVWVnY1akc3anpDcnc4bXlpdkNoVkxMZFlxZl9jTE1nRXZ3RW5CQU43QmtGY1JqeThRcDNJRXVDTVBGS2VFbkozUHRLRjNsdVJfZjlfMUs2OFJFdXVvN05sV0dWNnhlZEhlTW8taTJOZXpVRkhEM1VZRldvQmdWajF0NDNCclhhVzc0MzR6V21HWjRjdFJtWWIxNmpWTlVDbDdxVUh4NGlBQlplUEpFNkJ4QUVGS2M5TXljYkNzRDNKa1ktNVdVMUNqRnFxNG1Wa3NpWnl2U0xROWNKTkRiZGZuOXp30gGLAkFVX3lxTE1ZVkNyZ1lZQ1lzR0JtdVZ3Mkp0RkRsdUwzem1keWFYM3F6ZzI5cnBHdzdlRHdWMEoxb3dIUjQ3aXRfMlRIZFdaTU9HNk9JNE16dVNUMVlnakhYMUFzRG5RRHFIZFVfbVdzMkdqSE9zTzNiTHZfaWhKcmpUc3FPcEU1NHlNZVhmc0tka1oyeG5heGJhci13MGJsWVp6ekJ1Wm1hNUkwM1Awb042QWJfQ21MYmtXdnhCSUZ0VERBcHVJRUNKdkFDemRjTWdtdU9RUHh1Qjc2dVhXRTNWVUpReGZkdGliRzZWWWVSeTFBbk1jR21NR2pPV0VVenRfWEJzUWxWR3pLY2hCXzg2QQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 02:08:14 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 02:08:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain",
       "title": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
       "summary": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
@@ -1133,28 +1291,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणेकरांना मिळणार नियमित पाणी २४ तासांत यू टर्न काय घडले",
-      "title": "पुणेकरांना मिळणार नियमित पाणी ! २४ तासांत ‘यू-टर्न’ काय घडले..",
-      "summary": "पुणेकरांना मिळणार नियमित पाणी ! २४ तासांत ‘यू-टर्न’ काय घडले..",
-      "source": "Loksatta",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVp6ZjI2QzcyM1JrQTVtaXEtMTNQWUVCNFozcFdqY0hQTjMteWE2cHNza0F6N3ZaOEdxdnBhNjYwZnZ6MWFkRU9TN1BjSklCdnNJOXJxa3JLU1FVcGxielpENGM2d0NUUkZORVVqWWJWbkpWVWIwU1FySU5JWkFPM0JkZ1kzYjdHMzRxMUFGdUtSX0dIR2l2QzBCYnMxMmQ3UjFIc3kwdVd5eHVRbE5TRi04clZXTTFGX3FiVHYtYUQ4UWvSAcoBQVVfeXFMUDB0bWx6Q3lSblo3ZEt6amFOcHV2dE5mNnNpQXh3TmI3ZV94ekZVRjBwNmltOHA1VmxGZDlWWEFWR3BXeWtiMDc5S2QtY2VvWFd2OHhIaURUc0Q4VHNKVUR6ZWM1MjlTS0hmcVo4OVp2clVfUnlsLWhoalhhT3A3Ynd2UUU2VVdnV3BTUVpBYUtlc0lmeTZ2cXRPSmQxb1hNMFlpNlpuaF9XMlQ0VENyZFFwc2ladUEzZzE0MW1LaDEyZ0Y5eUNzMW9Ndw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:59:45 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 01:59:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Loksatta"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "sangli loadshedding बोरगावात लोडशेडिंगमुळे संताप",
       "title": "Sangli Loadshedding: बोरगावात लोडशेडिंगमुळे संताप",
       "summary": "Sangli Loadshedding: बोरगावात लोडशेडिंगमुळे संताप",
@@ -1202,28 +1338,6 @@
       ]
     },
     {
-      "id": "बावधनमधील hemrl वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला महामार्गावर धोकादायक मर्जिंग पॉइंट पु",
-      "title": "बावधनमधील HEMRL वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला; महामार्गावर धोकादायक मर्जिंग पॉइंट पुण्यातील बावधन परिसरात HEMRL वळणाजवळ रस्त्यावरील डिव्हायडरचा काही भाग कथितरीत्या तोडून",
-      "summary": "बावधनमधील HEMRL वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला; महामार्गावर धोकादायक मर्जिंग पॉइंट पुण्यातील बावधन परिसरात HEMRL वळणाजवळ रस्त्यावरील डिव्हायडरचा काही भाग कथितरीत्या तोडून",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dWF5ZHZidmktVWxENGxyOTk5dlktNEJzbExCLUUwWnd0R2NJQy1xWWhibVh5ZS04SldjZEoydjBxODhDRnZmY09pMkVpQmRidC11dHpn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:29:57 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 00:29:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "राज्यात पावसाचा जोर ओसरला विदर्भात विश्रांती तरीही पुणे साताऱ्यासह 17 जिल्ह्यांना हवामान व",
       "title": "राज्यात पावसाचा जोर ओसरला: विदर्भात विश्रांती, तरीही पुणे-साताऱ्यासह 17 जिल्ह्यांना हवामान विभागाचा अलर्ट, ...",
       "summary": "राज्यात पावसाचा जोर ओसरला: विदर्भात विश्रांती, तरीही पुणे-साताऱ्यासह 17 जिल्ह्यांना हवामान विभागाचा अलर्ट, ...",
@@ -1236,6 +1350,28 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "unchecked scrapyards around midc areas raise safety issues",
+      "title": "Unchecked scrapyards around MIDC areas raise safety issues",
+      "summary": "Unchecked scrapyards around MIDC areas raise safety issues",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeEVlNk5JR25OS25Wb1dWVEdKcW5XcnktYXgxQm1JdFdjTXZmTFlCYnlkLUVrQm1sMWpSaFA3WXh4eHVBRERDYzlXYzJTaF81S1RCZlpQaHVROFVEX2RMcVp0WTZiSVkxQXQ1VWp6VmpXRXFUTUNNMF9yQUNrbUVIa1ZlcURQbzdiUmdyRDZKTV9GZG1qM0psV0ZadUtpQWxoNGJWY0hOS1BhU3RZQmZDa0RKUDFsQldMM05yQ21remt5QUlqd1lmWFd1YVVMenNBMS1GT2t2V2lxUWR4Q0c1V256V2ItVVNQOEc0eEFHRjBveGk1VHhrS0JQS1ZGRzVfRVMwcjRnb2NvcWNTQ3hSQ05sVkNYZlFUT2J3QVk0Zm1vSWNicXBFVWxRSDN1LW8xdmwxekhNMm1yTkVKbEtFbXBR?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 22:01:19 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 22:01:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1348,8 +1484,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQW5VZmhPTFJraUNMd0xVNC12VDJvbkUzbkJLM1N6MldtYWxUM1VyWnh6dHdHR0tTVnJlRkdQdDA2dXBSVFlFaVNJQ3pMdGNWTmFpZlVJYlZldnRlWnY5R0tpbUphekF3Slg5bFh5V1JIU0pDNlk0V29jbExtTXZKVXFWTHJTaG5XS29MVDR2SGtsa0hZWU1lZGRZU0hSbVBJTkZxR0Rybm9xNGRxYUdoUDd4al9tVkhqZkFDcmVuR0M0N1A1R1RrTkQwbldMdjNLeS1telVBOUxKcGxwOVhlNk5OWElFU2NqdUx4QS1Nc1c?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:02:42 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 15:02:42 GMT",
+      "pubDate": "Tue, 14 Jul 2026 15:02:00 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 15:02:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1409,163 +1545,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "maharashtra rain alert थरकाप उडणार दुष्काळाचे संकट कोकण मध्य महाराष्ट्रात मेघगर्जनेसह",
-      "title": "Maharashtra Rain Alert: थरकाप उडणार! दुष्काळाचे संकट? कोकण, मध्य महाराष्ट्रात मेघगर्जनेसह...",
-      "summary": "Maharashtra Rain Alert: थरकाप उडणार! दुष्काळाचे संकट? कोकण, मध्य महाराष्ट्रात मेघगर्जनेसह...",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGtzY2RZTWF4N09ibXZxbnF6UWlzV1JncHJrU1FNRFJ0RTJQQW9LcENaY2JURzRFOVY3REd0WV9wWjFkSXA0c0ZOUkFVd1cybVhjbkpIOWI0NmZJeWdrTThwdTJ6a2J1Mm9rTmp0NHZYS3d1b3phUXFwN1JrZGNtUmVQTDcwc19uQkZkZS1JMWFoOTJkMUdhbEVpSWRaTlNzX0FTMVhBTm10SXBKbjA5U0xLXzktOUNxMnNXR3dIVTIyUE90dnJYNzA1MEpFZXQ0cXVVUU9EblltLU9IVndwcm9VOHQ0TmfSAewBQVVfeXFMTmNXejhRaFpyLVNIT2k3WEU4cjkxUHp0cU9Ua1hXb1paMGhlTEZxMUFvUXh6U3dkWWZWa3VrSmdSNWRFU0ZCQ0Y2clYzNFByY01XRUN1OXZadFFYZGlGcklkaUVxQ1ZYVlNmTXNrakFIWk9fbV9hTFNFZkZKOVB6d0k1TG1nZ1c0OFJ0SGNIYUhBM0ZoZEFaZXdIZ283WXh2R09TWWlHNXFzSGU0T1J1Q2E5a0JjeHYtd1B1Zi1DV0hmM1hOdXBhTG1BR1FsTWFfYl9obmdrWklObzFrZDF5am5YamJlRVQ3MlpUNWo?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:25:35 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:25:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "pmrda razes 680 illegal tin sheds across 35 hectares in biggest demolition drive",
-      "title": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
-      "summary": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
-      "source": "Punekar News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUtzdE5rNGE5ckNLMXd0LWVZbmhRNzFnRTdxcktWVWNtblVFMWNMWnNSbUhCX0NTclFldE82bGJ5bXFEX2V4TlFyNGZDTmg3NWIzNmo5OWE0Z2tFOVFaNG5PWjFnRloteDRtUFdoTFZUdEhGNEV0czBneVp6MFdsTy1vcWR4d1RZODRDZTQ4VE5fM2xkTzZmUGo5aVhFQXpOUGFiaWVUWWdxUjdk?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:08:23 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:08:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Punekar News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "चीनमध्ये पुराचे तांडव जनजीवन विस्कळीत",
-      "title": "चीनमध्ये पुराचे तांडव, जनजीवन विस्कळीत",
-      "summary": "चीनमध्ये पुराचे तांडव, जनजीवन विस्कळीत",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGs4bnYyci0wVlJLb3RfZ0JhTi1ObjdLSkVNUGJOQzVyekZJWWRxTjRiVFF4RWJ4Wk9ER25tQmFZUkFfV0stT0ZIdjJ3dVZsNlM5d2xGejlxcHFmeExTM2V2T0cwT0FMck5TUTBqblI4X2lmc1dXc190MkM0M09wdWVnNXVfOGlHNXNGQXRGWVNIZ2dzbGgtUHVB?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:07:30 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:07:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली झोपलेल्या व्यक्तीचा मृत्यू चालक अटकेत ",
-      "title": "पुणे: वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली; झोपलेल्या व्यक्तीचा मृत्यू, चालक अटकेत पुणे: हडपसरकडून सासवडकडे जाणाऱ्या मार्गावरील दिवे घाटाच्या पायथ्याशी आंबेकर लॉन्ससमोरील",
-      "summary": "पुणे: वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली; झोपलेल्या व्यक्तीचा मृत्यू, चालक अटकेत पुणे: हडपसरकडून सासवडकडे जाणाऱ्या मार्गावरील दिवे घाटाच्या पायथ्याशी आंबेकर लॉन्ससमोरील",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xeHBwRVRBWmFXX3UtYUN6NWo4bzJ4RU0tWUt1RWpuYmRrR0tPbnpJSzJvWGs1SWs1N0k5Z2JjX0NRejZCaFNuMk9yQ0ZjelFPeUE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:02:54 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:02:54 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय आर्थिक शॉक कृषिराज चौधरी य",
-      "title": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय 'आर्थिक शॉक; कृषिराज चौधरी यांच्याकडून वीज पुरवठा खंडित न करण्याची मागणी..",
-      "summary": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय 'आर्थिक शॉक; कृषिराज चौधरी यांच्याकडून वीज पुरवठा खंडित न करण्याची मागणी..",
-      "source": "Pune Prime News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdDduSDUxZGlkbGV1SE1FZ2MyYkcxOWpXYzYzZ0hxd3JONU43Y2pEbGFHZjZXSWw3WVpTTWkydVJxYjJuLTJsZVZ1US1YVkJBV3NzY2FyLUlzS2lqeV9ZLXNRN3FVVVU4VElqRHZZUFJITGZ2UldZUHY1cmlxLUpDNDhURzgyYjZWYU5uRnhWdzZZQ0xRdzhPbHNyNmZKQ25pM2RzdWU5cExwY0Z1TEJVSEpXSTFiS0JENjlBdHBIbHRDMHQwUjZxQVhsZmxkUU5uN3kzNDlyWDhMNElaZ2M0MkZ6eWhmMXg2YXJlbEZvYUdmZUJRWF9Tb1NySHVwWWp0T2FtMGFqbGRPc2pjdG5PZExBb29JNnRQa01KYXVGamNjNjRkVUhkTnJkWm42aUJzWUxGT0NGOHJyYUhqb2JXRjFSdUFHalFMMFEzX1EzR1RJcmlFcm5fRnEyY1Y?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:02:27 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:02:27 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jalgaon no compromise on rural healthcare quality zp ceo karishma nair tells health offici",
-      "title": "Jalgaon: No Compromise On Rural Healthcare Quality, ZP CEO Karishma Nair Tells Health Officials",
-      "summary": "Jalgaon: No Compromise On Rural Healthcare Quality, ZP CEO Karishma Nair Tells Health Officials",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbklPYkRJY2JTV19PdEVaMnNqLXNLWWk4b3lyeXc5QjVkU3c0QnR4ZW1oTk5sMG5ObjJOdFJmQ0NlWC13ZjdFTnNfVGxHTHVfbndfMGdKdXJPenlFZWVRVkQ1dVpDelNUZ09FY05tOXhCZXdjMlhSaE85dXpQaktrZkotZHg2U3o3UUpabWhMMXFpdmFUVXN4WFNvZlBLWXIzR2RlemU1TnZzYXZwX1o5TVhweWM3a3c4RFI5dHA5YXVhWnJwakR0Mk930gHPAUFVX3lxTFBFa2VmdEpkdUdRaTZkbkhZZmlXcks1RU9KajdVaWJLc2JQb2k2Q0ppaldpM0lBZDR3VnZ3MTdDeDJEWGNuLXAtSUxfUFVEZHEyXzN2NG1kdHJiZjBMeHVwZXVDREdya1FqTWxheVJEYXI2bmdEUXY5ejNELVFWbm0xMjV2TlBCRzhrZzFnMVdEODhlbnE3VXQ2Nk5iNjZVUTF5YlZWTEUzUFUteUhxdWFQTXpqUGRfVWpqRHBYbTRhOTBYajFVQXFuVHM5VWwyWQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:00:55 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:00:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "man attacked with laundry bat another suffers nasal fracture in separate family assaults",
-      "title": "Pune: Man Attacked With Laundry Bat, Another Suffers Nasal Fracture In Separate Family Assaults",
-      "summary": "Pune: Man Attacked With Laundry Bat, Another Suffers Nasal Fracture In Separate Family Assaults",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlpNVzlrNTBkblB2eTZVbW1CZExkMWFKNGw1NkUtc2ZoUkRUc0w1WHBJb21XTE1uVjh0eFJ3QTdNRTd4T2hzZFZCUjFjWFlIcWQ1VGJpOUF5eHRsaFV2T2VYbTh6OV9HZ2R2Q3Q3RjZZcnZTMVpjQVYzM1ZhODNSSXBSSnhQTWlTcHQ5b2VwZXpid180eDVfUkVRWGo3anpORFY0TUcxWVhsWUFtcmtMbGZyeXp3aUlvNkVxajhFVWtWcHh0Y3NtbjRB0gHPAUFVX3lxTE10clRjeFUzMWRxOEJRVmpYbERFU08tb2kteGEyalNwS3VWWFlPeFRibkRqeXJpa0hsUHY5Wjdxd1piZm1Xa1I2WmYxLS1OdVFZenU2NnptWnd3MFdhVmZmdEY0MHozaXl5T3FNMzIzOFpSS29aU0o1d25nWE4xakwwZ2hMQm5GQnhlQmFxbndUd1JEOS16bFVyU2dfMnEzNVZyQlJQMHhUQmFpa1pTN3RQMHVxQmNDdEpkTllDeFhKRjNpellSYTdUWTU0TURmQQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:56:13 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 12:56:13 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1625,6 +1604,33 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "landslides disrupt mumbai highway and train services",
+      "title": "Landslides disrupt Mumbai-Pune highway and train services",
+      "summary": "Landslides disrupt Mumbai-Pune highway and train services",
+      "source": "The News Mill",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1lLNHBmT1I1eTB4NUM4Tld6UjNBd2NqbFIwXzJlSnFoVXl1TlhsZ0FGSWhsUTcxR1BRRnZrS2Y0TmpYMWtGZ2dzU3Yxc0ZWbEhPRlBlcTE4bWIwMTRfaHczaGhIQmlKUWthX1JGM1ptSEVTTE5vZXVfSFZoRThCOXExSkU2dC1acklGekZSWnExQzlaeEdYQ0VGNVpYeEd2RVJ1LXluUTBzN0t4dEZLRmRvdw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:32:14 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 10:32:14 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The News Mill"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
       "id": "mumbai coastal road fire मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट 500 हून अधिक वाहने ",
       "title": "Mumbai Coastal Road Fire: मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट; 500 हून अधिक वाहने अडकली, जीव वाचवण्यासाठी...",
       "summary": "Mumbai Coastal Road Fire: मुंबईच्या कोस्टल रोड बोगद्यात कारने घेतला पेट; 500 हून अधिक वाहने अडकली, जीव वाचवण्यासाठी...",
@@ -1637,33 +1643,6 @@
       "region": "pune",
       "sources": [
         "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "mumbai car catches fire inside coastal road tunnel causing panic among motorists videos",
-      "title": "Mumbai: Car Catches Fire Inside Coastal Road Tunnel Causing Panic Among Motorists; VIDEOS",
-      "summary": "Mumbai: Car Catches Fire Inside Coastal Road Tunnel Causing Panic Among Motorists; VIDEOS",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclU4SkNHZnVJcHlPNjZGdTZtdWRtaW9SNHBjcHpEOGFMRU1NSVhaZV9UckFGYmItLUx0Q1R6UlBXRU5DTFU0XzVVanU4ZnMzT3cwbFNpSVY0NGhGM2JNSWR3clhIQWVWT0hydEFQX3U2dlFqMUtYbERGUFRiMlgyNGF2bDlRaFY4NWZOS2x6MmNULXBSVkZoVWh2SkY5M3h2NTdqSlNSRVNObjBRQ2g0YktJb1ZqUERwM1QwU004NENvSTBh0gHKAUFVX3lxTFA5NFQtaGxyNUpmNjk5d0hDZy00TGF5bDhFTzNXYWp0YUd2T0NwSFdpMVNKa0xpSVdqMVl0VlBQdTJpcnpBZlplM3F0X243NmZkY2MxVU92REZ5clNRQWpTdlR4cGNLVWFIY3RWT0pKLUhzZU5RSENBR3NqSS1iZU10VnJ0bFVzRk81ZVFhRG1TNkZ3X050V0tFMVlzbGlxOEpnRGFjTG1mbTFQSURiTG45aWVuaFd0Z0Y4RDBvZXdPWXpiQXAxVHhuMWc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:17:42 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 07:17:42 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -1818,6 +1797,34 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "adani power msedcl ink pact for 1 600 mw power supply",
+      "title": "Adani Power, MSEDCL ink pact for 1,600 MW power supply",
+      "summary": "Adani Power, MSEDCL ink pact for 1,600 MW power supply",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0VzZzBaMXl2ZTZfX1JqZ0ZsdkRSR0UzS3hVZk1ud3dZZElDbnNOT211b1k1X1Q5aVNKb3JEME9UTUZZeHdXLVRCMWZHVGhVWFl4UndNdWR6S3NCZmxnRTRSdndwanEweno1MXc0aGZVTWpEZG9iRXVXdGN5MTY2cS1wNU8xblZoeFd5VkVrMWFMZ2pFRDFWVFlIaGVRVG1fUnZ4Q0JUcGNKTGg5WmZFcGNtNEFzSEttZkZKLVNrdGt6TXhwVTl30gHMAUFVX3lxTE9qekJQZmM1bFV6RXdJRlZWQk1wOGhia1ZZd3o5T2EtS2RXY284cXdfSlo4b3U2YjRLSFZfcTN3eVNhY0ljVG5iNkdWdk9wTF9OVlNRUjA2YUZpLUhVcGJfRldGbVNOMzVGOTVuWkJLX3pZWWV2cElBVEpnZHotdkR6THpUTXJjSGJYNTlkdEYycHkyczVybHNaR09lcXNDbWs0TEl5VG5MeGhCMFdMMldrUERDOXljWE5oYUdGa0E3c1lqZEVUTl9JVnJwWA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:08:13 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:08:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
       "id": "expressway reopens after debris and water clearance",
       "title": "Pune Expressway Reopens After Debris And Water Clearance",
       "summary": "Pune Expressway Reopens After Debris And Water Clearance",
@@ -1907,38 +1914,6 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "mumbai train services disrupted till july 17 30 trains cancelled 200 extra msrtc buses add",
-      "title": "Mumbai–Pune Train Services Disrupted Till July 17: 30 Trains Cancelled, 200 Extra MSRTC Buses Added",
-      "summary": "Mumbai–Pune Train Services Disrupted Till July 17: 30 Trains Cancelled, 200 Extra MSRTC Buses Added",
-      "source": "Check Cancelled Trains and Alternate Routes - Trade Brains",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3pRbGFUcmNwS3V4dWVtcklMWUdOdUZkSHRrTzBXbzFscmRNSzVXdUpkRmk2ODNJTGl1MTIyek53dWMxcEZ5OG04bFpyRWhhbVVCQjRoZGdYdE9xeE5weE81a2p4Q0phMmRhTFBTUDAteXJRRzdDVldvRENzdXBmVTBMV2JSbzZxZ1JhLXFtVmFBVUNPcXRISEg4dzVQbUUwU3FWd0NJTHUtcjRLOGpjRS04MHd2OFl0T3o2R3p5X284RGtLbGc4ZXBxSVdXenY2M01IOGhQdUluckFod3QtRDlvX3cxMVBncmdFb0w5RklkWkVaeFNFamZkYWo3djNx?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:16:59 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:16:59 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Check Cancelled Trains and Alternate Routes - Trade Brains"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
-    },
-    {
       "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
       "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
       "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
@@ -1971,13 +1946,191 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
       "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "areas": [],
+      "areas": [
+        "Sus"
+      ],
       "region": "pune",
       "sources": [
         "DD News",
         "MSN"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रातला पाऊस गेला कुठे गुरुवारीही पावसाच्या हलक्या सरी 6 जिल्ह्यांसाठ",
+      "title": "Weather Alert : महाराष्ट्रातला पाऊस गेला कुठे? गुरुवारीही पावसाच्या हलक्या सरी, 6 जिल्ह्यांसाठी यलो अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रातला पाऊस गेला कुठे? गुरुवारीही पावसाच्या हलक्या सरी, 6 जिल्ह्यांसाठी यलो अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcUN0T3NWSk9SSFg3UFBOR0VpRVZYLTZnQlQ3RDY5MHQwb0Q5S3BaSk5vVUI4ZVNtS1VKOGswVW5qeEQ2SlNjYmJiWGhwN0hXYXowdzZqcW52TXdFV1llLVdSUWV3Q2pHVGlsX3hXRFVBWWhCWEFadGs3SnktOGwtRENqQVpoWG1xWm5ZU2VpbmlqZFlNbWJzeXkza2JQTTV6VGR3UzIwczNIbHdQclFuUW8tX3AyWlJjNWpSLS1Wa0h4ZTVKNnA1WlVfbnVQcHo4aFM0SzNjVm96M1NTNHFZc0d0NTdNZGZHOVJSZndCd3Y?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 14:10:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 14:10:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मुंबई पुणे मार्गावर कारवर गर्डर कोसळला मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा मुंबई पुणे ",
+      "title": "मुंबई-पुणे मार्गावर कारवर गर्डर कोसळला | मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा–मुंबई पुणे मार्गावर उड्डाणपुलाचे काम सुरू असताना एक गर्डर कारवर कोसळल्याची घटना घडली. सुदैवाने या घटनेत",
+      "summary": "मुंबई-पुणे मार्गावर कारवर गर्डर कोसळला | मोठी दुर्घटना थोडक्यात टळली न्हावा शेवा–मुंबई पुणे मार्गावर उड्डाणपुलाचे काम सुरू असताना एक गर्डर कारवर कोसळल्याची घटना घडली. सुदैवाने या घटनेत",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zYV9aN3BlZ0tyczNtWEh3bV9WLWZtdWJCNl82Qmx0TkxIbk9sc2NMQ1hUQ2RVYWpIdlFIYThRVllYV1p2aFZiTGFfaFJEUWNDTXZhZ2hR?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:58:15 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:58:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "why can t mumbai replicate indore s success in cleanliness asks hc bats for garbage free r",
+      "title": "Why Can't Mumbai Replicate Indore's Success In Cleanliness? Asks HC; Bats For Garbage-Free Roads",
+      "summary": "Why Can't Mumbai Replicate Indore's Success In Cleanliness? Asks HC; Bats For Garbage-Free Roads",
+      "source": "ETV Bharat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVjVoTFVVYURteFpQQmxHMEY2NDVMenZZbG1xcnlXQWQwZ0ZRUWdfajRCdm5uTU0xVWxQRm1mbXlBejBrVVNiYl93c2VfSl9wRGZQOXgtZ2ZpbVFfWUw3NjNvMjcwZGtCRnlhNnVnY1hHQUhWTTd2TlVKandKWE9CWXVuRkt3c3FHYVZ0M054ek5kSk1yMm05NFg3eHF0ckRKQWhhZGE4alJ5cTNrN3pWV2dXQTdFM2YxQ2VQcl94ajZyTHpnYjVKSWJmVzBKR2gyM2E2UjJGc3lyZGUyTjBMMi1JNUMyLUhjNkxTeA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:54:53 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:54:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ETV Bharat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra rain alert कुणी तरी येणार गं पुण्यात पावसाच्या हलक्या सरी कायम पुढील चार दिवस",
+      "title": "Maharashtra Rain Alert: कुणी तरी येणार गं! पुण्यात पावसाच्या हलक्या सरी कायम; पुढील चार दिवस...",
+      "summary": "Maharashtra Rain Alert: कुणी तरी येणार गं! पुण्यात पावसाच्या हलक्या सरी कायम; पुढील चार दिवस...",
+      "source": "navarashtra.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMldnTmxLWlZxNzE1WTR6aEZYUW5VOWl0SkZRTXQtUVZ3c1ZyeWtFcGJTTWRXYzYwYXhYcnlJWk5qREMyb1ltSzR3cGNGQVQ4UGxIZ3RVYllnMWhhUzRhUDVia2JPWmVkazFfRFhFV3JRc3JNYkUzQU5tOWMyTkxpbU96ekp1azRYT3lDN3hXMkZibHF0ZFJjYUR6Q0ZjdXV1MHl1WUhtQVlnd2dseGNXV3Bka3NEUWhMbTF0U2ZOZnRCQzk2bGU0OHdYZlVPaWxkVVdTM3NUeExpSHVBemFfcjNBTE9SeGJHRmc4aVBlQdIB9AFBVV95cUxQQVE4THRoZmE0aHlnTi1KTG1RMmJsV0QyVmRuWW5VODEwTjR0cDlSb0p4cmtOWnBmaG5BZVViakpjNE5tUFNjdy1DeTBleFp1bWlZNWlzLUdrMXFWM1JSSGhwcmlHM3Bsd2Zuc0RjcklHOWEwSUM5NVRsQUxHd1ZwTEVTaXlsbjd1TEdmdzZqVjl6NmlzOFBQSmVaVkpWSDJ4MHM5Zk16eVVKMHBJZEtuRkFuMU8wcGNJMjBBdU5CeWhrV0dBdWtjY3FsOEJ2WE14bDk1SDJkLVBxUU1XMDNPVkQyN1JRejgwNVJHQ1RCMHVWSzJK?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:19:18 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:19:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "navarashtra.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather पुढील १० तासात धुव्वाधार कोसळणार पाऊस १५ राज्यांना पावसाचा हाय अलर्ट",
+      "title": "Weather Update: पुढील १० तासात धुव्वाधार कोसळणार पाऊस; १५ राज्यांना पावसाचा हाय अलर्ट",
+      "summary": "Weather Update: पुढील १० तासात धुव्वाधार कोसळणार पाऊस; १५ राज्यांना पावसाचा हाय अलर्ट",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTVzRk9Rc2VaTU54Z0wyVkpKSmtYd2VhalZlclFfajc5ZFZmY01KRzV5dHpvdGhpbGpWcC1ZVEphSVlveVhkeEJJVnl0XzkyLWhXTWZucnNjYnAxM3BsV19iQWR0NzNBamx6aWdMMEE2WlNuMmM1V3RmN0lkblJRbTRtYXBJdDZTc2cxS2hlRTZNdjFWQUV1QTZFY1hSOHhOUTVvcnFwRXNVTWVZd1dOQXNWZU1YVHFNY0ZCNHNsdTMxS0k5cmI0UU5CQWlRSU5ZWXkwd0ZGMFBSZGFWZ2pBWEdEdmJibXN1TXJOcFNVV1FZTldVN0tld1JORUY4UlBWWEN4UFp5NjRkZ2c4eGVxdjRFUTFQTmZpTFRIeXlzR29oSE3SAaMCQVVfeXFMTTk1c0ZPUXNlWk1OeGdMMlZKSkprWHdlYWpWZXJRX2o3OWRWZmNNSkc1eXR6b3RoaWxqVnAtWVRKYUlZb3lYZHhCSVZ5dF85Mi1oV01mbnJzY2JwMTNwbFdfYkFkdDczQWpsemlnTDBBNlpTbjJjNVd0ZjdJZG5SUW00bWFwSXQ2U3NnMUtoZUU2TXYxVkFFdUE2RWNYUjh4TlE1b3JxcEVzVU1lWXdXTkFzVmVNWFRxTWNGQjRzbHUzMUtJOXJiNFFOQkFpUUlOWVl5MHdGRjBQUmRhVmdqQVhHRHZiYm1zdU1yTnBTVVdRWU5XVTdLZXdSTkVGOFJQVlhDeFBaeTY0ZGdnOHhlcXY0RVExUE5maUxUSHl5c0dvaEhN?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:05:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 13:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "वारकऱ्यांसाठी आनंदाची बातमी पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत",
+      "title": "वारकऱ्यांसाठी आनंदाची बातमी! पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत्री वारकरी महामंडळाच्या माध्यमातून मानाच्या १० पालख्यांसोबत सहभागी होणाऱ्या दिंड्",
+      "summary": "वारकऱ्यांसाठी आनंदाची बातमी! पालखी सोहळ्यातील दिंड्यांना मिळणार २० हजारांचे अनुदान मुख्यमंत्री वारकरी महामंडळाच्या माध्यमातून मानाच्या १० पालख्यांसोबत सहभागी होणाऱ्या दिंड्",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95U2VYZTJDT2R2ZGZ0NUlHclFkbUpFWXZoM3RHVWhSbHFxR0FabHdieVpxMWdjekh2MVVtTGdUMGV0Uk54MnRYcFdZSmxrNlh6UVE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:42:26 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:42:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather पावसाचा ब्रेक उन्हाचा तडाखा महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज 21 जुलैनंतर",
+      "title": "Weather Update : पावसाचा ब्रेक, उन्हाचा तडाखा! महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज; 21 जुलैनंतर जोरदार पावसाची शक्यता",
+      "summary": "Weather Update : पावसाचा ब्रेक, उन्हाचा तडाखा! महाराष्ट्रात पुन्हा बदलणार हवामानाचा अंदाज; 21 जुलैनंतर जोरदार पावसाची शक्यता",
+      "source": "Lokshahi Marathi News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXVxZ3M0bTRqVG9zOGtRaDRfblZwcWs2VEExV04zQ1VLV3AyT0doSlo1M0RFRFRFWlJwOXNwaTVVcWVXMzBLdXVGX0dWX0xkdVJKaHNJclRYYTVrLTFXM28xbFNiZVB5cFdYZHRaODRSZV9aTXZGNlhqM3g5NjVfUElIa1ZiM2hWamR6eEVJMlFfU0x6UnpYc2hQZms3bTdRZ3lRbDFLTllaZThaUnk1RUtnbTZocTFUMGI0aWs5emtnTE5LNV83Xy1mOHh2SUgyOVBOa3pnOUJkRUY4Z2t3MUR3SlVfYzDSAecBQVVfeXFMTVF1cWdzNG00alRvczhrUWg0X25WcHFrNlRBMVdOM0NVS1dwMk9HaEpaNTNERURURVpScDlzcGk1VXFlVzMwS3V1Rl9HVl9MZHVSSmhzSXJUWGE1ay0xVzNvMWxTYmVQeXBXWGR0Wjg0UmVfWk12RjZYajN4OTY1X1BJSGtWYjNoVmpkenhFSTJRX1NMelJ6WHNoUGZrN203UWd5UWwxS05ZWmU4WlJ5NUVLZ202aHExVDBiNGlrOXprZ0xOSzVfN18tZjh4dklIMjlQTmt6ZzlCZEVGOGdrdzFEd0pVX2Mw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:00:52 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 12:00:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokshahi Marathi News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "४१ मिनिटं शेवटचा फोन अन् कायमचा निरोप s heramba ends in the gulf",
+      "title": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
+      "summary": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2NxWEZVTVBIUGV6R19fQWo1WVowWjlkeWUtaFBFZFNNaHRMQmRYT2ZnRjJDSnJmNXVUMDU5NThpbFFrck1qREgxSVJyVXZYNTJDT3FjZnV4bXFIUnNzdU12UHFjeHdOTTRnckw1aHZ6QW9kelJUdnBnQ2wtWHk2YjlOdl9DQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:56:23 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:56:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1998,6 +2151,50 @@
       "region": "pune",
       "sources": [
         "navarashtra.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rajesh vitekar अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "title": "Rajesh Vitekar : अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "summary": "Rajesh Vitekar : अवैध वाळू उपशात प्रशासनाचे हात बरबटलेले",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUNoSkRXQVh6SDJJNGw4Sl8wSTNaNVJPdzNyWjZHUnZEVGQ0dWZpbEw2VWpaNVlRUnhKd0RYYUR0MmZxSzZSZTEtbUR5UC1meDZSMzBSc2JIbFFoakw3WXFGY2pDemVsTXM1TnBKYi1qLXhjSFNRSDlHUnQ4Y2FGRy1jVklTWkJkZ1I3Vm9fSkFWbktaa3VZZUNlZWdsVXJUeXZfWHZrTjNXNExpZ0gtUkVRdTRXUXRCWjdlSWxVS01INWV0S3lLaDV6SkxqajTSAc8BQVVfeXFMTnFDaEpEV0FYekgySTRsOEpfMEkzWjVST3czclo2R1J2RFRkNHVmaWxMNlVqWjVZUVJ4SndEWGFEdDJmcUs2UmUxLW1EeVAtZng2UjMwUnNiSGxRaGpMN1lxRmNqQ3plbE1zNU5wSmItai14Y0hTUUg5R1J0OGNhRkctY1ZJU1pCZGdSN1ZvX0pBVm5LWmt1WWVDZWVnbFVyVHl2X1h2a04zVzRMaWdILVJFUXU0V1F0Qlo3ZUlsVUtNSDVldEt5S2g1ekpMamo0?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:08:48 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:08:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "सेफ फूड सेफ ड्रग सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "title": "सेफ फूड, सेफ ड्रग, सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "summary": "सेफ फूड, सेफ ड्रग, सेफ महाराष्ट्र मोहिमेत एफडीएची धडक कारवाई",
+      "source": "tarunbharat.net",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUHE2MTBpSWt1UE9iSmxRQXh0VVFwX1BERzVUSm1nZ1h1czRJWlZsU3QxZUJPMUpyY0NrdklKT3poejZnVXZBNERQdV9GdXNIOVV1cHlmWXNkN3l2ZXZfV1Q5V08xWTlTRFozdzlXZVdISEJCdjFGemJrNWh0ZXdrMjBCVV82Wk5uYUFMWV9TaHBwWGVuWjAtNHRjT19rUlh4V2lUZ2tzXzN6OGZSaVBhUHozN0FCSkZSWUc3cEpad1Mtd1RBMGZBMzZ2cTN5OTA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:07:36 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 11:07:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2079,9 +2276,9 @@
       "summary": "घरातली लोक झोपलेली, दाराची कडी लावली अन् स्मार्ट मीटर बसवून गेले; महावितरणचा गजब कारभार",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlprUGJWVHVJbF93UV9oOWo2ZWVBd1IxUzNacUdmeDhmSjE3ZGt1Y3p2dl9HUzJpNVBfeXB3Q3AxSGNyOEF3V2dqQTAtTUhLQjlsYi1tMWg2NXF4UkQ5QTU0UUdWeFkxTHIzQXJESFZJTi1zZDJtUVJteEtwRG1obW9uTHVCdUk5NE9yVFVGOHdrY1ktUTdoRWItUUhJX19SLThWejM5eG1NQlpTNkVSaDJVYW02ajEyR2lvNGpKS3lDTUFkRkNOdFRYa0VsU1NVd1o4dNIB4gFBVV95cUxNVEU0Ukt5TEEtU3lPZXNCM3MzOU1ydFF5QUZsZzRLaVhpWk1EelVlSHZwV29XSVk0ajRWZ1dQdWRNUkk1NXZqMTQ5Z095cjNvM05QNC02NzVVMkQ1c2lwd0RoUGNVR2NVSVJvbHdjQS1xQkREN0lGR1F3blpqMDFTcjVhdm5sdzVyU2VEWEIwWVc2MFlwMXpDaG56ekNGSGgtcGlHM3J4WFc5R0lKalN0ZWplWkExQzVXeUJQT1FHdEd0SGxGVy1oTXdFZExqUmltUUo4MXM3MExpRjRYZjI4X0hB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 09:45:09 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 09:45:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEU0Ukt5TEEtU3lPZXNCM3MzOU1ydFF5QUZsZzRLaVhpWk1EelVlSHZwV29XSVk0ajRWZ1dQdWRNUkk1NXZqMTQ5Z095cjNvM05QNC02NzVVMkQ1c2lwd0RoUGNVR2NVSVJvbHdjQS1xQkREN0lGR1F3blpqMDFTcjVhdm5sdzVyU2VEWEIwWVc2MFlwMXpDaG56ekNGSGgtcGlHM3J4WFc5R0lKalN0ZWplWkExQzVXeUJQT1FHdEd0SGxGVy1oTXdFZExqUmltUUo4MXM3MExpRjRYZjI4X0hB0gHiAUFVX3lxTE1URTRSS3lMQS1TeU9lc0IzczM5TXJ0UXlBRmxnNEtpWGlaTUR6VWVIdnBXb1dJWTRqNFZnV1B1ZE1SSTU1dmoxNDlnT3lyM28zTlA0LTY3NVUyRDVzaXB3RGhQY1VHY1VJUm9sd2NBLXFCREQ3SUZHUXduWmowMVNyNWF2bmx3NXJTZURYQjBZVzYwWXAxekNobnp6Q0ZIaC1waUczcnhYVzlHSUpqU3RlamVaQTFDNVd5QlBPUUd0R3RIbEZXLWhNd0VkTGpSaW1RSjgxczcwTGlGNFhmMjhfSEE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:45:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 09:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2206,28 +2403,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग धुरामुळे वाहतूक ठप्प मुंबई मुंबईतील कोस्टल रोडच्या ",
-      "title": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग; धुरामुळे वाहतूक ठप्प मुंबई : मुंबईतील कोस्टल रोडच्या बोगद्यात एका कारला अचानक आग लागल्याची घटना घडली. बोगद्यात प्रवेश केल्यानंतर काही वेळातच क",
-      "summary": "मुंबई कोस्टल रोडच्या बोगद्यात कारला आग; धुरामुळे वाहतूक ठप्प मुंबई : मुंबईतील कोस्टल रोडच्या बोगद्यात एका कारला अचानक आग लागल्याची घटना घडली. बोगद्यात प्रवेश केल्यानंतर काही वेळातच क",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUng0RGItT3RLbFJVZlJoeHVLM0xNS21UYVprUnlJLWxYMmJtZlJsakMtWEpnVkc0dUsyTlJwTVJYNDBXdWtaLTB4ekFtTTVrSVJDcVBn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:44:48 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 08:44:48 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "मोठा अधिकारी पण पैशांसमोर झुकला चाकणमधील पोलिसाचं नको ते कांड शेवटी रंगेहात पकडलं",
       "title": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
       "summary": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
@@ -2240,28 +2415,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "४१ मिनिटं शेवटचा फोन अन् कायमचा निरोप s heramba ends in the gulf",
-      "title": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
-      "summary": "४१ मिनिटं, शेवटचा फोन अन् कायमचा निरोप!Pune's Heramba ends in the Gulf",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2NxWEZVTVBIUGV6R19fQWo1WVowWjlkeWUtaFBFZFNNaHRMQmRYT2ZnRjJDSnJmNXVUMDU5NThpbFFrck1qREgxSVJyVXZYNTJDT3FjZnV4bXFIUnNzdU12UHFjeHdOTTRnckw1aHZ6QW9kelJUdnBnQ2wtWHk2YjlOdl9DQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:37:32 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 07:37:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2316,28 +2469,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "weather राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन पुण्यात बरसणार का सरी हवामान विभागाचा ",
-      "title": "Pune Weather : राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन, पुण्यात बरसणार का सरी? हवामान विभागाचा अंदाज",
-      "summary": "Pune Weather : राज्यात पुन्हा होतंय पावसाचं दमदार पुनरागमन, पुण्यात बरसणार का सरी? हवामान विभागाचा अंदाज",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0FubzcwSk9IbnFLbWxmb0tBX0VtWDAyYnVoYmtVdGgxZW4yWDZVcVJZUE5EeTg2V3ZmRllMUUpNbGhzRm5EeHktRThxUzJBNG1abTRnX2tRRkJUaE5ScmVGeVE2MEExVkVZR3lISXYtNXlpR0JGcDVfMktJbmZnRF9tdWwzWnRmNzhWSnRBMEM0ZGJTYzU5REplODZ3dDA4aXN2ZTJIRDRYUWlsamhhYXluR1lIc0djY1F0WXNjZElBRTNubWVJcw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:53:07 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 06:53:07 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "corona alert जीवघेणा कोरोना परत आलाय 2 मृत्यू प्रसिद्ध गायकही कोविडच्या विळख्यात",
       "title": "Corona Alert! जीवघेणा कोरोना परत आलाय; 2 मृत्यू, प्रसिद्ध गायकही कोविडच्या विळख्यात",
       "summary": "Corona Alert! जीवघेणा कोरोना परत आलाय; 2 मृत्यू, प्रसिद्ध गायकही कोविडच्या विळख्यात",
@@ -2372,6 +2503,28 @@
       "region": "pune",
       "sources": [
         "Awaz The Voice"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई ",
+      "title": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग; कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई: आनंद नगरमधील भजनलाल दूधवाला यांच्या दुकानाजवळ उभी असलेली बॅटरीवर चालणारी इलेक्ट्रिक दुचा",
+      "summary": "वसईत इलेक्ट्रिक स्कूटरचा स्फोट होऊन आग; कर्मचाऱ्यांच्या सतर्कतेमुळे मोठी दुर्घटना टळली वसई: आनंद नगरमधील भजनलाल दूधवाला यांच्या दुकानाजवळ उभी असलेली बॅटरीवर चालणारी इलेक्ट्रिक दुचा",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMM0p1R0l1WUIyRVdJZVhpTUtZLUxkNFRuM0QwcmRjQ01FRjRzZG9PcWkwUHdjRWpUOS1iNmhIVk9BdTBtZ1kyX2lVbHp6WE9ZZkpFN1FR?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:09:34 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 06:09:34 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2565,28 +2718,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather आजचे हवामान हवामानाचा युटर्न या जिल्ह्यांना विजांसह मुसळधार वादळी पावस",
-      "title": "Maharashtra Weather Today (आजचे हवामान): हवामानाचा युटर्न! 'या' जिल्ह्यांना विजांसह मुसळधार वादळी पावसाचा यलो",
-      "summary": "Maharashtra Weather Today (आजचे हवामान): हवामानाचा युटर्न! 'या' जिल्ह्यांना विजांसह मुसळधार वादळी पावसाचा यलो",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU0VlUkxQTHc5VjExc211WEgtMjN0V0c4RldTeFlrcDF5RlVWVnY1akc3anpDcnc4bXlpdkNoVkxMZFlxZl9jTE1nRXZ3RW5CQU43QmtGY1JqeThRcDNJRXVDTVBGS2VFbkozUHRLRjNsdVJfZjlfMUs2OFJFdXVvN05sV0dWNnhlZEhlTW8taTJOZXpVRkhEM1VZRldvQmdWajF0NDNCclhhVzc0MzR6V21HWjRjdFJtWWIxNmpWTlVDbDdxVUh4NGlBQlplUEpFNkJ4QUVGS2M5TXljYkNzRDNKa1ktNVdVMUNqRnFxNG1Wa3NpWnl2U0xROWNKTkRiZGZuOXp30gGLAkFVX3lxTE1ZVkNyZ1lZQ1lzR0JtdVZ3Mkp0RkRsdUwzem1keWFYM3F6ZzI5cnBHdzdlRHdWMEoxb3dIUjQ3aXRfMlRIZFdaTU9HNk9JNE16dVNUMVlnakhYMUFzRG5RRHFIZFVfbVdzMkdqSE9zTzNiTHZfaWhKcmpUc3FPcEU1NHlNZVhmc0tka1oyeG5heGJhci13MGJsWVp6ekJ1Wm1hNUkwM1Awb042QWJfQ21MYmtXdnhCSUZ0VERBcHVJRUNKdkFDemRjTWdtdU9RUHh1Qjc2dVhXRTNWVUpReGZkdGliRzZWWWVSeTFBbk1jR21NR2pPV0VVenRfWEJzUWxWR3pLY2hCXzg2QQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 02:08:14 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 02:08:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain",
       "title": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
       "summary": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
@@ -2653,28 +2784,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणेकरांना मिळणार नियमित पाणी २४ तासांत यू टर्न काय घडले",
-      "title": "पुणेकरांना मिळणार नियमित पाणी ! २४ तासांत ‘यू-टर्न’ काय घडले..",
-      "summary": "पुणेकरांना मिळणार नियमित पाणी ! २४ तासांत ‘यू-टर्न’ काय घडले..",
-      "source": "Loksatta",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVp6ZjI2QzcyM1JrQTVtaXEtMTNQWUVCNFozcFdqY0hQTjMteWE2cHNza0F6N3ZaOEdxdnBhNjYwZnZ6MWFkRU9TN1BjSklCdnNJOXJxa3JLU1FVcGxielpENGM2d0NUUkZORVVqWWJWbkpWVWIwU1FySU5JWkFPM0JkZ1kzYjdHMzRxMUFGdUtSX0dIR2l2QzBCYnMxMmQ3UjFIc3kwdVd5eHVRbE5TRi04clZXTTFGX3FiVHYtYUQ4UWvSAcoBQVVfeXFMUDB0bWx6Q3lSblo3ZEt6amFOcHV2dE5mNnNpQXh3TmI3ZV94ekZVRjBwNmltOHA1VmxGZDlWWEFWR3BXeWtiMDc5S2QtY2VvWFd2OHhIaURUc0Q4VHNKVUR6ZWM1MjlTS0hmcVo4OVp2clVfUnlsLWhoalhhT3A3Ynd2UUU2VVdnV3BTUVpBYUtlc0lmeTZ2cXRPSmQxb1hNMFlpNlpuaF9XMlQ0VENyZFFwc2ladUEzZzE0MW1LaDEyZ0Y5eUNzMW9Ndw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:59:45 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 01:59:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Loksatta"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "sangli loadshedding बोरगावात लोडशेडिंगमुळे संताप",
       "title": "Sangli Loadshedding: बोरगावात लोडशेडिंगमुळे संताप",
       "summary": "Sangli Loadshedding: बोरगावात लोडशेडिंगमुळे संताप",
@@ -2719,28 +2828,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "बावधनमधील hemrl वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला महामार्गावर धोकादायक मर्जिंग पॉइंट पु",
-      "title": "बावधनमधील HEMRL वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला; महामार्गावर धोकादायक मर्जिंग पॉइंट पुण्यातील बावधन परिसरात HEMRL वळणाजवळ रस्त्यावरील डिव्हायडरचा काही भाग कथितरीत्या तोडून",
-      "summary": "बावधनमधील HEMRL वळणाजवळ वाहनचालकांनी डिव्हायडर तोडला; महामार्गावर धोकादायक मर्जिंग पॉइंट पुण्यातील बावधन परिसरात HEMRL वळणाजवळ रस्त्यावरील डिव्हायडरचा काही भाग कथितरीत्या तोडून",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dWF5ZHZidmktVWxENGxyOTk5dlktNEJzbExCLUUwWnd0R2NJQy1xWWhibVh5ZS04SldjZEoydjBxODhDRnZmY09pMkVpQmRidC11dHpn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:29:57 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 00:29:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "राज्यात पावसाचा जोर ओसरला विदर्भात विश्रांती तरीही पुणे साताऱ्यासह 17 जिल्ह्यांना हवामान व",
       "title": "राज्यात पावसाचा जोर ओसरला: विदर्भात विश्रांती, तरीही पुणे-साताऱ्यासह 17 जिल्ह्यांना हवामान विभागाचा अलर्ट, ...",
       "summary": "राज्यात पावसाचा जोर ओसरला: विदर्भात विश्रांती, तरीही पुणे-साताऱ्यासह 17 जिल्ह्यांना हवामान विभागाचा अलर्ट, ...",
@@ -2753,6 +2840,28 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "unchecked scrapyards around midc areas raise safety issues",
+      "title": "Unchecked scrapyards around MIDC areas raise safety issues",
+      "summary": "Unchecked scrapyards around MIDC areas raise safety issues",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeEVlNk5JR25OS25Wb1dWVEdKcW5XcnktYXgxQm1JdFdjTXZmTFlCYnlkLUVrQm1sMWpSaFA3WXh4eHVBRERDYzlXYzJTaF81S1RCZlpQaHVROFVEX2RMcVp0WTZiSVkxQXQ1VWp6VmpXRXFUTUNNMF9yQUNrbUVIa1ZlcURQbzdiUmdyRDZKTV9GZG1qM0psV0ZadUtpQWxoNGJWY0hOS1BhU3RZQmZDa0RKUDFsQldMM05yQ21remt5QUlqd1lmWFd1YVVMenNBMS1GT2t2V2lxUWR4Q0c1V256V2ItVVNQOEc0eEFHRjBveGk1VHhrS0JQS1ZGRzVfRVMwcjRnb2NvcWNTQ3hSQ05sVkNYZlFUT2J3QVk0Zm1vSWNicXBFVWxRSDN1LW8xdmwxekhNMm1yTkVKbEtFbXBR?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 22:01:19 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 22:01:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2859,8 +2968,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQW5VZmhPTFJraUNMd0xVNC12VDJvbkUzbkJLM1N6MldtYWxUM1VyWnh6dHdHR0tTVnJlRkdQdDA2dXBSVFlFaVNJQ3pMdGNWTmFpZlVJYlZldnRlWnY5R0tpbUphekF3Slg5bFh5V1JIU0pDNlk0V29jbExtTXZKVXFWTHJTaG5XS29MVDR2SGtsa0hZWU1lZGRZU0hSbVBJTkZxR0Rybm9xNGRxYUdoUDd4al9tVkhqZkFDcmVuR0M0N1A1R1RrTkQwbldMdjNLeS1telVBOUxKcGxwOVhlNk5OWElFU2NqdUx4QS1Nc1c?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:02:42 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 15:02:42 GMT",
+      "pubDate": "Tue, 14 Jul 2026 15:02:00 GMT",
+      "lastUpdated": "Tue, 14 Jul 2026 15:02:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2917,166 +3026,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra rain alert थरकाप उडणार दुष्काळाचे संकट कोकण मध्य महाराष्ट्रात मेघगर्जनेसह",
-      "title": "Maharashtra Rain Alert: थरकाप उडणार! दुष्काळाचे संकट? कोकण, मध्य महाराष्ट्रात मेघगर्जनेसह...",
-      "summary": "Maharashtra Rain Alert: थरकाप उडणार! दुष्काळाचे संकट? कोकण, मध्य महाराष्ट्रात मेघगर्जनेसह...",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGtzY2RZTWF4N09ibXZxbnF6UWlzV1JncHJrU1FNRFJ0RTJQQW9LcENaY2JURzRFOVY3REd0WV9wWjFkSXA0c0ZOUkFVd1cybVhjbkpIOWI0NmZJeWdrTThwdTJ6a2J1Mm9rTmp0NHZYS3d1b3phUXFwN1JrZGNtUmVQTDcwc19uQkZkZS1JMWFoOTJkMUdhbEVpSWRaTlNzX0FTMVhBTm10SXBKbjA5U0xLXzktOUNxMnNXR3dIVTIyUE90dnJYNzA1MEpFZXQ0cXVVUU9EblltLU9IVndwcm9VOHQ0TmfSAewBQVVfeXFMTmNXejhRaFpyLVNIT2k3WEU4cjkxUHp0cU9Ua1hXb1paMGhlTEZxMUFvUXh6U3dkWWZWa3VrSmdSNWRFU0ZCQ0Y2clYzNFByY01XRUN1OXZadFFYZGlGcklkaUVxQ1ZYVlNmTXNrakFIWk9fbV9hTFNFZkZKOVB6d0k1TG1nZ1c0OFJ0SGNIYUhBM0ZoZEFaZXdIZ283WXh2R09TWWlHNXFzSGU0T1J1Q2E5a0JjeHYtd1B1Zi1DV0hmM1hOdXBhTG1BR1FsTWFfYl9obmdrWklObzFrZDF5am5YamJlRVQ3MlpUNWo?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:25:35 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:25:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "pmrda razes 680 illegal tin sheds across 35 hectares in biggest demolition drive",
-      "title": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
-      "summary": "PMRDA Razes 680 Illegal Tin Sheds Across 35 Hectares in Biggest Demolition Drive",
-      "source": "Punekar News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUtzdE5rNGE5ckNLMXd0LWVZbmhRNzFnRTdxcktWVWNtblVFMWNMWnNSbUhCX0NTclFldE82bGJ5bXFEX2V4TlFyNGZDTmg3NWIzNmo5OWE0Z2tFOVFaNG5PWjFnRloteDRtUFdoTFZUdEhGNEV0czBneVp6MFdsTy1vcWR4d1RZODRDZTQ4VE5fM2xkTzZmUGo5aVhFQXpOUGFiaWVUWWdxUjdk?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:08:23 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:08:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Punekar News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "चीनमध्ये पुराचे तांडव जनजीवन विस्कळीत",
-      "title": "चीनमध्ये पुराचे तांडव, जनजीवन विस्कळीत",
-      "summary": "चीनमध्ये पुराचे तांडव, जनजीवन विस्कळीत",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGs4bnYyci0wVlJLb3RfZ0JhTi1ObjdLSkVNUGJOQzVyekZJWWRxTjRiVFF4RWJ4Wk9ER25tQmFZUkFfV0stT0ZIdjJ3dVZsNlM5d2xGejlxcHFmeExTM2V2T0cwT0FMck5TUTBqblI4X2lmc1dXc190MkM0M09wdWVnNXVfOGlHNXNGQXRGWVNIZ2dzbGgtUHVB?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:07:30 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:07:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली झोपलेल्या व्यक्तीचा मृत्यू चालक अटकेत ",
-      "title": "पुणे: वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली; झोपलेल्या व्यक्तीचा मृत्यू, चालक अटकेत पुणे: हडपसरकडून सासवडकडे जाणाऱ्या मार्गावरील दिवे घाटाच्या पायथ्याशी आंबेकर लॉन्ससमोरील",
-      "summary": "पुणे: वाहनाजवळ कोणी आहे का हे न पाहताच कार पुढे नेली; झोपलेल्या व्यक्तीचा मृत्यू, चालक अटकेत पुणे: हडपसरकडून सासवडकडे जाणाऱ्या मार्गावरील दिवे घाटाच्या पायथ्याशी आंबेकर लॉन्ससमोरील",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xeHBwRVRBWmFXX3UtYUN6NWo4bzJ4RU0tWUt1RWpuYmRrR0tPbnpJSzJvWGs1SWs1N0k5Z2JjX0NRejZCaFNuMk9yQ0ZjelFPeUE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:02:54 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:02:54 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय आर्थिक शॉक कृषिराज चौधरी य",
-      "title": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय 'आर्थिक शॉक; कृषिराज चौधरी यांच्याकडून वीज पुरवठा खंडित न करण्याची मागणी..",
-      "summary": "कोरेगाव मूळ पंचायत समिती गणात सोलर पॅनल असूनही ग्राहकांना बसतोय 'आर्थिक शॉक; कृषिराज चौधरी यांच्याकडून वीज पुरवठा खंडित न करण्याची मागणी..",
-      "source": "Pune Prime News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdDduSDUxZGlkbGV1SE1FZ2MyYkcxOWpXYzYzZ0hxd3JONU43Y2pEbGFHZjZXSWw3WVpTTWkydVJxYjJuLTJsZVZ1US1YVkJBV3NzY2FyLUlzS2lqeV9ZLXNRN3FVVVU4VElqRHZZUFJITGZ2UldZUHY1cmlxLUpDNDhURzgyYjZWYU5uRnhWdzZZQ0xRdzhPbHNyNmZKQ25pM2RzdWU5cExwY0Z1TEJVSEpXSTFiS0JENjlBdHBIbHRDMHQwUjZxQVhsZmxkUU5uN3kzNDlyWDhMNElaZ2M0MkZ6eWhmMXg2YXJlbEZvYUdmZUJRWF9Tb1NySHVwWWp0T2FtMGFqbGRPc2pjdG5PZExBb29JNnRQa01KYXVGamNjNjRkVUhkTnJkWm42aUJzWUxGT0NGOHJyYUhqb2JXRjFSdUFHalFMMFEzX1EzR1RJcmlFcm5fRnEyY1Y?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:02:27 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:02:27 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jalgaon no compromise on rural healthcare quality zp ceo karishma nair tells health offici",
-      "title": "Jalgaon: No Compromise On Rural Healthcare Quality, ZP CEO Karishma Nair Tells Health Officials",
-      "summary": "Jalgaon: No Compromise On Rural Healthcare Quality, ZP CEO Karishma Nair Tells Health Officials",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbklPYkRJY2JTV19PdEVaMnNqLXNLWWk4b3lyeXc5QjVkU3c0QnR4ZW1oTk5sMG5ObjJOdFJmQ0NlWC13ZjdFTnNfVGxHTHVfbndfMGdKdXJPenlFZWVRVkQ1dVpDelNUZ09FY05tOXhCZXdjMlhSaE85dXpQaktrZkotZHg2U3o3UUpabWhMMXFpdmFUVXN4WFNvZlBLWXIzR2RlemU1TnZzYXZwX1o5TVhweWM3a3c4RFI5dHA5YXVhWnJwakR0Mk930gHPAUFVX3lxTFBFa2VmdEpkdUdRaTZkbkhZZmlXcks1RU9KajdVaWJLc2JQb2k2Q0ppaldpM0lBZDR3VnZ3MTdDeDJEWGNuLXAtSUxfUFVEZHEyXzN2NG1kdHJiZjBMeHVwZXVDREdya1FqTWxheVJEYXI2bmdEUXY5ejNELVFWbm0xMjV2TlBCRzhrZzFnMVdEODhlbnE3VXQ2Nk5iNjZVUTF5YlZWTEUzUFUteUhxdWFQTXpqUGRfVWpqRHBYbTRhOTBYajFVQXFuVHM5VWwyWQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:00:55 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 13:00:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "man attacked with laundry bat another suffers nasal fracture in separate family assaults",
-      "title": "Pune: Man Attacked With Laundry Bat, Another Suffers Nasal Fracture In Separate Family Assaults",
-      "summary": "Pune: Man Attacked With Laundry Bat, Another Suffers Nasal Fracture In Separate Family Assaults",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlpNVzlrNTBkblB2eTZVbW1CZExkMWFKNGw1NkUtc2ZoUkRUc0w1WHBJb21XTE1uVjh0eFJ3QTdNRTd4T2hzZFZCUjFjWFlIcWQ1VGJpOUF5eHRsaFV2T2VYbTh6OV9HZ2R2Q3Q3RjZZcnZTMVpjQVYzM1ZhODNSSXBSSnhQTWlTcHQ5b2VwZXpid180eDVfUkVRWGo3anpORFY0TUcxWVhsWUFtcmtMbGZyeXp3aUlvNkVxajhFVWtWcHh0Y3NtbjRB0gHPAUFVX3lxTE10clRjeFUzMWRxOEJRVmpYbERFU08tb2kteGEyalNwS3VWWFlPeFRibkRqeXJpa0hsUHY5Wjdxd1piZm1Xa1I2WmYxLS1OdVFZenU2NnptWnd3MFdhVmZmdEY0MHozaXl5T3FNMzIzOFpSS29aU0o1d25nWE4xakwwZ2hMQm5GQnhlQmFxbndUd1JEOS16bFVyU2dfMnEzNVZyQlJQMHhUQmFpa1pTN3RQMHVxQmNDdEpkTllDeFhKRjNpellSYTdUWTU0TURmQQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:56:13 GMT",
-      "lastUpdated": "Tue, 14 Jul 2026 12:56:13 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 71,
+    "total": 69,
     "alerts": 16,
-    "news": 55
+    "news": 53
   },
-  "cleanedAt": "2026-07-15T12:49:38.215Z"
+  "cleanedAt": "2026-07-15T14:43:33.444Z"
 }
