@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:30:18.341Z",
+  "generatedAt": "2026-07-15T23:53:03.930Z",
   "status": "ok",
   "alerts": [
     {
@@ -327,28 +327,39 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
-      "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
-      "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
-      "source": "Thodkyaat + 2 more",
+      "id": "mumbai rainfall causes severe waterlogging at lokmanya tilak terminus",
+      "title": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
+      "summary": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
+      "source": "The News Mill",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcEppZVJPMUJ3LUo4aHc1WmZxZ1BDOVZuekcwLU0wZW5GbjdPN0JXU1ZacVplYmFYTTlsM0ZNUG04Q244MDl5NkhTSFdaZDlPZUttVzBxVUpnbk9pOVJjbHdBUWJzaHc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:48:01 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUJsNzI2QlVSbkFnSEtLWU1mOWJvLV9JQnFSNHdxcEs1ZXVQaFNGeTFlSHpMUXJLZHVFbUdpUlU3aWFhQ3BrVFdod0laQnRSVmk1dmV5X0RPbDdrS2EzQnp4Y2x0RnRIdXFmVG8yWjhha3Y0dldGY1AtMmY2UTFldmFiM0lDRkFmb3FKMFlfNW5JaE9CU19va3M4YldxNnpUWloyVlUxVm4?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:47:25 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 08:47:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Thodkyaat",
-        "Prahaar.in",
-        "Mumbai Tak"
+        "The News Mill"
       ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
       "critical": false,
-      "action": "No immediate action required."
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "rain पुण्यात पुढील चार दिवस हलक्या स्वरूपाचा पाऊस",
@@ -377,21 +388,19 @@
       ]
     },
     {
-      "id": "mumbai rains dd",
-      "title": "Pune mumbai rains | DD News",
-      "summary": "Pune mumbai rains | DD News",
-      "source": "DD News + 1 more",
+      "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
+      "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
+      "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
+      "source": "Thodkyaat + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "areas": [
-        "Sus"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcEppZVJPMUJ3LUo4aHc1WmZxZ1BDOVZuekcwLU0wZW5GbjdPN0JXU1ZacVplYmFYTTlsM0ZNUG04Q244MDl5NkhTSFdaZDlPZUttVzBxVUpnbk9pOVJjbHdBUWJzaHc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "DD News",
-        "MSN"
+        "Thodkyaat",
+        "Prahaar.in"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -399,10 +408,7 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "action": "No immediate action required."
     },
     {
       "id": "deccan queen and intercity express to resume operations from thursday",
@@ -498,50 +504,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "title": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "summary": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHZCVFh0M0E2WGk0OGhfUUVXX0tnSjRPT20zUVNoLWhQdml4TzZvNEdVdVV0X3pWSFE0a3JBMk8wWFNwcFdpVzVhZ1JsU2hrOVdSbXNSRFVOa3ktWmdqTUVUbDZKUUs4T0xVX3FnQ3hjRUo4ZEVCeXQwWWZaQmpibTdNZDVSZjJrYjJLU3BTeVNJM3NzM1NpODl5YlZkOXlTYWIxVHVwQVBxSjhhT0ppejVHMzMwQ1pZMWVMRw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:50:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:50:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "title": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "summary": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnNROHlBS2hFdjROTy11U1RMaFc1TklSUFVUMmFEN1VFLS1qeGh5S2lwU09ocFdYdFlrZkRRLTFsSDJJYTFFajdrWk1vX3pOd3ZDWlpKM21iUEJSLVo0VEl3RnlCWDdIOVhWTFp6S0dCaEw1ZjVScktCNERmOW15U0ZxOGJWMzUwdHlURGhDZmxlQUhSQThlWmstRjY4a2dTak5Fc21HT01mRzM2dXc0LS1OMUs?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:45:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:45:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
       "title": "Live Update : सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
       "summary": "Live Update : सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
@@ -554,50 +516,6 @@
       "region": "pune",
       "sources": [
         "Dailyhunt"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "title": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "summary": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjVJQXFieEplQzBXd21Dbk11djNPU0s3c0RybXFGbGE3eXlMdTc4bldmaWNvRDhNVG1xbFh2Y1hPTlI2NTBKZ19uN1IwRFI1VnJpcm1oWHZtUWw0ZHljNmFyUk11OExWaEVHVDZhR2pRdzdLb05hVHVvT2xmWlp5aGZPa2JFMXpJeXhkMHhCVGV2LVVfMkdaQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:30:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:30:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "title": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "summary": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTRzZGVfR1diaURtSXVIbWVRZ3RHNjVmVGVHa0RfMWljVTFxaUtqVWRaaFFCcWRMbXRneG1FR0plX0M4Y1dQYTM5X3BrZ1lMazRfS2dzdGdfSkxqTVVvY0xDSTNRQnJVN3VodmFpV09adVVjWnFHZHRsUjlZSkk1dWlyYTgzTHlp?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:25:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:25:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -820,7 +738,7 @@
       "summary": "Weather Update : 'तो' पुन्हा येतोय?' राज्यात पावसाने घेतली विश्रांती; उकाडा वाढला, 21 जुलैनंतर पुन्हा मुसळधार पावसाची शक्यता",
       "source": "navarashtra.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUtqQUN1SHIwUWNUMG5CTjN6Y1VHcVhTWElUbkxqQkdfTkhBREhtUi1kNnJ4SW1KUDJoUEk3TDNKbldmVVFzMGVWOS1Vb3p3b3JOZW1mV0t3QUdHYmRwTEt4ODk2QjBtLXNSaDVSNG1DNHI2ZHNyWXZDNmJubDJCNDRNSlBhekVRM0hvUW9RMWFNMTZpZElZb255eVUwMWtlc25mUHJUTHlUbnh4OEhJcUxXbTZqQTNyYXdTdtIBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10d9IBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 11:35:14 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 11:35:14 GMT",
       "areas": [],
@@ -859,28 +777,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "title": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "summary": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQanZhMHZqRmEwVWdOZjEwUWZacTZjY3J2ekh2N0dVR3Q4amFmWWd5WWdpRlVIeG90VEQ4SlFPLVUyUE5wN3gwSkRVb1pTYkhLZFNjSzAzN09kWEE3WFdSeVltZjU4aGJPaTdRWU91M0FKZTdDNF9KcnNuTkZnbllXbTd0UHdsYVFTM095UnFQSndJel9tb2NjNnJmbTNjYS1VRmtfeXlzS2VRaVpGUkxYVEpGcm9XSmFCVlEyZV9SY2lHQ0xhcnEySUZ0dHBURGN6ODFVTEdUeXAxaVR2WXc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 11:02:36 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 11:02:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra weather दिलासादायक बातमी आज आणि उद्या या जिल्ह्यात मुसळधार पावसाचा अलर्ट",
       "title": "Maharashtra Weather Update: दिलासादायक बातमी! आज आणि उद्या ‘या’ जिल्ह्यात मुसळधार पावसाचा अलर्ट",
       "summary": "Maharashtra Weather Update: दिलासादायक बातमी! आज आणि उद्या ‘या’ जिल्ह्यात मुसळधार पावसाचा अलर्ट",
@@ -901,6 +797,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "mumbai rains dd",
+      "title": "Pune mumbai rains | DD News",
+      "summary": "Pune mumbai rains | DD News",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "DD News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra rain alert कोकणातील 6 जिल्ह्यांना यलो अलर्ट 20 जुलैनंतर राज्यभर मुसळधार पावसाच",
@@ -1081,6 +1002,28 @@
       "region": "pune",
       "sources": [
         "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मोठा अधिकारी पण पैशांसमोर झुकला चाकणमधील पोलिसाचं नको ते कांड शेवटी रंगेहात पकडलं",
+      "title": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
+      "summary": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDFzWDJVdXQwblgwaHZPSHVHYV9HS3lhYWJwd216U2ZKanQ2STEzMUVvWlRMNVBxaFk5YzlCbU0zd2NHVzNHUkJNeFZVMXlKUWJhYlB0UnlKamoxMUxCU21qLWt1UHZScmxPZmpvLVdXUmhuanJ0M2l0UWFnc3I2Zng4TWdJUGZRZW5mdXEyS2VYNGxhUmZyUTBMUTh1Ty15S09oRGRyQ2hWTWFjMkhkNi1UY01HVTViUm9J?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:02:47 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 08:02:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1795,28 +1738,36 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
-      "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
-      "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
-      "source": "Thodkyaat + 2 more",
+      "id": "mumbai rainfall causes severe waterlogging at lokmanya tilak terminus",
+      "title": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
+      "summary": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
+      "source": "The News Mill",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcEppZVJPMUJ3LUo4aHc1WmZxZ1BDOVZuekcwLU0wZW5GbjdPN0JXU1ZacVplYmFYTTlsM0ZNUG04Q244MDl5NkhTSFdaZDlPZUttVzBxVUpnbk9pOVJjbHdBUWJzaHc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:48:01 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUJsNzI2QlVSbkFnSEtLWU1mOWJvLV9JQnFSNHdxcEs1ZXVQaFNGeTFlSHpMUXJLZHVFbUdpUlU3aWFhQ3BrVFdod0laQnRSVmk1dmV5X0RPbDdrS2EzQnp4Y2x0RnRIdXFmVG8yWjhha3Y0dldGY1AtMmY2UTFldmFiM0lDRkFmb3FKMFlfNW5JaE9CU19va3M4YldxNnpUWloyVlUxVm4?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:47:25 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 08:47:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Thodkyaat",
-        "Prahaar.in",
-        "Mumbai Tak"
+        "The News Mill"
       ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
       "critical": false,
-      "action": "No immediate action required."
+      "action": "Be cautious in the affected area."
     },
     {
       "id": "rain पुण्यात पुढील चार दिवस हलक्या स्वरूपाचा पाऊस",
@@ -1842,21 +1793,19 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mumbai rains dd",
-      "title": "Pune mumbai rains | DD News",
-      "summary": "Pune mumbai rains | DD News",
-      "source": "DD News + 1 more",
+      "id": "maharashtra weather राज्यात पुन्हा पावसाचा जोर अनेक जिल्ह्यांना यलो अलर्ट",
+      "title": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
+      "summary": "Maharashtra Weather Update | राज्यात पुन्हा पावसाचा जोर; अनेक जिल्ह्यांना यलो अलर्ट",
+      "source": "Thodkyaat + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
-      "areas": [
-        "Sus"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcEppZVJPMUJ3LUo4aHc1WmZxZ1BDOVZuekcwLU0wZW5GbjdPN0JXU1ZacVplYmFYTTlsM0ZNUG04Q244MDl5NkhTSFdaZDlPZUttVzBxVUpnbk9pOVJjbHdBUWJzaHc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 06:48:01 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "DD News",
-        "MSN"
+        "Thodkyaat",
+        "Prahaar.in"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -1957,50 +1906,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "title": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "summary": "स्वाती मेश्राम राळेगाव काँग्रेस महिला शहराध्यक्षपदी",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHZCVFh0M0E2WGk0OGhfUUVXX0tnSjRPT20zUVNoLWhQdml4TzZvNEdVdVV0X3pWSFE0a3JBMk8wWFNwcFdpVzVhZ1JsU2hrOVdSbXNSRFVOa3ktWmdqTUVUbDZKUUs4T0xVX3FnQ3hjRUo4ZEVCeXQwWWZaQmpibTdNZDVSZjJrYjJLU3BTeVNJM3NzM1NpODl5YlZkOXlTYWIxVHVwQVBxSjhhT0ppejVHMzMwQ1pZMWVMRw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:50:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:50:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "title": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "summary": "जिल्ह्यातील पीक विमा अन्यायाबाबत अधिकाऱ्यांना धरले धारेवर",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnNROHlBS2hFdjROTy11U1RMaFc1TklSUFVUMmFEN1VFLS1qeGh5S2lwU09ocFdYdFlrZkRRLTFsSDJJYTFFajdrWk1vX3pOd3ZDWlpKM21iUEJSLVo0VEl3RnlCWDdIOVhWTFp6S0dCaEw1ZjVScktCNERmOW15U0ZxOGJWMzUwdHlURGhDZmxlQUhSQThlWmstRjY4a2dTak5Fc21HT01mRzM2dXc0LS1OMUs?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:45:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:45:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
       "title": "Live Update : सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
       "summary": "Live Update : सिया गोयलच्या वडिलांच्या दुकानावर एफडीएची कारवाई",
@@ -2013,50 +1918,6 @@
       "region": "pune",
       "sources": [
         "Dailyhunt"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "title": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "summary": "आईची हत्या करणाऱ्या मुलाला जन्मठेप",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjVJQXFieEplQzBXd21Dbk11djNPU0s3c0RybXFGbGE3eXlMdTc4bldmaWNvRDhNVG1xbFh2Y1hPTlI2NTBKZ19uN1IwRFI1VnJpcm1oWHZtUWw0ZHljNmFyUk11OExWaEVHVDZhR2pRdzdLb05hVHVvT2xmWlp5aGZPa2JFMXpJeXhkMHhCVGV2LVVfMkdaQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:30:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:30:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "title": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "summary": "शाळाबाह्य मुलांच्या सर्वेक्षणास स्थगिती द्या",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTRzZGVfR1diaURtSXVIbWVRZ3RHNjVmVGVHa0RfMWljVTFxaUtqVWRaaFFCcWRMbXRneG1FR0plX0M4Y1dQYTM5X3BrZ1lMazRfS2dzdGdfSkxqTVVvY0xDSTNRQnJVN3VodmFpV09adVVjWnFHZHRsUjlZSkk1dWlyYTgzTHlp?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:25:22 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 16:25:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2270,7 +2131,7 @@
       "summary": "Weather Update : 'तो' पुन्हा येतोय?' राज्यात पावसाने घेतली विश्रांती; उकाडा वाढला, 21 जुलैनंतर पुन्हा मुसळधार पावसाची शक्यता",
       "source": "navarashtra.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUtqQUN1SHIwUWNUMG5CTjN6Y1VHcVhTWElUbkxqQkdfTkhBREhtUi1kNnJ4SW1KUDJoUEk3TDNKbldmVVFzMGVWOS1Vb3p3b3JOZW1mV0t3QUdHYmRwTEt4ODk2QjBtLXNSaDVSNG1DNHI2ZHNyWXZDNmJubDJCNDRNSlBhekVRM0hvUW9RMWFNMTZpZElZb255eVUwMWtlc25mUHJUTHlUbnh4OEhJcUxXbTZqQTNyYXdTdtIBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10d9IBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 11:35:14 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 11:35:14 GMT",
       "areas": [],
@@ -2309,28 +2170,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "title": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "summary": "शंभराव्या साहित्य संमेलनानिमित्त ९९ अध्यक्षीय भाषणांच्या अभ्यासाला सुरुवात",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQanZhMHZqRmEwVWdOZjEwUWZacTZjY3J2ekh2N0dVR3Q4amFmWWd5WWdpRlVIeG90VEQ4SlFPLVUyUE5wN3gwSkRVb1pTYkhLZFNjSzAzN09kWEE3WFdSeVltZjU4aGJPaTdRWU91M0FKZTdDNF9KcnNuTkZnbllXbTd0UHdsYVFTM095UnFQSndJel9tb2NjNnJmbTNjYS1VRmtfeXlzS2VRaVpGUkxYVEpGcm9XSmFCVlEyZV9SY2lHQ0xhcnEySUZ0dHBURGN6ODFVTEdUeXAxaVR2WXc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 11:02:36 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 11:02:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra weather दिलासादायक बातमी आज आणि उद्या या जिल्ह्यात मुसळधार पावसाचा अलर्ट",
       "title": "Maharashtra Weather Update: दिलासादायक बातमी! आज आणि उद्या ‘या’ जिल्ह्यात मुसळधार पावसाचा अलर्ट",
       "summary": "Maharashtra Weather Update: दिलासादायक बातमी! आज आणि उद्या ‘या’ जिल्ह्यात मुसळधार पावसाचा अलर्ट",
@@ -2343,6 +2182,28 @@
       "region": "pune",
       "sources": [
         "Marathi Jagran"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "mumbai rains dd",
+      "title": "Pune mumbai rains | DD News",
+      "summary": "Pune mumbai rains | DD News",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU9nY3o2MmU2UHk4OEF2d0tMeVVGeUlNQ1ZoWnlQa2pYTlFBVDlNVWRIamp4c2Y3N212enNxOU9CeGdYTXpRVXJ0QTJlc2lkMjdHQVp0YXpidW8?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:18:31 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 10:18:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "DD News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2519,6 +2380,28 @@
       "region": "pune",
       "sources": [
         "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मोठा अधिकारी पण पैशांसमोर झुकला चाकणमधील पोलिसाचं नको ते कांड शेवटी रंगेहात पकडलं",
+      "title": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
+      "summary": "मोठा अधिकारी; पण पैशांसमोर झुकला, चाकणमधील पोलिसाचं नको ते कांड, शेवटी रंगेहात पकडलं",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDFzWDJVdXQwblgwaHZPSHVHYV9HS3lhYWJwd216U2ZKanQ2STEzMUVvWlRMNVBxaFk5YzlCbU0zd2NHVzNHUkJNeFZVMXlKUWJhYlB0UnlKamoxMUxCU21qLWt1UHZScmxPZmpvLVdXUmhuanJ0M2l0UWFnc3I2Zng4TWdJUGZRZW5mdXEyS2VYNGxhUmZyUTBMUTh1Ty15S09oRGRyQ2hWTWFjMkhkNi1UY01HVTViUm9J?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:02:47 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 08:02:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2957,9 +2840,9 @@
     }
   ],
   "summary": {
-    "total": 68,
-    "alerts": 16,
-    "news": 52
+    "total": 64,
+    "alerts": 15,
+    "news": 49
   },
-  "cleanedAt": "2026-07-15T22:30:18.352Z"
+  "cleanedAt": "2026-07-15T23:53:03.942Z"
 }
