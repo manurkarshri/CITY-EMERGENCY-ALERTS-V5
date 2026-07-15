@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:28:19.544Z",
+  "generatedAt": "2026-07-15T22:30:17.630Z",
   "items": [
     {
       "id": "mumbai rains dd",
@@ -46,38 +46,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mumbai rainfall causes severe waterlogging at lokmanya tilak terminus",
-      "title": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
-      "summary": "Mumbai rainfall causes severe waterlogging at Lokmanya Tilak Terminus",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUJsNzI2QlVSbkFnSEtLWU1mOWJvLV9JQnFSNHdxcEs1ZXVQaFNGeTFlSHpMUXJLZHVFbUdpUlU3aWFhQ3BrVFdod0laQnRSVmk1dmV5X0RPbDdrS2EzQnp4Y2x0RnRIdXFmVG8yWjhha3Y0dldGY1AtMmY2UTFldmFiM0lDRkFmb3FKMFlfNW5JaE9CU19va3M4YldxNnpUWloyVlUxVm4?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:47:25 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 08:47:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
-    },
-    {
       "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain",
       "title": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
       "summary": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today",
@@ -114,6 +82,35 @@
       "region": "pune",
       "sources": [
         "The News Mill"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
+      "id": "rain batters mumbai landslide near missing link exit traffic suspended on mumbai expresswa",
+      "title": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "summary": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmtHaGI5TTNBMG55WWJqQ056al95UDE5S2pWRFJGeXR2QVMwN1JvRC1EbDBHOE5aR3ZLTm5vZHpYdEZvRXdWZUpobHAyaVMzZjA4RUhGRGRjRk5mQ1VFdWlqTjVaZnJaVjBmSFpHNmhPSTluRko5MDZSRUVtVnBjYkRaV2ozMlI4dlJ1RlhrTDYtNFhpYWJCZWg0YXlobW00RG5yNWllMUhwd3plLUZ4OEh6OGtqZm9GaU9MNUkxaXhrRGJYX0lfS1ZBLXc2c2JKWTFOVGw5eVN4cjFWZTJvWkFVdkpKY1dWajBIb3pTaHF5REh1TXc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:12:08 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 09:12:08 GMT",
+      "areas": [
+        "Sus"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Medium",
       "w": [
@@ -178,6 +175,28 @@
       "icon": "🚨",
       "critical": true,
       "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "mumbai rains will schools colleges stay closed tomorrow as monsoon wreaks havoc in city su",
+      "title": "Mumbai rains: Will schools, colleges stay closed tomorrow as monsoon wreaks havoc in city, suburbs?",
+      "summary": "Mumbai rains: Will schools, colleges stay closed tomorrow as monsoon wreaks havoc in city, suburbs?",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNc2dtS0lTRWkybEhTWlJLUmhtOXVKSjNrRmUySTdnRzBfNUs3VHo1TmVkMnROSnI2aDR3Z3JGN1lDY1BmcGhXOGt0S2E4OExYcG5tZmlrTjFuQlVobDFIdVZYOWliQ2FyMkpPV2dyZDZ5cWFvLXVLcjVZMmFtNmpLalpxc0piNkFKcEd2cU5qc1BkLWdpTFpUX2lhekpUazhqcVZnUXhFeVNHQVNwQW5HVUcxYWtZZ09YOF9SNXNJbjRTRGZVLU9NbEprNi0teWNmTkwwZzdScTZqQS1taS1kR3MxNXZqWWZPM0FPRkR6U1QwM094WWNxeklpdU1PeVJxd29McU8tcDAxVnNEMFVkanBTeTViYnhldUREX0lHcHNrTS1uVkVJdjRJOU9PaVFiNmNwRXlYVllDdlBzS0JYczFndVFIU2JFS2dKS1ZQUmRFM1BBS1hsVnpGSGh5YVhBdklsRDRjRzFhQk5sVWJaT203bw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:12:02 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 06:12:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "school holiday tomorrow july 16 will schools remain closed due to heavy rain check city wi",
@@ -379,6 +398,28 @@
       "region": "pune",
       "sources": [
         "ETV Bharat"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "dam inflows stagnate as rain eases stock steady at 57",
+      "title": "Dam inflows stagnate as rain eases, stock steady at 57%",
+      "summary": "Dam inflows stagnate as rain eases, stock steady at 57%",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHFiZ2FOSU9ORlpZcTFSZHJLdUE5ZG80Y1VrTG5lckJteFVLc08wRFFYMWFOc01MWWl4ZzZsWHp4VGNVZnpZeng1QnNwcW1nZlVZSjBybE9BQW5lV0oxYTBoblFLX19oNnJrckVKdHcxR19xbVFvUTZ1ZmZ4VGFnV2RiV0VjUWFvbmE0RVNIVXZkaXljR09hZndETlVFTmpnOG9RV2g0aUpTMnlOeUwxOTdmQ294dTJVakJ0NHRkTUN4WmvSAcgBQVVfeXFMTkRxcmlXeFpjYng1WHl5MV9FdzczbVo3SWcyTWhjMDdHRU5NMXpCNUdLNjdDY2lWSjJpRjVMN1U4MWM2emgzdzZqdE9ROVVXb2VnamxDaFVraE9RNkxoZGNBVjEwYjJIZ2pkVkZMd2lJbC12eE9nQ3BGSFc2Y2tXeWtRVWxxSWstYzItcFFhU2x5M3dUTngwaGdtT2F3ejVYRFdWRXRid2NvUzlTN2ZyZFQtZzVxYjFraW5QdUlpa1A1a2hENEVyV1c?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 17:46:00 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 17:46:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -1117,7 +1158,7 @@
       "summary": "Weather Update : 'तो' पुन्हा येतोय?' राज्यात पावसाने घेतली विश्रांती; उकाडा वाढला, 21 जुलैनंतर पुन्हा मुसळधार पावसाची शक्यता",
       "source": "navarashtra.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10d9IBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUtqQUN1SHIwUWNUMG5CTjN6Y1VHcVhTWElUbkxqQkdfTkhBREhtUi1kNnJ4SW1KUDJoUEk3TDNKbldmVVFzMGVWOS1Vb3p3b3JOZW1mV0t3QUdHYmRwTEt4ODk2QjBtLXNSaDVSNG1DNHI2ZHNyWXZDNmJubDJCNDRNSlBhekVRM0hvUW9RMWFNMTZpZElZb255eVUwMWtlc25mUHJUTHlUbnh4OEhJcUxXbTZqQTNyYXdTdtIBwgFBVV95cUxPTjJjVllOZVZualpzSnJfTEFXMkRTdGtEdXlZOEJzTXpyZWNJV0RLN1NhZ08yV0dCRndQdXBYcXRpcGw5cFA0ZGxzWVQ4VGZZNTE1Ul82ZjNyUlo3Q2x6a3lETkF1RHU4cFV6ZDRZWjNwaE9ySVdZOEI1aWtjekNPX19TVkxCeXhFS0FhbG1PUFRyTFBtTmstUE02MXM1OFZCVDVnR1hUaWdXS084LXRvVmhBbW9JZXVzMl92VzVyZW10dw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 11:35:14 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 11:35:14 GMT",
       "areas": [],
@@ -1274,6 +1315,28 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnh6ZjRjajZmNEtYdGZXT2FqZmV0LXY4QnpIOVNBUVlkTjFhaXhLTlR1ZjktUUtnZVpnS0gwQ0hUc0wzMGZzVnEteG5DaTJkMDhfZ0JOZkE5Y1FyVWJVUVZsOHZ4ZzVZYmpmX2U4a2JUM2JuWUp6MElFaGY3Y3ZkS1MtdUxHNWhnYXJqdzNpdjJGZi16dFpDZXg1VjFNRUxYQVFmY21jT1pUS3RGRzZweW9OTWFQZV9MeC1wbWVYMmhuZ3QtTTg0WHJfNWozcGFpb09fdg?oc=5",
       "pubDate": "Wed, 15 Jul 2026 06:50:48 GMT",
       "lastUpdated": "Wed, 15 Jul 2026 06:50:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुण्याच्या ड्रग्ज तस्कराची ती नायजेरियन बॉस एका फोनवर व्हायची करोडोंची डील तपासात धक्कादाय",
+      "title": "पुण्याच्या ड्रग्ज तस्कराची 'ती' नायजेरियन बॉस! एका फोनवर व्हायची करोडोंची डील; तपासात धक्कादायक खुलासा",
+      "summary": "पुण्याच्या ड्रग्ज तस्कराची 'ती' नायजेरियन बॉस! एका फोनवर व्हायची करोडोंची डील; तपासात धक्कादायक खुलासा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXotMWlYUC10YWtRekRXSkFXeFJJM2ttSkNpTmY2OUtLaVdyS2ppNjBXOEtsZkUySTVUUnRScEI3bFdoY0xHaHo0MHNJaTdrcUJTNnhnRFhoQ0lKci1QM2ttT3RRNjNWLVBzaWVGZmxqbjV4TUtxLWVKWjFCNVJVYktvWVBlU2llLWJOX294aXFPaHIwNWpVc0VMQVoydGpRS1E4U3YxM3Vla0NLNU5sQ05LclJBSXc3a3B1VHM3SlRMRExlVi1V?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:34:44 GMT",
+      "lastUpdated": "Wed, 15 Jul 2026 07:34:44 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
