@@ -1,116 +1,60 @@
 {
-  "generatedAt": "2026-07-16T18:00:13.717Z",
+  "generatedAt": "2026-07-16T19:39:11.848Z",
   "source": "Open-Meteo",
   "regions": {
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
+      "error": true,
+      "message": "Open-Meteo failed for khed: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.742Z"
+    },
     "talegaon": {
       "label": "Talegaon Dabhade",
       "error": true,
       "message": "Open-Meteo failed for talegaon: HTTP 429",
-      "updatedAt": "2026-07-16T18:00:13.577Z"
+      "updatedAt": "2026-07-16T19:39:11.742Z"
+    },
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
+      "error": true,
+      "message": "Open-Meteo failed for pcmc: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.744Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "error": true,
+      "message": "Open-Meteo failed for alandi: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.749Z"
+    },
+    "pune": {
+      "label": "Pune City (PMC)",
+      "error": true,
+      "message": "Open-Meteo failed for pune: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.754Z"
+    },
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "error": true,
+      "message": "Open-Meteo failed for chakan: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.772Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "error": true,
+      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.815Z"
     },
     "saswad": {
       "label": "Saswad Region",
       "error": true,
       "message": "Open-Meteo failed for saswad: HTTP 429",
-      "updatedAt": "2026-07-16T18:00:13.591Z"
-    },
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 23.5,
-      "humidity": 90,
-      "rain": 0,
-      "wind": 7.5,
-      "gust": 19.4,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 17,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.598Z"
-    },
-    "pune": {
-      "label": "Pune City (PMC)",
-      "temp": 23.7,
-      "humidity": 88,
-      "rain": 0,
-      "wind": 9.3,
-      "gust": 24.1,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.635Z"
-    },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 23.3,
-      "humidity": 90,
-      "rain": 0,
-      "wind": 8.6,
-      "gust": 16.6,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 22,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.680Z"
-    },
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "temp": 22.8,
-      "humidity": 93,
-      "rain": 0,
-      "wind": 8.7,
-      "gust": 17.3,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 19,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.683Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "temp": 21.7,
-      "humidity": 96,
-      "rain": 0,
-      "wind": 8.7,
-      "gust": 22.3,
-      "code": 3,
-      "rainChance": 53,
-      "visibility": 3,
-      "next6hRainMm": 0.1,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.696Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "temp": 23.1,
-      "humidity": 89,
-      "rain": 0,
-      "wind": 13.1,
-      "gust": 21.6,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 26,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.699Z"
+      "updatedAt": "2026-07-16T19:39:11.818Z"
     },
     "fursungi": {
       "label": "Fursungi / Uruli",
-      "temp": 23.8,
-      "humidity": 88,
-      "rain": 0,
-      "wind": 8.3,
-      "gust": 21.2,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 17,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-16T18:00:13.717Z"
+      "error": true,
+      "message": "Open-Meteo failed for fursungi: HTTP 429",
+      "updatedAt": "2026-07-16T19:39:11.847Z"
     }
   }
 }
