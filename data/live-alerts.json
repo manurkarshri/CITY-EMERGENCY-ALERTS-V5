@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:39:11.870Z",
+  "generatedAt": "2026-07-16T20:50:03.204Z",
   "status": "ok",
   "alerts": [
     {
@@ -29,40 +29,6 @@
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby.",
       "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "mumbai rain train services on this route suspended after landslides in karjat lonavala sec",
-      "title": "Mumbai rain update: Train services on this route suspended after landslides in Karjat-Lonavala section, Pune-Mumbai carriageway traffic diverted",
-      "summary": "Mumbai rain update: Train services on this route suspended after landslides in Karjat-Lonavala section, Pune-Mumbai carriageway traffic diverted",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPc282WGx0ZVdqV2tXWms0MjVfUi0xSVlQcDBHZ19Bd2tuLXhzXzIxZlVxLVJQWFJQbDhiSnBWV0pVX3JNbWxFcUsweHBKNDRQN1paVVFKZ1JMSUl5N1ptaU9YTU52cDNyamVyRmo1empKX1ZXNk5tLXk0ejItbk5tdEE2cnIyejJFQnhFa084dGRCQjJpM01YRzRwTnJlTmJiRndHdXZ3aEhaR2g5R3l6OVE1UHgxY2J0emdST21GUjFXXzhMWEh0eFIzLTNXbnBOV0Q2bkZXazg4eUw2QTJfVkduU1F5TnhLOW00ZUs4RWphMTlyTWx1azhhcjJNRGR5ZFVpMXQ3R3FJaTQxSGdRYkw0eWRzTm9UMWNB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:43:09 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 19:43:09 GMT",
-      "areas": [
-        "Sus",
-        "Lonavala"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
         "Road delay or diversion possible."
       ]
     },
@@ -198,38 +164,6 @@
       ]
     },
     {
-      "id": "flight cancellation july 9 which flights are cancelled and delayed check details",
-      "title": "Pune flight cancellation update today (July 9): Which flights are cancelled and delayed? Check details",
-      "summary": "Pune flight cancellation update today (July 9): Which flights are cancelled and delayed? Check details",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVhPX0lVS0lwa1ZJZDJ6X0NlTk1BdGUyT2hTeVhUSlY4MFRKX3BsRk1USFhvaXZwUlZoUU5KbnBRYjg4X0xHTlVsSEx6V3ZkaWhWdThkNEVUNms2a25DSTR6NmFXQ01majNqOXZQeEp5b0M1VlotOE13X2R1bi1hRWs4X3QyRFVQLWxRbHhQdjdFSmlDb2swZ0ZpLXJGSEY4dHhRTmxaZWg3dzRRa3hlUE5QU0Rka2FxM0xCNGprRzlxeEcza1JNWDNnZDQtVzd3UDlONFZtajJwQUplYTR6R2djQTJreTd1aC1BYlJoY0I?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 03:16:16 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 03:16:16 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
-    },
-    {
       "id": "falling trees failing systems haunt pimpri chinchwad",
       "title": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
       "summary": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
@@ -559,6 +493,31 @@
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "maharashtra rains tunnel 2 debris cleared mumbai missing link opens",
+      "title": "Maharashtra rains: Tunnel 2 debris cleared, Mumbai-Pune missing link opens",
+      "summary": "Maharashtra rains: Tunnel 2 debris cleared, Mumbai-Pune missing link opens",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzVMQjk0UG95b2E0RWNJTkpRdlFzRlVLNnZ3NUpqdkY5S3JrVFBJcmZIZXBJWnhrTG1ocHQ4bmdNOWdtbkRZdlJ0YkhlOXg0NF8tOGN4ekw1UGhpYmxnR0JILUNFeWpEVXBybkd0cWhEYU1DTmlZQlMtYnBucDU2N1YtZld5d0d4czI3WndvZzN0aUZqWDd4X3VaVXRhV0ZiWEtKY2JnaXFYdXJXLWVzQ1k1cDFxUE5VU2tRQXF3?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 08:56:31 GMT",
+      "lastUpdated": "Thu, 16 Jul 2026 08:56:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -977,31 +936,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "indian navy on standby as ndrf intensifies rescue ops amid heavy rain across maharashtra",
-      "title": "Indian Navy on standby as NDRF intensifies rescue OPS amid heavy rain across Maharashtra",
-      "summary": "Indian Navy on standby as NDRF intensifies rescue OPS amid heavy rain across Maharashtra",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzVKU0FKazRSWDBtOHNVaTU1ZXFzd0ZMTFNUMlRyeUZtY3lXMUJiN3dOVGRmcXRfS2QyaWdzN1B3RHRhUDJkMnZPZEEwdWl1OHlCMW94c3E2ZlVsR0tBNEkyOGxPN0hRaGsxNERVNnBlSkRaSWFDd2hkLTV1dWoyeV9UQldYSVZPaHB5WmNXR20xS0FzU1VDSjItdWRnNV9hQ3RPNFJpU1g5MThka0pHZXJScTRZVkFRb0pkbHZJNDBwWFFJUHBmckJuRnZQX2x5cDVz?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:43:32 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 19:43:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -1031,36 +965,6 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "mumbai rain train services on this route suspended after landslides in karjat lonavala sec",
-      "title": "Mumbai rain update: Train services on this route suspended after landslides in Karjat-Lonavala section, Pune-Mumbai carriageway traffic diverted",
-      "summary": "Mumbai rain update: Train services on this route suspended after landslides in Karjat-Lonavala section, Pune-Mumbai carriageway traffic diverted",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPc282WGx0ZVdqV2tXWms0MjVfUi0xSVlQcDBHZ19Bd2tuLXhzXzIxZlVxLVJQWFJQbDhiSnBWV0pVX3JNbWxFcUsweHBKNDRQN1paVVFKZ1JMSUl5N1ptaU9YTU52cDNyamVyRmo1empKX1ZXNk5tLXk0ejItbk5tdEE2cnIyejJFQnhFa084dGRCQjJpM01YRzRwTnJlTmJiRndHdXZ3aEhaR2g5R3l6OVE1UHgxY2J0emdST21GUjFXXzhMWEh0eFIzLTNXbnBOV0Q2bkZXazg4eUw2QTJfVkduU1F5TnhLOW00ZUs4RWphMTlyTWx1azhhcjJNRGR5ZFVpMXQ3R3FJaTQxSGdRYkw0eWRzTm9UMWNB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:43:09 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 19:43:09 GMT",
-      "areas": [
-        "Sus",
-        "Lonavala"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "another wari accident in four days speeding car kills 67 year old warkari near baramati",
@@ -1180,38 +1084,6 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
-    },
-    {
-      "id": "flight cancellation july 9 which flights are cancelled and delayed check details",
-      "title": "Pune flight cancellation update today (July 9): Which flights are cancelled and delayed? Check details",
-      "summary": "Pune flight cancellation update today (July 9): Which flights are cancelled and delayed? Check details",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVhPX0lVS0lwa1ZJZDJ6X0NlTk1BdGUyT2hTeVhUSlY4MFRKX3BsRk1USFhvaXZwUlZoUU5KbnBRYjg4X0xHTlVsSEx6V3ZkaWhWdThkNEVUNms2a25DSTR6NmFXQ01majNqOXZQeEp5b0M1VlotOE13X2R1bi1hRWs4X3QyRFVQLWxRbHhQdjdFSmlDb2swZ0ZpLXJGSEY4dHhRTmxaZWg3dzRRa3hlUE5QU0Rka2FxM0xCNGprRzlxeEcza1JNWDNnZDQtVzd3UDlONFZtajJwQUplYTR6R2djQTJreTd1aC1BYlJoY0I?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 03:16:16 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 03:16:16 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
     },
     {
       "id": "falling trees failing systems haunt pimpri chinchwad",
@@ -1537,6 +1409,28 @@
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra rains tunnel 2 debris cleared mumbai missing link opens",
+      "title": "Maharashtra rains: Tunnel 2 debris cleared, Mumbai-Pune missing link opens",
+      "summary": "Maharashtra rains: Tunnel 2 debris cleared, Mumbai-Pune missing link opens",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzVMQjk0UG95b2E0RWNJTkpRdlFzRlVLNnZ3NUpqdkY5S3JrVFBJcmZIZXBJWnhrTG1ocHQ4bmdNOWdtbkRZdlJ0YkhlOXg0NF8tOGN4ekw1UGhpYmxnR0JILUNFeWpEVXBybkd0cWhEYU1DTmlZQlMtYnBucDU2N1YtZld5d0d4czI3WndvZzN0aUZqWDd4X3VaVXRhV0ZiWEtKY2JnaXFYdXJXLWVzQ1k1cDFxUE5VU2tRQXF3?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 08:56:31 GMT",
+      "lastUpdated": "Thu, 16 Jul 2026 08:56:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1924,34 +1818,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "indian navy on standby as ndrf intensifies rescue ops amid heavy rain across maharashtra",
-      "title": "Indian Navy on standby as NDRF intensifies rescue OPS amid heavy rain across Maharashtra",
-      "summary": "Indian Navy on standby as NDRF intensifies rescue OPS amid heavy rain across Maharashtra",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzVKU0FKazRSWDBtOHNVaTU1ZXFzd0ZMTFNUMlRyeUZtY3lXMUJiN3dOVGRmcXRfS2QyaWdzN1B3RHRhUDJkMnZPZEEwdWl1OHlCMW94c3E2ZlVsR0tBNEkyOGxPN0hRaGsxNERVNnBlSkRaSWFDd2hkLTV1dWoyeV9UQldYSVZPaHB5WmNXR20xS0FzU1VDSjItdWRnNV9hQ3RPNFJpU1g5MThka0pHZXJScTRZVkFRb0pkbHZJNDBwWFFJUHBmckJuRnZQX2x5cDVz?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:43:32 GMT",
-      "lastUpdated": "Wed, 15 Jul 2026 19:43:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 46,
-    "alerts": 11,
-    "news": 35
+    "total": 44,
+    "alerts": 10,
+    "news": 34
   },
-  "cleanedAt": "2026-07-16T19:39:11.909Z"
+  "cleanedAt": "2026-07-16T20:50:03.216Z"
 }
