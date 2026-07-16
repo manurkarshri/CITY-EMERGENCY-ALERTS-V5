@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:51:28.818Z",
+  "generatedAt": "2026-07-16T15:28:02.569Z",
   "items": [
     {
       "id": "rainfall information meteorological sub divisions",
@@ -90,28 +90,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "warnings",
-      "title": "Warnings",
-      "summary": "Warnings",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUnR3Y3o2ZWRsSUxNVTZpenVLN2JWMVBFcmFEXzNuaHRSV1o5YTZHNnVFZ3BVdnhqZUljZDJsWkNDQUpKc0c0VFhkNWwxcUYzck1BUWNLVVh5STlLUWpMSkY4TmxnTW5qbGhwTS1lVVFKSWs4REs0?oc=5",
-      "pubDate": "Wed, 29 Mar 2023 13:43:30 GMT",
-      "lastUpdated": "Wed, 29 Mar 2023 13:43:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
-    {
       "id": "district wise warnings",
       "title": "District-Wise-Warnings",
       "summary": "District-Wise-Warnings",
@@ -176,6 +154,35 @@
       "icon": "ℹ️",
       "critical": true,
       "action": "No immediate action required."
+    },
+    {
+      "id": "highway forecast",
+      "title": "Highway Forecast",
+      "summary": "Highway Forecast",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NTJLTGwtRDRLMEIxZ1BJZlJFd3pBOWVJcWRUQnUzN1FSTWlwSmRUWG1oT2RVUDlqd2lmWVBFNGlVbDZxYTFKRW1mRlVnNUkybHVZRXBEUDM1VlRNUUhGTUt1YXJid0U?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:37 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": true,
+      "action": "Check route before starting travel."
     }
   ]
 }
