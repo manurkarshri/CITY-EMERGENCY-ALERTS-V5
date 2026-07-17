@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:00:53.374Z",
+  "generatedAt": "2026-07-17T21:13:00.713Z",
   "status": "ok",
   "alerts": [
     {
@@ -288,7 +288,7 @@
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
-      "source": "Loksatta + 2 more",
+      "source": "Loksatta + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlJGTVhXWnJGLWZSZnlaclRqWndyRlU5MzA0dnNmQmNMSmdob0pYZVluS1Uzc0Fna1pWekNvRTFwQWRST2RuTjg1MlctYWpXNU5fZWVIYjh5Nnk1Ym5Ed3dvQ01jTW5FNU1lN3l3cmJISVdzQTNVYWsxeHVLMHVfSUxLX3lTQnZxeU5vWmQ5VUh6d2huNHU4WTBlVXdLdWV6WW9wd3dsaDRISjVHTDJyQk5DNWVNck51UE9tadIBwwFBVV95cUxNQU84cTNESGVpQ25HQklIbTIwaEhxcW9RY2xpQi1pcUJmdklYTHdMOFRpVVJKME5Gd1NhZjZUcDhlTkw1eG5Zc2NBZlZFWFhQQl9fVURPNDN3bmlFbHp1U3FqV205RnNJZ0EtLXpyZEtoTE96YjN1WWFFYkc4VEhwZVlzM1E0Tlh3aC1vNWc0TWJaVUhLLWlnMXNvZVMxZVhqcmVGN09xYnB0anJXMWJYX1hBcFRRd0UxeTQ3RUpqWXZZbDA?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:22:53 GMT",
@@ -297,10 +297,9 @@
       "region": "pune",
       "sources": [
         "Loksatta",
-        "maharashtradesha.com",
         "Agrowon"
       ],
-      "confidence": "High",
+      "confidence": "Medium",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -327,6 +326,81 @@
         "India.Com"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "school holiday tomorrow july 16 will schools remain closed due to heavy rain check city wi",
+      "title": "School holiday tomorrow (July 16): Will schools remain closed due to heavy rain? Check city-wise updates",
+      "summary": "School holiday tomorrow (July 16): Will schools remain closed due to heavy rain? Check city-wise updates",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFFZY0ozUEpBbE5VNkk4a0poUzhFUC1kMGEyY2VsUzhnWEs4X1lsVnl2RTB1b3I0MGlDNmphdHdDeFRKandzd1RFNUg2UzZPdjdUamYxVjVaU0NBb05oUFVvVUxuTzNxU3F2TEJQUVdWaDROSHd6QWJBRmVkY3dmb0p6Zm45LVNxR0ZhNUo2MkVjM3lZaVZvcXFncDctdTQ0TFFiWEwtcGV4Ni1hMnNqV1h1M2xyelRrYXZkWFl1M1dUeHBnWUVwVVo0VUk0eVRRMlNsVzg4LXJfczVyVUVmMW9Jbw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:22:22 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:22:22 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "mumbai faces heavy rain work from home advisory issued",
+      "title": "Mumbai faces heavy rain: Work-from-home advisory issued",
+      "summary": "Mumbai faces heavy rain: Work-from-home advisory issued",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPcnhuNVRrZ1VRekdtYXZtempsd2FRRW8tYk5pY2czSkIzZ1FYbUl5RWV3WlYyUlZpXzlmc3NQRDhGdDZURWhaanZrdC1xdF9wMWxfckRMMGc1Tk04QmtaUndlaF9xNzV6MnRIdWlmWEdqY0pteDg5SmVIckhTZE42TEduNG01eVhkRDgzdjQ4dmprbmJxbElRWlhWNkhyYkdNSjJsa09wbTlTdHpPT3gzbnVGa05QN0xHU3k3eUZrVHY1VXZUYlFjQlRlZklFZHY1elBpMmdjVjMxUGpEZ2ZlSHVwNEJqZXdyUnVTWGlHbHlzTHVKaWZQOUhCODhILU5udUtjek5GRnVpaW1LUHNjazh5UURFSG9nZ0tZV25OUHU5MHlaMlRvSG5yQ2pYWnRYNjdJbnVUb2k3TmtpRVktRlBLUQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:20:30 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:20:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "india can out train the world in quantum tech fadnavis",
+      "title": "India can ‘out-train’ the world in quantum tech: Fadnavis",
+      "summary": "India can ‘out-train’ the world in quantum tech: Fadnavis",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzV5RTBTd2Zvd1RJTEJuZ0YtclRNaXRWV3FNY3pUMWh0SlcydTlHbHB2RlF3MEZTUjR6TVpJblhuQ0kyOEdOOTN1dTJhTXliTU93T190aFBIaWQ5S1dYeGF6UnJVdHVrWGR3dVNwLVM3V204X29ucE1VVU9qZDg1TjNpVlNnNDQ0amlSdHNjNm9pZ0l1ZU5oUEhwbV83R2xpYWFLV3l0SVdFRWoyMU9BTExONEd5cWMyNk1wYVlMbXhVSDlm0gHKAUFVX3lxTE5TMnRLZ0UyQmlIVzNkUDNkZE1adEZYZVE5ZktXRzhELUN1ZXA3UXJFb3ZFeEkzRmhoUVFhNC0tQUdLMVVhaS1wTzZ1ZjFtS2NsQ091Y21XNXR3Qk9Na0xaVFJmYVVmbUVuUWFRakVWcks3M3d2NDA4SGlLNi1NcUhJeW5OTFkyYVNCZUpWZU9SaGRkbmJtd2FLTFRBYnhaandiZ05BcDBXUTE1Yjd0TEJReWJGdUxyT0Q2MXRrcUUwMHBIMHhWN292V1E?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 18:47:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 18:47:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -485,6 +559,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "title": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "summary": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "source": "Marathi e-Batmya",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVlKcjBCUlhIcmpCeVlGaVREaEFRQmtNNi16MExLcFpDUkotTTRlSmhnXzBraEpaZUN4UDlST1RuVVJyQTc1UUdiZndpRVg0cVNZblg0alZCM3M2cVBWRVFVUnBFWnNid183cHRtdm11SFVLaVRUWWFQM3I2QTNTR2RlLU1vcGFpNE5rcV9KcDQ0UEVfWGxNcDM2SHk4UHBBSUotZGZwellIa2NySkHSAa4BQVVfeXFMTXVZSnIwQlJYSHJqQnlZRmlURGhBUUJrTTYtejBMS3BaQ1JKLU00ZUpoZ18wa2hKWmVDeFA5Uk9UblVSckE3NVFHYmZ3aUVYNHFTWW5YNGpWQjNzNnFQVkVRVVJwRVpzYndfN3B0bXZtdUhVS2lUVFlhUDNyNkEzU0dkZS1Nb3BhaTROa3FfSnA0NFBFX1hsTXAzNkh5OFBwQUlKLWRmcHpZSGtjckpB?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 13:35:33 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 13:35:33 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Marathi e-Batmya"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1371,7 +1467,7 @@
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
-      "source": "Loksatta + 2 more",
+      "source": "Loksatta + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlJGTVhXWnJGLWZSZnlaclRqWndyRlU5MzA0dnNmQmNMSmdob0pYZVluS1Uzc0Fna1pWekNvRTFwQWRST2RuTjg1MlctYWpXNU5fZWVIYjh5Nnk1Ym5Ed3dvQ01jTW5FNU1lN3l3cmJISVdzQTNVYWsxeHVLMHVfSUxLX3lTQnZxeU5vWmQ5VUh6d2huNHU4WTBlVXdLdWV6WW9wd3dsaDRISjVHTDJyQk5DNWVNck51UE9tadIBwwFBVV95cUxNQU84cTNESGVpQ25HQklIbTIwaEhxcW9RY2xpQi1pcUJmdklYTHdMOFRpVVJKME5Gd1NhZjZUcDhlTkw1eG5Zc2NBZlZFWFhQQl9fVURPNDN3bmlFbHp1U3FqV205RnNJZ0EtLXpyZEtoTE96YjN1WWFFYkc4VEhwZVlzM1E0Tlh3aC1vNWc0TWJaVUhLLWlnMXNvZVMxZVhqcmVGN09xYnB0anJXMWJYX1hBcFRRd0UxeTQ3RUpqWXZZbDA?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:22:53 GMT",
@@ -1380,10 +1476,9 @@
       "region": "pune",
       "sources": [
         "Loksatta",
-        "maharashtradesha.com",
         "Agrowon"
       ],
-      "confidence": "High",
+      "confidence": "Medium",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1407,6 +1502,72 @@
         "India.Com"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "school holiday tomorrow july 16 will schools remain closed due to heavy rain check city wi",
+      "title": "School holiday tomorrow (July 16): Will schools remain closed due to heavy rain? Check city-wise updates",
+      "summary": "School holiday tomorrow (July 16): Will schools remain closed due to heavy rain? Check city-wise updates",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFFZY0ozUEpBbE5VNkk4a0poUzhFUC1kMGEyY2VsUzhnWEs4X1lsVnl2RTB1b3I0MGlDNmphdHdDeFRKandzd1RFNUg2UzZPdjdUamYxVjVaU0NBb05oUFVvVUxuTzNxU3F2TEJQUVdWaDROSHd6QWJBRmVkY3dmb0p6Zm45LVNxR0ZhNUo2MkVjM3lZaVZvcXFncDctdTQ0TFFiWEwtcGV4Ni1hMnNqV1h1M2xyelRrYXZkWFl1M1dUeHBnWUVwVVo0VUk0eVRRMlNsVzg4LXJfczVyVUVmMW9Jbw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:22:22 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:22:22 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "mumbai faces heavy rain work from home advisory issued",
+      "title": "Mumbai faces heavy rain: Work-from-home advisory issued",
+      "summary": "Mumbai faces heavy rain: Work-from-home advisory issued",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPcnhuNVRrZ1VRekdtYXZtempsd2FRRW8tYk5pY2czSkIzZ1FYbUl5RWV3WlYyUlZpXzlmc3NQRDhGdDZURWhaanZrdC1xdF9wMWxfckRMMGc1Tk04QmtaUndlaF9xNzV6MnRIdWlmWEdqY0pteDg5SmVIckhTZE42TEduNG01eVhkRDgzdjQ4dmprbmJxbElRWlhWNkhyYkdNSjJsa09wbTlTdHpPT3gzbnVGa05QN0xHU3k3eUZrVHY1VXZUYlFjQlRlZklFZHY1elBpMmdjVjMxUGpEZ2ZlSHVwNEJqZXdyUnVTWGlHbHlzTHVKaWZQOUhCODhILU5udUtjek5GRnVpaW1LUHNjazh5UURFSG9nZ0tZV25OUHU5MHlaMlRvSG5yQ2pYWnRYNjdJbnVUb2k3TmtpRVktRlBLUQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:20:30 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:20:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "india can out train the world in quantum tech fadnavis",
+      "title": "India can ‘out-train’ the world in quantum tech: Fadnavis",
+      "summary": "India can ‘out-train’ the world in quantum tech: Fadnavis",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzV5RTBTd2Zvd1RJTEJuZ0YtclRNaXRWV3FNY3pUMWh0SlcydTlHbHB2RlF3MEZTUjR6TVpJblhuQ0kyOEdOOTN1dTJhTXliTU93T190aFBIaWQ5S1dYeGF6UnJVdHVrWGR3dVNwLVM3V204X29ucE1VVU9qZDg1TjNpVlNnNDQ0amlSdHNjNm9pZ0l1ZU5oUEhwbV83R2xpYWFLV3l0SVdFRWoyMU9BTExONEd5cWMyNk1wYVlMbXhVSDlm0gHKAUFVX3lxTE5TMnRLZ0UyQmlIVzNkUDNkZE1adEZYZVE5ZktXRzhELUN1ZXA3UXJFb3ZFeEkzRmhoUVFhNC0tQUdLMVVhaS1wTzZ1ZjFtS2NsQ091Y21XNXR3Qk9Na0xaVFJmYVVmbUVuUWFRakVWcks3M3d2NDA4SGlLNi1NcUhJeW5OTFkyYVNCZUpWZU9SaGRkbmJtd2FLTFRBYnhaandiZ05BcDBXUTE1Yjd0TEJReWJGdUxyT0Q2MXRrcUUwMHBIMHhWN292V1E?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 18:47:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 18:47:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1559,6 +1720,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "title": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "summary": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
+      "source": "Marathi e-Batmya",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVlKcjBCUlhIcmpCeVlGaVREaEFRQmtNNi16MExLcFpDUkotTTRlSmhnXzBraEpaZUN4UDlST1RuVVJyQTc1UUdiZndpRVg0cVNZblg0alZCM3M2cVBWRVFVUnBFWnNid183cHRtdm11SFVLaVRUWWFQM3I2QTNTR2RlLU1vcGFpNE5rcV9KcDQ0UEVfWGxNcDM2SHk4UHBBSUotZGZwellIa2NySkHSAa4BQVVfeXFMTXVZSnIwQlJYSHJqQnlZRmlURGhBUUJrTTYtejBMS3BaQ1JKLU00ZUpoZ18wa2hKWmVDeFA5Uk9UblVSckE3NVFHYmZ3aUVYNHFTWW5YNGpWQjNzNnFQVkVRVVJwRVpzYndfN3B0bXZtdUhVS2lUVFlhUDNyNkEzU0dkZS1Nb3BhaTROa3FfSnA0NFBFX1hsTXAzNkh5OFBwQUlKLWRmcHpZSGtjckpB?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 13:35:33 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 13:35:33 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Marathi e-Batmya"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2168,9 +2351,9 @@
     }
   ],
   "summary": {
-    "total": 53,
+    "total": 57,
     "alerts": 15,
-    "news": 38
+    "news": 42
   },
-  "cleanedAt": "2026-07-17T20:00:53.387Z"
+  "cleanedAt": "2026-07-17T21:13:00.725Z"
 }
