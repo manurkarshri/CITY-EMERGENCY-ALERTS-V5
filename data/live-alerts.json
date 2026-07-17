@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-07-17T18:32:33.267Z",
+  "generatedAt": "2026-07-17T20:00:53.374Z",
   "status": "ok",
   "alerts": [
+    {
+      "id": "twelve years on gharkul residents fight flooding intensify stir against pcmc for permanent",
+      "title": "Twelve years on, Gharkul residents fight flooding; intensify stir against PCMC for permanent fix",
+      "summary": "Twelve years on, Gharkul residents fight flooding; intensify stir against PCMC for permanent fix",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUxIRFZmbUkzamxnMG41ajd3WGxvQzA0UjFXNGVVWlA5cGlnN0NRdjR0ZHNyZ1B3NHlmZmJaZDNwaERTLTQzVTFMcEhVOGh3eHZlTjVXWXBMeFl1MGhsMzVadzdGOVVWdHVXeTItUDItVkhONGJuTHlSZVZsX0RKVDBQZE1tWGlRRmlQaFliWmJpM2tVQ2wxSkJDaU5MWWFtX3ZVZVREQ3B4WDc4ckxfZUw4V3ljV2M1Tmp2VDd6VDZKUy1lZXNCZlUtRHZHVlNIMThUcFZoZFdOZmFuQXYzY195Z3p5MlJzYWlyNjdKaVdQQ0hnaTFBbVJR0gH_AUFVX3lxTE9raVJ3S1dJU1N6a3NZWkh2SVo2Wk1pZ2Y0eGpjbHVGMExFUTUwek1FQ1luSE00Q19NaVFFNHg1aDhZR3AzZzJ2VXl2azQ2QVFzRzdvYnRSdEU0M3V0R2UwUTllcnk5Z1RjbllIUmlPVVBBc1ZOeU00SHVZbjdGeGhlWVl1VndVQkZiSkpqQ2pOY0Jna3ZJYXRUY29HT3FlMmFZUUNwVXhHYnZlbkUyeTljX3ZhMThJbDEtWk8yVFFDTEc4WWVRbGNuZE1ibnNVQ21ENE1pMXFFVm1XN0d4dFFPUzhVMjFWcDhmM2FLWW5YZW5lVHBoUTZXYUVPZXhiVQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:25:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:25:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
     {
       "id": "one dead after massive fire breaks out at paint material godown in kondhwa s vetal nagar",
       "title": "Pune: One Dead After Massive Fire Breaks Out at Paint Material Godown in Kondhwa's Vetal Nagar",
@@ -30,6 +62,39 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "rain batters mumbai landslide near missing link exit traffic suspended on mumbai expresswa",
+      "title": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "summary": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQaWZvWm1VeDZhRzdpX3hmV3lJVFRxMVgxOFVyVG1NbmtaaG1PRTBXY2lsdEFxR21hcFZRWjBxY090YktkZlE2ajJpUWM4NFAzMEgycG45RWhYc3Rqa3BtUHRKdnlDUk1NSlBjR3p5SXE1QXFMYXN0SFdLWEc2VmJJUEVxdVcxTk4wXzE4NXE2NkZNdUpnMzdfWnBaRmFHUTU1T1EzRXpxMXBSVWkteHFBbzVzM1VaVmJFSXFIOEFwUlZpdEZyZnEwUUdNcmlyTGdZZmd5RkZiSDdkQm96SWpJX3luR2VHeUZqdHRERzAtQVVvUHVUcFNIakJzaXZRTHJYM0ppczZ3OW5mSkN0STRxYzRfMDlIeTBoMFFFc29KOTNxSjEtMmNETi1mck5uZ3dLNkRYeWZWdjBHV09GR19uR25XVVEyODZtNlM1S3BxbVJSUUxHa1J5M3hlY3plektCczlENHdpVEFkMEhuSXNlY1Izd0JNTU1LbDgxS0g1QlFqREFZeGdoOTN5VQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:12:27 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 17:12:27 GMT",
+      "areas": [
+        "Sus"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "homes buried over 1 000 evacuated after massive china landslide",
@@ -86,163 +151,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "mumbai expressway s missing link shut after landslide traffic diverted via lonavala",
-      "title": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
-      "summary": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnRqdnVBZ1R6dEhzZVRsYlJIcWsxM0FMUTB2d0pobDlzSk13aFliVXd3dzV3a3M0dmMteFY1UDlWT2tTLWN0eW1UQzJYSkZlS1hZd1p6S2NGTjZhWm1uejc5aWg3UXdCQ3lxYXBReDVicEFvRldQRkRHSG0xNFNsMDZ4Tk05dHFlT0tvdEVDZENSTFpGeThFbVUtbUJKdWhUei1mdmJrUlhHUGtoSTF6aXNtODdxVnRvd0xFOVRqb0VvZG9ISzdUbDB3NUZkRUhzS1lfMzhDNzBGdw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:19:28 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 09:19:28 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway",
-        "Lonavala",
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "rs 7 000 crore mumbai expressway missing link hit by landslide msrdc defends infrastructur",
-      "title": "Rs 7,000-crore Mumbai-Pune Expressway missing link hit by landslide; MSRDC defends infrastructure failure, calls it an 'act of God'",
-      "summary": "Rs 7,000-crore Mumbai-Pune Expressway missing link hit by landslide; MSRDC defends infrastructure failure, calls it an 'act of God'",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMi11Y0lvbGxETUNFT056eVBFNEZrZ0NGcVpYeXQ4UmhOYXowTXh5RlIyY0thQWQ2TGltZk9CRktTcGU4N1BqVDFUOEZTQ0p6dThnVG81NGlaWF9IVFkyYmFuWnU0cDYwZzNtNlFlWWhGbXQ1cHZyWHhMQzNzWVVhazY3XzJJUFloSnQxVnNRbTZydzdNdEllMjVuVkhmYWcyYUJiVDM4d3pHcUNpc2JWc2paTWR5bElaUFYzRU1SN3dqWC16em5Ma3kxSnBRWFhsZmdadkFzS19xVVdGMlZXTWlMZm90U0I2MXExRzl6RkY0ZU05QjFkSGE3Z05vaXZvNVcxZlhPOExzWHN5REhhZ2tfMGFPc0E?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:43:09 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 19:43:09 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "train cancellations mumbai rail services hit by a landslide several trains cancelled or di",
-      "title": "Train cancellations: Mumbai–Pune rail services hit by a landslide; several trains cancelled or diverted today. Check the full list",
-      "summary": "Train cancellations: Mumbai–Pune rail services hit by a landslide; several trains cancelled or diverted today. Check the full list",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYXIxS3FuXy1vOERaUzVwREJBWHJMOW4xZ3kwRVZDZkxhc21ZY1JFamlqb3B5alp3X0dzM2ZsOUNLOV82TmRqU2oxQVBSQ3hsbkN2UWRUYlNtYWNQdl83WGhEeVJtZDFrR1h2dEVzZF9GT2QwM0hMM3g2WlJSeS1EcGhCMkR0d1puRGlHNUpuUDJpOHJMQVA5R1pfS1BEMnBXZkduejNHajF1M3pFVFpDWVE3SHlYSWhpSmg1dHhHckxqS3dzNjhpb2tZV0wycE5MVzIxSHBiYjlVeDdpQUQwUTJPQjFaa250V2lBWURwTUtQYVVlMlJLMjNXQmhtRFBYdU1vYTBhTQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:54:45 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:54:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "monsoon havoc mumbai goa highway hit by hours long jams after flooding in raigad",
-      "title": "Monsoon havoc: Mumbai-Goa highway hit by hours-long jams after flooding in Raigad",
-      "summary": "Monsoon havoc: Mumbai-Goa highway hit by hours-long jams after flooding in Raigad",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFJRaVJRa3Q3Z2ZsZWYtWHA0R09sbFRZM0RYLXRYZzlFamtPSVFXdExHRXF1WjZGTHc4S3NBc3g5WS1HbUdoa1Jabm9ndi1vc1NDUmZRRTZGQzI0ejFKTVkxY1BWc25XZnBHdUU1d0h2TmxFRVZDQmdtRTZxUE5aakhHc3JvNkptdzhLZFJqS2s3dkR2OVM2VzhMZHZNM1prY3R0em1GX2pRcVB6NUdfekdhRk9YSmFQRF9KODlQV0wzQVkzZmpwVA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:54:01 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:54:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "nine weeks in mumbai expressway s missing link partially shut as heavy rain triggers lands",
-      "title": "Nine weeks in, Mumbai-Pune Expressway's missing link partially shut as heavy rain triggers landslide",
-      "summary": "Nine weeks in, Mumbai-Pune Expressway's missing link partially shut as heavy rain triggers landslide",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMGcwM2FMT0M0TGI1eEMxYzJicThnNXpKTVl2MWpKRlBKZjdteVZ2UVBWN013bWZoRWV2RWdPWndPd1JrLXR3bkVUTUtxbEtUVnRaUFJKRDdwbGNHMWt2TkExMXd1dUJVd25QSFBQY0REY2RVcVhUckxLMU5MQnZoNjI4bTF6aTN4RGtjX0hjekFoSERCTFJTeTZFbDZ2WjVlbGVzMkNKRXU5Z3dRX29LTnVLTjZOQ3ljRWlIOHhhVGVGWF9DbUtydGNBeDZYNkZobEVLQnJJd1lubTdjbFMwRklnbzA3bW5KaGROb1A1MDVwdw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:44:10 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:44:10 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "wagholi accident वाघोलीत अपघात मालिका डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
@@ -308,6 +216,41 @@
   ],
   "news": [
     {
+      "id": "mumbai rains 17 flights cancelled 217 delayed as akasa indigo issue advisories",
+      "title": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
+      "summary": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3hpYU9PUUpwdXZZenpENXQ0ZmtrOE12WW8xMnQxS1d0Nnl5TkwyM2s3LWpKYmtaUXJhdXBBZE81WEdrZlRteDBNdnRRcWszZ19qclJHcTUzcDZPeWM4aU83R2U5bWF1bmhqOUlSdVBxQ0V3WS1UYmFKSldUa1Qxb2FtUVVhU0k5SW5vVmY4Z2FOb21PY1ZOT1p1cU5EM2ZfTjAyaWRZWDloT0RLckMzVDY0QTZtZUJ5ZjVJT2YyRVhXX3ZGVjdrXzJGbHo?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:05:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 17:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "पुणे नवीन कात्रज बोगद्यामध्ये बुलेटचा फटका आवाज काढत हुल्लडबाजी punenews katrajtunnel katr",
       "title": "पुणे : नवीन कात्रज बोगद्यामध्ये बुलेटचा फटका आवाज काढत हुल्लडबाजी #Pune #PuneNews #KatrajTunnel #Katraj #Bullet #RoyalEnfield #BikeLife #TrafficRules #RoadSafety #ViralVideo #BreakingNews #Maharashtra #TrendingNews #",
       "summary": "पुणे : नवीन कात्रज बोगद्यामध्ये बुलेटचा फटका आवाज काढत हुल्लडबाजी #Pune #PuneNews #KatrajTunnel #Katraj #Bullet #RoyalEnfield #BikeLife #TrafficRules #RoadSafety #ViralVideo #BreakingNews #Maharashtra #TrendingNews #",
@@ -345,7 +288,7 @@
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
-      "source": "Loksatta + 1 more",
+      "source": "Loksatta + 2 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlJGTVhXWnJGLWZSZnlaclRqWndyRlU5MzA0dnNmQmNMSmdob0pYZVluS1Uzc0Fna1pWekNvRTFwQWRST2RuTjg1MlctYWpXNU5fZWVIYjh5Nnk1Ym5Ed3dvQ01jTW5FNU1lN3l3cmJISVdzQTNVYWsxeHVLMHVfSUxLX3lTQnZxeU5vWmQ5VUh6d2huNHU4WTBlVXdLdWV6WW9wd3dsaDRISjVHTDJyQk5DNWVNck51UE9tadIBwwFBVV95cUxNQU84cTNESGVpQ25HQklIbTIwaEhxcW9RY2xpQi1pcUJmdklYTHdMOFRpVVJKME5Gd1NhZjZUcDhlTkw1eG5Zc2NBZlZFWFhQQl9fVURPNDN3bmlFbHp1U3FqV205RnNJZ0EtLXpyZEtoTE96YjN1WWFFYkc4VEhwZVlzM1E0Tlh3aC1vNWc0TWJaVUhLLWlnMXNvZVMxZVhqcmVGN09xYnB0anJXMWJYX1hBcFRRd0UxeTQ3RUpqWXZZbDA?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:22:53 GMT",
@@ -354,9 +297,10 @@
       "region": "pune",
       "sources": [
         "Loksatta",
+        "maharashtradesha.com",
         "Agrowon"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -639,28 +583,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "ketan agrawal case केतन अग्रवाल प्रकरणात मोठी अपडेट मित्तल कुटुंबीयही जबाबदार",
-      "title": "Video | Pune Ketan Agrawal Case | केतन अग्रवाल प्रकरणात मोठी अपडेट, मित्तल कुटुंबीयही जबाबदार?",
-      "summary": "Video | Pune Ketan Agrawal Case | केतन अग्रवाल प्रकरणात मोठी अपडेट, मित्तल कुटुंबीयही जबाबदार?",
-      "source": "NDTV Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWVqeUFrOGYydEQ0YjAzazUzc1NpaXk0bWFUeU9sN2JUTnN5OFZMM1lwRWdxb0IzYUZLeDRzSHdvM3lxeG1ZbWtfUjBuUDdpQU9jLVh0TnZrZGU3djZySGtOZEpKSkFEY2hKUVlrTElkd3gzcExvak41TC1rZmY4bEF4ZldQM2VMak1ZamRBMEVnRmIyRUd1b3E3NUpscHo4RnBFSWh4RjhZUXZPNGY3NnRISnBlbUJkZW9GbTVrT2xNQzFNdTZIc3c4MTg0U0tHSTdYZm5Ybw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 11:14:53 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 11:14:53 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "NDTV Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "dharashiv स्मार्ट मीटरची सक्ती नको शेतकऱ्यांना दिवसा वीज द्या",
       "title": "Dharashiv News : स्मार्ट मीटरची सक्ती नको, शेतकऱ्यांना दिवसा वीज द्या",
       "summary": "Dharashiv News : स्मार्ट मीटरची सक्ती नको, शेतकऱ्यांना दिवसा वीज द्या",
@@ -771,6 +693,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "delhi mumbai grapple with monsoon havoc 16 feared trapped in collapse amid heavy rain",
+      "title": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
+      "summary": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG9BTU1wQkpsY29xb2ZkVnI4emxEVDhReGxJcmJYeDVnbDBMYkZxcnJ3ZlBwNm41V3c2bVNaLTlrX2Jqek1OLUhZY3BvWnVlb0ZmQjdSV040YjhDaE1QekpxeTNVWWFHekdkQlVSU1NYYXplQlQyNEUxQlBMZ0h0alZmWUNUNU5kX1pJenRpOGVIbFUxelZxQmlDSGxuUnRkRHNrZ3laeDZ6Z2dUU0hWVHQ4RXNnTVVmb2RKejQwUEVVQ2VoVUdfaGdTWHk3YWNicTY2bW5R?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 09:12:25 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 09:12:25 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "airport पुणे विमानतळाच्या विस्ताराला गती 30 83 कोटींच्या जमीन संपादनाला मंजुरी",
       "title": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
       "summary": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
@@ -813,6 +760,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain imd is",
+      "title": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
+      "summary": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdlp5c1B1dHBvejBaU1RERFNIa3ZoU3RJYnNfQ2xqWTdIQkZQY283b29UaVd0cndrLWdOanBRa05ab25NbmZJcWM1a0VuZ2lGNkVybTU5VEpaNHhpZWZoZTlTQjFxdm9raWd2aUxkWVpidHhiRlpUWG5YNjZnSE55WHljWlUwWHBSeXpYVWw3YjgtYUpLZGVZZGJSV2I4LVZfRHdOOThHZlZ6LVc2bFBzQ096ZG9WQXI0a2Z5MDFvdnNYNWNUdUJKRG1jZzBlQ2Y3NXFSd2E1UzAzN3ZhdGY2UXBMc2dlNHRDNGdmRkdIVngwZUItWUNKT1BjMlhnMFQ2elZ2VS1mVQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:34:25 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 07:34:25 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "reservoir management faces fresh water questions",
@@ -883,18 +855,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mumbai monsoon mumbai thane nagpur nashik satara sangli to witness heavy downpour imd issu",
-      "title": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
-      "summary": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
-      "source": "MSN",
+      "id": "आर्थिक वादातून कंत्राटदारानं संपवलं जीवन पाहा ndtv मराठीचा ground report",
+      "title": "Video | Pune | आर्थिक वादातून कंत्राटदारानं संपवलं जीवन; पाहा NDTV मराठीचा Ground Report",
+      "summary": "Video | Pune | आर्थिक वादातून कंत्राटदारानं संपवलं जीवन; पाहा NDTV मराठीचा Ground Report",
+      "source": "NDTV Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcUVMazhSQ05sWm5LOV84XzR2bmVVZEpMVDhTbHVMYmFHbmczYkJIT0k0b2ptUE54VnQ4eWE1VkFpQ3psVlhQM2RWanpRYjF5N3AzckYzX1c4Nzg1dmJCZ21RRjRHd2NvdUpUUmJneDgxQl82M1RNbzFkTUxKLVNfVkNwaGxRbV9TNGtxbGJkN3hxOHk0YkFHOFV3UTZWQ19VWTZqemlvbDlkeVhEQmsyRE1FQVBqU0VOX2RXa0UzQ082Z2Vlb0xXUUVlUVkteEdJZ0tFM1UycDBZSVBwekh5LWNuNVlTcXo1VlVTWWpaeHhPWjctUnVhYjE4Yk41Mk1OLVk1eGFB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:04:51 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 06:04:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckFXbHp4eVVxa1dHS2dUODc1eWg5cGNQQlVUcmlIZHpJMDhPczlFWXhTV0dqclZwel9MMjNpWVkyYWlqRHNWR01OUk9JZFNLdHNhTzNTb1BqTVRIMmhZUjI3cW9LM3gxUDN2VDFmUksxa05pSDZYMDVzajN1b1d3TWtmSUVNUXJiSWQzYXkxaU1yUmRlVk9fSVM1bGNDY3BKY2U1OWFVLVBhQUF6dzY3c0VZMkxneTNEb1ZPM242UlhuanplZ0s4NW0tYU90bENqcTF0SmZkbw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 06:16:40 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 06:16:40 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "MSN"
+        "NDTV Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1128,59 +1100,38 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
+    }
+  ],
+  "incidents": [
     {
-      "id": "below normal rain across most of maharashtra till july end states imd s extended forecast",
-      "title": "Below-normal rain across most of Maharashtra till July-end, states IMD’s extended forecast",
-      "summary": "Below-normal rain across most of Maharashtra till July-end, states IMD’s extended forecast",
+      "id": "twelve years on gharkul residents fight flooding intensify stir against pcmc for permanent",
+      "title": "Twelve years on, Gharkul residents fight flooding; intensify stir against PCMC for permanent fix",
+      "summary": "Twelve years on, Gharkul residents fight flooding; intensify stir against PCMC for permanent fix",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYm9LMlprbFVES2QyTnMtU0ZVZWt3azY5MHZCb183UEh0Z01sNm1ablpCRlJ6TXVud0VyY3JQZGFRV3BqMUhtR1ZCOXViUEd5T0FNZGJpOWhZUTNIcWdnV3p1N2hQdmY1clRNV3g0WWh1RVRhbEVNWGg5N2lPd04xN0JpZGVUb3BialQ0MGFTVW1DaUJFQ3U5bjJ6MDlBYVBLWExPVDh1Yl9uSTl6R3lYeUtQWlBUc1NOTVVtOVVaMi0tTEYzc2xKVl9fQXJDOGt6b1RaczZ3RmxkSmlFekxIU2V3aTBSVFZGdzRmc0w5QzdzUdIB9wFBVV95cUxNZFY0ZnloRTh3OE14UllJU0xoR2EyVUJxendnczJRY0xJa0FreVp5R1VKUnRFM2VFMDRIZUVSVV9oczY0ZDhXaUw1LWNua1MtZFFwd3lmUTJneXJNTkNXUEJSbEJ4VWNwenZaZlg4ckg0bGJmMTFDUXZoQ191emNOTnl3VncwU2d2WVZBeUxSWHNEUWYyd1lOeWphVXlVb001VVhQSFFmSWJOSDA2UTVFLWU0NTRpNGFPa2FuMVBQcjhKOFVvV3ZzakJyX2x1a0gydTMxbm8xMHNCQTY1Y2dJSFUxR09uRnJHU0tjRVJTZVJWUDA2cDVN?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:53:00 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUxIRFZmbUkzamxnMG41ajd3WGxvQzA0UjFXNGVVWlA5cGlnN0NRdjR0ZHNyZ1B3NHlmZmJaZDNwaERTLTQzVTFMcEhVOGh3eHZlTjVXWXBMeFl1MGhsMzVadzdGOVVWdHVXeTItUDItVkhONGJuTHlSZVZsX0RKVDBQZE1tWGlRRmlQaFliWmJpM2tVQ2wxSkJDaU5MWWFtX3ZVZVREQ3B4WDc4ckxfZUw4V3ljV2M1Tmp2VDd6VDZKUy1lZXNCZlUtRHZHVlNIMThUcFZoZFdOZmFuQXYzY195Z3p5MlJzYWlyNjdKaVdQQ0hnaTFBbVJR0gH_AUFVX3lxTE9raVJ3S1dJU1N6a3NZWkh2SVo2Wk1pZ2Y0eGpjbHVGMExFUTUwek1FQ1luSE00Q19NaVFFNHg1aDhZR3AzZzJ2VXl2azQ2QVFzRzdvYnRSdEU0M3V0R2UwUTllcnk5Z1RjbllIUmlPVVBBc1ZOeU00SHVZbjdGeGhlWVl1VndVQkZiSkpqQ2pOY0Jna3ZJYXRUY29HT3FlMmFZUUNwVXhHYnZlbkUyeTljX3ZhMThJbDEtWk8yVFFDTEc4WWVRbGNuZE1ibnNVQ21ENE1pMXFFVm1XN0d4dFFPUzhVMjFWcDhmM2FLWW5YZW5lVHBoUTZXYUVPZXhiVQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 19:25:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 19:25:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "The Times of India"
       ],
       "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
-    {
-      "id": "falling trees failing systems haunt pimpri chinchwad",
-      "title": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
-      "summary": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0w5S3dla3lnWU5sbzFGZkRXcVJoMjVSaUM3TERITVRxOFVzb0drWGpuN29CSjVwLUluN0tjRnE3eVpjeVlZS0p6UUFpdlJVSkFTNkVRUEkyWkdKTjBKODZTVGdUWnhtY1QtSE04cDMxVHd0OTI2TFlSWDdHMW0xQm5xRHJnektaSy05aHprOWFDaEJ5V0s2WVM3X3ZSc3FJdG50WmVOTlp0c3RYVkFUWFNXTGFHMzVOeUpyWXIyTWttLUVmNXNFM9IBzgFBVV95cUxOR0hYN1FJSFVwaklwT01TNmhVVXB1cGozWHhMcmVvVDZNSS1NWkFMMmZRcm5uSHBhZFZHNFNldEUyU204cm9GZ2NsNlhSbmVaRTdaUXUwUHpkOFhmTm1mSFJaZ0xSVHhjekN0VVRVdTR5Y1hRNHdCalhGaTBHOG4xZ2F2cFJHMHdNWkhiak02UzM1OXlObnZHVFdyTkdNSlpxWHVReEZyclhjTy0tNlExUGV1enZEaUtsclN4T2gxWjdGMXlubWVucVRuNWZfQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:45:00 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:45:00 GMT",
-      "areas": [
-        "Pimpri",
-        "Chinchwad"
-      ],
-      "region": "pcmc",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    }
-  ],
-  "incidents": [
     {
       "id": "one dead after massive fire breaks out at paint material godown in kondhwa s vetal nagar",
       "title": "Pune: One Dead After Massive Fire Breaks Out at Paint Material Godown in Kondhwa's Vetal Nagar",
@@ -1209,6 +1160,35 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "rain batters mumbai landslide near missing link exit traffic suspended on mumbai expresswa",
+      "title": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "summary": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQaWZvWm1VeDZhRzdpX3hmV3lJVFRxMVgxOFVyVG1NbmtaaG1PRTBXY2lsdEFxR21hcFZRWjBxY090YktkZlE2ajJpUWM4NFAzMEgycG45RWhYc3Rqa3BtUHRKdnlDUk1NSlBjR3p5SXE1QXFMYXN0SFdLWEc2VmJJUEVxdVcxTk4wXzE4NXE2NkZNdUpnMzdfWnBaRmFHUTU1T1EzRXpxMXBSVWkteHFBbzVzM1VaVmJFSXFIOEFwUlZpdEZyZnEwUUdNcmlyTGdZZmd5RkZiSDdkQm96SWpJX3luR2VHeUZqdHRERzAtQVVvUHVUcFNIakJzaXZRTHJYM0ppczZ3OW5mSkN0STRxYzRfMDlIeTBoMFFFc29KOTNxSjEtMmNETi1mck5uZ3dLNkRYeWZWdjBHV09GR19uR25XVVEyODZtNlM1S3BxbVJSUUxHa1J5M3hlY3plektCczlENHdpVEFkMEhuSXNlY1Izd0JNTU1LbDgxS0g1QlFqREFZeGdoOTN5VQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:12:27 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 17:12:27 GMT",
+      "areas": [
+        "Sus"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "homes buried over 1 000 evacuated after massive china landslide",
@@ -1267,151 +1247,6 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
-      "id": "mumbai expressway s missing link shut after landslide traffic diverted via lonavala",
-      "title": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
-      "summary": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnRqdnVBZ1R6dEhzZVRsYlJIcWsxM0FMUTB2d0pobDlzSk13aFliVXd3dzV3a3M0dmMteFY1UDlWT2tTLWN0eW1UQzJYSkZlS1hZd1p6S2NGTjZhWm1uejc5aWg3UXdCQ3lxYXBReDVicEFvRldQRkRHSG0xNFNsMDZ4Tk05dHFlT0tvdEVDZENSTFpGeThFbVUtbUJKdWhUei1mdmJrUlhHUGtoSTF6aXNtODdxVnRvd0xFOVRqb0VvZG9ISzdUbDB3NUZkRUhzS1lfMzhDNzBGdw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:19:28 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 09:19:28 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway",
-        "Lonavala",
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "rs 7 000 crore mumbai expressway missing link hit by landslide msrdc defends infrastructur",
-      "title": "Rs 7,000-crore Mumbai-Pune Expressway missing link hit by landslide; MSRDC defends infrastructure failure, calls it an 'act of God'",
-      "summary": "Rs 7,000-crore Mumbai-Pune Expressway missing link hit by landslide; MSRDC defends infrastructure failure, calls it an 'act of God'",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMi11Y0lvbGxETUNFT056eVBFNEZrZ0NGcVpYeXQ4UmhOYXowTXh5RlIyY0thQWQ2TGltZk9CRktTcGU4N1BqVDFUOEZTQ0p6dThnVG81NGlaWF9IVFkyYmFuWnU0cDYwZzNtNlFlWWhGbXQ1cHZyWHhMQzNzWVVhazY3XzJJUFloSnQxVnNRbTZydzdNdEllMjVuVkhmYWcyYUJiVDM4d3pHcUNpc2JWc2paTWR5bElaUFYzRU1SN3dqWC16em5Ma3kxSnBRWFhsZmdadkFzS19xVVdGMlZXTWlMZm90U0I2MXExRzl6RkY0ZU05QjFkSGE3Z05vaXZvNVcxZlhPOExzWHN5REhhZ2tfMGFPc0E?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:43:09 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 19:43:09 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "train cancellations mumbai rail services hit by a landslide several trains cancelled or di",
-      "title": "Train cancellations: Mumbai–Pune rail services hit by a landslide; several trains cancelled or diverted today. Check the full list",
-      "summary": "Train cancellations: Mumbai–Pune rail services hit by a landslide; several trains cancelled or diverted today. Check the full list",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYXIxS3FuXy1vOERaUzVwREJBWHJMOW4xZ3kwRVZDZkxhc21ZY1JFamlqb3B5alp3X0dzM2ZsOUNLOV82TmRqU2oxQVBSQ3hsbkN2UWRUYlNtYWNQdl83WGhEeVJtZDFrR1h2dEVzZF9GT2QwM0hMM3g2WlJSeS1EcGhCMkR0d1puRGlHNUpuUDJpOHJMQVA5R1pfS1BEMnBXZkduejNHajF1M3pFVFpDWVE3SHlYSWhpSmg1dHhHckxqS3dzNjhpb2tZV0wycE5MVzIxSHBiYjlVeDdpQUQwUTJPQjFaa250V2lBWURwTUtQYVVlMlJLMjNXQmhtRFBYdU1vYTBhTQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:54:45 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:54:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "monsoon havoc mumbai goa highway hit by hours long jams after flooding in raigad",
-      "title": "Monsoon havoc: Mumbai-Goa highway hit by hours-long jams after flooding in Raigad",
-      "summary": "Monsoon havoc: Mumbai-Goa highway hit by hours-long jams after flooding in Raigad",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFJRaVJRa3Q3Z2ZsZWYtWHA0R09sbFRZM0RYLXRYZzlFamtPSVFXdExHRXF1WjZGTHc4S3NBc3g5WS1HbUdoa1Jabm9ndi1vc1NDUmZRRTZGQzI0ejFKTVkxY1BWc25XZnBHdUU1d0h2TmxFRVZDQmdtRTZxUE5aakhHc3JvNkptdzhLZFJqS2s3dkR2OVM2VzhMZHZNM1prY3R0em1GX2pRcVB6NUdfekdhRk9YSmFQRF9KODlQV0wzQVkzZmpwVA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:54:01 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:54:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
-      "id": "nine weeks in mumbai expressway s missing link partially shut as heavy rain triggers lands",
-      "title": "Nine weeks in, Mumbai-Pune Expressway's missing link partially shut as heavy rain triggers landslide",
-      "summary": "Nine weeks in, Mumbai-Pune Expressway's missing link partially shut as heavy rain triggers landslide",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMGcwM2FMT0M0TGI1eEMxYzJicThnNXpKTVl2MWpKRlBKZjdteVZ2UVBWN013bWZoRWV2RWdPWndPd1JrLXR3bkVUTUtxbEtUVnRaUFJKRDdwbGNHMWt2TkExMXd1dUJVd25QSFBQY0REY2RVcVhUckxLMU5MQnZoNjI4bTF6aTN4RGtjX0hjekFoSERCTFJTeTZFbDZ2WjVlbGVzMkNKRXU5Z3dRX29LTnVLTjZOQ3ljRWlIOHhhVGVGWF9DbUtydGNBeDZYNkZobEVLQnJJd1lubTdjbFMwRklnbzA3bW5KaGROb1A1MDVwdw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:44:10 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:44:10 GMT",
-      "areas": [
-        "Mumbai-Pune Expressway"
-      ],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
       "id": "wagholi accident वाघोलीत अपघात मालिका डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "title": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "summary": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
@@ -1440,6 +1275,38 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "mumbai rains 17 flights cancelled 217 delayed as akasa indigo issue advisories",
+      "title": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
+      "summary": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3hpYU9PUUpwdXZZenpENXQ0ZmtrOE12WW8xMnQxS1d0Nnl5TkwyM2s3LWpKYmtaUXJhdXBBZE81WEdrZlRteDBNdnRRcWszZ19qclJHcTUzcDZPeWM4aU83R2U5bWF1bmhqOUlSdVBxQ0V3WS1UYmFKSldUa1Qxb2FtUVVhU0k5SW5vVmY4Z2FOb21PY1ZOT1p1cU5EM2ZfTjAyaWRZWDloT0RLckMzVDY0QTZtZUJ5ZjVJT2YyRVhXX3ZGVjdrXzJGbHo?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:05:00 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 17:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
     },
     {
       "id": "पुणे नवीन कात्रज बोगद्यामध्ये बुलेटचा फटका आवाज काढत हुल्लडबाजी punenews katrajtunnel katr",
@@ -1504,7 +1371,7 @@
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
-      "source": "Loksatta + 1 more",
+      "source": "Loksatta + 2 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlJGTVhXWnJGLWZSZnlaclRqWndyRlU5MzA0dnNmQmNMSmdob0pYZVluS1Uzc0Fna1pWekNvRTFwQWRST2RuTjg1MlctYWpXNU5fZWVIYjh5Nnk1Ym5Ed3dvQ01jTW5FNU1lN3l3cmJISVdzQTNVYWsxeHVLMHVfSUxLX3lTQnZxeU5vWmQ5VUh6d2huNHU4WTBlVXdLdWV6WW9wd3dsaDRISjVHTDJyQk5DNWVNck51UE9tadIBwwFBVV95cUxNQU84cTNESGVpQ25HQklIbTIwaEhxcW9RY2xpQi1pcUJmdklYTHdMOFRpVVJKME5Gd1NhZjZUcDhlTkw1eG5Zc2NBZlZFWFhQQl9fVURPNDN3bmlFbHp1U3FqV205RnNJZ0EtLXpyZEtoTE96YjN1WWFFYkc4VEhwZVlzM1E0Tlh3aC1vNWc0TWJaVUhLLWlnMXNvZVMxZVhqcmVGN09xYnB0anJXMWJYX1hBcFRRd0UxeTQ3RUpqWXZZbDA?oc=5",
       "pubDate": "Fri, 17 Jul 2026 09:22:53 GMT",
@@ -1513,9 +1380,10 @@
       "region": "pune",
       "sources": [
         "Loksatta",
+        "maharashtradesha.com",
         "Agrowon"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1789,28 +1657,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "ketan agrawal case केतन अग्रवाल प्रकरणात मोठी अपडेट मित्तल कुटुंबीयही जबाबदार",
-      "title": "Video | Pune Ketan Agrawal Case | केतन अग्रवाल प्रकरणात मोठी अपडेट, मित्तल कुटुंबीयही जबाबदार?",
-      "summary": "Video | Pune Ketan Agrawal Case | केतन अग्रवाल प्रकरणात मोठी अपडेट, मित्तल कुटुंबीयही जबाबदार?",
-      "source": "NDTV Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWVqeUFrOGYydEQ0YjAzazUzc1NpaXk0bWFUeU9sN2JUTnN5OFZMM1lwRWdxb0IzYUZLeDRzSHdvM3lxeG1ZbWtfUjBuUDdpQU9jLVh0TnZrZGU3djZySGtOZEpKSkFEY2hKUVlrTElkd3gzcExvak41TC1rZmY4bEF4ZldQM2VMak1ZamRBMEVnRmIyRUd1b3E3NUpscHo4RnBFSWh4RjhZUXZPNGY3NnRISnBlbUJkZW9GbTVrT2xNQzFNdTZIc3c4MTg0U0tHSTdYZm5Ybw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 11:14:53 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 11:14:53 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "NDTV Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "dharashiv स्मार्ट मीटरची सक्ती नको शेतकऱ्यांना दिवसा वीज द्या",
       "title": "Dharashiv News : स्मार्ट मीटरची सक्ती नको, शेतकऱ्यांना दिवसा वीज द्या",
       "summary": "Dharashiv News : स्मार्ट मीटरची सक्ती नको, शेतकऱ्यांना दिवसा वीज द्या",
@@ -1921,6 +1767,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "delhi mumbai grapple with monsoon havoc 16 feared trapped in collapse amid heavy rain",
+      "title": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
+      "summary": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG9BTU1wQkpsY29xb2ZkVnI4emxEVDhReGxJcmJYeDVnbDBMYkZxcnJ3ZlBwNm41V3c2bVNaLTlrX2Jqek1OLUhZY3BvWnVlb0ZmQjdSV040YjhDaE1QekpxeTNVWWFHekdkQlVSU1NYYXplQlQyNEUxQlBMZ0h0alZmWUNUNU5kX1pJenRpOGVIbFUxelZxQmlDSGxuUnRkRHNrZ3laeDZ6Z2dUU0hWVHQ4RXNnTVVmb2RKejQwUEVVQ2VoVUdfaGdTWHk3YWNicTY2bW5R?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 09:12:25 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 09:12:25 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "airport पुणे विमानतळाच्या विस्ताराला गती 30 83 कोटींच्या जमीन संपादनाला मंजुरी",
       "title": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
       "summary": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
@@ -1955,6 +1823,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain imd is",
+      "title": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
+      "summary": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdlp5c1B1dHBvejBaU1RERFNIa3ZoU3RJYnNfQ2xqWTdIQkZQY283b29UaVd0cndrLWdOanBRa05ab25NbmZJcWM1a0VuZ2lGNkVybTU5VEpaNHhpZWZoZTlTQjFxdm9raWd2aUxkWVpidHhiRlpUWG5YNjZnSE55WHljWlUwWHBSeXpYVWw3YjgtYUpLZGVZZGJSV2I4LVZfRHdOOThHZlZ6LVc2bFBzQ096ZG9WQXI0a2Z5MDFvdnNYNWNUdUJKRG1jZzBlQ2Y3NXFSd2E1UzAzN3ZhdGY2UXBMc2dlNHRDNGdmRkdIVngwZUItWUNKT1BjMlhnMFQ2elZ2VS1mVQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:34:25 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 07:34:25 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2033,18 +1923,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mumbai monsoon mumbai thane nagpur nashik satara sangli to witness heavy downpour imd issu",
-      "title": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
-      "summary": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
-      "source": "MSN",
+      "id": "आर्थिक वादातून कंत्राटदारानं संपवलं जीवन पाहा ndtv मराठीचा ground report",
+      "title": "Video | Pune | आर्थिक वादातून कंत्राटदारानं संपवलं जीवन; पाहा NDTV मराठीचा Ground Report",
+      "summary": "Video | Pune | आर्थिक वादातून कंत्राटदारानं संपवलं जीवन; पाहा NDTV मराठीचा Ground Report",
+      "source": "NDTV Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcUVMazhSQ05sWm5LOV84XzR2bmVVZEpMVDhTbHVMYmFHbmczYkJIT0k0b2ptUE54VnQ4eWE1VkFpQ3psVlhQM2RWanpRYjF5N3AzckYzX1c4Nzg1dmJCZ21RRjRHd2NvdUpUUmJneDgxQl82M1RNbzFkTUxKLVNfVkNwaGxRbV9TNGtxbGJkN3hxOHk0YkFHOFV3UTZWQ19VWTZqemlvbDlkeVhEQmsyRE1FQVBqU0VOX2RXa0UzQ082Z2Vlb0xXUUVlUVkteEdJZ0tFM1UycDBZSVBwekh5LWNuNVlTcXo1VlVTWWpaeHhPWjctUnVhYjE4Yk41Mk1OLVk1eGFB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:04:51 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 06:04:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckFXbHp4eVVxa1dHS2dUODc1eWg5cGNQQlVUcmlIZHpJMDhPczlFWXhTV0dqclZwel9MMjNpWVkyYWlqRHNWR01OUk9JZFNLdHNhTzNTb1BqTVRIMmhZUjI3cW9LM3gxUDN2VDFmUksxa05pSDZYMDVzajN1b1d3TWtmSUVNUXJiSWQzYXkxaU1yUmRlVk9fSVM1bGNDY3BKY2U1OWFVLVBhQUF6dzY3c0VZMkxneTNEb1ZPM242UlhuanplZ0s4NW0tYU90bENqcTF0SmZkbw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 06:16:40 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 06:16:40 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "MSN"
+        "NDTV Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2275,59 +2165,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "below normal rain across most of maharashtra till july end states imd s extended forecast",
-      "title": "Below-normal rain across most of Maharashtra till July-end, states IMD’s extended forecast",
-      "summary": "Below-normal rain across most of Maharashtra till July-end, states IMD’s extended forecast",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYm9LMlprbFVES2QyTnMtU0ZVZWt3azY5MHZCb183UEh0Z01sNm1ablpCRlJ6TXVud0VyY3JQZGFRV3BqMUhtR1ZCOXViUEd5T0FNZGJpOWhZUTNIcWdnV3p1N2hQdmY1clRNV3g0WWh1RVRhbEVNWGg5N2lPd04xN0JpZGVUb3BialQ0MGFTVW1DaUJFQ3U5bjJ6MDlBYVBLWExPVDh1Yl9uSTl6R3lYeUtQWlBUc1NOTVVtOVVaMi0tTEYzc2xKVl9fQXJDOGt6b1RaczZ3RmxkSmlFekxIU2V3aTBSVFZGdzRmc0w5QzdzUdIB9wFBVV95cUxNZFY0ZnloRTh3OE14UllJU0xoR2EyVUJxendnczJRY0xJa0FreVp5R1VKUnRFM2VFMDRIZUVSVV9oczY0ZDhXaUw1LWNua1MtZFFwd3lmUTJneXJNTkNXUEJSbEJ4VWNwenZaZlg4ckg0bGJmMTFDUXZoQ191emNOTnl3VncwU2d2WVZBeUxSWHNEUWYyd1lOeWphVXlVb001VVhQSFFmSWJOSDA2UTVFLWU0NTRpNGFPa2FuMVBQcjhKOFVvV3ZzakJyX2x1a0gydTMxbm8xMHNCQTY1Y2dJSFUxR09uRnJHU0tjRVJTZVJWUDA2cDVN?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:53:00 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:53:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "falling trees failing systems haunt pimpri chinchwad",
-      "title": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
-      "summary": "Falling Trees, Failing Systems Haunt Pune & Pimpri Chinchwad",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0w5S3dla3lnWU5sbzFGZkRXcVJoMjVSaUM3TERITVRxOFVzb0drWGpuN29CSjVwLUluN0tjRnE3eVpjeVlZS0p6UUFpdlJVSkFTNkVRUEkyWkdKTjBKODZTVGdUWnhtY1QtSE04cDMxVHd0OTI2TFlSWDdHMW0xQm5xRHJnektaSy05aHprOWFDaEJ5V0s2WVM3X3ZSc3FJdG50WmVOTlp0c3RYVkFUWFNXTGFHMzVOeUpyWXIyTWttLUVmNXNFM9IBzgFBVV95cUxOR0hYN1FJSFVwaklwT01TNmhVVXB1cGozWHhMcmVvVDZNSS1NWkFMMmZRcm5uSHBhZFZHNFNldEUyU204cm9GZ2NsNlhSbmVaRTdaUXUwUHpkOFhmTm1mSFJaZ0xSVHhjekN0VVRVdTR5Y1hRNHdCalhGaTBHOG4xZ2F2cFJHMHdNWkhiak02UzM1OXlObnZHVFdyTkdNSlpxWHVReEZyclhjTy0tNlExUGV1enZEaUtsclN4T2gxWjdGMXlubWVucVRuNWZfQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:45:00 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 18:45:00 GMT",
-      "areas": [
-        "Pimpri",
-        "Chinchwad"
-      ],
-      "region": "pcmc",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 55,
-    "alerts": 17,
+    "total": 53,
+    "alerts": 15,
     "news": 38
   },
-  "cleanedAt": "2026-07-17T18:32:33.278Z"
+  "cleanedAt": "2026-07-17T20:00:53.387Z"
 }
