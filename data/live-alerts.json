@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T23:14:05.108Z",
+  "generatedAt": "2026-07-18T00:52:37.910Z",
   "status": "ok",
   "alerts": [
     {
@@ -185,6 +185,39 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
+      "id": "mumbai expressway s missing link shut after landslide traffic diverted via lonavala",
+      "title": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
+      "summary": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnRqdnVBZ1R6dEhzZVRsYlJIcWsxM0FMUTB2d0pobDlzSk13aFliVXd3dzV3a3M0dmMteFY1UDlWT2tTLWN0eW1UQzJYSkZlS1hZd1p6S2NGTjZhWm1uejc5aWg3UXdCQ3lxYXBReDVicEFvRldQRkRHSG0xNFNsMDZ4Tk05dHFlT0tvdEVDZENSTFpGeThFbVUtbUJKdWhUei1mdmJrUlhHUGtoSTF6aXNtODdxVnRvd0xFOVRqb0VvZG9ISzdUbDB3NUZkRUhzS1lfMzhDNzBGdw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 09:19:28 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 09:19:28 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway",
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "wagholi accident वाघोलीत अपघात मालिका डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "title": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "summary": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
@@ -317,6 +350,40 @@
       ]
     },
     {
+      "id": "shivajinagar traffic नवा उद्धण पूल मंजूर पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "title": "Video | Pune Shivajinagar Traffic | नवा उद्धण पूल मंजूर, पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "summary": "Video | Pune Shivajinagar Traffic | नवा उद्धण पूल मंजूर, पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "source": "NDTV Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTN3SmEweW9Dd21lTVVTS2stbmwwc1dzcUVuUS11azl6ZlcwYXVnd2NCZ1JGalZpNGJiOTRxOW9CNVBOSlRrZjRQa3ZFTllEaVY1a3pUQVNHZUxDc0FmOEFwTlN6dFJlbVF1dEsxbl9yY0tYMVl0WnRZWUlJMkZmMWR3bEZYX1pRN01CaTdxQmE3RXh6bG9jVlc1TWRHZ09RRTRRbklVc25NcnczSkwzaUl2QjZQMVJK?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 04:21:18 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 04:21:18 GMT",
+      "areas": [
+        "Shivajinagar"
+      ],
+      "region": "pune",
+      "sources": [
+        "NDTV Marathi"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
@@ -329,7 +396,7 @@
       "region": "pune",
       "sources": [
         "Loksatta",
-        "Agrowon"
+        "maharashtradesha.com"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -369,12 +436,59 @@
       ]
     },
     {
+      "id": "rain alert विदर्भ मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "title": "Rain Alert: विदर्भ, मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "summary": "Rain Alert: विदर्भ, मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVZhSmR1SkxsNkdScnVmZDhKOTZOU0VodXFvRFY1QXlnNDlYU2IzbHZhWk9HNlppdjBjaTk4Mm1MMDk4RUNsQkZKYm5aWTBscTJQeDExSm91N3RsbXl4dnBzUkY4bW1WcXZ6MlFISmVySmw4RFlUZU1KLUZuZmVqMVQxWVRPQ3JFZzFrLU9HdmlXbTMxVVYyLUZzUklVaGR5UEw3U2pNSEliU3RVNDJYbWJ3?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "ashadhi wari आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "title": "Ashadhi Wari: आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "summary": "Ashadhi Wari: आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanFSOWg4am5yR2RhS2xJNkd3VGdaREFILXppTGRBVEJRNTlnTU1tWmdBYmh3YnRDaFduLUlfYy1tMUN4TUVZcVlEVEJWS0RfU2d4QTdDUThCbnNBdml6SFBncEZhRzZnU2kzU2pFMGNKTXFkMVVEVmg5MlV4VGVrTXZNNHA4MEJRUnNoLS1Ib1hIeTQ1Umpzako0RFB3WVhqTUs1aFlsaVMxWXPSAbgBQVVfeXFMTldCS1hWR1kxdnBCdXEzN1AwUFBzeXVPMVhYU3FtVWpwNEg5cHFKTks3SXA3NDR2S2l0UmdrT05lVEJmR0d3Wl9RUk1MbE9BNmhUaW9CZ3JGV2VvZnVWM1JGTDdPRzREcTZZSHFQbjJ4ZzhhRzdJNjNOMjY0Zk94UlFWbDZwOFd4SERYZUtBVEZWMkxSMFBLYlZFQnB6SzdjeWdDUVZTTWNvQVRLZ0J2bndhR2pjaVBPSA?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 23:34:02 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 23:34:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "warkari safety वारकर् यांची सुरक्षितता खरोखरच धोक्यात जेजुरी दुर्घटनेनंतर प्रशासनाच्या निय",
       "title": "Warkari Safety: वारकर्‍यांची सुरक्षितता खरोखरच धोक्यात? जेजुरी दुर्घटनेनंतर प्रशासनाच्या नियोजनावर मोठे प्रश्नचिन्ह",
       "summary": "Warkari Safety: वारकर्‍यांची सुरक्षितता खरोखरच धोक्यात? जेजुरी दुर्घटनेनंतर प्रशासनाच्या नियोजनावर मोठे प्रश्नचिन्ह",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWJkR2hyclg2QXE5eHVyblpuT1dwMDQtbjY4c3hLT3E2RGdQb29EZ2xfcmFYNlc3OUJrYi0tNnR3WHpTWEJFdlNxellGSEJFRURiZDRIOW02RF92VmsxaDQzU1pHM1doaU9SaktqUHRJajM3U2FvMkZTdERyZkJpTDd1UmoxTU1kTk0tS20wZU1RVGZtTU9za1VHc1hnYWtLUThvNGNfTzRBXzlaZXp4b2g4bjNZWk9idWhEVnJXYTNkSjY3YUo0aEw2Z0o4blBZTk43LUY5dExubm94SEMyNTZLb1lMLXdJVnBCNXd1NkFLaVB1LTBSMmpKN054WFlYQmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTkRhSU1CSjdlRUlEOFRWNWpsNk5CZWRqRy01Y3FweU5nZ1VoQVRBWWdkYWY5SEZYc2pacXg2TU1GT01wZjdwUGlycmsweUtCNTdNY2stdGhxM3J4dXUwV3pxbVk0QktGdlFUUUVfVGVqejltczN3NkNmTjdhZm9EQXRsRXFmOWppOV9QV1hGOXNxNUQ1NFBYLWp4NWNER3NVaFEtS0Vma0FxNDZQcExDTGpiTTUtckJNNWdwUDFaQ2xxNGJFNEdFQTJ0NDd3NTBTQzUtXzR1TEd4S2o0ZmU0WWdVUUcwYm5OdWNtZ0ZqNHRxZ1llM0VwaE9KbEtIZjZ3cDFZ?oc=5",
       "pubDate": "Fri, 17 Jul 2026 22:15:00 GMT",
       "lastUpdated": "Fri, 17 Jul 2026 22:15:00 GMT",
       "areas": [],
@@ -667,6 +781,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra weather या भागांना पुढील तीन दिवस यलो अलर्ट हवामान विभागाचा अंदाज काय pk1",
+      "title": "Maharashtra Weather Update: ‘या’ भागांना पुढील तीन दिवस ‘यलो अलर्ट’; हवामान विभागाचा अंदाज काय?|PK1",
+      "summary": "Maharashtra Weather Update: ‘या’ भागांना पुढील तीन दिवस ‘यलो अलर्ट’; हवामान विभागाचा अंदाज काय?|PK1",
+      "source": "Loksatta",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnA5aHpQcGNVY3NnQWFvMXpMa2Rqd0dUTWIyRm83VG9tV3FZQkwydjNROUF6aC0tNWZLczZLMEFQXzFvY1hQVUIxRDdaMG1hRDNxN1N3T2M3Q0tzZjNpNnE1bEV0cTRlRnpfWjhCVlVhZllfMVF3MDNjMVhtVGVaMlNraFVxWVNFanpPajB6QUoyYi11eFZnd0xXQ3gxbHBYRTNOZi1oenRMclhOVW1McXBweXM?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 14:21:24 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 14:21:24 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
       "title": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
       "summary": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
@@ -865,31 +1001,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "delhi mumbai grapple with monsoon havoc 16 feared trapped in collapse amid heavy rain",
-      "title": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
-      "summary": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG9BTU1wQkpsY29xb2ZkVnI4emxEVDhReGxJcmJYeDVnbDBMYkZxcnJ3ZlBwNm41V3c2bVNaLTlrX2Jqek1OLUhZY3BvWnVlb0ZmQjdSV040YjhDaE1QekpxeTNVWWFHekdkQlVSU1NYYXplQlQyNEUxQlBMZ0h0alZmWUNUNU5kX1pJenRpOGVIbFUxelZxQmlDSGxuUnRkRHNrZ3laeDZ6Z2dUU0hWVHQ4RXNnTVVmb2RKejQwUEVVQ2VoVUdfaGdTWHk3YWNicTY2bW5R?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:12:25 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 09:12:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "airport पुणे विमानतळाच्या विस्ताराला गती 30 83 कोटींच्या जमीन संपादनाला मंजुरी",
       "title": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
       "summary": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
@@ -932,31 +1043,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain imd is",
-      "title": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
-      "summary": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdlp5c1B1dHBvejBaU1RERFNIa3ZoU3RJYnNfQ2xqWTdIQkZQY283b29UaVd0cndrLWdOanBRa05ab25NbmZJcWM1a0VuZ2lGNkVybTU5VEpaNHhpZWZoZTlTQjFxdm9raWd2aUxkWVpidHhiRlpUWG5YNjZnSE55WHljWlUwWHBSeXpYVWw3YjgtYUpLZGVZZGJSV2I4LVZfRHdOOThHZlZ6LVc2bFBzQ096ZG9WQXI0a2Z5MDFvdnNYNWNUdUJKRG1jZzBlQ2Y3NXFSd2E1UzAzN3ZhdGY2UXBMc2dlNHRDNGdmRkdIVngwZUItWUNKT1BjMlhnMFQ2elZ2VS1mVQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:34:25 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 07:34:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "reservoir management faces fresh water questions",
@@ -1198,50 +1284,6 @@
       "region": "pune",
       "sources": [
         "TV9 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "water supply शहरात गढूळ पाणी का येतंय महापालिका नाही तर हे धक्कादायक कारण आले समोर",
-      "title": "Pune Water Supply: शहरात गढूळ पाणी का येतंय? महापालिका नाही तर ‘हे’ धक्कादायक कारण आले समोर",
-      "summary": "Pune Water Supply: शहरात गढूळ पाणी का येतंय? महापालिका नाही तर ‘हे’ धक्कादायक कारण आले समोर",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdWtnS3VnR0NjY20tVnNKanU0VVdxbGRBVnVxY2FDNzRSYU5EVUduVTFELUU5U2s1WEkwenN5dHlqNGdYVXRlaGhQLXJhWU1xU1NVM0Z1MEpQeTBPeklNTU8zc0xsNnptYWRzQWMtU0otUF9jZU1YTkJXOGM3ZlR4OVl3SVZ3VDMyRHJNZFRnWGZYVHBJY29HelVpaGNmWGl0VVdsZGZwQ1FXMm91UFkzWmdYYkZodTV6X3YtaU5TTXV1QmpEa0kyczhzYWE3QkNlX3B3M0Z0T2gxWTJDaFdxUmxYUl9VMF92TmxOU29LNlNlZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 00:30:00 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 00:30:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather राज्यात वरुणराजाची स्थिती काय imd चा या जिल्ह्यांना यलो अलर्ट",
-      "title": "Maharashtra Weather : राज्यात वरुणराजाची स्थिती काय? IMD चा 'या' जिल्ह्यांना यलो अलर्ट",
-      "summary": "Maharashtra Weather : राज्यात वरुणराजाची स्थिती काय? IMD चा 'या' जिल्ह्यांना यलो अलर्ट",
-      "source": "Mumbai Tak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTXZfTktHSDlHYWxsUlVhODROWWRSdS1oYVR2X1NqcDRTdlV4WG5vb1NzbU1fRXVqdl9nenpRSUNXcGxMNEZYUDJoQnlSZm5nT1VKY2htX3JuRThZb1JQdmdURml1VUZqQndROUdydExzM1hBd2dCN3d0aE1OY2hlclZNYXllXzI5bm5tR09DT0JfbU85QVNqclhYUFdyWUNEbkdRR2lIUTBSYTdMTkhxUWRaV2FEME4yVDNqOEhZYjc2Zk1aV3NyOC1fNlN6eDhuMVRucDlmaFY5RUluWHp5TExDT0JVQlJJclNySWNZeWxEakxJcUtzNjBoSlNQQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 23:30:05 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 23:30:05 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Mumbai Tak"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1426,6 +1468,36 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
+      "id": "mumbai expressway s missing link shut after landslide traffic diverted via lonavala",
+      "title": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
+      "summary": "Mumbai-Pune expressway's 'missing link' shut after landslide; traffic diverted via Lonavala",
+      "source": "MSN",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnRqdnVBZ1R6dEhzZVRsYlJIcWsxM0FMUTB2d0pobDlzSk13aFliVXd3dzV3a3M0dmMteFY1UDlWT2tTLWN0eW1UQzJYSkZlS1hZd1p6S2NGTjZhWm1uejc5aWg3UXdCQ3lxYXBReDVicEFvRldQRkRHSG0xNFNsMDZ4Tk05dHFlT0tvdEVDZENSTFpGeThFbVUtbUJKdWhUei1mdmJrUlhHUGtoSTF6aXNtODdxVnRvd0xFOVRqb0VvZG9ISzdUbDB3NUZkRUhzS1lfMzhDNzBGdw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 09:19:28 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 09:19:28 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway",
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "MSN"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
       "id": "wagholi accident वाघोलीत अपघात मालिका डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "title": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
       "summary": "Pune Wagholi Accident : वाघोलीत अपघात मालिका; डंपर आणि टेम्पोच्या धडकेत दोघांनी गमावले जीव",
@@ -1547,6 +1619,37 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
+      "id": "shivajinagar traffic नवा उद्धण पूल मंजूर पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "title": "Video | Pune Shivajinagar Traffic | नवा उद्धण पूल मंजूर, पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "summary": "Video | Pune Shivajinagar Traffic | नवा उद्धण पूल मंजूर, पुणे शिवाजीनगरची वाहतूक कोंडी सुटणार",
+      "source": "NDTV Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTN3SmEweW9Dd21lTVVTS2stbmwwc1dzcUVuUS11azl6ZlcwYXVnd2NCZ1JGalZpNGJiOTRxOW9CNVBOSlRrZjRQa3ZFTllEaVY1a3pUQVNHZUxDc0FmOEFwTlN6dFJlbVF1dEsxbl9yY0tYMVl0WnRZWUlJMkZmMWR3bEZYX1pRN01CaTdxQmE3RXh6bG9jVlc1TWRHZ09RRTRRbklVc25NcnczSkwzaUl2QjZQMVJK?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 04:21:18 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 04:21:18 GMT",
+      "areas": [
+        "Shivajinagar"
+      ],
+      "region": "pune",
+      "sources": [
+        "NDTV Marathi"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "maharashtra rain alert राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता बहुतांश जिल्ह",
       "title": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
       "summary": "Maharashtra Rain Alert : राज्यात शनिवारी वादळी पावसाचा प्रभाव वाढण्याची शक्यता; बहुतांश जिल्ह्यांना हवामान विभागाकडून ‘येलो अलर्ट’",
@@ -1559,7 +1662,7 @@
       "region": "pune",
       "sources": [
         "Loksatta",
-        "Agrowon"
+        "maharashtradesha.com"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -1593,12 +1696,56 @@
       "action": "No immediate action required."
     },
     {
+      "id": "rain alert विदर्भ मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "title": "Rain Alert: विदर्भ, मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "summary": "Rain Alert: विदर्भ, मराठवाड्यासह राज्यात विजांसह वादळी पावसाचा इशारा",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVZhSmR1SkxsNkdScnVmZDhKOTZOU0VodXFvRFY1QXlnNDlYU2IzbHZhWk9HNlppdjBjaTk4Mm1MMDk4RUNsQkZKYm5aWTBscTJQeDExSm91N3RsbXl4dnBzUkY4bW1WcXZ6MlFISmVySmw4RFlUZU1KLUZuZmVqMVQxWVRPQ3JFZzFrLU9HdmlXbTMxVVYyLUZzUklVaGR5UEw3U2pNSEliU3RVNDJYbWJ3?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ashadhi wari आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "title": "Ashadhi Wari: आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "summary": "Ashadhi Wari: आषाढी वारीसाठी उजनीतून चंद्रभागेत येणार पाणी",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanFSOWg4am5yR2RhS2xJNkd3VGdaREFILXppTGRBVEJRNTlnTU1tWmdBYmh3YnRDaFduLUlfYy1tMUN4TUVZcVlEVEJWS0RfU2d4QTdDUThCbnNBdml6SFBncEZhRzZnU2kzU2pFMGNKTXFkMVVEVmg5MlV4VGVrTXZNNHA4MEJRUnNoLS1Ib1hIeTQ1Umpzako0RFB3WVhqTUs1aFlsaVMxWXPSAbgBQVVfeXFMTldCS1hWR1kxdnBCdXEzN1AwUFBzeXVPMVhYU3FtVWpwNEg5cHFKTks3SXA3NDR2S2l0UmdrT05lVEJmR0d3Wl9RUk1MbE9BNmhUaW9CZ3JGV2VvZnVWM1JGTDdPRzREcTZZSHFQbjJ4ZzhhRzdJNjNOMjY0Zk94UlFWbDZwOFd4SERYZUtBVEZWMkxSMFBLYlZFQnB6SzdjeWdDUVZTTWNvQVRLZ0J2bndhR2pjaVBPSA?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 23:34:02 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 23:34:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "warkari safety वारकर् यांची सुरक्षितता खरोखरच धोक्यात जेजुरी दुर्घटनेनंतर प्रशासनाच्या निय",
       "title": "Warkari Safety: वारकर्‍यांची सुरक्षितता खरोखरच धोक्यात? जेजुरी दुर्घटनेनंतर प्रशासनाच्या नियोजनावर मोठे प्रश्नचिन्ह",
       "summary": "Warkari Safety: वारकर्‍यांची सुरक्षितता खरोखरच धोक्यात? जेजुरी दुर्घटनेनंतर प्रशासनाच्या नियोजनावर मोठे प्रश्नचिन्ह",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWJkR2hyclg2QXE5eHVyblpuT1dwMDQtbjY4c3hLT3E2RGdQb29EZ2xfcmFYNlc3OUJrYi0tNnR3WHpTWEJFdlNxellGSEJFRURiZDRIOW02RF92VmsxaDQzU1pHM1doaU9SaktqUHRJajM3U2FvMkZTdERyZkJpTDd1UmoxTU1kTk0tS20wZU1RVGZtTU9za1VHc1hnYWtLUThvNGNfTzRBXzlaZXp4b2g4bjNZWk9idWhEVnJXYTNkSjY3YUo0aEw2Z0o4blBZTk43LUY5dExubm94SEMyNTZLb1lMLXdJVnBCNXd1NkFLaVB1LTBSMmpKN054WFlYQmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTkRhSU1CSjdlRUlEOFRWNWpsNk5CZWRqRy01Y3FweU5nZ1VoQVRBWWdkYWY5SEZYc2pacXg2TU1GT01wZjdwUGlycmsweUtCNTdNY2stdGhxM3J4dXUwV3pxbVk0QktGdlFUUUVfVGVqejltczN3NkNmTjdhZm9EQXRsRXFmOWppOV9QV1hGOXNxNUQ1NFBYLWp4NWNER3NVaFEtS0Vma0FxNDZQcExDTGpiTTUtckJNNWdwUDFaQ2xxNGJFNEdFQTJ0NDd3NTBTQzUtXzR1TEd4S2o0ZmU0WWdVUUcwYm5OdWNtZ0ZqNHRxZ1llM0VwaE9KbEtIZjZ3cDFZ?oc=5",
       "pubDate": "Fri, 17 Jul 2026 22:15:00 GMT",
       "lastUpdated": "Fri, 17 Jul 2026 22:15:00 GMT",
       "areas": [],
@@ -1879,6 +2026,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra weather या भागांना पुढील तीन दिवस यलो अलर्ट हवामान विभागाचा अंदाज काय pk1",
+      "title": "Maharashtra Weather Update: ‘या’ भागांना पुढील तीन दिवस ‘यलो अलर्ट’; हवामान विभागाचा अंदाज काय?|PK1",
+      "summary": "Maharashtra Weather Update: ‘या’ भागांना पुढील तीन दिवस ‘यलो अलर्ट’; हवामान विभागाचा अंदाज काय?|PK1",
+      "source": "Loksatta",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnA5aHpQcGNVY3NnQWFvMXpMa2Rqd0dUTWIyRm83VG9tV3FZQkwydjNROUF6aC0tNWZLczZLMEFQXzFvY1hQVUIxRDdaMG1hRDNxN1N3T2M3Q0tzZjNpNnE1bEV0cTRlRnpfWjhCVlVhZllfMVF3MDNjMVhtVGVaMlNraFVxWVNFanpPajB6QUoyYi11eFZnd0xXQ3gxbHBYRTNOZi1oenRMclhOVW1McXBweXM?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 14:21:24 GMT",
+      "lastUpdated": "Fri, 17 Jul 2026 14:21:24 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
       "title": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
       "summary": "राज्यातील अनेक जिल्ह्यांत मेघगर्जना आणि विजांसह पावसाचा इशारा",
@@ -2077,28 +2246,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "delhi mumbai grapple with monsoon havoc 16 feared trapped in collapse amid heavy rain",
-      "title": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
-      "summary": "Delhi, Mumbai grapple with monsoon havoc; 16 feared trapped in Pune collapse amid heavy rain",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG9BTU1wQkpsY29xb2ZkVnI4emxEVDhReGxJcmJYeDVnbDBMYkZxcnJ3ZlBwNm41V3c2bVNaLTlrX2Jqek1OLUhZY3BvWnVlb0ZmQjdSV040YjhDaE1QekpxeTNVWWFHekdkQlVSU1NYYXplQlQyNEUxQlBMZ0h0alZmWUNUNU5kX1pJenRpOGVIbFUxelZxQmlDSGxuUnRkRHNrZ3laeDZ6Z2dUU0hWVHQ4RXNnTVVmb2RKejQwUEVVQ2VoVUdfaGdTWHk3YWNicTY2bW5R?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:12:25 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 09:12:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "airport पुणे विमानतळाच्या विस्ताराला गती 30 83 कोटींच्या जमीन संपादनाला मंजुरी",
       "title": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
       "summary": "Pune Airport : पुणे विमानतळाच्या विस्ताराला गती!30.83 कोटींच्या जमीन संपादनाला मंजुरी",
@@ -2133,28 +2280,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather mumbai thane raigad nagpur nashik satara sangli to witness rain imd is",
-      "title": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
-      "summary": "Maharashtra weather update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today, IMD issues alert",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdlp5c1B1dHBvejBaU1RERFNIa3ZoU3RJYnNfQ2xqWTdIQkZQY283b29UaVd0cndrLWdOanBRa05ab25NbmZJcWM1a0VuZ2lGNkVybTU5VEpaNHhpZWZoZTlTQjFxdm9raWd2aUxkWVpidHhiRlpUWG5YNjZnSE55WHljWlUwWHBSeXpYVWw3YjgtYUpLZGVZZGJSV2I4LVZfRHdOOThHZlZ6LVc2bFBzQ096ZG9WQXI0a2Z5MDFvdnNYNWNUdUJKRG1jZzBlQ2Y3NXFSd2E1UzAzN3ZhdGY2UXBMc2dlNHRDNGdmRkdIVngwZUItWUNKT1BjMlhnMFQ2elZ2VS1mVQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:34:25 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 07:34:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2409,56 +2534,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "water supply शहरात गढूळ पाणी का येतंय महापालिका नाही तर हे धक्कादायक कारण आले समोर",
-      "title": "Pune Water Supply: शहरात गढूळ पाणी का येतंय? महापालिका नाही तर ‘हे’ धक्कादायक कारण आले समोर",
-      "summary": "Pune Water Supply: शहरात गढूळ पाणी का येतंय? महापालिका नाही तर ‘हे’ धक्कादायक कारण आले समोर",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdWtnS3VnR0NjY20tVnNKanU0VVdxbGRBVnVxY2FDNzRSYU5EVUduVTFELUU5U2s1WEkwenN5dHlqNGdYVXRlaGhQLXJhWU1xU1NVM0Z1MEpQeTBPeklNTU8zc0xsNnptYWRzQWMtU0otUF9jZU1YTkJXOGM3ZlR4OVl3SVZ3VDMyRHJNZFRnWGZYVHBJY29HelVpaGNmWGl0VVdsZGZwQ1FXMm91UFkzWmdYYkZodTV6X3YtaU5TTXV1QmpEa0kyczhzYWE3QkNlX3B3M0Z0T2gxWTJDaFdxUmxYUl9VMF92TmxOU29LNlNlZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 00:30:00 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 00:30:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather राज्यात वरुणराजाची स्थिती काय imd चा या जिल्ह्यांना यलो अलर्ट",
-      "title": "Maharashtra Weather : राज्यात वरुणराजाची स्थिती काय? IMD चा 'या' जिल्ह्यांना यलो अलर्ट",
-      "summary": "Maharashtra Weather : राज्यात वरुणराजाची स्थिती काय? IMD चा 'या' जिल्ह्यांना यलो अलर्ट",
-      "source": "Mumbai Tak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTXZfTktHSDlHYWxsUlVhODROWWRSdS1oYVR2X1NqcDRTdlV4WG5vb1NzbU1fRXVqdl9nenpRSUNXcGxMNEZYUDJoQnlSZm5nT1VKY2htX3JuRThZb1JQdmdURml1VUZqQndROUdydExzM1hBd2dCN3d0aE1OY2hlclZNYXllXzI5bm5tR09DT0JfbU85QVNqclhYUFdyWUNEbkdRR2lIUTBSYTdMTkhxUWRaV2FEME4yVDNqOEhZYjc2Zk1aV3NyOC1fNlN6eDhuMVRucDlmaFY5RUluWHp5TExDT0JVQlJJclNySWNZeWxEakxJcUtzNjBoSlNQQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 23:30:05 GMT",
-      "lastUpdated": "Thu, 16 Jul 2026 23:30:05 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Mumbai Tak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 59,
-    "alerts": 16,
+    "total": 60,
+    "alerts": 17,
     "news": 43
   },
-  "cleanedAt": "2026-07-17T23:14:05.116Z"
+  "cleanedAt": "2026-07-18T00:52:37.925Z"
 }
