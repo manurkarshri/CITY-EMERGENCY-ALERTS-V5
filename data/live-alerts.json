@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:20:54.060Z",
+  "generatedAt": "2026-07-18T15:28:09.741Z",
   "status": "ok",
   "alerts": [
     {
@@ -183,6 +183,38 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "central railway train cancellations diversions till july 24 check full list here",
+      "title": "Central Railway train cancellations, diversions till July 24; check full list here",
+      "summary": "Central Railway train cancellations, diversions till July 24; check full list here",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDc2YW9OM2dOQlRVU0NTV3ZfdlNkY1FDcktJa1FiREZXeDVpclVtYnhyUXhWTUwzRDBxRUl4VklZRHQxTWpnbUJxRUVXdXYtY2psTjQyYnVRYXdLRm0zSFphOHF3YnJtRmxqRmlaZWpDdWJrU3Zsazh5LWM5cEdLZzZRN2JMejAzMFhVMkZPNHZGQzRrZ0ZoWHM4S3FEWXhnT3ZqaWlIWdIBrgFBVV95cUxNdzN6amdrVVl4eGZ3dkt4cFdoR0RrbXNWQkM3eFhmMzBKOURaQ0laVF9tR2NxTHQtWUwyZFJOU05pVWtnbHlScDNsTnE4Tkx5TVA0cnc3aEFwdzhENGFXV0JmWDZEQ3hsalpMMXZPRG9ZcW11ZkpNaG80dzNZWGtvT2pNT215SlNKSzZ2RTBxU0pBRkY0b2lwQ2IwVF8xTm5lNVJfWWI4OTZ2TTVpREE?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 09:18:30 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 09:18:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Indian Express"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "traffic diversion in भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बद",
       "title": "Traffic Diversion in Pune: भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बदल..‌. जाणून घ्या कोणते रस्ते कधी, किती वेळ बंद राहणार",
       "summary": "Traffic Diversion in Pune: भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बदल..‌. जाणून घ्या कोणते रस्ते कधी, किती वेळ बंद राहणार",
@@ -274,6 +306,37 @@
       "correlation": [
         "Road delay or diversion possible."
       ]
+    },
+    {
+      "id": "maharashtra msedcl books 1 281 power theft cases in imposes rs 81 55 lakh penalty in past ",
+      "title": "Maharashtra: MSEDCL books 1,281 power theft cases in Pune, imposes Rs 81.55 lakh penalty in past 15 days",
+      "summary": "Maharashtra: MSEDCL books 1,281 power theft cases in Pune, imposes Rs 81.55 lakh penalty in past 15 days",
+      "source": "ANI News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYm95ZVBLNXB6b2J3WG95bVk0dzhHSTRPMWtPWmNjMU5scUdDM2xubTVyYUlkX2NMTjFoajFuZUt5Q2hmSXRHZWNhVXR4S1FaZWdtemVWTXNOaC0xZFo0dWtsU0R1MDVhQm12TE1ic0NJM1d3VlFNanlidmgwaWt4cGczRXRPdFBSak5XeHVkM05sdklyNUpPMkNSNlUtRjZPTkVkTUQ1YTZaWjhCbnlPdHJNRThicUZPY3RudWdPQnB1aXk2S2ExLVVfdWlJc19WeDhQLVZSaE02bGliX0RobmVSUUNLRUJ4dnFVVjZxbnVEcEtWNkdB?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:57:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 14:57:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ANI News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     }
   ],
   "news": [
@@ -319,8 +382,8 @@
       "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNWVyY2NCRTB2akpmenM1S0x4eWZ5RDVLNTVKOTdscjJNRWRXYlZMdTZwNVRyd2RTYmlrZHQ3dFZ1bzJGOU9MbkdJZVpLakhYSzhPNmxFeDNER0JlRXFXYnl2ZzdoeElNbDhZblR2dlZsUmJaQ3Rqd1dGWWh2LUdSVzhseFV4amlwUnBROGVKQmt3X0VKVVVzcHhpSUVoeVpMQkpBaS1lUC1rMkQtaWxWXzlkOUd5RUZ0WlZ1NDlNVnQwUE5rMVZiWERKZmhZeEZFVXZpWVR6QzctWEN4dzItUzI1cTJVT2I4cElMa3c4b3VIMkFHdG9VY3p1NDlUdGdIYkJ0Vk5VRUFGMUFYbHNYeVFfN0hjekE4TDhSTUdDVDdMU1NLbzg3SXBxUHM0WUdsUFFXTTBPRHZpWmFaajMwT3NrS3JOLW5GR3UtNERtSmtWbHFUUmxqbUNJWjV5RHZOdVU3UG9uQllxTkhmaGhqYTdNaVJBeGxDWHhlT1B3?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:21:51 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 00:21:51 GMT",
+      "pubDate": "Sat, 18 Jul 2026 00:21:50 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 00:21:50 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -369,6 +432,54 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "maharashtra weather imd issues alert for heavy rain gusty winds check forecast for mumbai ",
+      "title": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
+      "summary": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
+      "source": "India.Com + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV01jYWRfY1RPaFAwdXFYOGh6eFNTclduQTBQTnJwQWI1eDg1SnpfSUVkSVdBY0gyb2g0X3IwbFVLTmNrTzNpMl9fTDRPT0puQzduUGd1bk0tcXFsd2ZiWExURTFMV3lSTXMzc1hldmtRNmMxUFBGWXdjVGxMeU8xT1kzT0xUekk3WndrTkFkT1B4WHZUck1pS1hGNTFxbzgzaTBTS0M3UmljaVlHc0N4MlNVZWdUajlQOGlFdG9qVzcyUzN3WmNUYU01U3hlN1RHY1R1ejZDYm1jbHJndlNuMG5KVm83SWtLdEkwejZLONIB9AFBVV95cUxPT2d3U2xORUpMT3pQWkViMDhiYWxEQS1PUWctakNPZndaY2VEUjQ1NGdiY2ZSdnlIWFZhUlBqZ1AzQmVaeTdDVlhmQUJ6TjFyckhhMWt2M3BaRXdDYTZNYi02Q2pIN0FibXVDSXQtRmJncUU5RUlfOF9tUDFnZXpjNEVKOFFGSkVVWHB6T09YejZ2TkxWZkh2YVZkWURWYmczbG5TQ1F2ekZKUE1HUlFrNk1TbHNFV1daU0llM24ta2hMM081bHFsakphajVMbm9qWF9yUWxzbVYzck1ieEczQUk1V2UzWWw1bnNESUtaRlpkS3Fn?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:09:15 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 02:09:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India.Com",
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "weather alert महाराष्ट्र आता पूर्ण भिजणार रविवारी सगळीकडे धुमशान 16 जिल्ह्यांना यलो अलर्ट",
+      "title": "Weather Alert : महाराष्ट्र आता पूर्ण भिजणार, रविवारी सगळीकडे धुमशान, 16 जिल्ह्यांना यलो अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्र आता पूर्ण भिजणार, रविवारी सगळीकडे धुमशान, 16 जिल्ह्यांना यलो अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU0hRb3VoOThNbnRWdGFwQ2V3WGhoS21CZXNIRHdqdXEzOFlfU3dXUVpDejJGZlpJSjhWRmFyVUtrdmNfLXZXU29SZF94bGRlMUs0eVhLeTF1c0pjYi1OamR1WFFDNFotVktoaFlvQS1xak9LWk4wOUh0blhUbkRQVFhtUVhXQlAwRzU5OUVMTC1vQ2VRSTRGbEJMbC1xR1JHN1JqcFJZN054MWw3RlAtTk9GUjNPUFdhdWMwSl9OSFVySGJYVlFoRExqSUh1R2NOMVBhQ01yWFRaM3JwSUJqNUcxZjhyTnNxeUdYQjdGSUp1MFpIUGFrMU5CVQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:37:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 14:37:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "mumbai weather imd forecasts revival of monsoon rainfall as city records light showers",
@@ -529,28 +640,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "पुण्यात मुसळधार पावसाचा कहर वाघोली लोहगाव रस्त्यावर पाण्यात बस अडकली 6 कर्मचाऱ्यांची सुखरू",
-      "title": "पुण्यात मुसळधार पावसाचा कहर: वाघोली-लोहगाव रस्त्यावर पाण्यात बस अडकली, 6 कर्मचाऱ्यांची सुखरूप सुटका; शहराती...",
-      "summary": "पुण्यात मुसळधार पावसाचा कहर: वाघोली-लोहगाव रस्त्यावर पाण्यात बस अडकली, 6 कर्मचाऱ्यांची सुखरूप सुटका; शहराती...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekNPelhoNUZJYllRMUhqYlFzaldlR2JaX2xMYnd2Q0laamxGVWc1aTdUdERPVG9hX2F2YTRtdlJMakNSeUJEcjJjR1cwN29MVVN3ajBtdmwtODNrNk1FeG9TZ2lKcE1OSm9fYzhDOWFOVmpnZlRRNG1wMjVzT1B2WUgzOVdjXzM0QVFzcnFnUERVVWk1TlZXVWd0V2VCMDQzbmNIMnlXMmZxRl9hNmxMX01DS2FPeFF1d1ZFeWhmMTNoU3E1VXd4Zktn0gHPAUFVX3lxTE1kOUZoYWNpQlhOVTFBY0pfUF9MalFZWjRGQnVMNzRaR3hLd1NiS3RCQmlKMERkNVhPS0hKYVFIZm9oYnk3X0U1Njc5NXVCdU53RkNCMnNkM2VGYWZIV2VISVFDS29uUlhWQ0FaWjMzdkZpT21xSVJQT3pkd3lvcFFmeVBBMlRFTElzR1JJcjdKRmNOSnRwRFUtYmpfdGluRlRIaUdfLXV4S05oeURnY0ljR3RIZTFJWnNRSUUxdndMcDdxMzBuUi1reE4yQVhUNA?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 08:54:14 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 08:54:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     },
     {
       "id": "पुणे मध्यभागात उद्या जगन्नाथ रथयात्रेनिमित्त वाहतूक बदल दुपारी 1 ते सायंकाळी 7 30 पर्यंत ह",
@@ -896,9 +985,9 @@
       "summary": "Weather Alert: अचानक वारं फिरलं! 48 तास धो धो कोसळणार, महाराष्ट्रात कुठं कोणता अलर्ट?",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjJJWkxNZUZ3LXZLN3N5ZC1NeFVHZHlwOE9WNzVyeXZpUkNTem0yV3Yxdl9JYVBlc2h5R2dGOXI5eDdHZ0ZOSVhuaTNTZWxiN3pwREdpenFyREw0anl3Y3pCcGJuY1dNNUh4b2tTNTY5dDBvcFdjaHA2Qmo2Vkp1aGY3SlhxaDY2S01mZnRUWU5ma1ZJeG0yYW5tQUxxcllUVm9pVnA0ekR0a2JydUs3b2N3cWNObkhaZWsteUhqUGZmSW05RGliQ3RlSnJFeEotbThySWdVZW96Z2hJYTdUNHYweWNqcFhIbEVRc3JnTENlUQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:30:00 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 02:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLV9tc0FCcWhiUVZGa0xsMnR4aDNPc1FjeEYyX1RkRWpWYVFza1JpNThmMjY5S29tTW8zT0l2dkd3Y0JWWjVCa2lnYlVkZEFQOVE1VVBwdUlFOU50cUhxMTFhTWx0WW4zWXlfRjI4UnZIZWc4azVycVc1Z1NBdWw2XzBaaXdlX2NVYmhFYWp0Tl92OWI2YVN1d1BteFRUclUwaHBfN0hfMldObWUyTll3QmxzbE0zc2dTSU5OWGhQWTM4QWxrTFp3YU1pSVNoMS1BbEdwdzMwVWZfalBsdTJVZGhsY1Z6aEc0TThqTEpoSG9HUQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:30:13 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 02:30:13 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -977,31 +1066,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather imd issues alert for heavy rain gusty winds check forecast for mumbai ",
-      "title": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
-      "summary": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
-      "source": "India.Com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV01jYWRfY1RPaFAwdXFYOGh6eFNTclduQTBQTnJwQWI1eDg1SnpfSUVkSVdBY0gyb2g0X3IwbFVLTmNrTzNpMl9fTDRPT0puQzduUGd1bk0tcXFsd2ZiWExURTFMV3lSTXMzc1hldmtRNmMxUFBGWXdjVGxMeU8xT1kzT0xUekk3WndrTkFkT1B4WHZUck1pS1hGNTFxbzgzaTBTS0M3UmljaVlHc0N4MlNVZWdUajlQOGlFdG9qVzcyUzN3WmNUYU01U3hlN1RHY1R1ejZDYm1jbHJndlNuMG5KVm83SWtLdEkwejZLONIB9AFBVV95cUxPT2d3U2xORUpMT3pQWkViMDhiYWxEQS1PUWctakNPZndaY2VEUjQ1NGdiY2ZSdnlIWFZhUlBqZ1AzQmVaeTdDVlhmQUJ6TjFyckhhMWt2M3BaRXdDYTZNYi02Q2pIN0FibXVDSXQtRmJncUU5RUlfOF9tUDFnZXpjNEVKOFFGSkVVWHB6T09YejZ2TkxWZkh2YVZkWURWYmczbG5TQ1F2ekZKUE1HUlFrNk1TbHNFV1daU0llM24ta2hMM081bHFsakphajVMbm9qWF9yUWxzbVYzck1ieEczQUk1V2UzWWw1bnNESUtaRlpkS3Fn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:09:15 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 02:09:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "India.Com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "maharashtra rain महाराष्ट्रावर आस्मानी संकट या जिल्ह्यांना पाऊस झोडपणार हवामान विभागाचा मो",
@@ -1153,7 +1217,7 @@
       "summary": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
       "source": "MSN",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNYUdtWUhPOFBZeDdGempLWFlhVHBMLWJzeDNodGN4VEZ3TkRGeHJMeWVmTS1uMVBzM1FUMDg4dnRleEI2alVsQzNSX3NiSmp6R1FYT29FMFdVTWhWN19xczdUdERoZEhDQnJOTC1mZVF0QnBYVTE1X3lpOUNvcmJ6NGhFYW9jOVA4T0h3SnBsc1A0X0VnMEM5NjNSUnRvQVBwclBVNGdmWmZWNndhSmNkeFFwaWZxRHZ1c3EzQVI1QmJKekVCY2FuTkdlRXNhRFpjNkI4RjU2d1lnTDJwenM4VzZCdHBPZ2stbFNOR2ZJTEhnMnp3bG11SjNsQlBVNTY4Y0MyemNWR05TZDdiczh6NFZTZjNEY3NkZnB1WGZrMVdGR1JReWFyWkJQM05hWk5LYm4wcjYwWG1KRGNUSFF6dEJyYl9qMER0amc1bjlhMWpVZ2VjeXZLN0twM0tiRE5qWDV5Z1U5S1Z2ZExXLWJfM3V0YTU5VXpSTHZLb1Uzc1JwcjVSdmdvQ1F0T1JnWnladVBGekNNYW5GNVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxORDBTUnc2RzlaUkhqMVNOWExPV2x0VVJ0OEhPNVV6NFh2S19DdGoyN01idmlvR29MZlo4Z0hTdGc4YXJEQzd5UlFvbTFGYXlBT0J0Vm8yb0V4Uk9tbEtudER5aUNvbDQxb3VJbGVnRW1LTm54WGdRLWdjTmhOYTJLNDFrS1pucGtxcmw4R0VSUWhhcWZfWmlUeXoxZmlRUHktSVVnQVM1QVh4SWpZcF9aUWpNUlZDMTBDUzJtSFlpYVpyRUtqbFR2S2VZd3QzdGh4WXhBQUFqQUUxQldrcURnYktvUmhyTjl3c2pid3lMdmFkUnN4RXE4SHpidlNhajJmVGVTTGtJelJOblR4ZzRSa3JmU2c5RG5JN2VBdkpobnhnaUZ4VUhOZXZGUktWcm5Cdm5nWUlyQzFQOE9vVGJla3ZLWHJVZUQ2cDBDWEIyVlNnTmZyY0R3OXlSZGthcXRIc0NZVlh2R3JBSWhrcEJmMnNpOS1pN0I1YUJXTmJhcGRCREE4Zy00MWNid2ttZnZEb0I5VGpyTlpoaGZa?oc=5",
       "pubDate": "Fri, 17 Jul 2026 18:13:22 GMT",
       "lastUpdated": "Fri, 17 Jul 2026 18:13:22 GMT",
       "areas": [],
@@ -1273,72 +1337,6 @@
       "region": "pune",
       "sources": [
         "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे सातारा सोलापूर लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट मान्सूनबाबत हवामान खात्याच",
-      "title": "पुणे, सातारा, सोलापूर, लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट; मान्सूनबाबत हवामान खात्याचा मोठा अंदाज",
-      "summary": "पुणे, सातारा, सोलापूर, लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट; मान्सूनबाबत हवामान खात्याचा मोठा अंदाज",
-      "source": "Zee News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNFZtQktNbE1fYXBwQzlNMUF0SFhxY1FqZFFNVlNTUkpfOXRhZ001R0p0TDRRbFBSRE1iSUVHSk5DajVjQmx4ck5DblFobUZMOWlpMVA2cUJObkdUa241eHRPdWZJMF8zUDRXemZPWFgxT0Y4cHZmSmMyOTFqRWVpMGVmdUdDa3FmY3VfT3VaTE1ndVlSZXFRSVpmaWpONTFLZzRRV3Z5UEdYVFhZXzVkTVVuLWRjQ3VRWlliUWlHR1VqZ0IwMDFZeWFhQnZkQk9nanBORFIwcm1fdzA3TDU3S1FWNG5ER19zRE5WaWpyRWZoN295RnJUcGlrUnNuWUUtUjVISWYyVWFRRnBVeWhWc3M1c9IBkwJBVV95cUxNNFZtQktNbE1fYXBwQzlNMUF0SFhxY1FqZFFNVlNTUkpfOXRhZ001R0p0TDRRbFBSRE1iSUVHSk5DajVjQmx4ck5DblFobUZMOWlpMVA2cUJObkdUa241eHRPdWZJMF8zUDRXemZPWFgxT0Y4cHZmSmMyOTFqRWVpMGVmdUdDa3FmY3VfT3VaTE1ndVlSZXFRSVpmaWpONTFLZzRRV3Z5UEdYVFhZXzVkTVVuLWRjQ3VRWlliUWlHR1VqZ0IwMDFZeWFhQnZkQk9nanBORFIwcm1fdzA3TDU3S1FWNG5ER19zRE5WaWpyRWZoN295RnJUcGlrUnNuWUUtUjVISWYyVWFRRnBVeWhWc3M1cw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:56:54 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:56:54 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Zee News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे अस्मानी संकटाचे काळे ढग आले 20 जिल",
-      "title": "Weather Alert : महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे, अस्मानी संकटाचे काळे ढग आले; 20 जिल्ह्यांना यलो अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे, अस्मानी संकटाचे काळे ढग आले; 20 जिल्ह्यांना यलो अलर्ट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVkxmRHo4ME1XRTc5WXFfZWJ3bFZLR21TNUVfTVp4d2NZVFZtSU50NGE2M3RCenhmcTV2ZlpzU1RNUXZ1RnlMczBSMk5TbnFiRDhkdnY5al9ScUs0YnR2SDJFRi0zWmZTY1Y0VV9LTUlCemtSTVMwenFxRXlqRENid3F0bGFUcmdxOGJYT2JCTEV4SWFjQnRJcHlzSDU5Vm42Yl9hX3UzS05lVlRWOGVkT3RoVi1fRkdwQVVaMTVOaEMtRTBCX3dnR05obEpZYmRrT3RGVUNCZmdDRkpkUDdVem14eEJKOGVoZ01BTUJGN3ZpbXdGQWNWU0taMnBTbzFKZDJzWnl3R0o?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:44:00 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:44:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra cm offers rs 5 lakh for mankhurd house collapse victims",
-      "title": "Maharashtra CM offers Rs 5 lakh for Mankhurd house collapse victims",
-      "summary": "Maharashtra CM offers Rs 5 lakh for Mankhurd house collapse victims",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWVrX2N0bzdDVXowb2JWOXd6cmdMLXh0WE5NZWVWYk1ZS2xHRW1sTm4yVEJXVWtBRjVYdzdmVm93RkxIMVhpVjI5OVhXUGNVbkxqZDBXNWR4eUh1ZzZVSDR5cDlkRDVpNFN2OEZOOHdFVkpUb29odm4zenZjTWlpa2Y0U0ZBRExLZHlyMFRpd05tS2VhajBkSUxpampYVWFVVDhjTHFWMVBlS3l6eE44NHR4akQ2V3M?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:42:28 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:42:28 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1524,6 +1522,34 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "central railway train cancellations diversions till july 24 check full list here",
+      "title": "Central Railway train cancellations, diversions till July 24; check full list here",
+      "summary": "Central Railway train cancellations, diversions till July 24; check full list here",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDc2YW9OM2dOQlRVU0NTV3ZfdlNkY1FDcktJa1FiREZXeDVpclVtYnhyUXhWTUwzRDBxRUl4VklZRHQxTWpnbUJxRUVXdXYtY2psTjQyYnVRYXdLRm0zSFphOHF3YnJtRmxqRmlaZWpDdWJrU3Zsazh5LWM5cEdLZzZRN2JMejAzMFhVMkZPNHZGQzRrZ0ZoWHM4S3FEWXhnT3ZqaWlIWdIBrgFBVV95cUxNdzN6amdrVVl4eGZ3dkt4cFdoR0RrbXNWQkM3eFhmMzBKOURaQ0laVF9tR2NxTHQtWUwyZFJOU05pVWtnbHlScDNsTnE4Tkx5TVA0cnc3aEFwdzhENGFXV0JmWDZEQ3hsalpMMXZPRG9ZcW11ZkpNaG80dzNZWGtvT2pNT215SlNKSzZ2RTBxU0pBRkY0b2lwQ2IwVF8xTm5lNVJfWWI4OTZ2TTVpREE?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 09:18:30 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 09:18:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Indian Express"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion."
+    },
+    {
       "id": "traffic diversion in भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बद",
       "title": "Traffic Diversion in Pune: भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बदल..‌. जाणून घ्या कोणते रस्ते कधी, किती वेळ बंद राहणार",
       "summary": "Traffic Diversion in Pune: भगवान जगन्नाथ रथयात्रेनिमित्त पुण्याच्या मध्य भागात रविवारी वाहतूक बदल..‌. जाणून घ्या कोणते रस्ते कधी, किती वेळ बंद राहणार",
@@ -1608,6 +1634,34 @@
       "action": "Use alternate route and follow police diversion."
     },
     {
+      "id": "maharashtra msedcl books 1 281 power theft cases in imposes rs 81 55 lakh penalty in past ",
+      "title": "Maharashtra: MSEDCL books 1,281 power theft cases in Pune, imposes Rs 81.55 lakh penalty in past 15 days",
+      "summary": "Maharashtra: MSEDCL books 1,281 power theft cases in Pune, imposes Rs 81.55 lakh penalty in past 15 days",
+      "source": "ANI News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYm95ZVBLNXB6b2J3WG95bVk0dzhHSTRPMWtPWmNjMU5scUdDM2xubTVyYUlkX2NMTjFoajFuZUt5Q2hmSXRHZWNhVXR4S1FaZWdtemVWTXNOaC0xZFo0dWtsU0R1MDVhQm12TE1ic0NJM1d3VlFNanlidmgwaWt4cGczRXRPdFBSak5XeHVkM05sdklyNUpPMkNSNlUtRjZPTkVkTUQ1YTZaWjhCbnlPdHJNRThicUZPY3RudWdPQnB1aXk2S2ExLVVfdWlJc19WeDhQLVZSaE02bGliX0RobmVSUUNLRUJ4dnFVVjZxbnVEcEtWNkdB?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:57:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 14:57:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ANI News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
       "id": "mumbai rains 17 flights cancelled 217 delayed as akasa indigo issue advisories",
       "title": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
       "summary": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
@@ -1646,8 +1700,8 @@
       "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNWVyY2NCRTB2akpmenM1S0x4eWZ5RDVLNTVKOTdscjJNRWRXYlZMdTZwNVRyd2RTYmlrZHQ3dFZ1bzJGOU9MbkdJZVpLakhYSzhPNmxFeDNER0JlRXFXYnl2ZzdoeElNbDhZblR2dlZsUmJaQ3Rqd1dGWWh2LUdSVzhseFV4amlwUnBROGVKQmt3X0VKVVVzcHhpSUVoeVpMQkpBaS1lUC1rMkQtaWxWXzlkOUd5RUZ0WlZ1NDlNVnQwUE5rMVZiWERKZmhZeEZFVXZpWVR6QzctWEN4dzItUzI1cTJVT2I4cElMa3c4b3VIMkFHdG9VY3p1NDlUdGdIYkJ0Vk5VRUFGMUFYbHNYeVFfN0hjekE4TDhSTUdDVDdMU1NLbzg3SXBxUHM0WUdsUFFXTTBPRHZpWmFaajMwT3NrS3JOLW5GR3UtNERtSmtWbHFUUmxqbUNJWjV5RHZOdVU3UG9uQllxTkhmaGhqYTdNaVJBeGxDWHhlT1B3?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:21:51 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 00:21:51 GMT",
+      "pubDate": "Sat, 18 Jul 2026 00:21:50 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 00:21:50 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1687,6 +1741,51 @@
         "Saam Tv"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather imd issues alert for heavy rain gusty winds check forecast for mumbai ",
+      "title": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
+      "summary": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
+      "source": "India.Com + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV01jYWRfY1RPaFAwdXFYOGh6eFNTclduQTBQTnJwQWI1eDg1SnpfSUVkSVdBY0gyb2g0X3IwbFVLTmNrTzNpMl9fTDRPT0puQzduUGd1bk0tcXFsd2ZiWExURTFMV3lSTXMzc1hldmtRNmMxUFBGWXdjVGxMeU8xT1kzT0xUekk3WndrTkFkT1B4WHZUck1pS1hGNTFxbzgzaTBTS0M3UmljaVlHc0N4MlNVZWdUajlQOGlFdG9qVzcyUzN3WmNUYU01U3hlN1RHY1R1ejZDYm1jbHJndlNuMG5KVm83SWtLdEkwejZLONIB9AFBVV95cUxPT2d3U2xORUpMT3pQWkViMDhiYWxEQS1PUWctakNPZndaY2VEUjQ1NGdiY2ZSdnlIWFZhUlBqZ1AzQmVaeTdDVlhmQUJ6TjFyckhhMWt2M3BaRXdDYTZNYi02Q2pIN0FibXVDSXQtRmJncUU5RUlfOF9tUDFnZXpjNEVKOFFGSkVVWHB6T09YejZ2TkxWZkh2YVZkWURWYmczbG5TQ1F2ekZKUE1HUlFrNk1TbHNFV1daU0llM24ta2hMM081bHFsakphajVMbm9qWF9yUWxzbVYzck1ieEczQUk1V2UzWWw1bnNESUtaRlpkS3Fn?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:09:15 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 02:09:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India.Com",
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्र आता पूर्ण भिजणार रविवारी सगळीकडे धुमशान 16 जिल्ह्यांना यलो अलर्ट",
+      "title": "Weather Alert : महाराष्ट्र आता पूर्ण भिजणार, रविवारी सगळीकडे धुमशान, 16 जिल्ह्यांना यलो अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्र आता पूर्ण भिजणार, रविवारी सगळीकडे धुमशान, 16 जिल्ह्यांना यलो अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU0hRb3VoOThNbnRWdGFwQ2V3WGhoS21CZXNIRHdqdXEzOFlfU3dXUVpDejJGZlpJSjhWRmFyVUtrdmNfLXZXU29SZF94bGRlMUs0eVhLeTF1c0pjYi1OamR1WFFDNFotVktoaFlvQS1xak9LWk4wOUh0blhUbkRQVFhtUVhXQlAwRzU5OUVMTC1vQ2VRSTRGbEJMbC1xR1JHN1JqcFJZN054MWw3RlAtTk9GUjNPUFdhdWMwSl9OSFVySGJYVlFoRExqSUh1R2NOMVBhQ01yWFRaM3JwSUJqNUcxZjhyTnNxeUdYQjdGSUp1MFpIUGFrMU5CVQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:37:00 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 14:37:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1839,28 +1938,6 @@
       "region": "pune",
       "sources": [
         "Agrowon"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुण्यात मुसळधार पावसाचा कहर वाघोली लोहगाव रस्त्यावर पाण्यात बस अडकली 6 कर्मचाऱ्यांची सुखरू",
-      "title": "पुण्यात मुसळधार पावसाचा कहर: वाघोली-लोहगाव रस्त्यावर पाण्यात बस अडकली, 6 कर्मचाऱ्यांची सुखरूप सुटका; शहराती...",
-      "summary": "पुण्यात मुसळधार पावसाचा कहर: वाघोली-लोहगाव रस्त्यावर पाण्यात बस अडकली, 6 कर्मचाऱ्यांची सुखरूप सुटका; शहराती...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekNPelhoNUZJYllRMUhqYlFzaldlR2JaX2xMYnd2Q0laamxGVWc1aTdUdERPVG9hX2F2YTRtdlJMakNSeUJEcjJjR1cwN29MVVN3ajBtdmwtODNrNk1FeG9TZ2lKcE1OSm9fYzhDOWFOVmpnZlRRNG1wMjVzT1B2WUgzOVdjXzM0QVFzcnFnUERVVWk1TlZXVWd0V2VCMDQzbmNIMnlXMmZxRl9hNmxMX01DS2FPeFF1d1ZFeWhmMTNoU3E1VXd4Zktn0gHPAUFVX3lxTE1kOUZoYWNpQlhOVTFBY0pfUF9MalFZWjRGQnVMNzRaR3hLd1NiS3RCQmlKMERkNVhPS0hKYVFIZm9oYnk3X0U1Njc5NXVCdU53RkNCMnNkM2VGYWZIV2VISVFDS29uUlhWQ0FaWjMzdkZpT21xSVJQT3pkd3lvcFFmeVBBMlRFTElzR1JJcjdKRmNOSnRwRFUtYmpfdGluRlRIaUdfLXV4S05oeURnY0ljR3RIZTFJWnNRSUUxdndMcDdxMzBuUi1reE4yQVhUNA?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 08:54:14 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 08:54:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2208,9 +2285,9 @@
       "summary": "Weather Alert: अचानक वारं फिरलं! 48 तास धो धो कोसळणार, महाराष्ट्रात कुठं कोणता अलर्ट?",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjJJWkxNZUZ3LXZLN3N5ZC1NeFVHZHlwOE9WNzVyeXZpUkNTem0yV3Yxdl9JYVBlc2h5R2dGOXI5eDdHZ0ZOSVhuaTNTZWxiN3pwREdpenFyREw0anl3Y3pCcGJuY1dNNUh4b2tTNTY5dDBvcFdjaHA2Qmo2Vkp1aGY3SlhxaDY2S01mZnRUWU5ma1ZJeG0yYW5tQUxxcllUVm9pVnA0ekR0a2JydUs3b2N3cWNObkhaZWsteUhqUGZmSW05RGliQ3RlSnJFeEotbThySWdVZW96Z2hJYTdUNHYweWNqcFhIbEVRc3JnTENlUQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:30:00 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 02:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLV9tc0FCcWhiUVZGa0xsMnR4aDNPc1FjeEYyX1RkRWpWYVFza1JpNThmMjY5S29tTW8zT0l2dkd3Y0JWWjVCa2lnYlVkZEFQOVE1VVBwdUlFOU50cUhxMTFhTWx0WW4zWXlfRjI4UnZIZWc4azVycVc1Z1NBdWw2XzBaaXdlX2NVYmhFYWp0Tl92OWI2YVN1d1BteFRUclUwaHBfN0hfMldObWUyTll3QmxzbE0zc2dTSU5OWGhQWTM4QWxrTFp3YU1pSVNoMS1BbEdwdzMwVWZfalBsdTJVZGhsY1Z6aEc0TThqTEpoSG9HUQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:30:13 GMT",
+      "lastUpdated": "Sat, 18 Jul 2026 02:30:13 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2281,28 +2358,6 @@
       "region": "pune",
       "sources": [
         "TV9 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather imd issues alert for heavy rain gusty winds check forecast for mumbai ",
-      "title": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
-      "summary": "Maharashtra Weather: IMD issues alert for heavy rain, gusty winds – Check forecast for Mumbai, Thane, Pune, o",
-      "source": "India.Com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV01jYWRfY1RPaFAwdXFYOGh6eFNTclduQTBQTnJwQWI1eDg1SnpfSUVkSVdBY0gyb2g0X3IwbFVLTmNrTzNpMl9fTDRPT0puQzduUGd1bk0tcXFsd2ZiWExURTFMV3lSTXMzc1hldmtRNmMxUFBGWXdjVGxMeU8xT1kzT0xUekk3WndrTkFkT1B4WHZUck1pS1hGNTFxbzgzaTBTS0M3UmljaVlHc0N4MlNVZWdUajlQOGlFdG9qVzcyUzN3WmNUYU01U3hlN1RHY1R1ejZDYm1jbHJndlNuMG5KVm83SWtLdEkwejZLONIB9AFBVV95cUxPT2d3U2xORUpMT3pQWkViMDhiYWxEQS1PUWctakNPZndaY2VEUjQ1NGdiY2ZSdnlIWFZhUlBqZ1AzQmVaeTdDVlhmQUJ6TjFyckhhMWt2M3BaRXdDYTZNYi02Q2pIN0FibXVDSXQtRmJncUU5RUlfOF9tUDFnZXpjNEVKOFFGSkVVWHB6T09YejZ2TkxWZkh2YVZkWURWYmczbG5TQ1F2ekZKUE1HUlFrNk1TbHNFV1daU0llM24ta2hMM081bHFsakphajVMbm9qWF9yUWxzbVYzck1ieEczQUk1V2UzWWw1bnNESUtaRlpkS3Fn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:09:15 GMT",
-      "lastUpdated": "Sat, 18 Jul 2026 02:09:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "India.Com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2450,7 +2505,7 @@
       "summary": "Mumbai monsoon latest update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli to witness heavy downpour, IMD issues statement",
       "source": "MSN",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNYUdtWUhPOFBZeDdGempLWFlhVHBMLWJzeDNodGN4VEZ3TkRGeHJMeWVmTS1uMVBzM1FUMDg4dnRleEI2alVsQzNSX3NiSmp6R1FYT29FMFdVTWhWN19xczdUdERoZEhDQnJOTC1mZVF0QnBYVTE1X3lpOUNvcmJ6NGhFYW9jOVA4T0h3SnBsc1A0X0VnMEM5NjNSUnRvQVBwclBVNGdmWmZWNndhSmNkeFFwaWZxRHZ1c3EzQVI1QmJKekVCY2FuTkdlRXNhRFpjNkI4RjU2d1lnTDJwenM4VzZCdHBPZ2stbFNOR2ZJTEhnMnp3bG11SjNsQlBVNTY4Y0MyemNWR05TZDdiczh6NFZTZjNEY3NkZnB1WGZrMVdGR1JReWFyWkJQM05hWk5LYm4wcjYwWG1KRGNUSFF6dEJyYl9qMER0amc1bjlhMWpVZ2VjeXZLN0twM0tiRE5qWDV5Z1U5S1Z2ZExXLWJfM3V0YTU5VXpSTHZLb1Uzc1JwcjVSdmdvQ1F0T1JnWnladVBGekNNYW5GNVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxORDBTUnc2RzlaUkhqMVNOWExPV2x0VVJ0OEhPNVV6NFh2S19DdGoyN01idmlvR29MZlo4Z0hTdGc4YXJEQzd5UlFvbTFGYXlBT0J0Vm8yb0V4Uk9tbEtudER5aUNvbDQxb3VJbGVnRW1LTm54WGdRLWdjTmhOYTJLNDFrS1pucGtxcmw4R0VSUWhhcWZfWmlUeXoxZmlRUHktSVVnQVM1QVh4SWpZcF9aUWpNUlZDMTBDUzJtSFlpYVpyRUtqbFR2S2VZd3QzdGh4WXhBQUFqQUUxQldrcURnYktvUmhyTjl3c2pid3lMdmFkUnN4RXE4SHpidlNhajJmVGVTTGtJelJOblR4ZzRSa3JmU2c5RG5JN2VBdkpobnhnaUZ4VUhOZXZGUktWcm5Cdm5nWUlyQzFQOE9vVGJla3ZLWHJVZUQ2cDBDWEIyVlNnTmZyY0R3OXlSZGthcXRIc0NZVlh2R3JBSWhrcEJmMnNpOS1pN0I1YUJXTmJhcGRCREE4Zy00MWNid2ttZnZEb0I5VGpyTlpoaGZa?oc=5",
       "pubDate": "Fri, 17 Jul 2026 18:13:22 GMT",
       "lastUpdated": "Fri, 17 Jul 2026 18:13:22 GMT",
       "areas": [],
@@ -2575,78 +2630,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे सातारा सोलापूर लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट मान्सूनबाबत हवामान खात्याच",
-      "title": "पुणे, सातारा, सोलापूर, लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट; मान्सूनबाबत हवामान खात्याचा मोठा अंदाज",
-      "summary": "पुणे, सातारा, सोलापूर, लातूरसह महाराष्ट्रातील 20 जिल्ह्यांना अलर्ट; मान्सूनबाबत हवामान खात्याचा मोठा अंदाज",
-      "source": "Zee News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNFZtQktNbE1fYXBwQzlNMUF0SFhxY1FqZFFNVlNTUkpfOXRhZ001R0p0TDRRbFBSRE1iSUVHSk5DajVjQmx4ck5DblFobUZMOWlpMVA2cUJObkdUa241eHRPdWZJMF8zUDRXemZPWFgxT0Y4cHZmSmMyOTFqRWVpMGVmdUdDa3FmY3VfT3VaTE1ndVlSZXFRSVpmaWpONTFLZzRRV3Z5UEdYVFhZXzVkTVVuLWRjQ3VRWlliUWlHR1VqZ0IwMDFZeWFhQnZkQk9nanBORFIwcm1fdzA3TDU3S1FWNG5ER19zRE5WaWpyRWZoN295RnJUcGlrUnNuWUUtUjVISWYyVWFRRnBVeWhWc3M1c9IBkwJBVV95cUxNNFZtQktNbE1fYXBwQzlNMUF0SFhxY1FqZFFNVlNTUkpfOXRhZ001R0p0TDRRbFBSRE1iSUVHSk5DajVjQmx4ck5DblFobUZMOWlpMVA2cUJObkdUa241eHRPdWZJMF8zUDRXemZPWFgxT0Y4cHZmSmMyOTFqRWVpMGVmdUdDa3FmY3VfT3VaTE1ndVlSZXFRSVpmaWpONTFLZzRRV3Z5UEdYVFhZXzVkTVVuLWRjQ3VRWlliUWlHR1VqZ0IwMDFZeWFhQnZkQk9nanBORFIwcm1fdzA3TDU3S1FWNG5ER19zRE5WaWpyRWZoN295RnJUcGlrUnNuWUUtUjVISWYyVWFRRnBVeWhWc3M1cw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:56:54 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:56:54 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Zee News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे अस्मानी संकटाचे काळे ढग आले 20 जिल",
-      "title": "Weather Alert : महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे, अस्मानी संकटाचे काळे ढग आले; 20 जिल्ह्यांना यलो अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रासाठी आता पुढील 24 तास धोक्याचे, अस्मानी संकटाचे काळे ढग आले; 20 जिल्ह्यांना यलो अलर्ट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVkxmRHo4ME1XRTc5WXFfZWJ3bFZLR21TNUVfTVp4d2NZVFZtSU50NGE2M3RCenhmcTV2ZlpzU1RNUXZ1RnlMczBSMk5TbnFiRDhkdnY5al9ScUs0YnR2SDJFRi0zWmZTY1Y0VV9LTUlCemtSTVMwenFxRXlqRENid3F0bGFUcmdxOGJYT2JCTEV4SWFjQnRJcHlzSDU5Vm42Yl9hX3UzS05lVlRWOGVkT3RoVi1fRkdwQVVaMTVOaEMtRTBCX3dnR05obEpZYmRrT3RGVUNCZmdDRkpkUDdVem14eEJKOGVoZ01BTUJGN3ZpbXdGQWNWU0taMnBTbzFKZDJzWnl3R0o?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:44:00 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:44:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra cm offers rs 5 lakh for mankhurd house collapse victims",
-      "title": "Maharashtra CM offers Rs 5 lakh for Mankhurd house collapse victims",
-      "summary": "Maharashtra CM offers Rs 5 lakh for Mankhurd house collapse victims",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWVrX2N0bzdDVXowb2JWOXd6cmdMLXh0WE5NZWVWYk1ZS2xHRW1sTm4yVEJXVWtBRjVYdzdmVm93RkxIMVhpVjI5OVhXUGNVbkxqZDBXNWR4eUh1ZzZVSDR5cDlkRDVpNFN2OEZOOHdFVkpUb29odm4zenZjTWlpa2Y0U0ZBRExLZHlyMFRpd05tS2VhajBkSUxpampYVWFVVDhjTHFWMVBlS3l6eE44NHR4akQ2V3M?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:42:28 GMT",
-      "lastUpdated": "Fri, 17 Jul 2026 14:42:28 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 61,
-    "alerts": 15,
-    "news": 46
+    "total": 60,
+    "alerts": 17,
+    "news": 43
   },
-  "cleanedAt": "2026-07-18T14:20:54.074Z"
+  "cleanedAt": "2026-07-18T15:28:09.753Z"
 }
