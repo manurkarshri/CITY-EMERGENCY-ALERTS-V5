@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-22T09:06:46.407Z",
+  "generatedAt": "2026-07-22T11:24:01.759Z",
   "items": [
     {
-      "id": "districtwise nowcast warnings",
-      "title": "Districtwise Nowcast Warnings",
-      "summary": "Districtwise Nowcast Warnings",
+      "id": "monsoon information",
+      "title": "Monsoon Information",
+      "summary": "Monsoon Information",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MY2RSQllMTC1BXzdBQ3ZZYkxjUndMN3A0dHVpY0pralpPWVJQVkJHX0ZOOURReGZpNUZmS0pHa3cxUG5jM0RfeF9nNFpxVG5YaExiSTV3bmRWUXlSelRsNkxENzlnejJtWkNhRzhSNzM?oc=5",
-      "pubDate": "Thu, 01 Aug 2024 06:05:36 GMT",
-      "lastUpdated": "Thu, 01 Aug 2024 06:05:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZUDJxYi1vaWRkNEtxazZUR09CWkVFLVVXQW5HTTQyTHU4TUpYRVBDNUtNSnA2ajZkRWk5VnpESVUyeWZCejJBRTRTbUpCSXg1X1luSS1DUFVzNGJyVWNVTGRfOVdndGxGNWRj?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:54 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:54 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -24,14 +24,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "monsoon information",
-      "title": "Monsoon Information",
-      "summary": "Monsoon Information",
+      "id": "districtwise nowcast warnings",
+      "title": "Districtwise Nowcast Warnings",
+      "summary": "Districtwise Nowcast Warnings",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZUDJxYi1vaWRkNEtxazZUR09CWkVFLVVXQW5HTTQyTHU4TUpYRVBDNUtNSnA2ajZkRWk5VnpESVUyeWZCejJBRTRTbUpCSXg1X1luSS1DUFVzNGJyVWNVTGRfOVdndGxGNWRj?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:03:54 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:03:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MY2RSQllMTC1BXzdBQ3ZZYkxjUndMN3A0dHVpY0pralpPWVJQVkJHX0ZOOURReGZpNUZmS0pHa3cxUG5jM0RfeF9nNFpxVG5YaExiSTV3bmRWUXlSelRsNkxENzlnejJtWkNhRzhSNzM?oc=5",
+      "pubDate": "Thu, 01 Aug 2024 06:05:36 GMT",
+      "lastUpdated": "Thu, 01 Aug 2024 06:05:36 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -66,6 +66,35 @@
       "icon": "ℹ️",
       "critical": true,
       "action": "No immediate action required."
+    },
+    {
+      "id": "highway forecast",
+      "title": "Highway Forecast",
+      "summary": "Highway Forecast",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NTJLTGwtRDRLMEIxZ1BJZlJFd3pBOWVJcWRUQnUzN1FSTWlwSmRUWG1oT2RVUDlqd2lmWVBFNGlVbDZxYTFKRW1mRlVnNUkybHVZRXBEUDM1VlRNUUhGTUt1YXJid0U?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:37 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": true,
+      "action": "Check route before starting travel."
     },
     {
       "id": "district forecast and warning for next 5 days",
