@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:22:25.061Z",
+  "generatedAt": "2026-07-22T17:47:47.475Z",
   "items": [
     {
       "id": "monsoon information",
@@ -66,35 +66,6 @@
       "icon": "ℹ️",
       "critical": true,
       "action": "No immediate action required."
-    },
-    {
-      "id": "highway forecast",
-      "title": "Highway Forecast",
-      "summary": "Highway Forecast",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NTJLTGwtRDRLMEIxZ1BJZlJFd3pBOWVJcWRUQnUzN1FSTWlwSmRUWG1oT2RVUDlqd2lmWVBFNGlVbDZxYTFKRW1mRlVnNUkybHVZRXBEUDM1VlRNUUhGTUt1YXJid0U?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:03:37 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:03:37 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": true,
-      "action": "Check route before starting travel."
     },
     {
       "id": "district forecast and warning for next 5 days",
@@ -251,6 +222,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "dw warnings",
+      "title": "DW Warnings",
+      "summary": "DW Warnings",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUnR3Y3o2ZWRsSUxNVTZpenVLN2JWMVBFcmFEXzNuaHRSV1o5YTZHNnVFZ3BVdnhqZUljZDJsWkNDQUpKc0c0VFhkNWwxcUYzck1BUWNLVVh5STlLUWpMSkY4TmxnTW5qbGhwTS1lVVFKSWs4REs0?oc=5",
+      "pubDate": "Wed, 29 Mar 2023 13:43:30 GMT",
+      "lastUpdated": "Wed, 29 Mar 2023 13:43:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
       "id": "arabian sea",
       "title": "Arabian Sea",
       "summary": "Arabian Sea",
@@ -281,28 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHN2RDV6OEo2b2NUNnoybzhqYjFiTDhVNzd5YUJRV2cwdnJQWnhHYVJrTDk2Y1lJNU5yM2VjQ1NVcDNqZlZvRWJmUjNBRi1adjN5dnU1cWVLV2pzMmU2Q182RFF4by1IMHVJd3VSc04xZlNuZjk0Qi0yejhSY1JyMTZTYVl6dw?oc=5",
       "pubDate": "Sat, 27 Aug 2022 17:36:36 GMT",
       "lastUpdated": "Sat, 27 Aug 2022 17:36:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "1 panaji city last 24 hr observation",
-      "title": "1. PANAJI CITY LAST 24 HR OBSERVATION",
-      "summary": "1. PANAJI CITY LAST 24 HR OBSERVATION",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU3pLNG9wSlY5bTZYX3F6UWthc2NSRTY2MlRxVnZJc1FfeUI4blhuZTlydXJ1eWFPS21LWkxrYlNpcnZLNGJKUE5FeWl1UlVidXZoOThCcm1mN0Js?oc=5",
-      "pubDate": "Wed, 11 Aug 2021 07:04:44 GMT",
-      "lastUpdated": "Wed, 11 Aug 2021 07:04:44 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
