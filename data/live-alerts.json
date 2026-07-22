@@ -1,42 +1,12 @@
 {
-  "generatedAt": "2026-07-22T21:59:51.196Z",
+  "generatedAt": "2026-07-22T23:09:48.788Z",
   "status": "ok",
   "alerts": [
-    {
-      "id": "mumbai expressway link reopens after landslide in maharashtra",
-      "title": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "summary": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
-      "source": "The News Mill + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkFoTkRRRDF3dUg4cTVhckxLV1Q3VV9kNGpBbGZuazlkaXRIWmJBbGhnQ1NEei1kc2NvQTA1RkNkY1RzV1doZGk5dVgtbUlzM05OWEFSV0ZyRFdYZG0zWW9uei1lZDRXaDVfb2pxTm9mbHdpcFhyWTc1UktHV2VwMGJtU1N5bGZpQlZEaE4zQzRtZk01YzFXT2lXcm9vMkVHNEtqVDR1bWZMcVFRbkdxZENBMXU5MXRZeTVieHhqNA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:02:13 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 07:02:13 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "The News Mill",
-        "msn.com"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
     {
       "id": "under red alert as heavy rain intensifies imd warns of more downpours",
       "title": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
       "summary": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
-      "source": "Pune Mirror + 1 more",
+      "source": "Pune Mirror + 2 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWhfQ1RyMHg2QktFVXMydGVCR0JMZ1JVQnFCZndFd1BQOWNZSlJ1RHp2cU5ENGVYSEZvOHhneDVFa1BMeXRaV2JXeUlrQV9MczB0UHBvRkxuMkxUOWhKRGhTMzRTdFNUV01rRDRNSFRLdEJvbGhYa2JSclhacFZKM3c3bE5qazl2c0VvRUJB?oc=5",
       "pubDate": "Wed, 22 Jul 2026 06:20:45 GMT",
@@ -45,9 +15,10 @@
       "region": "pune",
       "sources": [
         "Pune Mirror",
+        "MSN",
         "Times Now"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
       "w": [
         "red alert",
         "school closed",
@@ -64,6 +35,36 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "mumbai expressway link reopens after landslide in maharashtra",
+      "title": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
+      "summary": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
+      "source": "The News Mill + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkFoTkRRRDF3dUg4cTVhckxLV1Q3VV9kNGpBbGZuazlkaXRIWmJBbGhnQ1NEei1kc2NvQTA1RkNkY1RzV1doZGk5dVgtbUlzM05OWEFSV0ZyRFdYZG0zWW9uei1lZDRXaDVfb2pxTm9mbHdpcFhyWTc1UktHV2VwMGJtU1N5bGZpQlZEaE4zQzRtZk01YzFXT2lXcm9vMkVHNEtqVDR1bWZMcVFRbkdxZENBMXU5MXRZeTVieHhqNA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:02:13 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 07:02:13 GMT",
+      "areas": [
+        "Sus"
+      ],
+      "region": "pune",
+      "sources": [
+        "The News Mill",
+        "MSN"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "imd issues red alert for ghat areas heavy rain likely as strong arabian sea winds intensif",
@@ -320,67 +321,6 @@
       ]
     },
     {
-      "id": "rains intensify after quiet spell imd upgrades forecast red alert for ghats",
-      "title": "Pune rains intensify after quiet spell; IMD upgrades forecast, red alert for ghats today",
-      "summary": "Pune rains intensify after quiet spell; IMD upgrades forecast, red alert for ghats today",
-      "source": "msn.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSEZEUnhuNlZfWGh6XzJ0cl84NXJ4MzBhRmVHZ1hoZTR6Ykk1Nl9Ub3hxamYwMVMxSW1FUUtPdVVXdDd0Y0pETmJZMGg3NGRqWTM3aEJTeF8yR19HbHhsSHZsWFd5SmJEYXdyUUp5UWZKcHFSWjNXQkxjUURseUJPMFUybWhnc0Y2S21VUlFrX2Y2WF9OTDhKYng2c29rYk9JMGFaXzF3SzJ0YmQxV2JoQVIxTmhoWXN5YXIzOThJbGREU1RKeTktOTJsb2JJb1M4YWN1ZXZkRFFKTElW?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 00:21:33 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 00:21:33 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "msn.com"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "red alert पुणे जिल्ह्याला आज रेड अलर्ट पुढील दोन दिवस पावसाचा जोर कायम राहणार हवामान विभाग",
-      "title": "Pune Red Alert : पुणे जिल्ह्याला आज 'रेड अलर्ट'; पुढील दोन दिवस पावसाचा जोर कायम राहणार, हवामान विभागाचा इशारा",
-      "summary": "Pune Red Alert : पुणे जिल्ह्याला आज 'रेड अलर्ट'; पुढील दोन दिवस पावसाचा जोर कायम राहणार, हवामान विभागाचा इशारा",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejV6d0FHc0VBaVF6TmJrcW5PLWZDNHh1dzNncHNsN3FlaGpTQURYU19PX1lnSXJOaEtMa1REUGludmtvMG5ZRFppWXByNXBKSWZzQjBobTZMY09rRm42Y2c4RTB5V1NRdHJSV1M1MGpKU0VZckhKZ3N4LUZSTjdXZjFuVFppd244Sk1reFZmNVUyRVhiSE5IOXZSS2JwYW0zbEFqVUFjRngwZGsxNjdZcWJWb005eFgzSEQ4?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 22:54:35 GMT",
-      "lastUpdated": "Tue, 21 Jul 2026 22:54:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
-    },
-    {
       "id": "bhiwandi accident भीषण अपघात कारने तीन दुचाकींना चिरडलं एकाचा मृत्यू तर दोघे गंभीर जखमी",
       "title": "Bhiwandi Accident News: भीषण अपघात! कारने तीन दुचाकींना चिरडलं, एकाचा मृत्यू, तर दोघे गंभीर जखमी",
       "summary": "Bhiwandi Accident News: भीषण अपघात! कारने तीन दुचाकींना चिरडलं, एकाचा मृत्यू, तर दोघे गंभीर जखमी",
@@ -407,6 +347,39 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "akurdi electricity issue निधीची अडचण असल्यास उपलब्ध करू पण वीजपुरवठा सुरळीत करा राष्ट्रवाद",
+      "title": "Akurdi Electricity Issue: निधीची अडचण असल्यास उपलब्ध करू, पण वीजपुरवठा सुरळीत करा! राष्ट्रवादीचे महावितरणला आवाहन",
+      "summary": "Akurdi Electricity Issue: निधीची अडचण असल्यास उपलब्ध करू, पण वीजपुरवठा सुरळीत करा! राष्ट्रवादीचे महावितरणला आवाहन",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlpMVlJSdVJ2RHJjNGZ4ODRXd1o4eGljWFZod0tfTzdPUjFjVnNrRnAxN0paT2hoUTdZU3pTMWVmZVRZbXB5OFFQTXVvbk8tX1p0d2xiMVdrMFhyLWhhZzR5WkgxeGRSb3NSaGhleWk5c21zSkFzWWhQZ0ZNZXYycFczRXRJRF94dmNDdHhxd3c4dndYS0dITTE4c2xKS2ZidEtNQVdiTFV4cXR5LXRRU0dtZ3UyMVcxR0dSWV9SZGxEWW1yN3NMT2FsYW53UEVSVmFPWlRiU3Rid3VIN3QxY2VzVWNtUkkwMDc3YnVyWQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 20:00:00 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 20:00:00 GMT",
+      "areas": [
+        "Akurdi"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     },
     {
       "id": "after long outages pcmc msedcl plan for uninterrupted power to civic infra residents",
@@ -626,7 +599,7 @@
       "id": "monsoon mayhem 3 die in expressway becomes slowway missing link fails 1st rain test",
       "title": "Monsoon mayhem: 3 die in Pune; expressway becomes 'slowway', 'Missing Link' fails 1st rain test",
       "summary": "Monsoon mayhem: 3 die in Pune; expressway becomes 'slowway', 'Missing Link' fails 1st rain test",
-      "source": "msn.com",
+      "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPVmlfVFppaGlKRS1ETzV5dFdsZ3BlVWIxUVRIZG5lSEt1WUJacllsTmFPQTBkSk5PdkpLU3hxU0h3aTdjMW4ycHBGNWIxSEpIalM3elREYnJjNy1hNksxWU93cmlVVGpfNWMyVDZkS2RMVVBiQnZxeFFNUnMwVDRZcjBvN2lJSmNzc0FObnVKVElLQ1NZS0RuNTItbkJFaWFUY3NqYXBoSWxQMzVrOURNb2ZqYU8xUnlzS1hUWDhlZ3JnbjdZOE1aM3JydGJiZ1RsUk9tNElhLUhlU2ViTks0QU1pNTVwQW03UXJmYkJsTG9pY3RYWHVYbGw1ODhFcVllekxUeC1HUXQwOThsdEVzeEpPckNTNUhVcnM2WVZQdFZOX3NucERWcEhFSjdwWEhDTUlGbDVVSlVzYWRJQ0ZONmNfMGtFNUtoLWRndnpmTzdrTHdCN3RldzlmVzRRVjBPTmYzYzhmWld3ZHhKcE8zWA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 10:46:22 GMT",
@@ -634,7 +607,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "msn.com"
+        "MSN"
       ],
       "confidence": "Single source",
       "w": [
@@ -693,7 +666,7 @@
       "id": "heavy rain disrupts mumbai airport operations 4 flights cancelled",
       "title": "Heavy rain disrupts Mumbai airport operations, 4 flights cancelled",
       "summary": "Heavy rain disrupts Mumbai airport operations, 4 flights cancelled",
-      "source": "msn.com",
+      "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNF94eXlNakVwWk03bk1raFpvWlB0M2hPS3pKaV8tbFYxTWF6a2U3aFdRenVwSE1jRkpLd3p5eFVlUlVwYkVZZ2hJRG92azN6ZG1LdkhiVUxwRktLZzhiS3FpS2ZZZjhzMk14NXpBWlphNHViUUU0cWlpelZuYUw3VGlwSUl5Rmhra1dSTTFtRVpaMnp5cXh5NWVoTUdVa0Zzdm5TTTNhaUc1RDE1QWotMlJYSXV4YllJTXNOS2xkWnNXRUw1UW9YSjM4STlnUjlwa3hJamNzelVtOXN0c2VsZ2otSGxjeWZ1Z21QOENLcXFORG9JelNURDU5aUk0Tm5TbXNjYkdYbEQ3cUVpbE8zUFBqTjdNcTI1dEhicFY4T09uVnRna1M2UmpsbHdYT0FyTHp4YjVoQ2ZDU1ViN0R3ci1XbFBpMkk1bXNUOW9NSzBxQQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 05:57:47 GMT",
@@ -701,7 +674,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "msn.com"
+        "MSN"
       ],
       "confidence": "Single source",
       "w": [
@@ -787,6 +760,28 @@
       "correlation": [
         "Road delay or diversion possible."
       ]
+    },
+    {
+      "id": "chas kaman dam चासकमान धरणाचे ५ दरवाजे उघडले नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "title": "Chas Kaman Dam: चासकमान धरणाचे ५ दरवाजे उघडले! नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "summary": "Chas Kaman Dam: चासकमान धरणाचे ५ दरवाजे उघडले! नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeC1TTDJhekJDSUNrMWF4cmNtRF9JUmRudnA4V0ZTNWN2ZWVLNzFVVkFRdlFPS0JHRVVaU3NwbmJpVklGRFZHQm5yamZUVEtoTHVfUXlpeUNsczhJeW1yZVo1Sjl1Q3hSV1ZmaWdYbktzeEdZSDVjZlZSWXFwV2FqRW1vLXlpSVNjUm8zLVZnb1pZeHBCNTA3WU1NLVFWeVc5NkxPaDFLVjV2RmliUWVPVWZLTG0?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:00:00 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 23:00:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "officer starts recording statements of cops who paraded detained teens",
@@ -1715,6 +1710,37 @@
   ],
   "incidents": [
     {
+      "id": "under red alert as heavy rain intensifies imd warns of more downpours",
+      "title": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
+      "summary": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
+      "source": "Pune Mirror + 2 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWhfQ1RyMHg2QktFVXMydGVCR0JMZ1JVQnFCZndFd1BQOWNZSlJ1RHp2cU5ENGVYSEZvOHhneDVFa1BMeXRaV2JXeUlrQV9MczB0UHBvRkxuMkxUOWhKRGhTMzRTdFNUV01rRDRNSFRLdEJvbGhYa2JSclhacFZKM3c3bE5qazl2c0VvRUJB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 06:20:45 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 06:20:45 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror",
+        "MSN",
+        "Times Now"
+      ],
+      "confidence": "High",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
       "id": "mumbai expressway link reopens after landslide in maharashtra",
       "title": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
       "summary": "Pune-Mumbai Expressway link reopens after landslide in Maharashtra",
@@ -1729,7 +1755,7 @@
       "region": "pune",
       "sources": [
         "The News Mill",
-        "msn.com"
+        "MSN"
       ],
       "confidence": "Medium",
       "w": [
@@ -1743,36 +1769,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "under red alert as heavy rain intensifies imd warns of more downpours",
-      "title": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
-      "summary": "Pune Under Red Alert as Heavy Rain Intensifies; IMD Warns of More Downpours",
-      "source": "Pune Mirror + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWhfQ1RyMHg2QktFVXMydGVCR0JMZ1JVQnFCZndFd1BQOWNZSlJ1RHp2cU5ENGVYSEZvOHhneDVFa1BMeXRaV2JXeUlrQV9MczB0UHBvRkxuMkxUOWhKRGhTMzRTdFNUV01rRDRNSFRLdEJvbGhYa2JSclhacFZKM3c3bE5qazl2c0VvRUJB?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 06:20:45 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 06:20:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Mirror",
-        "Times Now"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "imd issues red alert for ghat areas heavy rain likely as strong arabian sea winds intensif",
@@ -2008,64 +2004,6 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
-      "id": "rains intensify after quiet spell imd upgrades forecast red alert for ghats",
-      "title": "Pune rains intensify after quiet spell; IMD upgrades forecast, red alert for ghats today",
-      "summary": "Pune rains intensify after quiet spell; IMD upgrades forecast, red alert for ghats today",
-      "source": "msn.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSEZEUnhuNlZfWGh6XzJ0cl84NXJ4MzBhRmVHZ1hoZTR6Ykk1Nl9Ub3hxamYwMVMxSW1FUUtPdVVXdDd0Y0pETmJZMGg3NGRqWTM3aEJTeF8yR19HbHhsSHZsWFd5SmJEYXdyUUp5UWZKcHFSWjNXQkxjUURseUJPMFUybWhnc0Y2S21VUlFrX2Y2WF9OTDhKYng2c29rYk9JMGFaXzF3SzJ0YmQxV2JoQVIxTmhoWXN5YXIzOThJbGREU1RKeTktOTJsb2JJb1M4YWN1ZXZkRFFKTElW?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 00:21:33 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 00:21:33 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "msn.com"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
-    },
-    {
-      "id": "red alert पुणे जिल्ह्याला आज रेड अलर्ट पुढील दोन दिवस पावसाचा जोर कायम राहणार हवामान विभाग",
-      "title": "Pune Red Alert : पुणे जिल्ह्याला आज 'रेड अलर्ट'; पुढील दोन दिवस पावसाचा जोर कायम राहणार, हवामान विभागाचा इशारा",
-      "summary": "Pune Red Alert : पुणे जिल्ह्याला आज 'रेड अलर्ट'; पुढील दोन दिवस पावसाचा जोर कायम राहणार, हवामान विभागाचा इशारा",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejV6d0FHc0VBaVF6TmJrcW5PLWZDNHh1dzNncHNsN3FlaGpTQURYU19PX1lnSXJOaEtMa1REUGludmtvMG5ZRFppWXByNXBKSWZzQjBobTZMY09rRm42Y2c4RTB5V1NRdHJSV1M1MGpKU0VZckhKZ3N4LUZSTjdXZjFuVFppd244Sk1reFZmNVUyRVhiSE5IOXZSS2JwYW0zbEFqVUFjRngwZGsxNjdZcWJWb005eFgzSEQ4?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 22:54:35 GMT",
-      "lastUpdated": "Tue, 21 Jul 2026 22:54:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
-    },
-    {
       "id": "bhiwandi accident भीषण अपघात कारने तीन दुचाकींना चिरडलं एकाचा मृत्यू तर दोघे गंभीर जखमी",
       "title": "Bhiwandi Accident News: भीषण अपघात! कारने तीन दुचाकींना चिरडलं, एकाचा मृत्यू, तर दोघे गंभीर जखमी",
       "summary": "Bhiwandi Accident News: भीषण अपघात! कारने तीन दुचाकींना चिरडलं, एकाचा मृत्यू, तर दोघे गंभीर जखमी",
@@ -2123,6 +2061,36 @@
       "icon": "🚦",
       "critical": false,
       "action": "Check route before starting travel."
+    },
+    {
+      "id": "akurdi electricity issue निधीची अडचण असल्यास उपलब्ध करू पण वीजपुरवठा सुरळीत करा राष्ट्रवाद",
+      "title": "Akurdi Electricity Issue: निधीची अडचण असल्यास उपलब्ध करू, पण वीजपुरवठा सुरळीत करा! राष्ट्रवादीचे महावितरणला आवाहन",
+      "summary": "Akurdi Electricity Issue: निधीची अडचण असल्यास उपलब्ध करू, पण वीजपुरवठा सुरळीत करा! राष्ट्रवादीचे महावितरणला आवाहन",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlpMVlJSdVJ2RHJjNGZ4ODRXd1o4eGljWFZod0tfTzdPUjFjVnNrRnAxN0paT2hoUTdZU3pTMWVmZVRZbXB5OFFQTXVvbk8tX1p0d2xiMVdrMFhyLWhhZzR5WkgxeGRSb3NSaGhleWk5c21zSkFzWWhQZ0ZNZXYycFczRXRJRF94dmNDdHhxd3c4dndYS0dITTE4c2xKS2ZidEtNQVdiTFV4cXR5LXRRU0dtZ3UyMVcxR0dSWV9SZGxEWW1yN3NMT2FsYW53UEVSVmFPWlRiU3Rid3VIN3QxY2VzVWNtUkkwMDc3YnVyWQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 20:00:00 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 20:00:00 GMT",
+      "areas": [
+        "Akurdi"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
       "id": "after long outages pcmc msedcl plan for uninterrupted power to civic infra residents",
@@ -2188,7 +2156,7 @@
       "id": "monsoon mayhem 3 die in expressway becomes slowway missing link fails 1st rain test",
       "title": "Monsoon mayhem: 3 die in Pune; expressway becomes 'slowway', 'Missing Link' fails 1st rain test",
       "summary": "Monsoon mayhem: 3 die in Pune; expressway becomes 'slowway', 'Missing Link' fails 1st rain test",
-      "source": "msn.com",
+      "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPVmlfVFppaGlKRS1ETzV5dFdsZ3BlVWIxUVRIZG5lSEt1WUJacllsTmFPQTBkSk5PdkpLU3hxU0h3aTdjMW4ycHBGNWIxSEpIalM3elREYnJjNy1hNksxWU93cmlVVGpfNWMyVDZkS2RMVVBiQnZxeFFNUnMwVDRZcjBvN2lJSmNzc0FObnVKVElLQ1NZS0RuNTItbkJFaWFUY3NqYXBoSWxQMzVrOURNb2ZqYU8xUnlzS1hUWDhlZ3JnbjdZOE1aM3JydGJiZ1RsUk9tNElhLUhlU2ViTks0QU1pNTVwQW03UXJmYkJsTG9pY3RYWHVYbGw1ODhFcVllekxUeC1HUXQwOThsdEVzeEpPckNTNUhVcnM2WVZQdFZOX3NucERWcEhFSjdwWEhDTUlGbDVVSlVzYWRJQ0ZONmNfMGtFNUtoLWRndnpmTzdrTHdCN3RldzlmVzRRVjBPTmYzYzhmWld3ZHhKcE8zWA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 10:46:22 GMT",
@@ -2196,7 +2164,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "msn.com"
+        "MSN"
       ],
       "confidence": "Single source",
       "w": [
@@ -2305,7 +2273,7 @@
       "id": "heavy rain disrupts mumbai airport operations 4 flights cancelled",
       "title": "Heavy rain disrupts Mumbai airport operations, 4 flights cancelled",
       "summary": "Heavy rain disrupts Mumbai airport operations, 4 flights cancelled",
-      "source": "msn.com",
+      "source": "MSN",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNF94eXlNakVwWk03bk1raFpvWlB0M2hPS3pKaV8tbFYxTWF6a2U3aFdRenVwSE1jRkpLd3p5eFVlUlVwYkVZZ2hJRG92azN6ZG1LdkhiVUxwRktLZzhiS3FpS2ZZZjhzMk14NXpBWlphNHViUUU0cWlpelZuYUw3VGlwSUl5Rmhra1dSTTFtRVpaMnp5cXh5NWVoTUdVa0Zzdm5TTTNhaUc1RDE1QWotMlJYSXV4YllJTXNOS2xkWnNXRUw1UW9YSjM4STlnUjlwa3hJamNzelVtOXN0c2VsZ2otSGxjeWZ1Z21QOENLcXFORG9JelNURDU5aUk0Tm5TbXNjYkdYbEQ3cUVpbE8zUFBqTjdNcTI1dEhicFY4T09uVnRna1M2UmpsbHdYT0FyTHp4YjVoQ2ZDU1ViN0R3ci1XbFBpMkk1bXNUOW9NSzBxQQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 05:57:47 GMT",
@@ -2313,7 +2281,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "msn.com"
+        "MSN"
       ],
       "confidence": "Single source",
       "w": [
@@ -2420,6 +2388,28 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
+      "id": "chas kaman dam चासकमान धरणाचे ५ दरवाजे उघडले नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "title": "Chas Kaman Dam: चासकमान धरणाचे ५ दरवाजे उघडले! नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "summary": "Chas Kaman Dam: चासकमान धरणाचे ५ दरवाजे उघडले! नदीकाठच्या गावांना सतर्कतेचा इशारा",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeC1TTDJhekJDSUNrMWF4cmNtRF9JUmRudnA4V0ZTNWN2ZWVLNzFVVkFRdlFPS0JHRVVaU3NwbmJpVklGRFZHQm5yamZUVEtoTHVfUXlpeUNsczhJeW1yZVo1Sjl1Q3hSV1ZmaWdYbktzeEdZSDVjZlZSWXFwV2FqRW1vLXlpSVNjUm8zLVZnb1pZeHBCNTA3WU1NLVFWeVc5NkxPaDFLVjV2RmliUWVPVWZLTG0?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:00:00 GMT",
+      "lastUpdated": "Wed, 22 Jul 2026 23:00:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "officer starts recording statements of cops who paraded detained teens",
@@ -3334,8 +3324,8 @@
   ],
   "summary": {
     "total": 74,
-    "alerts": 27,
-    "news": 47
+    "alerts": 26,
+    "news": 48
   },
-  "cleanedAt": "2026-07-22T21:59:51.211Z"
+  "cleanedAt": "2026-07-22T23:09:48.797Z"
 }
