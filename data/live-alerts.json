@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T15:50:04.350Z",
+  "generatedAt": "2026-07-23T17:11:55.921Z",
   "status": "ok",
   "alerts": [
     {
@@ -639,39 +639,50 @@
       ]
     },
     {
-      "id": "mumbai rains 17 flights cancelled 217 delayed as akasa indigo issue advisories",
-      "title": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
-      "summary": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
-      "source": "MSN",
+      "id": "airport baggage delays spark passenger frustration",
+      "title": "Pune airport baggage delays spark passenger frustration",
+      "summary": "Pune airport baggage delays spark passenger frustration",
+      "source": "thetraveler.org + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOLUF6eW40MWNlM3JmVU9zbkZCa2l1N0FheFM3TG1QczVqdHJBRkxQQXNVejFaSHRZOFg1blNROEhrT2E1MXk3SnZzRzJCRWlUVmFTS25jdlN4ZjJxQkcyOE1WTlQ4OURDVlVWVll3U0NBemUxMmh5SlRGSHh2dWNBUWlYWnNSdktmVnNmUEhxaFo4bEFLajlOOW4tOFVyeVBTcFNpeWlQYnZJdktUWEdhYjRuNFB2cVd1NmEwem84djVtTDd1ZWN4LVdLTlltV2V1dU5zdDFUNkZYaGdJZXk3amlNYWVpcGZNTElEbmZEcDQwYTViRXNVd0liYld1cUstdVhlaHNNbU5TZFE4TGl2NnRIbEVVZng5Q1RUY0xIUksyXzRrWmlDNHFONnJZYWVFcGFmdm5zVGtaX3N5ZVYyVTlEWUtPRHBTaVpnQXgzSGR4eU5rdjRfcmtnWU02QW44bUpr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:07:53 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 16:07:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWJkdGtsVEY4VDlVTURmTGVUSmdkVWl3S0MxWlRzczU0dk5pMklvSkJOaGt4QUE4MFVkOHRSNlB0RUVQYWNVVTJaVVE4Qk83dzhoemo5OWVwMnRwNVBMMUV4RVBiUEt0cUxYdWVpVHJiMDBMLVFwXzQzSEtjQXVDUmREUW4ydUNWMktjbA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:59:26 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 16:59:26 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "MSN"
+        "thetraveler.org",
+        "The Indian Express"
       ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रात आता पावसाचा कहर शुक्रवारी अति मुसळधार कोसळणार 16 जिल्ह्यांना अल",
+      "title": "Weather Alert : महाराष्ट्रात आता पावसाचा कहर, शुक्रवारी अति मुसळधार कोसळणार, 16 जिल्ह्यांना अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचा कहर, शुक्रवारी अति मुसळधार कोसळणार, 16 जिल्ह्यांना अलर्ट",
+      "source": "News18 Marathi + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVlZ6SGM4NGJSM3dSR1ZoN1NScndTTGlyN1BaTk00YU5ETm9HVG1seV84QkhBVFRmb3E1dDZmNmRaT0NaQkRSMmQ5TXpFVkVkNXdtTkVTRnRLdTVQSVZQQmVZeHI3aWxFYjh3Y3BIYUdtcllUM1NTU1ZmN255RThFYm1teDBfM1p5eFVkT3hRUDY0V3pVSnllLUdER0tYVEZXMVZhYWJmby1xZHVlVWZ1VUhlNTBrdDBpamFvdXdFakliZG1JSm5EQnpzVWNCMFNLNHl0X19yYzc3WWpQbWtSdGJjVGxJZkE2OEVRVGNCZ0pmTFYyUUFNMXZwTE5FSW5zMVFIeXhSMA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:43:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 14:43:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi",
+        "navakal.in"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "पालघरमध्ये पावसाचा हाहाकार सर्व शाळा महाविद्यालयांना सुट्टी जाहीर रेड अलर्ट जारी",
@@ -679,7 +690,7 @@
       "summary": "पालघरमध्ये पावसाचा हाहाकार, सर्व शाळा-महाविद्यालयांना सुट्टी जाहीर; रेड अलर्ट जारी",
       "source": "News18 Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLThhWEtmZXdhLVc1azdnekFxR3RoemxWRThPUFpoUUlXcUJ0Mkk3bG1WcHVuYmNiTENRSy1zRkdicTFBLUgxYTdlWm9KLXUzVGNldmNRTm1mNDY1NGx4dWhwbnNUd0dVVTZqZ0FCcGdoQlBJN0ZmUWRxaXdqVk5vSHZVY2ZCN2otb2t0R0pYLVdzU2FTS1F0VWNNaVdqeUIwRWtuNmhtSXhNMGRoZnBCWV9FbWpfR3RrblhIbEVYYjB4N1lQZHJLX3BiSjFXakhEWEFHVDZ5RTI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNml3ckptWjBfV25peURqQzN4WHBMRURSTW84TTRnVFBvSkR3REY5azR3R3FRdFlLM29qbXNNVXRKTHQ1Uk5qUlU4QXJXSGJyOHcxWk9DNTk5LWVrRnZQWk9sSXB6a2dGMW4walcxNngxQTVwd0hLNy1kUXFubjU0ZHVUQXluU1oyRThEUW53QVpzUGVtTUFibkRwYmJKakZPVFA1WWpHQzl1X2wzWGpZelowdHVLbmNrZFY1bEVrUGtZTEFSeXR4Qk42Y29ITTJHTHY5WngwdVg?oc=5",
       "pubDate": "Thu, 23 Jul 2026 14:42:00 GMT",
       "lastUpdated": "Thu, 23 Jul 2026 14:42:00 GMT",
       "areas": [],
@@ -772,7 +783,7 @@
       "id": "maharashtra rain alert पुणे घाटमाथ्याला रेड अलर्ट कायम राज्यात पुढील ३ दिवस मुसळधार पावसाच",
       "title": "Maharashtra Rain Alert : पुणे घाटमाथ्याला 'रेड अलर्ट' कायम; राज्यात पुढील ३ दिवस मुसळधार पावसाची शक्यता, प्रशासनाचा सतर्कतेचा इशारा",
       "summary": "Maharashtra Rain Alert : पुणे घाटमाथ्याला 'रेड अलर्ट' कायम; राज्यात पुढील ३ दिवस मुसळधार पावसाची शक्यता, प्रशासनाचा सतर्कतेचा इशारा",
-      "source": "marathi.hindusthanpost.com + 1 more",
+      "source": "HindusthanPost + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNC1MUnFmZVVnaEF4V0hmZXdjd0VxbEdsMEMyRXM0RmFjYkhCMUozcnlEdFNQRDI1bTRHMTNPNmhkaW1td2lfMW1Xd1RGUjhpMElGV0tZV3ZoVTE1UW9TdGhIQXliSGJNMUw0ZU5icGJHTUFwc3hON1I1ejRuZlRHRGxhN2xJX241MVo5NFRrS3pxYlE4V3AzU3ZfOUNHLVpsWDdOQUNjQkNHUQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 03:00:06 GMT",
@@ -780,7 +791,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.hindusthanpost.com",
+        "HindusthanPost",
         "Prahaar.in"
       ],
       "confidence": "Medium",
@@ -795,44 +806,20 @@
       ]
     },
     {
-      "id": "weather मुंबई ठाणे रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "title": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "summary": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "source": "Prahaar.in + 1 more",
+      "id": "special srinagar katra train rescues 600 stranded tourists",
+      "title": "Special Srinagar–Katra Train Rescues 600 Stranded Tourists",
+      "summary": "Special Srinagar–Katra Train Rescues 600 Stranded Tourists",
+      "source": "thetraveler.org",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVTlPb1VOaTNlczhMUUNVaUoydFBDZW9vRkFhSmMtaWRKdVo4eW4yNjVUV2RpN2xJS05rMU5neUhvRHZITnNISkNNbEhRSVZ1ZUdNWXVjVFN5WjhJT1Y5RkdBUWVVZTlxdWxxUi16UUhTZHExZkpFcnpCNmdUcFRqT0FUZ0NHT01BdEpBNHR2YzZNZTFaZExqbDZWdE5saThrbWZuV2dNUHIzbkJJd3dYdlMtengyd2xvS2ZOZUY5MndRSC1WOEFvZ3E3NDBUTXFNSFE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 02:26:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzFLTkdnV3V0YXlmQUo0ZFdVU1NxOU1pUEhTNGp6UXplU0I1YVA2VVRkV1BJT3kzc1V5VzdoekZwd3ZvQVZmWUgxc3ZDVThSRUZ5NUVGczlYM25nNDZROEJzaUZnYW9IR0cyM2gzWERKR2d2Z0NWb0pyemZwZW9tQ2F0WXgxSmx3a1pvZGRqbFM?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:59:26 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 16:59:26 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Prahaar.in",
-        "navakal.in"
+        "thetraveler.org"
       ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "rain सावधान पुढील 3 दिवस पुणेकरांसाठी महत्वाचे हवामान विभागाकडून रेड अलर्ट जारी खबरदारी घे",
-      "title": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
-      "summary": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
-      "source": "News18 Marathi + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnRhckpIQ1hRUS0zUmx4X3hXR0RpWUZLQmNLNTlidGk2N1dmdjFhdllrQnRfcG5tVDVkYnVfZHR6NkticWZLcmVjODBIbXh2SG8xT182aGhHS3VSRHl2OWZDTllZNWJ3a0tDT0VBZVVNMExRZUJQT0MtU2hPWXVtQ3k2SjFVMmxrNkdaWVRBbHR4cV9VTUtrRl9FM2txcU5kM2tfS3pwMUF2SExqdFhSQjlUcXR3M0hBUVE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 01:27:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 01:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi",
-        "ABP Majha"
-      ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -910,6 +897,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "rain alert महाराष्ट्रात मान्सून पुन्हा सक्रिय या जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट ज",
+      "title": "Rain Alert : महाराष्ट्रात मान्सून पुन्हा सक्रिय! ‘या’ जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट जारी",
+      "summary": "Rain Alert : महाराष्ट्रात मान्सून पुन्हा सक्रिय! ‘या’ जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट जारी",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSm91YjlhS1hqeXFnSEdCTWp2YTBvV2lGRHFpeHhYc1hLbzBDTFdsMFh2TGZodTFDY1UyMk9FQVhsVTNrdzNaTTQ5dUt0a04wMFEyQ1B3U0VJWDVGTno2RV9rSW1RWGRRU3k5NFRLV0trQWNKRDhPTThtWE85NnVNMGV6VEJ5RmFHdFd5SjlJa0hSM2c0N0ZtV3RmT2FJWll0cFJnMjROb2F6NFhfb3QycWtiTFlYTldxZFljQ0xzTndZZmhQQ3hkOU0yMFU?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:42:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 13:42:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "monsoon damage forces closure of two roads in s rajgad",
       "title": "Monsoon damage forces closure of two roads in Pune’s Rajgad",
       "summary": "Monsoon damage forces closure of two roads in Pune’s Rajgad",
@@ -969,6 +981,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather tomorrow july 24 what will weather be like in mumbai delhi bengaluru chennai kolka",
+      "title": "Weather Tomorrow, July 24: What will weather be like in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hydera",
+      "summary": "Weather Tomorrow, July 24: What will weather be like in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hydera",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUjdzZVgwOUlwLTBVWVdaMHdTakI0cUttMldrNjVibzBCcXFWNmNUZVlaaFZTd1RQM2JEbEJkMGlFOXBKOXprMU5aRnZvUGo5d0RUZGZIYmM1Nk9HdmVQa3lUZmdJbThEUW5hbzJZX25uX3h3cUthRldpeHE0QkszbUNGa3cwYXJZNGRxS3p3SGtBSkw2cHdHS1gwSmhoZHdkVmJuVlZKenpvcGl0ak9vNHNzM0lUVE5FUkhnZXFyYmp6Q0JkbEswdlBORjN0OGQ4OEdrWWFXSVFKeFFDQ3RpNmFtUk9YUVBLa050T1VNVjdHcTVxYmM4dTREeWlhUFl1M0hqTUhtY1o0R0ljNHdqc3NBNDdHZWJ4end4Z09rUU1vQUtQUkgwbzlNSk8wYVRYdFdzYnBuWVdLOEdkMGszMF9sY9IByAJBVV95cUxOVnlvOUpBYkRKYjN4RjdfeFFqWFQxNjVNdHlzZjBCbUJpaE1pcGRkekRISmdXWTJTRm1oSUZ4ekE5cWY3RnYyX2NiOG5DaGtHVVE3UVQ2cno0SkptdFN2dzU3MkVSSkctYUVIQ0VrcXhXdHZBR0lkY2Fkdk5hSGNEcHg0TC02bEhSRVRJYVIyZEtwM1NJWlQtNXRMOHBvY21ZZ3JmY1VTMElUQW1jM19odHFSZ19iTkR4OWxTRWRmaUxmalpGWDBpbFlLTVRfNll6T0wyeVFSNnp6eDgwLXkta1FFZUdfc1hQMXVPTkZqUWZ1NG9xR1llQXdDc0xYeXRiZW9qYkk1aU9yQmFUQm5ZazRSUGt0STlzTlB4TkJlSGF1VXppWnJYN25VdGZja3BJWmtlQ3NWQjdTSHZqWjZxTlBWclVLZXZY?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:26:52 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 12:26:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1230,31 +1264,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "beed incessant rain brings relief to farmers woes for commuters",
-      "title": "Beed: Incessant Rain Brings Relief To Farmers, Woes For Commuters",
-      "summary": "Beed: Incessant Rain Brings Relief To Farmers, Woes For Commuters",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEwxcGN0R0pYZml1LUw3eUd0dDVabXhvaVNIbExmbnFvTHpfLVA1NjZaS2dvbldjLWF4d1hmUmowSW1zWUo5UHA1SmhNWEppZXVrQnBpblNrdkhOeXVNRExpQzBVY0h1dngzX2VZN2xBQWlQcC10OVA1M3lDaTFXSjg4OGwwS2xRWE9LOC11RlpYanVEdl9CVDhsOW1jYVAyMFHSAacBQVVfeXFMTTlwLU51cUREdXlua1hrQmpVY0gzNmM2MHlXT0ZDN2ZrX1JEXzRyaGl3V0FHUm9mY1BDQ1Bwdk9YN21HQ05TZ0ZnbENRRElOOG5VTHNUMnBWcEFVc01hUXg4VXJmZW1Fd1hIR3BISjFTcUhQS1U1OTdVeTRVRjlGOUwwQ1gwdkt0dHRIMDRwSTBocU05cy0zUE5lWGhiMlZ1ZEZRWDZZN1U?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:16:44 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 09:16:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "family court approves mutual divorce in just 23 days",
@@ -1885,6 +1894,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "weather मुंबई ठाणे रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "title": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "summary": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "source": "Prahaar.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVTlPb1VOaTNlczhMUUNVaUoydFBDZW9vRkFhSmMtaWRKdVo4eW4yNjVUV2RpN2xJS05rMU5neUhvRHZITnNISkNNbEhRSVZ1ZUdNWXVjVFN5WjhJT1Y5RkdBUWVVZTlxdWxxUi16UUhTZHExZkpFcnpCNmdUcFRqT0FUZ0NHT01BdEpBNHR2YzZNZTFaZExqbDZWdE5saThrbWZuV2dNUHIzbkJJd3dYdlMtengyd2xvS2ZOZUY5MndRSC1WOEFvZ3E3NDBUTXFNSFE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Prahaar.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
       "title": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा, महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
       "summary": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा, महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
@@ -1966,6 +1997,31 @@
       "region": "pune",
       "sources": [
         "India.Com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "rain सावधान पुढील 3 दिवस पुणेकरांसाठी महत्वाचे हवामान विभागाकडून रेड अलर्ट जारी खबरदारी घे",
+      "title": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
+      "summary": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnRhckpIQ1hRUS0zUmx4X3hXR0RpWUZLQmNLNTlidGk2N1dmdjFhdllrQnRfcG5tVDVkYnVfZHR6NkticWZLcmVjODBIbXh2SG8xT182aGhHS3VSRHl2OWZDTllZNWJ3a0tDT0VBZVVNMExRZUJQT0MtU2hPWXVtQ3k2SjFVMmxrNkdaWVRBbHR4cV9VTUtrRl9FM2txcU5kM2tfS3pwMUF2SExqdFhSQjlUcXR3M0hBUVE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 01:27:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 01:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2223,53 +2279,6 @@
       "region": "pune",
       "sources": [
         "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "9 flights diverted from rgia due to heavy rains",
-      "title": "9 flights diverted from RGIA due to heavy rains",
-      "summary": "9 flights diverted from RGIA due to heavy rains",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUnZBeDBxVWljcE9KTzZ3cmVmYlZoZFh2WU04Rzd3eWdya2pmMnBTd2NXZ3BWREdsYkFmeVIzZ1REV2FhWjBnY0VOQjJVNU05Mk1VYl9kak1vRHlwbThYcWtLbDhYM1BHZDNRWlRRRTB5akhvNjFYSy1RaFg2SW9GanRCTHBwcEt3T1YxRkFFZUQ3d3M5MmFQcFRWS1ZxRy1nemNtX0p1VGhtYjlHNzBpMFo2cDM2bjJ1Q3hKOC15N3Fyc2hFNVBmejZzb1o2UFJsTTBzRFgxQXM4clczVmFCR3JSeW1tZG9CWWh3bVdiZGxxTWQ0RGVfNlcxcTN5TTdpYl9qZG1HU28wck5JZUhtTURXLVk1eVA5U0Vvc1lwc0dCMHhpR1RFT25VM2VHRE1Bd1daa0h2dHd1QQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:27:01 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 17:27:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "school holiday अतिवृष्टीचा इशारा अन् पूर या भागातील सर्व शाळा कॉलेजला सुट्टी जाहीर",
-      "title": "School Holiday: अतिवृष्टीचा इशारा अन् पूर! 'या' भागातील सर्व शाळा-कॉलेजला सुट्टी जाहीर",
-      "summary": "School Holiday: अतिवृष्टीचा इशारा अन् पूर! 'या' भागातील सर्व शाळा-कॉलेजला सुट्टी जाहीर",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa2RpMTBEMnJyWnp4M2JwSXFOQnAtSjZXY0psYzNMQ0hBMi1ON0ljbzRRVnd1WWQ0dnkweUdJeXZicTVyN1dvcmZOWFczakxWRWtPRDd4QU11dTZRb0xoQ1JsTGtEUi1Gal9NTy1mbFpNOHpHaDJxTjVnUDhLLTZ2RXdhTjBYZFE0bzhfWG1QUThzMG5QMkVEQm1YVks5WGt2dVBCWmV1MTVaMW9qQWxjZEtjZWpUWWlxMTdsY0JvN1cyLXRyaTRTVW9TVTQ4RWVuVzBDRWIwb3NfYXZnSUlpVnJRZUNha0I1alV5c1JCUEJmU2hvcmNlSVM1MW51QdIBgwJBVV95cUxPekRZV0ZESThocmxmRXJYYlVTNWZDNHZKYzdPSmI5N0o2allyMmt0RVlwbDFaVmRyckMtYTNrUE40aS1QUW9sdmowTjZGMFpkMlhJMkg1MEg0TVNodjExVHhUMmlyd0hJQVhWN3NhMWdVN2dqZ0xSMEhGUEp3bVhRLUFRSHhZNlRtUGJfR1VDUFllajJRdlJ3MlNBUG9ZWjFBMFdsdjhMbHFiVE1NQlRuV05ldVVfWWdpRURDWVVMUVNQOFdiTTdOaE5tSFp0c005bzJlZnh0ampwMEUwMkYtVXZ2RVNuWVBlY09WSlliY3hNY1N5b1hsVzNwdlN4VEUyVXJv?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:18:21 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 16:18:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2841,36 +2850,50 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "mumbai rains 17 flights cancelled 217 delayed as akasa indigo issue advisories",
-      "title": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
-      "summary": "Mumbai rains: 17 flights cancelled, 217 delayed as Akasa, IndiGo issue advisories",
-      "source": "MSN",
+      "id": "airport baggage delays spark passenger frustration",
+      "title": "Pune airport baggage delays spark passenger frustration",
+      "summary": "Pune airport baggage delays spark passenger frustration",
+      "source": "thetraveler.org + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOLUF6eW40MWNlM3JmVU9zbkZCa2l1N0FheFM3TG1QczVqdHJBRkxQQXNVejFaSHRZOFg1blNROEhrT2E1MXk3SnZzRzJCRWlUVmFTS25jdlN4ZjJxQkcyOE1WTlQ4OURDVlVWVll3U0NBemUxMmh5SlRGSHh2dWNBUWlYWnNSdktmVnNmUEhxaFo4bEFLajlOOW4tOFVyeVBTcFNpeWlQYnZJdktUWEdhYjRuNFB2cVd1NmEwem84djVtTDd1ZWN4LVdLTlltV2V1dU5zdDFUNkZYaGdJZXk3amlNYWVpcGZNTElEbmZEcDQwYTViRXNVd0liYld1cUstdVhlaHNNbU5TZFE4TGl2NnRIbEVVZng5Q1RUY0xIUksyXzRrWmlDNHFONnJZYWVFcGFmdm5zVGtaX3N5ZVYyVTlEWUtPRHBTaVpnQXgzSGR4eU5rdjRfcmtnWU02QW44bUpr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:07:53 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 16:07:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWJkdGtsVEY4VDlVTURmTGVUSmdkVWl3S0MxWlRzczU0dk5pMklvSkJOaGt4QUE4MFVkOHRSNlB0RUVQYWNVVTJaVVE4Qk83dzhoemo5OWVwMnRwNVBMMUV4RVBiUEt0cUxYdWVpVHJiMDBMLVFwXzQzSEtjQXVDUmREUW4ydUNWMktjbA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:59:26 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 16:59:26 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "MSN"
+        "thetraveler.org",
+        "The Indian Express"
       ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area."
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रात आता पावसाचा कहर शुक्रवारी अति मुसळधार कोसळणार 16 जिल्ह्यांना अल",
+      "title": "Weather Alert : महाराष्ट्रात आता पावसाचा कहर, शुक्रवारी अति मुसळधार कोसळणार, 16 जिल्ह्यांना अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचा कहर, शुक्रवारी अति मुसळधार कोसळणार, 16 जिल्ह्यांना अलर्ट",
+      "source": "News18 Marathi + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVlZ6SGM4NGJSM3dSR1ZoN1NScndTTGlyN1BaTk00YU5ETm9HVG1seV84QkhBVFRmb3E1dDZmNmRaT0NaQkRSMmQ5TXpFVkVkNXdtTkVTRnRLdTVQSVZQQmVZeHI3aWxFYjh3Y3BIYUdtcllUM1NTU1ZmN255RThFYm1teDBfM1p5eFVkT3hRUDY0V3pVSnllLUdER0tYVEZXMVZhYWJmby1xZHVlVWZ1VUhlNTBrdDBpamFvdXdFakliZG1JSm5EQnpzVWNCMFNLNHl0X19yYzc3WWpQbWtSdGJjVGxJZkE2OEVRVGNCZ0pmTFYyUUFNMXZwTE5FSW5zMVFIeXhSMA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:43:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 14:43:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi",
+        "navakal.in"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "पालघरमध्ये पावसाचा हाहाकार सर्व शाळा महाविद्यालयांना सुट्टी जाहीर रेड अलर्ट जारी",
@@ -2878,7 +2901,7 @@
       "summary": "पालघरमध्ये पावसाचा हाहाकार, सर्व शाळा-महाविद्यालयांना सुट्टी जाहीर; रेड अलर्ट जारी",
       "source": "News18 Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLThhWEtmZXdhLVc1azdnekFxR3RoemxWRThPUFpoUUlXcUJ0Mkk3bG1WcHVuYmNiTENRSy1zRkdicTFBLUgxYTdlWm9KLXUzVGNldmNRTm1mNDY1NGx4dWhwbnNUd0dVVTZqZ0FCcGdoQlBJN0ZmUWRxaXdqVk5vSHZVY2ZCN2otb2t0R0pYLVdzU2FTS1F0VWNNaVdqeUIwRWtuNmhtSXhNMGRoZnBCWV9FbWpfR3RrblhIbEVYYjB4N1lQZHJLX3BiSjFXakhEWEFHVDZ5RTI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNml3ckptWjBfV25peURqQzN4WHBMRURSTW84TTRnVFBvSkR3REY5azR3R3FRdFlLM29qbXNNVXRKTHQ1Uk5qUlU4QXJXSGJyOHcxWk9DNTk5LWVrRnZQWk9sSXB6a2dGMW4walcxNngxQTVwd0hLNy1kUXFubjU0ZHVUQXluU1oyRThEUW53QVpzUGVtTUFibkRwYmJKakZPVFA1WWpHQzl1X2wzWGpZelowdHVLbmNrZFY1bEVrUGtZTEFSeXR4Qk42Y29ITTJHTHY5WngwdVg?oc=5",
       "pubDate": "Thu, 23 Jul 2026 14:42:00 GMT",
       "lastUpdated": "Thu, 23 Jul 2026 14:42:00 GMT",
       "areas": [],
@@ -2968,7 +2991,7 @@
       "id": "maharashtra rain alert पुणे घाटमाथ्याला रेड अलर्ट कायम राज्यात पुढील ३ दिवस मुसळधार पावसाच",
       "title": "Maharashtra Rain Alert : पुणे घाटमाथ्याला 'रेड अलर्ट' कायम; राज्यात पुढील ३ दिवस मुसळधार पावसाची शक्यता, प्रशासनाचा सतर्कतेचा इशारा",
       "summary": "Maharashtra Rain Alert : पुणे घाटमाथ्याला 'रेड अलर्ट' कायम; राज्यात पुढील ३ दिवस मुसळधार पावसाची शक्यता, प्रशासनाचा सतर्कतेचा इशारा",
-      "source": "marathi.hindusthanpost.com + 1 more",
+      "source": "HindusthanPost + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNC1MUnFmZVVnaEF4V0hmZXdjd0VxbEdsMEMyRXM0RmFjYkhCMUozcnlEdFNQRDI1bTRHMTNPNmhkaW1td2lfMW1Xd1RGUjhpMElGV0tZV3ZoVTE1UW9TdGhIQXliSGJNMUw0ZU5icGJHTUFwc3hON1I1ejRuZlRHRGxhN2xJX241MVo5NFRrS3pxYlE4V3AzU3ZfOUNHLVpsWDdOQUNjQkNHUQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 03:00:06 GMT",
@@ -2976,7 +2999,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.hindusthanpost.com",
+        "HindusthanPost",
         "Prahaar.in"
       ],
       "confidence": "Medium",
@@ -2988,44 +3011,20 @@
       "action": "No immediate action required."
     },
     {
-      "id": "weather मुंबई ठाणे रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "title": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "summary": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
-      "source": "Prahaar.in + 1 more",
+      "id": "special srinagar katra train rescues 600 stranded tourists",
+      "title": "Special Srinagar–Katra Train Rescues 600 Stranded Tourists",
+      "summary": "Special Srinagar–Katra Train Rescues 600 Stranded Tourists",
+      "source": "thetraveler.org",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVTlPb1VOaTNlczhMUUNVaUoydFBDZW9vRkFhSmMtaWRKdVo4eW4yNjVUV2RpN2xJS05rMU5neUhvRHZITnNISkNNbEhRSVZ1ZUdNWXVjVFN5WjhJT1Y5RkdBUWVVZTlxdWxxUi16UUhTZHExZkpFcnpCNmdUcFRqT0FUZ0NHT01BdEpBNHR2YzZNZTFaZExqbDZWdE5saThrbWZuV2dNUHIzbkJJd3dYdlMtengyd2xvS2ZOZUY5MndRSC1WOEFvZ3E3NDBUTXFNSFE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 02:26:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzFLTkdnV3V0YXlmQUo0ZFdVU1NxOU1pUEhTNGp6UXplU0I1YVA2VVRkV1BJT3kzc1V5VzdoekZwd3ZvQVZmWUgxc3ZDVThSRUZ5NUVGczlYM25nNDZROEJzaUZnYW9IR0cyM2gzWERKR2d2Z0NWb0pyemZwZW9tQ2F0WXgxSmx3a1pvZGRqbFM?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:59:26 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 16:59:26 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Prahaar.in",
-        "navakal.in"
+        "thetraveler.org"
       ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "rain सावधान पुढील 3 दिवस पुणेकरांसाठी महत्वाचे हवामान विभागाकडून रेड अलर्ट जारी खबरदारी घे",
-      "title": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
-      "summary": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
-      "source": "News18 Marathi + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnRhckpIQ1hRUS0zUmx4X3hXR0RpWUZLQmNLNTlidGk2N1dmdjFhdllrQnRfcG5tVDVkYnVfZHR6NkticWZLcmVjODBIbXh2SG8xT182aGhHS3VSRHl2OWZDTllZNWJ3a0tDT0VBZVVNMExRZUJQT0MtU2hPWXVtQ3k2SjFVMmxrNkdaWVRBbHR4cV9VTUtrRl9FM2txcU5kM2tfS3pwMUF2SExqdFhSQjlUcXR3M0hBUVE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 01:27:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 01:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi",
-        "ABP Majha"
-      ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -3100,6 +3099,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "rain alert महाराष्ट्रात मान्सून पुन्हा सक्रिय या जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट ज",
+      "title": "Rain Alert : महाराष्ट्रात मान्सून पुन्हा सक्रिय! ‘या’ जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट जारी",
+      "summary": "Rain Alert : महाराष्ट्रात मान्सून पुन्हा सक्रिय! ‘या’ जिल्ह्यांना हवामान खात्याकडून रेड अलर्ट जारी",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSm91YjlhS1hqeXFnSEdCTWp2YTBvV2lGRHFpeHhYc1hLbzBDTFdsMFh2TGZodTFDY1UyMk9FQVhsVTNrdzNaTTQ5dUt0a04wMFEyQ1B3U0VJWDVGTno2RV9rSW1RWGRRU3k5NFRLV0trQWNKRDhPTThtWE85NnVNMGV6VEJ5RmFHdFd5SjlJa0hSM2c0N0ZtV3RmT2FJWll0cFJnMjROb2F6NFhfb3QycWtiTFlYTldxZFljQ0xzTndZZmhQQ3hkOU0yMFU?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:42:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 13:42:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "monsoon damage forces closure of two roads in s rajgad",
       "title": "Monsoon damage forces closure of two roads in Pune’s Rajgad",
       "summary": "Monsoon damage forces closure of two roads in Pune’s Rajgad",
@@ -3156,6 +3177,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather tomorrow july 24 what will weather be like in mumbai delhi bengaluru chennai kolka",
+      "title": "Weather Tomorrow, July 24: What will weather be like in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hydera",
+      "summary": "Weather Tomorrow, July 24: What will weather be like in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hydera",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUjdzZVgwOUlwLTBVWVdaMHdTakI0cUttMldrNjVibzBCcXFWNmNUZVlaaFZTd1RQM2JEbEJkMGlFOXBKOXprMU5aRnZvUGo5d0RUZGZIYmM1Nk9HdmVQa3lUZmdJbThEUW5hbzJZX25uX3h3cUthRldpeHE0QkszbUNGa3cwYXJZNGRxS3p3SGtBSkw2cHdHS1gwSmhoZHdkVmJuVlZKenpvcGl0ak9vNHNzM0lUVE5FUkhnZXFyYmp6Q0JkbEswdlBORjN0OGQ4OEdrWWFXSVFKeFFDQ3RpNmFtUk9YUVBLa050T1VNVjdHcTVxYmM4dTREeWlhUFl1M0hqTUhtY1o0R0ljNHdqc3NBNDdHZWJ4end4Z09rUU1vQUtQUkgwbzlNSk8wYVRYdFdzYnBuWVdLOEdkMGszMF9sY9IByAJBVV95cUxOVnlvOUpBYkRKYjN4RjdfeFFqWFQxNjVNdHlzZjBCbUJpaE1pcGRkekRISmdXWTJTRm1oSUZ4ekE5cWY3RnYyX2NiOG5DaGtHVVE3UVQ2cno0SkptdFN2dzU3MkVSSkctYUVIQ0VrcXhXdHZBR0lkY2Fkdk5hSGNEcHg0TC02bEhSRVRJYVIyZEtwM1NJWlQtNXRMOHBvY21ZZ3JmY1VTMElUQW1jM19odHFSZ19iTkR4OWxTRWRmaUxmalpGWDBpbFlLTVRfNll6T0wyeVFSNnp6eDgwLXkta1FFZUdfc1hQMXVPTkZqUWZ1NG9xR1llQXdDc0xYeXRiZW9qYkk1aU9yQmFUQm5ZazRSUGt0STlzTlB4TkJlSGF1VXppWnJYN25VdGZja3BJWmtlQ3NWQjdTSHZqWjZxTlBWclVLZXZY?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 12:26:52 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 12:26:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3400,28 +3443,6 @@
       "region": "pune",
       "sources": [
         "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "beed incessant rain brings relief to farmers woes for commuters",
-      "title": "Beed: Incessant Rain Brings Relief To Farmers, Woes For Commuters",
-      "summary": "Beed: Incessant Rain Brings Relief To Farmers, Woes For Commuters",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEwxcGN0R0pYZml1LUw3eUd0dDVabXhvaVNIbExmbnFvTHpfLVA1NjZaS2dvbldjLWF4d1hmUmowSW1zWUo5UHA1SmhNWEppZXVrQnBpblNrdkhOeXVNRExpQzBVY0h1dngzX2VZN2xBQWlQcC10OVA1M3lDaTFXSjg4OGwwS2xRWE9LOC11RlpYanVEdl9CVDhsOW1jYVAyMFHSAacBQVVfeXFMTTlwLU51cUREdXlua1hrQmpVY0gzNmM2MHlXT0ZDN2ZrX1JEXzRyaGl3V0FHUm9mY1BDQ1Bwdk9YN21HQ05TZ0ZnbENRRElOOG5VTHNUMnBWcEFVc01hUXg4VXJmZW1Fd1hIR3BISjFTcUhQS1U1OTdVeTRVRjlGOUwwQ1gwdkt0dHRIMDRwSTBocU05cy0zUE5lWGhiMlZ1ZEZRWDZZN1U?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:16:44 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 09:16:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -4052,6 +4073,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "weather मुंबई ठाणे रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "title": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "summary": "Weather Update : मुंबई, ठाणे, रायगडसह 5 जिल्ह्यांना ऑरेंज अलर्ट; पुढील 3 तास मुसळधार पावसाचा इशारा",
+      "source": "Prahaar.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVTlPb1VOaTNlczhMUUNVaUoydFBDZW9vRkFhSmMtaWRKdVo4eW4yNjVUV2RpN2xJS05rMU5neUhvRHZITnNISkNNbEhRSVZ1ZUdNWXVjVFN5WjhJT1Y5RkdBUWVVZTlxdWxxUi16UUhTZHExZkpFcnpCNmdUcFRqT0FUZ0NHT01BdEpBNHR2YzZNZTFaZExqbDZWdE5saThrbWZuV2dNUHIzbkJJd3dYdlMtengyd2xvS2ZOZUY5MndRSC1WOEFvZ3E3NDBUTXFNSFE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 02:26:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Prahaar.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
       "title": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा, महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
       "summary": "मुंबईसह राज्यात पुन्हा मुसळधार पावसाचा इशारा, महाराष्ट्रातील या 25 जिल्ह्यांना अलर्ट",
@@ -4130,6 +4173,28 @@
       "region": "pune",
       "sources": [
         "India.Com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain सावधान पुढील 3 दिवस पुणेकरांसाठी महत्वाचे हवामान विभागाकडून रेड अलर्ट जारी खबरदारी घे",
+      "title": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
+      "summary": "Pune Rain: सावधान! पुढील 3 दिवस पुणेकरांसाठी महत्वाचे, हवामान विभागाकडून 'रेड अलर्ट' जारी, खबरदारी घेण्याचं आवाहन",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnRhckpIQ1hRUS0zUmx4X3hXR0RpWUZLQmNLNTlidGk2N1dmdjFhdllrQnRfcG5tVDVkYnVfZHR6NkticWZLcmVjODBIbXh2SG8xT182aGhHS3VSRHl2OWZDTllZNWJ3a0tDT0VBZVVNMExRZUJQT0MtU2hPWXVtQ3k2SjFVMmxrNkdaWVRBbHR4cV9VTUtrRl9FM2txcU5kM2tfS3pwMUF2SExqdFhSQjlUcXR3M0hBUVE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 01:27:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 01:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -4383,56 +4448,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "9 flights diverted from rgia due to heavy rains",
-      "title": "9 flights diverted from RGIA due to heavy rains",
-      "summary": "9 flights diverted from RGIA due to heavy rains",
-      "source": "MSN",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUnZBeDBxVWljcE9KTzZ3cmVmYlZoZFh2WU04Rzd3eWdya2pmMnBTd2NXZ3BWREdsYkFmeVIzZ1REV2FhWjBnY0VOQjJVNU05Mk1VYl9kak1vRHlwbThYcWtLbDhYM1BHZDNRWlRRRTB5akhvNjFYSy1RaFg2SW9GanRCTHBwcEt3T1YxRkFFZUQ3d3M5MmFQcFRWS1ZxRy1nemNtX0p1VGhtYjlHNzBpMFo2cDM2bjJ1Q3hKOC15N3Fyc2hFNVBmejZzb1o2UFJsTTBzRFgxQXM4clczVmFCR3JSeW1tZG9CWWh3bVdiZGxxTWQ0RGVfNlcxcTN5TTdpYl9qZG1HU28wck5JZUhtTURXLVk1eVA5U0Vvc1lwc0dCMHhpR1RFT25VM2VHRE1Bd1daa0h2dHd1QQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:27:01 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 17:27:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MSN"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "school holiday अतिवृष्टीचा इशारा अन् पूर या भागातील सर्व शाळा कॉलेजला सुट्टी जाहीर",
-      "title": "School Holiday: अतिवृष्टीचा इशारा अन् पूर! 'या' भागातील सर्व शाळा-कॉलेजला सुट्टी जाहीर",
-      "summary": "School Holiday: अतिवृष्टीचा इशारा अन् पूर! 'या' भागातील सर्व शाळा-कॉलेजला सुट्टी जाहीर",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa2RpMTBEMnJyWnp4M2JwSXFOQnAtSjZXY0psYzNMQ0hBMi1ON0ljbzRRVnd1WWQ0dnkweUdJeXZicTVyN1dvcmZOWFczakxWRWtPRDd4QU11dTZRb0xoQ1JsTGtEUi1Gal9NTy1mbFpNOHpHaDJxTjVnUDhLLTZ2RXdhTjBYZFE0bzhfWG1QUThzMG5QMkVEQm1YVks5WGt2dVBCWmV1MTVaMW9qQWxjZEtjZWpUWWlxMTdsY0JvN1cyLXRyaTRTVW9TVTQ4RWVuVzBDRWIwb3NfYXZnSUlpVnJRZUNha0I1alV5c1JCUEJmU2hvcmNlSVM1MW51QdIBgwJBVV95cUxPekRZV0ZESThocmxmRXJYYlVTNWZDNHZKYzdPSmI5N0o2allyMmt0RVlwbDFaVmRyckMtYTNrUE40aS1QUW9sdmowTjZGMFpkMlhJMkg1MEg0TVNodjExVHhUMmlyd0hJQVhWN3NhMWdVN2dqZ0xSMEhGUEp3bVhRLUFRSHhZNlRtUGJfR1VDUFllajJRdlJ3MlNBUG9ZWjFBMFdsdjhMbHFiVE1NQlRuV05ldVVfWWdpRURDWVVMUVNQOFdiTTdOaE5tSFp0c005bzJlZnh0ampwMEUwMkYtVXZ2RVNuWVBlY09WSlliY3hNY1N5b1hsVzNwdlN4VEUyVXJv?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:18:21 GMT",
-      "lastUpdated": "Wed, 22 Jul 2026 16:18:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 99,
+    "total": 100,
     "alerts": 23,
-    "news": 76
+    "news": 77
   },
-  "cleanedAt": "2026-07-23T15:50:04.364Z"
+  "cleanedAt": "2026-07-23T17:11:55.933Z"
 }
