@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-07-24T17:22:54.982Z",
+  "generatedAt": "2026-07-24T18:54:28.039Z",
   "status": "ok",
   "alerts": [
     {
-      "id": "central railway plans 26 km emergency access road along karjat lonavala ghat section",
-      "title": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
-      "summary": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
-      "source": "Pune Mirror + 1 more",
+      "id": "maharashtra weather red alert for ghats heavy rain and strong winds likely across state",
+      "title": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
+      "summary": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
+      "source": "Mid-Day + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeC1BcElSczV2cE5sWDY0WWVzVmVrcnF4SG5HYVhCd3RUU2VXdTFHeWgtc29hMW16Z09sUE9sa2pJaHJ6a01lV196YUpXaXd0RUhMRkZ3YzI3TDRTTzdfR3NUbUdYR1JnQWFpOE40WjA5dEVrM28xdGhucjV0YUozYnRDUWdua1o1MnpENm92R01KaGRFOWVoMDdUcFBUVjY0TXBGMXVpVnpwSWJOOWQ0Y3dB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 06:43:06 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 06:43:06 GMT",
-      "areas": [
-        "Lonavala"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUdIB4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 09:01:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 09:01:00 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Mirror",
-        "The Times of India"
+        "Mid-Day",
+        "HindusthanPost"
       ],
       "confidence": "Medium",
       "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
       ],
       "severity": "emergency",
       "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
       "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
+      "action": "Follow official instructions and avoid unnecessary travel.",
       "correlation": [
-        "Road delay or diversion possible."
+        "Rain / waterlogging may affect travel."
       ]
     },
     {
@@ -51,6 +51,38 @@
         "India.Com"
       ],
       "confidence": "Medium",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "triple digit rainfall lashes w ghats in maharashtra again gujarat flood situation prompts ",
+      "title": "Triple-digit rainfall lashes W ghats in Maharashtra again; Gujarat flood situation prompts rescue of stra",
+      "summary": "Triple-digit rainfall lashes W ghats in Maharashtra again; Gujarat flood situation prompts rescue of stra",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPck9MaHdlT3N0Y2xCZUI0cDJwUEZXam90M1g2cXpQVXV5blFjLVNjdjhUQ1ZtX2J3c3c0V29PV2w5M3VxYmlqOTNTNDRaNFFybzBBTVk3VUczRnh2TWRuODZhR0Z3ZGdKTExzcFFhSFQ1WVJNVlFwN1JhNVEzbkhtQzlyWUxEa2lPRnFSUkFhbkQtRVlhVmVlY2tEVmtEYmZkZTBBWms0RTFlTWtRd2ZySEdLMDIyUjJLLTdEMmVUbEk4QmIydEJLdEV0Ry1vR21ZS3VDWjR6dGY5MWlfR0E2bzY4RkxyQzJhUVJkcFc3WG9CbUlkSHpSeTg3X3RjelZJSmJnUlhMZ1AyREwtclFjTVZTTHlWSlJydFhCemhfVHbSAaYCQVVfeXFMT0I4bWpkM0MyalJ0S3BvMUVEVy1ITEphYUZleUhneURsVnk3Z3YyU3NMbHE3WXJPZ3ZhalFLdlBHSm5iTEhGTnpOWWFsTi1GbWwzRWhWb1d5Tm9mdWhkdThFeWVVbndDUjAtclg0N0gyaDlBb2d2NHlYNzhYM01XdU1malc3MGRCNlBYR1BHUWtNYjV2c29ILUNMMUdoRVI1UE5DV183MThYdTZKYm1LV2RfUXJHZVdqMExKT1NWdVVENWw1bTUtaGczWkh6d3U5YmhUUDc3SUNscGdZZDh5MGMzcmU3U05XWVJ2N255bjJ2emYwV3liRjBpazlSZjl4clI0YW9pNmw2YVQ2UjZ4NFkwZXVDM2lUamQxUkJ0QXNhNS1mSmln?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
       "w": [
         "dam release",
         "river overflow",
@@ -96,38 +128,6 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "maharashtra weather red alert for ghats heavy rain and strong winds likely across state",
-      "title": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
-      "summary": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
-      "source": "Mid-Day",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUdIB4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 09:01:00 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 09:01:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Mid-Day"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -194,6 +194,38 @@
       "action": "Avoid low-lying areas, river banks and flooded roads.",
       "correlation": [
         "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "central railway plans 26 km emergency access road along karjat lonavala ghat section",
+      "title": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
+      "summary": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeC1BcElSczV2cE5sWDY0WWVzVmVrcnF4SG5HYVhCd3RUU2VXdTFHeWgtc29hMW16Z09sUE9sa2pJaHJ6a01lV196YUpXaXd0RUhMRkZ3YzI3TDRTTzdfR3NUbUdYR1JnQWFpOE40WjA5dEVrM28xdGhucjV0YUozYnRDUWdua1o1MnpENm92R01KaGRFOWVoMDdUcFBUVjY0TXBGMXVpVnpwSWJOOWQ0Y3dB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:43:06 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 06:43:06 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Road delay or diversion possible."
       ]
     },
     {
@@ -391,6 +423,38 @@
       ]
     },
     {
+      "id": "south gujarat floods red alerts issued as torrential rains paralyze valsad and surat",
+      "title": "South Gujarat Floods: Red Alerts Issued as Torrential Rains Paralyze Valsad and Surat",
+      "summary": "South Gujarat Floods: Red Alerts Issued as Torrential Rains Paralyze Valsad and Surat",
+      "source": "NativePlanet",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXpPZGdtXzU1dTdTNUtYLXRzMUh5Zy16Q1hoUklZWm95eU9OVEF6M2RZcjY0ZXN5aEFIeFlzeEtBSFhGSGFGVEFjMFFxaW1DbDFkb0tabExIMVNhakRZenZMNDRYaVdxX1NuMHh4TXhSZnpCMGRIVkFpNkxpRTBRZzZkeU1MRlhhVjVPcm5YaUlFNUZoeGdaeHNiQ3VPTkt4S0E2Z3F2VTEtX2VIV1pHcFhvdUVtMXRJdlVxZjFR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:47:42 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:47:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "NativePlanet"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "school holiday are schools colleges closed in mumbai thane palghar amid orange alert for r",
       "title": "School Holiday: Are Schools, Colleges Closed In Mumbai, Thane & Palghar Amid Orange Alert For Rains?",
       "summary": "School Holiday: Are Schools, Colleges Closed In Mumbai, Thane & Palghar Amid Orange Alert For Rains?",
@@ -486,40 +550,6 @@
       ]
     },
     {
-      "id": "western railway suspends 14 trains amid south gujarat floods",
-      "title": "Western Railway Suspends 14 Trains Amid South Gujarat Floods",
-      "summary": "Western Railway Suspends 14 Trains Amid South Gujarat Floods",
-      "source": "Whalesbook",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckVwOWd0MXRxTnhtbldiQU9hRHJHRG5LdXFZR2tkNjVlR2xoRndYMjRiQkpmbFA5azV2RXI0TFNPVk5WeHZKZ2tDby1yLTVuSGxEODltZkttN1VYYTI1a0NIM25wUTJPaTlzaXpCRjhfMlhyYzJNYjFCN1E2TlhENTJKdXZDV3VEUFlOdjlxSG9QMmFDZVAtN1czWWFLMDRicmdUYkRGYUxtdEhvLVZEby16NVZJTVdMOC1WSVpXMGRXZTNxYWltVnFyM3BPNnhhdUJWSzBtSQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:26:56 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 17:26:56 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "Whalesbook"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "rains turn sinhagad road into hazard zone mud potholes trigger traffic chaos and accidents",
       "title": "Pune Rains Turn Sinhagad Road into Hazard Zone; Mud, Potholes Trigger Traffic Chaos and Accidents",
       "summary": "Pune Rains Turn Sinhagad Road into Hazard Zone; Mud, Potholes Trigger Traffic Chaos and Accidents",
@@ -580,6 +610,38 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "mumbai on july 24th 2026 rain alerts neet protests coastal road crash",
+      "title": "Mumbai Latest News Today on July 24th, 2026: Rain Alerts, NEET Protests & Coastal Road Crash",
+      "summary": "Mumbai Latest News Today on July 24th, 2026: Rain Alerts, NEET Protests & Coastal Road Crash",
+      "source": "LatestLY",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFh0LWxDWGtpT3M4ZmswQkV3eDBqcEVoX01ORFVFYjZiSUlVQnpGSjNqVjFJb29aQVlpeTBFOUlKOVFtckhVV2p6dGJlSjlQU090cWM4SXBPeDluTVpqYmpXQzN0MHNXdTgwRVBuTzNRd3R2SjZaWWxEMjRwUUpYZWV4Smg4N1JmVTZZYXpMRmVYckVJUkExOXZUTWFUY1Y2R29RZEhLVXMzc1ZiTWhnaV9EcmFqbkoyYURGNk14NHpJNDBxaEp2QnBMN0lpSU9udFHSAdcBQVVfeXFMT3ZqNGdpaUZZT0FLSVdhRDMyX1JpVW9VcDBqY2FYM01KeWc3Z0VOdTRQMmU2aGwwbmpKNFVTc2kyYzRCakhFX0MwbG5SLWZ1QUVhdHFnNjRmeHNObG4xZHBBWHBRX0Rock9LVHNfTDNlRlRhNWFuS2RaZTdHWXllaTBoY2hPTkNzWmlDNUs1WVB5TDZEZjJjQ2MwbEZyU3oyRUFIeExmLVRxejg0QmFmV09qQWxDNUxFa2JIQ1JxbHg1Y1dEVTJqMEktNE1ldXlFbFBKVXdicnM?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:37:41 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:37:41 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "LatestLY"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "neral power outage तीन दिवसांपासून नेरळचा वीजपुरवठा खंडित महेंद्र थोरवे मैदानात अधिकाऱ्यां",
@@ -737,45 +799,14 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "msedcl detects 2 283 power theft cases imposes 7 61 crore penalty",
-      "title": "MSEDCL detects 2,283 power theft cases, imposes ₹7.61 crore penalty",
-      "summary": "MSEDCL detects 2,283 power theft cases, imposes ₹7.61 crore penalty",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamlkRXRteFdYNGNfQWJjeXpUUnJwdDQ1TGZ4Zjk5SUQ1V1owWG42TzBiY0tVT1RHYnNaeVJvZjhBckpTdXFhbEhCbC1veENDMVF0X09KVWFFOHMxclk3WGMxQ2VXamlmX1BnS2RPc2tvYW9Zb041NENvakdIRXdMU3prd09GeGd5YU96TEg2QkducmdCNE5FQzBXVHpaY3JnakxTejA1MlV0ZEw3LUpHM0x2TUFFUGtxX1oxSXp4d3RocmlhcW1MeG5QcjdFenlEWlloN1k2NNIB1wFBVV95cUxPamlkRXRteFdYNGNfQWJjeXpUUnJwdDQ1TGZ4Zjk5SUQ1V1owWG42TzBiY0tVT1RHYnNaeVJvZjhBckpTdXFhbEhCbC1veENDMVF0X09KVWFFOHMxclk3WGMxQ2VXamlmX1BnS2RPc2tvYW9Zb041NENvakdIRXdMU3prd09GeGd5YU96TEg2QkducmdCNE5FQzBXVHpaY3JnakxTejA1MlV0ZEw3LUpHM0x2TUFFUGtxX1oxSXp4d3RocmlhcW1MeG5QcjdFenlEWlloN1k2NA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:53:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:53:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Power supply impact possible."
-      ]
-    },
-    {
-      "id": "2026 07 24 time of issue 13 16 00 hours ist mid day all india weather summary and forecast",
-      "title": "2026-07-24 Time of Issue: 13:16:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
-      "summary": "2026-07-24 Time of Issue: 13:16:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
+      "id": "2026 07 24 time of issue 20 49 00 hours ist night all india weather summary and forecast b",
+      "title": "2026-07-24 Time of Issue: 20:49:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature",
+      "summary": "2026-07-24 Time of Issue: 20:49:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature",
       "source": "India Meteorological Department",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR29yXzdUWHJ4UWEzZHNwTXBfc3gxSFlhWURkZ3FUV3R2bHI4c09LQlNPSTB0WVBLalNNOFpmamFfYXhITmFtSUhHaC1ZS1RKT29nbHNSSzhWcFRVTExfcFpKZUtNWWxTTV9OWVBpVVF4bXczNmF2STBZN1lBNzUzREpDLWFkdUE1RElkc01Eb3I?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 08:20:20 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 08:20:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1VNaGIwYjNQMW1yNGhYemJJczZKU1BucFFETTE2VWhXOURUQ25YbWZway1ZWEtQYnQ1U2tSS3MwdzlnTzRzbXh1WW5TV1JSa01EZm53d2xUbFhIRVhWQ3I2eGxGWml0TlByRm53Z1JRMmhOQ2lHeWRadUswUjlyamtHVTJzODJtaXFFVDc2ZEM?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:19:25 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 16:19:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -860,9 +891,9 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "3 criminals externed for two years for robbing on truckers on mumbai expressway",
-      "title": "3 criminals externed for two years for robbing on truckers on Mumbai-Pune Expressway",
-      "summary": "3 criminals externed for two years for robbing on truckers on Mumbai-Pune Expressway",
+      "id": "3 criminals externed for two years for robbing truckers on mumbai expressway",
+      "title": "3 criminals externed for two years for robbing truckers on Mumbai-Pune Expressway",
+      "summary": "3 criminals externed for two years for robbing truckers on Mumbai-Pune Expressway",
       "source": "The Times of India",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRGJqZFZQeXpia2hOUWFMRmJNclhpblY2Ykd2T2tWZm9DTktOTDZWR3otVHFLODA3ZFVqRGRaWWs3eC10SFRub0tNSW5pYUo0Yjh2a2lwYm9VbFVNelM0RENRdkttMnZHbkJoRnZGSjNZYXZLeUtaUW1YclZXNklJSml2LVU4bEcwcldmaTgxSXkxZVIxdnQ4ZUZrbEhqM2U2R2dndFpQeDNGeGpmMFhIMlA4VG5hS2ZZWHAyaXNrc1N0bFRsSFM3TllyeVlzWmlUN3RzVUhJTjBwVnpIczJCMEN3SUlMUWdPXzhkY3RMbkFrT193R1HSAfsBQVVfeXFMUGRLWmJGOXQ2Sk56MDF1ano2ZlcxSGExR1dVS1BCLWJ6VGVISkRjS2UtNERNb0M2V3lwVU1LSzZaaE96d2ZSMXdJNnF0QWpIZFNPc2lhWmlreTAzWndqeDhKYnZSZUhNczNaMEx3M0trZUdCZ2s1cXJydmJLN2R2bjhWTF9meGxZTWI1NWlhSXZMSXpPRjR5T05PY2pQRDhXZmRQMmZwYTNlTjJ0Q2dyUWY3ZS1palBIa3h1TW9fWjVsVEZscG9uX3JaeThWaXVLbHdIdUhQTVVIT2t5RHcxSGU1XzNZTmtlXzRVNUt5V1FwMEp5QnI5RVAxcWc?oc=5",
@@ -1115,12 +1146,37 @@
       ]
     },
     {
+      "id": "collective storage in reservoirs around hits 80 water discharged from khadakwasla mulshi p",
+      "title": "Collective storage in reservoirs around Pune hits 80%, water discharged from Khadakwasla, Mulshi, Pavana",
+      "summary": "Collective storage in reservoirs around Pune hits 80%, water discharged from Khadakwasla, Mulshi, Pavana",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM2ZoeTdrekQxWHlReXlZc0llNmpJREtWMl9VRDNsTURRZmRpYVM3Z0gtdFIwUHB3d20zSUZWWUlSTTRxSnVfTkIxaWg4WTZTQVFPYVdBaGJ2LXF6RU04Vk9JM210YmxYak52LXhwdXV1eUlpeDlQcUt3aTF6S1FjOE1wYVBEZnhXekhtX3AtVkxIQmpwd0tCd1pwc0hTd2dvV0laclZZZ2VONXpDdE5COEFxWDJacGp6TTU5ZVI2N3BXN1Q3djFMMjRzVjBxTnJhMDFHNDRCNk1ZUElHVVpZRnFrZHFIcUdycEJsay1JMkZXbC1zSUxVeU5NVE1oa1BfdHlzRWY0LTfSAY4CQVVfeXFMTTk2SzZZaFFZYXdRVkRiUUJ1bzQyeHI0X2VCakdqaElfMmpIdVQ0bzlxZ3NFV2NoU2xnQ3lsRDRsTk1XSmpRdHh3enp0T1FCazRnTkR3eUVPd0hBMGdmbWd0QVhjb05JNWVnZTdDaHFRV00zSmIxSXJnMm9CTmhUUHhySzZ6WmJILUoxVTl2MndyQjc2RDBFUXd5Tk1FODh0WUxIYk9MUXVTV21LdUZyaHJQLXUxWXoyT08yWE0yYWY2dGpmanVKVkRpZWFDX3dMR2ljeW14UC1qTnpJajNVRUttOHFfMmRlSFdnTzB2dVZCR1d5THBlU1k0VTlKeXpVa1ZHWUJjMGNJWFY5MVZR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "areas": [
+        "Mulshi",
+        "Khadakwasla"
+      ],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "imd monsoon आभाळ फाटणार राज्यात पावसाचा रेड अलर्ट हवामान विभागाकडून मोठा इशारा",
       "title": "IMD Monsoon Update : आभाळ फाटणार, राज्यात पावसाचा रेड अलर्ट, हवामान विभागाकडून मोठा इशारा",
       "summary": "IMD Monsoon Update : आभाळ फाटणार, राज्यात पावसाचा रेड अलर्ट, हवामान विभागाकडून मोठा इशारा",
       "source": "TV9 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOenk1N0NHY2w3dHI0UVF4SERQYjlZR01NX3pTUll6QXM0SzdOUjdLSXFiZ0E1UkI1aUZMaGR5cFNpMHBZNFVPWGdrWUJlNUtMMHZUQndnbTZFS3RUTHNvYVdWXzdZN0RDSVhxa2U2Qnl5YXFiZVUyVzJxVVpDYnFiMFZmZEdqUmVCMjN3bGFfeExTaVJKZmpBWmRiMEtBZnNTS2NHZERsU1NXaFdkQ3dJcHhjd3M3bmQxR1JOdkI5NFdtdlVIRVlDWXZRaEFLUDV1QV9FS19iWkpwaHJaUGw5ckViNXZaNGlIa2EtYXhaS1RiZ9IB9wFBVV95cUxOSk5uc1BqcWpXZzNXWjAtTGtvRGc2MW5tMUNNNl9YMkpzTkdDNlJZcTU4OVhiZHVXVGs5STM0U3dQa3BxZ2g4aFZucTRZRnk4eVppRVo2VWplemJZLTJtWm9SZUI1LVBxUmVYd3Z2QTYySlNFUmFFRDRrN0FBekM0OU9SYWlVUEZQLWp0SkZ4dUFyQkNMZ1FBaWx3bk44eVRiYXpSeVZCekNKdjhLQXVOYXNCVWJxc3oyckhoR2w1a0Y4OW1xRkZrTWktTk9XRTRmbkVRcS1wc1Q4ZlZVUnc0UGpVTzRiSUxubVRzTEZ2QXVtWDU5V0F3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSk5uc1BqcWpXZzNXWjAtTGtvRGc2MW5tMUNNNl9YMkpzTkdDNlJZcTU4OVhiZHVXVGs5STM0U3dQa3BxZ2g4aFZucTRZRnk4eVppRVo2VWplemJZLTJtWm9SZUI1LVBxUmVYd3Z2QTYySlNFUmFFRDRrN0FBekM0OU9SYWlVUEZQLWp0SkZ4dUFyQkNMZ1FBaWx3bk44eVRiYXpSeVZCekNKdjhLQXVOYXNCVWJxc3oyckhoR2w1a0Y4OW1xRkZrTWktTk9XRTRmbkVRcS1wc1Q4ZlZVUnc0UGpVTzRiSUxubVRzTEZ2QXVtWDU5V0F30gH3AUFVX3lxTE5KTm5zUGpxaldnM1daMC1Ma29EZzYxbm0xQ002X1gySnNOR0M2UllxNTg5WGJkdVdUazlJMzRTd1BrcHFnaDhoVm5xNFlGeTh5WmlFWjZVamV6YlktMm1ab1JlQjUtUHFSZVh3dnZBNjJKU0VSYUVENGs3QUF6QzQ5T1JhaVVQRlAtanRKRnh1QXJCQ0xnUUFpbHduTjh5VGJhelJ5VkJ6Q0p2OEtBdU5hc0JVYnFzejJySGhHbDVrRjg5bXFGRmtNaS1OT1dFNGZuRVFxLXBzVDhmVlVSdzRQalVPNGJJTG5tVHNMRnZBdW1YNTlXQXc?oc=5",
       "pubDate": "Fri, 24 Jul 2026 16:42:47 GMT",
       "lastUpdated": "Fri, 24 Jul 2026 16:42:47 GMT",
       "areas": [],
@@ -1149,6 +1205,28 @@
       "region": "pune",
       "sources": [
         "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यात पावसाचा जोर आणखी वाढणार हवामान विभागाकडून येलो अलर्ट मराठवाडा विदर्भासह पुणे साताऱ",
+      "title": "राज्यात पावसाचा जोर आणखी वाढणार: हवामान विभागाकडून येलो अलर्ट; मराठवाडा, विदर्भासह पुणे-साताऱ्यात मुसळधार प...",
+      "summary": "राज्यात पावसाचा जोर आणखी वाढणार: हवामान विभागाकडून येलो अलर्ट; मराठवाडा, विदर्भासह पुणे-साताऱ्यात मुसळधार प...",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDFiTW1NbXFEYmRkWWR6dXVJR3BUU05HZGtQY2l2U2F1OHlfdTQ3YUlGZkRuR3dmbDVZUnhIeHEzbWVjN0hHY2RETVdWNHVKSHZyYkNLX245U2REQlRWclg4V1JDc2JVakRXYVd6U2s4R3hBcnVKWnBsbi1EcGZWazRLRWlFcGlxUWxHSG1uX2J3YnB3aG83UkQ2aExqWHJ6N2RVZ2JiTjl4ZG1BTVlfNC03NmNSY2RtUk40cGdCU0RJNnNpdW5TXzRDa9IB0AFBVV95cUxNcGxaUzl2XzVycGF4LTdQMDhwem85TjYtYUFXdm9rX0lEQndqNVQ3emhBWU04cE5VdEx1dmg4a2RocDVpZ1dfX3lBZHY2U0RlZmhjSllNTTNxdHVPNkJrZTRoRmgzNlhlT0YwU0toTkg3blZUcjJGWS1uTW9paUhwUVA0Q19pckc2dVJnQzZMZHc2MGxseGlPSGctNGZaalltN3FaeW10TnhJMWFBV0ZreEdsV3EwcndFSEI4ZnQxZ3dhbzg2Z0dNSWdTYjA5cmQx?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:18:24 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 16:18:24 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1319,7 +1397,7 @@
       "id": "chandrakant patil । work on dp road shouldn t be stalled due to lack of funds",
       "title": "Chandrakant Patil । Work on DP Road shouldn’t be stalled due to lack of funds",
       "summary": "Chandrakant Patil । Work on DP Road shouldn’t be stalled due to lack of funds",
-      "source": "पोलीसनामा",
+      "source": "policenama.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTEyMWdRdm92UGFvYXJQWVpaY1N1cXBidGpoSmJ0MjNraENhN19mdDBRWTBiNklzWE1jbUJhWHZ1azlIeGU5OFJoQy0wUkxIUzBHYmdnNUxKVGlqRnpNcFR0QVg2UW9UMzVnUDV0RXFEcXN2ejA1SkkxUnVYbGx0a3JaNXpNd1MtV19qdFVEaDhzekZvRkVtVk1iLXNFbjdwaDd5cF9nbkxEdVhPdTR3X2lhaGp4R29lZmthZVBHZTFOcERWanRXMV9JdUJEcDVnejE3bDBnUEZlRE9QSVlOTnBmcXA5SzFFYWo0?oc=5",
       "pubDate": "Fri, 24 Jul 2026 13:39:28 GMT",
@@ -1327,7 +1405,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "पोलीसनामा"
+        "policenama.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1787,9 +1865,9 @@
       ]
     },
     {
-      "id": "how a snapchat friend robbed teacher s house on their first meet",
-      "title": "How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet",
-      "summary": "How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet",
+      "id": "how a snapchat friend burgled teacher s house on their first meet",
+      "title": "How a Snapchat ‘friend’ burgled Pune teacher’s house on their first meet",
+      "summary": "How a Snapchat ‘friend’ burgled Pune teacher’s house on their first meet",
       "source": "The Indian Express",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1RQTkZDdE5NXzVTdGNMbXVRV2RqM0MwcWNkRmE3cUtXYV9XZmVwYXJvbGV5Sjg3MjFmcFRTS2dHQjlleWEwVHlXR3FFRU5Ka01XZjJKUS1rSUN6SkptNzZZVVllOFl6QkR1dW9CX2hDNmlfalZWZFlxS2IySC1Bc2JIcGNnMmFJdzhENUxVcTB6US1lZ0ZlVzdyekwtSHA1OGdfb3paOEw3V2FHUVQ5Q0U5WVjSAbsBQVVfeXFMTlVLcHIwNVY2MDlTcjVacjBOaUxBeDJ6YVlUZEhjTndVZnM4NkFFLVc5akU0bEpKSE5HU2hpT0VoQmkwSE9OR0s3dS1yYWZxV0FQVmM1M2ExLXdXa3A1bzJkWjhITS1JU1F4U2RFU1FSZjZXZVlrcHM0YlplcU4zS1k5eTQ3QWIxakstWnVpX0dsdEg4eTdPSm15OVdtbjhGY1BhUzhwNWw4bVF4ZlpyMGR3dWVuN0hZLWl2MA?oc=5",
@@ -2061,28 +2139,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather मुंबईला यलो अलर्ट तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा पुढील 24 तासांसा",
-      "title": "Maharashtra Weather Today : मुंबईला यलो अलर्ट, तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा; पुढील 24 तासांसाठी पावसाचा अंदाज काय?",
-      "summary": "Maharashtra Weather Today : मुंबईला यलो अलर्ट, तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा; पुढील 24 तासांसाठी पावसाचा अंदाज काय?",
-      "source": "marathi.hindusthanpost.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVdYT1JzSVJzcTdaNFRRUUVEc1hnRTNXN2RLbEVQWTA1Uno5SkZfRnp6TzBiZ0Z2cnYzVGI0bjFmTEhXdU9MVlJ3WFB0UXl6RjJCYW1KOTl1NzFLQXVpZEpUS0lTZGl4MV9sR3djZko1RFFpMFBGZTdXWUVFb0hUVzVKeHJkLVc3eFFhQm5WTVdpaDU0V21STnd6TDhvcmplNTlUcDFEc3l5d09OdFN1Vm9NSXRKOFgzdkU2aEw5Q0VydlZnOWc4UF9XQ0YybElFQzdneUhIOA?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 06:30:23 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 06:30:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "marathi.hindusthanpost.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "rain damage closes key rural road links",
       "title": "Pune Rain Damage Closes Key Rural Road Links.",
       "summary": "Pune Rain Damage Closes Key Rural Road Links.",
@@ -2107,6 +2163,28 @@
         "Rain / waterlogging may affect travel.",
         "Road delay or diversion possible."
       ]
+    },
+    {
+      "id": "राज्यात मुसळधार पावसाचा धुमाकूळ नाशिकमध्ये गोदावरीला पूर पुणे घाटमाथ्यावर अतिवृष्टीचा इशार",
+      "title": "राज्यात मुसळधार पावसाचा धुमाकूळ; नाशिकमध्ये गोदावरीला पूर, पुणे घाटमाथ्यावर अतिवृष्टीचा इशारा",
+      "summary": "राज्यात मुसळधार पावसाचा धुमाकूळ; नाशिकमध्ये गोदावरीला पूर, पुणे घाटमाथ्यावर अतिवृष्टीचा इशारा",
+      "source": "लोकमंथन",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSkUxWFhDRXV4X2lpN1hpTlJDeDdqTlFtUGMtVk8zXzZYTFBhYTNPOTlMTm1uSkN4OGJDNWlVTTI5czlyRTVwU2szQjVheE40eDB1SUNnUnoxOWdXWjBpM0tIUHE4aVc2RUFGUEE4NVQ0VnExbGdlSlZSQjhLV25UZl9rOXJ2MUtqMkZyNVJRal83YlNTUmxSSzI0cW9xRGFnVWJCSFFWUVRqWGI2UVFXMm4yUWNXVnVfSDlvM1BVVlFlU2xQWFJULXZaQ2VEYzBaZDdRQzY5RjRkUXNPRVN2eF9UeThSSG1yRnNwRkZ3RQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:27:40 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 06:27:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "लोकमंथन"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "monsoon travel alert heavy rain disrupts konkan and goa routes",
@@ -2294,6 +2372,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "four pg operators booked in for failing to provide tenant details",
+      "title": "Four PG Operators Booked in Pune for Failing to Provide Tenant Details",
+      "summary": "Four PG Operators Booked in Pune for Failing to Provide Tenant Details",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVQ5dUU1cmhmM3NkdEZuTW80TTVLcjZMVmJLODFOa1lWaF90UTI1RjNxR0E5aDFsMXZPVFFZUVVlRFhvMkZ0b2E1WHJQMjZYa2dBMkVqNWpFTVVCelNpVjNvaVBjVkg0Rjk2WTQ1RVdhcE9aVkJPNWVyek5hSUVWbk5ubUNFbHNWVTN0cTVwYXczOW9ldDF4YThmUzZiOW8?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 04:59:46 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 04:59:46 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "wethear पुण्यात पावसाचा जोर कायम शहराला ऑरेंज घाटमाथ्याला रेड अलर्ट",
       "title": "Pune Wethear : पुण्यात पावसाचा जोर कायम; शहराला ऑरेंज, घाटमाथ्याला रेड अलर्ट",
       "summary": "Pune Wethear : पुण्यात पावसाचा जोर कायम; शहराला ऑरेंज, घाटमाथ्याला रेड अलर्ट",
@@ -2316,31 +2416,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra rains राज्यात मान्सून सक्रिय मुंबई पुणे पालघरसह अनेक जिल्ह्यांना imd चा इशारा",
-      "title": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
-      "summary": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
-      "source": "Asianet News Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZS9IB4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZSw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:55:06 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 03:55:06 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Asianet News Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "कुंजीरवाडीत कंटेनर ट्रक आणि क्रूझरची धडक अपघातात एकाचा मृत्यू",
       "title": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
       "summary": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
@@ -2353,28 +2428,6 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "water storage in dams nears last year s level hindustan times",
-      "title": "Water storage in Pune dams nears last year’s level | Hindustan Times",
-      "summary": "Water storage in Pune dams nears last year’s level | Hindustan Times",
-      "source": "Hindustan Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2FLTUdCaE8tbE1zOWtfZ2thTUE0cUV2eWNrQUtINDBhbU9tNl9KUVV3OU54Q3dNX3NfTEZDSUlfbUtCOVIzTW5WajNmNHZrcFVFeVN4NEhybzJ5RDFiSnRTbDQyMkxZTzRINC1nUGRFbmpFY19iZ3pYd2xIOHl0TWNhSTl5bXpVeEhaU1gxUGtTbzhjLVRYWHRvUFgtOTB1d2RrcTliTzdGb3h2YmZSVHFCWkJlOExiOC1V0gHAAUFVX3lxTFBkWEYxX1UzRmh1Y2I3bHE5bF9KXzlOVWZvNHNIQmZDaWU4VURqcm5mbU5taGg5aEdnNUdHdXhGNDhqVlNIMGVFdkY3V1M4Q180X0xhVjBhaVpCWnRGUGJ0ZFg4enBYOFF0Y09MQ2tTUVFJb1VHMkk0X0VyQ3B6NjBnUTZrS1ZtNjZwQUdTd1RiWlV2OXNWLXdDSGlvWUtNXzE1X2dVVlc0dDZxLWgxbnBkMlg2bUM3cGJOeElOaVNZdA?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:09:05 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 03:09:05 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Hindustan Times"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2595,6 +2648,31 @@
       ]
     },
     {
+      "id": "weather july 24 imd predicts heavy rain in maharashtra gujarat uttarakhand himachal northe",
+      "title": "Weather Today, July 24: IMD predicts heavy rain in Maharashtra, Gujarat, Uttarakhand, Himachal & Northeast",
+      "summary": "Weather Today, July 24: IMD predicts heavy rain in Maharashtra, Gujarat, Uttarakhand, Himachal & Northeast",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdkF3clcta0NCRVlZcFE0LW1vZmZudG5scTVlVEVOQUV2WkNIQmlGMmE0V212WjNEY29EdmhLODhzMEdoblFaOGRZQWJzQzFaVU9lZzZQT0FKN1dyRFNjY2hnN3A3cV9wbHIwaERwdHJZTFpsaDhKUlA4WDFRR1c4a09hdlJ6OUxUcThiNzE2SDNDc0FJTVJ0V090N1AwXy01Z3dkRFRoNldQZWNYTmRPSGIyN1lHUHdrdmZrSmFQQ0R6eUZSTGdRbDBuWGtGS08tbmZMSUtJX1EtdWRiNUpleEF6MzhBZFJJNEhySUQzd3ZxWXpRSm1EcHltSDFJRHRPV3ZiaHdqMVZRdm9iWUV4RU9BVFhqUDU5QWp4TGRYREt3a0Zhd1FHd0Z30gGqAkFVX3lxTE52QXdyVy1rQ0JFWVlwUTQtbW9mZm50bmxxNWVURU5BRXZaQ0hCaUYyYTRXbXZaM0Rjb0R2aEs4OHMwR2huUVo4ZFlBYnNDMVpVT2VnNlBPQUo3V3JEU2NjaGc3cDdxX3BscjBoRHB0cllMWmxoOEpSUDhYMVFHVzhrT2F2Uno5TFRxOGI3MTZIM0NzQUlNUnRXT3Q3UDBfLTVnd2REVGg2V1BlY1hOZE9IYjI3WUdQd2t2ZmtKYVBDRHp5RlJMZ1FsMG5Ya0ZLTy1uZkxJS0lfUS11ZGI1SmV4QXozOEFkUkk0SHJJRDN3dnFZelFKbURweW1IMUlEdE9XdmJod2oxVlF2b2JZRXhFT0FUWGpQNTlBanhMZFhES3drRmF3UUd3Rnc?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:01:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "rain alert पुणेकरांनो सावधान घाटमाथ्यावर रेड अलर्ट मुसळधार पावसाचा इशारा कुठे कुठे कोसळणार",
       "title": "Rain Alert: पुणेकरांनो सावधान! घाटमाथ्यावर रेड अलर्ट, मुसळधार पावसाचा इशारा; कुठे- कुठे कोसळणार?",
       "summary": "Rain Alert: पुणेकरांनो सावधान! घाटमाथ्यावर रेड अलर्ट, मुसळधार पावसाचा इशारा; कुठे- कुठे कोसळणार?",
@@ -2742,6 +2820,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31 49 जलसाठा गतवर्षी याच काळात पाच वेळा गोदापात",
+      "title": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31.49% जलसाठा: गतवर्षी याच काळात पाच वेळा गोदापात्रात पाणी सोडले‎",
+      "summary": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31.49% जलसाठा: गतवर्षी याच काळात पाच वेळा गोदापात्रात पाणी सोडले‎",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZ2NmMnRfQmJ4T2JqRHZ4NjdzcjVsLXJBclJkOGtieEU4dGJYeXZlUVFNbWpXb1FsckpseDhMa0s5Vld1LWdIZWt2RFhYYW1uMnlWNXNuNnduSTRVdnFuU3pyc0t1bTlXVGEyRmk3WmNzQXFRMHBTZG8tdURiVGhFY3hIcS1zLW5ObHJ0YmFONlgtM05YN1hScjhfSHNhd0xJbXVxVWYwTHpKSVliZ2pGSDFiclg2Nnp5aUFPUDl5Slp4bWxuNVN5WjN1S05tT1RzQVBQMVR6elYtRU1rc3RmZlVyQ0ZXNjJQNFF3WkNyNldPU3pSbmhrdGxEbzBuMElORkhzajNZaXdMSk9FeTgzekxEN2tUMGMzWkg3NDhNOWZxaDd2Qm9maHJJdndULUZYbk5LVUFVa3RpbHRIUk9BLUFlaUVEOEU4Z0ljSHVMY2E2Z29qZkV4NXhQRzBVWG440gHmAkFVX3lxTE5qcTBaQzRSaXRJakFicEtaT2p2dHZWZWtGMk5vQjZtaGxzOVdNQWk0TkxlR21tWHRxTWsyYldRYU9ORWE5cThhVGRtd1NUV2JYMXY0aXIxWWpzd2Fnc0laM3V2OFlPRDNtS2hYVGppbGt1U29RX0dKQTFMcVZHTTlrbG5JOGh1dHRqQmxjaE9lVGN6UkZ3cVlxSlZYc21WV0cwZUp4OEk1QXVnS1FhNFRfckFVQ09RSU5iQ2E1bVBsa0swQWhfOXNNRFY2TW5NY1B0NURqTHNoRGFHNjFpenFSRVdLeFRtOXFwcXZLQXBlWlgzOW9ZQkViNV9jSFZkZElzU21aWWw1ZGhMcjIwMlJWM0pwUDNYTGFVcTMzUS01NmRqZ3pjVWtDdTBVN2VmTlQxOGVuUE12aGNUSi1IWlVIYVAwY0kxaVdoYllNbkltZENGOUM2SzN6SEFYX3d1b3U2VDNQTnc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:49:57 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 19:49:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "3km in 5 hours rain traps amdavadis on roads",
       "title": "3km in 5 hours: Rain traps Amdavadis on roads",
       "summary": "3km in 5 hours: Rain traps Amdavadis on roads",
@@ -2766,6 +2866,28 @@
         "Rain / waterlogging may affect travel.",
         "Road delay or diversion possible."
       ]
+    },
+    {
+      "id": "ban junk food in and around schools icmr led policy brief",
+      "title": "Ban junk food in and around schools: ICMR-led policy brief",
+      "summary": "Ban junk food in and around schools: ICMR-led policy brief",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlF4RHJhV2RrMlZSTVdyckZfQzc1am12eEM4cjF6LVRBTHF3VjZDZDFJNWRfYVMwMXQ4U0JMbDRYeWtTNTVFVlRab2tPOWFMRGRaN2dxdTRjV1k0d3Zqc3ZFS2l1dVNpa2RaR29kTGt0YktWQmRzbjlnWGtSSFByZjdqUEoxTVlPd0pyU1ZfbDl5ZGJBQUlKeEc1MldGSnJuVy1tdEo5TTdNQ1NhOXItQWVUcG14MTZZV2J3VE0tbzBJWlRvRWtoRdIBzgFBVV95cUxPeWhNVEstUER0VV8yUVV1cDRScGZXQlhuYjlPeTlOSm8tQ2xzUHNHMmhsQXh0a0steFd2bzhjSWRJaGRuOUtTM1ZEdllSVXUxWlVpV1IzVEJpb05MRzFHclVGX1Q3djFqN0R6Z3VJd0U3NEh6ZnpPVC1CdTUwQVZDZVc1U3B3TVZ0cTlBemtGczRSTGZTZnIxYmJ3NVJKX2NZUzFrS1czOFBLRkdEaDM3cjlNMWJ4ZUo1NWplOURoX1c4aUlIVUJINjVJZElTQQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:16:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 19:16:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "state plans common guidelines for autonomous colleges amid fee course concerns",
@@ -2881,88 +3003,38 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "western railway cancels several ahmedabad mumbai trains",
-      "title": "Western Railway cancels several Ahmedabad-Mumbai trains",
-      "summary": "Western Railway cancels several Ahmedabad-Mumbai trains",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3NDcy1IdmJOWGxwbV9kdjBXMEZHUlNoN05GTzl0X0MyalJJcmxGX0NxaXhtWGdjQUU2ZEhqdmRuSUFxeldKUHZKRDlKaEhCT0I2LWxSNFhWczhCTVFyOTRlMkpYdjhNdWl1ejZNY0NMUUpfOURXYzlVRnlES3E5Qy1lLWNlRGhuN0FJU0M5cFZDVWIxcVplZDlsSlBodE9Sc3kyNFVLMHlPOWV1YThjdGxFc3lnZS1BWkZORE9jdG9NamQ2MDlnVXhSRkTSAdIBQVVfeXFMUG1VYXJ0S0FVdU1uaGQtTnd3V1NBdUU2QXVJSUMyV1RmSm11a01fN25Yc2hBeklPdkpxRGtydS1pX3U1QnA5VkYxUWNNbnU2UktGLURQRkJ5NExLeHNiVzdWUlhHS0xEZWE3QzhvZ0NFbVdtdHJqUzhyMEN2dURzVFdILUtMbWFZTHR5ZWVpZ1VLeDBBVmN0OGxTSll5MXRyb2NjX0M5VTM1TmtmZjdsLU94aGFqQ2U4V2VzejFPNzNPT194WEpEaE1zaWctdjdMY2tn?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:54:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:54:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "imd weather forecast july 24 will it rain in delhi maharashtra gujarat check detailed imd ",
-      "title": "IMD weather forecast July 24: Will it rain in Delhi, Maharashtra, Gujarat,? Check detailed IMD forecast",
-      "summary": "IMD weather forecast July 24: Will it rain in Delhi, Maharashtra, Gujarat,? Check detailed IMD forecast",
-      "source": "India.Com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMXhobmgxalhicHNERVRuTGZZZlJFdlNWemFjV1BmRGdUVHpLemZKTGxvYW1hMnY3b29iZnVuZ1pENmxaVXZJaXpwTHB0LWM0eUVuUnBLYkZsazdaVHpjNjB6Zi1KTGp6YV9Hd2pha2dfaFlNbGxXSjU3YkVvWG1jbEM3VzkwTEhfV29jdEZzN1dGZTZQWFV6MjR4bWM5djIyUVVrNlA5MjN6WTNMNTBTOXNoQ1VjdWNaZWF4cXdldjNQOGZCWUFfd1Z3VTlhWkRXNEhUbW43NFlkMVZwWlpUbW9jejFOS09XdXlCbEVqcjJrcmUtR2RjdG9MMjZtUHljUDBfWEJDQ3ZSQnJiZlo2M280Uy14VWFlLWfSAZ8CQVVfeXFMTkdKeHlNY3dyS08tSXZ0NlZpWnR6NEpCY091SFRsSVhhM3M0aDc4QldTS3NreFVHWlI2VWNSQzFxRjFhT21tVmJSQk1lUXFrcmRnNmxKeDZYNFVydjZvN2dFNXV1ajNvMEZ5c3hJOWdGU1hOVHVieFFERUptVlZ1RUxYRmc3ZkV6ZGp1b0ZsSUMyYXNhVzZCVEtUVGM3LXRsMDdpR3V4SzQ0MVFEM1FKdGRPbE5oYlJfQjZhY1dKQng4SVF2a0Uxa2VyV0Z0NG1SNm9ONnNFUDVSSGdPUVpGaTJqVko2bXhSX1VsRkZMMXBDaEFuTzExYk1QMUlldzhGT2tBeGRuSVl0SmZWbXhPZDd5S1BWY2FZWVM0NGpzYlE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:09:09 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:09:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "India.Com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
     {
-      "id": "central railway plans 26 km emergency access road along karjat lonavala ghat section",
-      "title": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
-      "summary": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
-      "source": "Pune Mirror + 1 more",
+      "id": "maharashtra weather red alert for ghats heavy rain and strong winds likely across state",
+      "title": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
+      "summary": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
+      "source": "Mid-Day + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeC1BcElSczV2cE5sWDY0WWVzVmVrcnF4SG5HYVhCd3RUU2VXdTFHeWgtc29hMW16Z09sUE9sa2pJaHJ6a01lV196YUpXaXd0RUhMRkZ3YzI3TDRTTzdfR3NUbUdYR1JnQWFpOE40WjA5dEVrM28xdGhucjV0YUozYnRDUWdua1o1MnpENm92R01KaGRFOWVoMDdUcFBUVjY0TXBGMXVpVnpwSWJOOWQ0Y3dB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 06:43:06 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 06:43:06 GMT",
-      "areas": [
-        "Lonavala"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUdIB4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 09:01:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 09:01:00 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Mirror",
-        "The Times of India"
+        "Mid-Day",
+        "HindusthanPost"
       ],
       "confidence": "Medium",
       "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
       ],
       "severity": "emergency",
       "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
       "critical": true,
-      "action": "Avoid ghat roads and check police updates."
+      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "mumbai weather imd issues flash flood warning for mumbai thane and raigad",
@@ -2980,6 +3052,35 @@
         "India.Com"
       ],
       "confidence": "Medium",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "triple digit rainfall lashes w ghats in maharashtra again gujarat flood situation prompts ",
+      "title": "Triple-digit rainfall lashes W ghats in Maharashtra again; Gujarat flood situation prompts rescue of stra",
+      "summary": "Triple-digit rainfall lashes W ghats in Maharashtra again; Gujarat flood situation prompts rescue of stra",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPck9MaHdlT3N0Y2xCZUI0cDJwUEZXam90M1g2cXpQVXV5blFjLVNjdjhUQ1ZtX2J3c3c0V29PV2w5M3VxYmlqOTNTNDRaNFFybzBBTVk3VUczRnh2TWRuODZhR0Z3ZGdKTExzcFFhSFQ1WVJNVlFwN1JhNVEzbkhtQzlyWUxEa2lPRnFSUkFhbkQtRVlhVmVlY2tEVmtEYmZkZTBBWms0RTFlTWtRd2ZySEdLMDIyUjJLLTdEMmVUbEk4QmIydEJLdEV0Ry1vR21ZS3VDWjR6dGY5MWlfR0E2bzY4RkxyQzJhUVJkcFc3WG9CbUlkSHpSeTg3X3RjelZJSmJnUlhMZ1AyREwtclFjTVZTTHlWSlJydFhCemhfVHbSAaYCQVVfeXFMT0I4bWpkM0MyalJ0S3BvMUVEVy1ITEphYUZleUhneURsVnk3Z3YyU3NMbHE3WXJPZ3ZhalFLdlBHSm5iTEhGTnpOWWFsTi1GbWwzRWhWb1d5Tm9mdWhkdThFeWVVbndDUjAtclg0N0gyaDlBb2d2NHlYNzhYM01XdU1malc3MGRCNlBYR1BHUWtNYjV2c29ILUNMMUdoRVI1UE5DV183MThYdTZKYm1LV2RfUXJHZVdqMExKT1NWdVVENWw1bTUtaGczWkh6d3U5YmhUUDc3SUNscGdZZDh5MGMzcmU3U05XWVJ2N255bjJ2emYwV3liRjBpazlSZjl4clI0YW9pNmw2YVQ2UjZ4NFkwZXVDM2lUamQxUkJ0QXNhNS1mSmln?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
       "w": [
         "dam release",
         "river overflow",
@@ -3022,35 +3123,6 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
-      "id": "maharashtra weather red alert for ghats heavy rain and strong winds likely across state",
-      "title": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
-      "summary": "Maharashtra weather update: Red alert for Pune ghats, heavy rain and strong winds likely across state",
-      "source": "Mid-Day",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUdIB4wFBVV95cUxNNUtuWTQ0LVZMTGUtazNIZHlITHg3a2IzLUtoQmx1eHQyR01NbmprVm5VbDVsT2JCTDc4REtPRkcwQTFWRzEteUpsUWRReGRuVmYycTlDVGRvVHVJczE3a0VMel9vYlpUSmlaNWlUbHU3d25wa3o0R0RSbzVRbHNaUzJyMFRZSVR5VDNpd19hQmJQOG1tamlJLUhxblFrcFdpdUdmTDl5SmNuNURqOWdvVi1JQ0NEQUpkcm5XM3AtOUl1NTlZUk9jS1VMQkFuUkViYjdSSThTbG9idDBwWWNRR0dzUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 09:01:00 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 09:01:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Mid-Day"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "south gujarat schools asked to make up for flood lost days by working on public holidays",
@@ -3109,6 +3181,35 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "central railway plans 26 km emergency access road along karjat lonavala ghat section",
+      "title": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
+      "summary": "Central Railway Plans 26-km Emergency Access Road Along Karjat-Lonavala Ghat Section",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeC1BcElSczV2cE5sWDY0WWVzVmVrcnF4SG5HYVhCd3RUU2VXdTFHeWgtc29hMW16Z09sUE9sa2pJaHJ6a01lV196YUpXaXd0RUhMRkZ3YzI3TDRTTzdfR3NUbUdYR1JnQWFpOE40WjA5dEVrM28xdGhucjV0YUozYnRDUWdua1o1MnpENm92R01KaGRFOWVoMDdUcFBUVjY0TXBGMXVpVnpwSWJOOWQ0Y3dB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:43:06 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 06:43:06 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "gujarat flood 12 700 evacuated in valsad imd issues red alert in several cities",
@@ -3290,6 +3391,35 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
+      "id": "south gujarat floods red alerts issued as torrential rains paralyze valsad and surat",
+      "title": "South Gujarat Floods: Red Alerts Issued as Torrential Rains Paralyze Valsad and Surat",
+      "summary": "South Gujarat Floods: Red Alerts Issued as Torrential Rains Paralyze Valsad and Surat",
+      "source": "NativePlanet",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXpPZGdtXzU1dTdTNUtYLXRzMUh5Zy16Q1hoUklZWm95eU9OVEF6M2RZcjY0ZXN5aEFIeFlzeEtBSFhGSGFGVEFjMFFxaW1DbDFkb0tabExIMVNhakRZenZMNDRYaVdxX1NuMHh4TXhSZnpCMGRIVkFpNkxpRTBRZzZkeU1MRlhhVjVPcm5YaUlFNUZoeGdaeHNiQ3VPTkt4S0E2Z3F2VTEtX2VIV1pHcFhvdUVtMXRJdlVxZjFR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:47:42 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:47:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "NativePlanet"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
       "id": "school holiday are schools colleges closed in mumbai thane palghar amid orange alert for r",
       "title": "School Holiday: Are Schools, Colleges Closed In Mumbai, Thane & Palghar Amid Orange Alert For Rains?",
       "summary": "School Holiday: Are Schools, Colleges Closed In Mumbai, Thane & Palghar Amid Orange Alert For Rains?",
@@ -3375,37 +3505,6 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
-      "id": "western railway suspends 14 trains amid south gujarat floods",
-      "title": "Western Railway Suspends 14 Trains Amid South Gujarat Floods",
-      "summary": "Western Railway Suspends 14 Trains Amid South Gujarat Floods",
-      "source": "Whalesbook",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckVwOWd0MXRxTnhtbldiQU9hRHJHRG5LdXFZR2tkNjVlR2xoRndYMjRiQkpmbFA5azV2RXI0TFNPVk5WeHZKZ2tDby1yLTVuSGxEODltZkttN1VYYTI1a0NIM25wUTJPaTlzaXpCRjhfMlhyYzJNYjFCN1E2TlhENTJKdXZDV3VEUFlOdjlxSG9QMmFDZVAtN1czWWFLMDRicmdUYkRGYUxtdEhvLVZEby16NVZJTVdMOC1WSVpXMGRXZTNxYWltVnFyM3BPNnhhdUJWSzBtSQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:26:56 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 17:26:56 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "Whalesbook"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
       "id": "rains turn sinhagad road into hazard zone mud potholes trigger traffic chaos and accidents",
       "title": "Pune Rains Turn Sinhagad Road into Hazard Zone; Mud, Potholes Trigger Traffic Chaos and Accidents",
       "summary": "Pune Rains Turn Sinhagad Road into Hazard Zone; Mud, Potholes Trigger Traffic Chaos and Accidents",
@@ -3448,6 +3547,34 @@
       "region": "pune",
       "sources": [
         "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "mumbai on july 24th 2026 rain alerts neet protests coastal road crash",
+      "title": "Mumbai Latest News Today on July 24th, 2026: Rain Alerts, NEET Protests & Coastal Road Crash",
+      "summary": "Mumbai Latest News Today on July 24th, 2026: Rain Alerts, NEET Protests & Coastal Road Crash",
+      "source": "LatestLY",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFh0LWxDWGtpT3M4ZmswQkV3eDBqcEVoX01ORFVFYjZiSUlVQnpGSjNqVjFJb29aQVlpeTBFOUlKOVFtckhVV2p6dGJlSjlQU090cWM4SXBPeDluTVpqYmpXQzN0MHNXdTgwRVBuTzNRd3R2SjZaWWxEMjRwUUpYZWV4Smg4N1JmVTZZYXpMRmVYckVJUkExOXZUTWFUY1Y2R29RZEhLVXMzc1ZiTWhnaV9EcmFqbkoyYURGNk14NHpJNDBxaEp2QnBMN0lpSU9udFHSAdcBQVVfeXFMT3ZqNGdpaUZZT0FLSVdhRDMyX1JpVW9VcDBqY2FYM01KeWc3Z0VOdTRQMmU2aGwwbmpKNFVTc2kyYzRCakhFX0MwbG5SLWZ1QUVhdHFnNjRmeHNObG4xZHBBWHBRX0Rock9LVHNfTDNlRlRhNWFuS2RaZTdHWXllaTBoY2hPTkNzWmlDNUs1WVB5TDZEZjJjQ2MwbEZyU3oyRUFIeExmLVRxejg0QmFmV09qQWxDNUxFa2JIQ1JxbHg1Y1dEVTJqMEktNE1ldXlFbFBKVXdicnM?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:37:41 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:37:41 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "LatestLY"
       ],
       "confidence": "Single source",
       "w": [
@@ -3529,9 +3656,9 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "3 criminals externed for two years for robbing on truckers on mumbai expressway",
-      "title": "3 criminals externed for two years for robbing on truckers on Mumbai-Pune Expressway",
-      "summary": "3 criminals externed for two years for robbing on truckers on Mumbai-Pune Expressway",
+      "id": "3 criminals externed for two years for robbing truckers on mumbai expressway",
+      "title": "3 criminals externed for two years for robbing truckers on Mumbai-Pune Expressway",
+      "summary": "3 criminals externed for two years for robbing truckers on Mumbai-Pune Expressway",
       "source": "The Times of India",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRGJqZFZQeXpia2hOUWFMRmJNclhpblY2Ykd2T2tWZm9DTktOTDZWR3otVHFLODA3ZFVqRGRaWWs3eC10SFRub0tNSW5pYUo0Yjh2a2lwYm9VbFVNelM0RENRdkttMnZHbkJoRnZGSjNZYXZLeUtaUW1YclZXNklJSml2LVU4bEcwcldmaTgxSXkxZVIxdnQ4ZUZrbEhqM2U2R2dndFpQeDNGeGpmMFhIMlA4VG5hS2ZZWHAyaXNrc1N0bFRsSFM3TllyeVlzWmlUN3RzVUhJTjBwVnpIczJCMEN3SUlMUWdPXzhkY3RMbkFrT193R1HSAfsBQVVfeXFMUGRLWmJGOXQ2Sk56MDF1ano2ZlcxSGExR1dVS1BCLWJ6VGVISkRjS2UtNERNb0M2V3lwVU1LSzZaaE96d2ZSMXdJNnF0QWpIZFNPc2lhWmlreTAzWndqeDhKYnZSZUhNczNaMEx3M0trZUdCZ2s1cXJydmJLN2R2bjhWTF9meGxZTWI1NWlhSXZMSXpPRjR5T05PY2pQRDhXZmRQMmZwYTNlTjJ0Q2dyUWY3ZS1palBIa3h1TW9fWjVsVEZscG9uX3JaeThWaXVLbHdIdUhQTVVIT2t5RHcxSGU1XzNZTmtlXzRVNUt5V1FwMEp5QnI5RVAxcWc?oc=5",
@@ -3918,32 +4045,29 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "msedcl detects 2 283 power theft cases imposes 7 61 crore penalty",
-      "title": "MSEDCL detects 2,283 power theft cases, imposes ₹7.61 crore penalty",
-      "summary": "MSEDCL detects 2,283 power theft cases, imposes ₹7.61 crore penalty",
+      "id": "collective storage in reservoirs around hits 80 water discharged from khadakwasla mulshi p",
+      "title": "Collective storage in reservoirs around Pune hits 80%, water discharged from Khadakwasla, Mulshi, Pavana",
+      "summary": "Collective storage in reservoirs around Pune hits 80%, water discharged from Khadakwasla, Mulshi, Pavana",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamlkRXRteFdYNGNfQWJjeXpUUnJwdDQ1TGZ4Zjk5SUQ1V1owWG42TzBiY0tVT1RHYnNaeVJvZjhBckpTdXFhbEhCbC1veENDMVF0X09KVWFFOHMxclk3WGMxQ2VXamlmX1BnS2RPc2tvYW9Zb041NENvakdIRXdMU3prd09GeGd5YU96TEg2QkducmdCNE5FQzBXVHpaY3JnakxTejA1MlV0ZEw3LUpHM0x2TUFFUGtxX1oxSXp4d3RocmlhcW1MeG5QcjdFenlEWlloN1k2NNIB1wFBVV95cUxPamlkRXRteFdYNGNfQWJjeXpUUnJwdDQ1TGZ4Zjk5SUQ1V1owWG42TzBiY0tVT1RHYnNaeVJvZjhBckpTdXFhbEhCbC1veENDMVF0X09KVWFFOHMxclk3WGMxQ2VXamlmX1BnS2RPc2tvYW9Zb041NENvakdIRXdMU3prd09GeGd5YU96TEg2QkducmdCNE5FQzBXVHpaY3JnakxTejA1MlV0ZEw3LUpHM0x2TUFFUGtxX1oxSXp4d3RocmlhcW1MeG5QcjdFenlEWlloN1k2NA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:53:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:53:00 GMT",
-      "areas": [],
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM2ZoeTdrekQxWHlReXlZc0llNmpJREtWMl9VRDNsTURRZmRpYVM3Z0gtdFIwUHB3d20zSUZWWUlSTTRxSnVfTkIxaWg4WTZTQVFPYVdBaGJ2LXF6RU04Vk9JM210YmxYak52LXhwdXV1eUlpeDlQcUt3aTF6S1FjOE1wYVBEZnhXekhtX3AtVkxIQmpwd0tCd1pwc0hTd2dvV0laclZZZ2VONXpDdE5COEFxWDJacGp6TTU5ZVI2N3BXN1Q3djFMMjRzVjBxTnJhMDFHNDRCNk1ZUElHVVpZRnFrZHFIcUdycEJsay1JMkZXbC1zSUxVeU5NVE1oa1BfdHlzRWY0LTfSAY4CQVVfeXFMTTk2SzZZaFFZYXdRVkRiUUJ1bzQyeHI0X2VCakdqaElfMmpIdVQ0bzlxZ3NFV2NoU2xnQ3lsRDRsTk1XSmpRdHh3enp0T1FCazRnTkR3eUVPd0hBMGdmbWd0QVhjb05JNWVnZTdDaHFRV00zSmIxSXJnMm9CTmhUUHhySzZ6WmJILUoxVTl2MndyQjc2RDBFUXd5Tk1FODh0WUxIYk9MUXVTV21LdUZyaHJQLXUxWXoyT08yWE0yYWY2dGpmanVKVkRpZWFDX3dMR2ljeW14UC1qTnpJajNVRUttOHFfMmRlSFdnTzB2dVZCR1d5THBlU1k0VTlKeXpVa1ZHWUJjMGNJWFY5MVZR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 18:34:00 GMT",
+      "areas": [
+        "Mulshi",
+        "Khadakwasla"
+      ],
       "region": "pune",
       "sources": [
         "The Times of India"
       ],
       "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "imd monsoon आभाळ फाटणार राज्यात पावसाचा रेड अलर्ट हवामान विभागाकडून मोठा इशारा",
@@ -3951,7 +4075,7 @@
       "summary": "IMD Monsoon Update : आभाळ फाटणार, राज्यात पावसाचा रेड अलर्ट, हवामान विभागाकडून मोठा इशारा",
       "source": "TV9 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOenk1N0NHY2w3dHI0UVF4SERQYjlZR01NX3pTUll6QXM0SzdOUjdLSXFiZ0E1UkI1aUZMaGR5cFNpMHBZNFVPWGdrWUJlNUtMMHZUQndnbTZFS3RUTHNvYVdWXzdZN0RDSVhxa2U2Qnl5YXFiZVUyVzJxVVpDYnFiMFZmZEdqUmVCMjN3bGFfeExTaVJKZmpBWmRiMEtBZnNTS2NHZERsU1NXaFdkQ3dJcHhjd3M3bmQxR1JOdkI5NFdtdlVIRVlDWXZRaEFLUDV1QV9FS19iWkpwaHJaUGw5ckViNXZaNGlIa2EtYXhaS1RiZ9IB9wFBVV95cUxOSk5uc1BqcWpXZzNXWjAtTGtvRGc2MW5tMUNNNl9YMkpzTkdDNlJZcTU4OVhiZHVXVGs5STM0U3dQa3BxZ2g4aFZucTRZRnk4eVppRVo2VWplemJZLTJtWm9SZUI1LVBxUmVYd3Z2QTYySlNFUmFFRDRrN0FBekM0OU9SYWlVUEZQLWp0SkZ4dUFyQkNMZ1FBaWx3bk44eVRiYXpSeVZCekNKdjhLQXVOYXNCVWJxc3oyckhoR2w1a0Y4OW1xRkZrTWktTk9XRTRmbkVRcS1wc1Q4ZlZVUnc0UGpVTzRiSUxubVRzTEZ2QXVtWDU5V0F3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSk5uc1BqcWpXZzNXWjAtTGtvRGc2MW5tMUNNNl9YMkpzTkdDNlJZcTU4OVhiZHVXVGs5STM0U3dQa3BxZ2g4aFZucTRZRnk4eVppRVo2VWplemJZLTJtWm9SZUI1LVBxUmVYd3Z2QTYySlNFUmFFRDRrN0FBekM0OU9SYWlVUEZQLWp0SkZ4dUFyQkNMZ1FBaWx3bk44eVRiYXpSeVZCekNKdjhLQXVOYXNCVWJxc3oyckhoR2w1a0Y4OW1xRkZrTWktTk9XRTRmbkVRcS1wc1Q4ZlZVUnc0UGpVTzRiSUxubVRzTEZ2QXVtWDU5V0F30gH3AUFVX3lxTE5KTm5zUGpxaldnM1daMC1Ma29EZzYxbm0xQ002X1gySnNOR0M2UllxNTg5WGJkdVdUazlJMzRTd1BrcHFnaDhoVm5xNFlGeTh5WmlFWjZVamV6YlktMm1ab1JlQjUtUHFSZVh3dnZBNjJKU0VSYUVENGs3QUF6QzQ5T1JhaVVQRlAtanRKRnh1QXJCQ0xnUUFpbHduTjh5VGJhelJ5VkJ6Q0p2OEtBdU5hc0JVYnFzejJySGhHbDVrRjg5bXFGRmtNaS1OT1dFNGZuRVFxLXBzVDhmVlVSdzRQalVPNGJJTG5tVHNMRnZBdW1YNTlXQXc?oc=5",
       "pubDate": "Fri, 24 Jul 2026 16:42:47 GMT",
       "lastUpdated": "Fri, 24 Jul 2026 16:42:47 GMT",
       "areas": [],
@@ -3980,6 +4104,50 @@
       "region": "pune",
       "sources": [
         "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "2026 07 24 time of issue 20 49 00 hours ist night all india weather summary and forecast b",
+      "title": "2026-07-24 Time of Issue: 20:49:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature",
+      "summary": "2026-07-24 Time of Issue: 20:49:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature",
+      "source": "India Meteorological Department",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1VNaGIwYjNQMW1yNGhYemJJczZKU1BucFFETTE2VWhXOURUQ25YbWZway1ZWEtQYnQ1U2tSS3MwdzlnTzRzbXh1WW5TV1JSa01EZm53d2xUbFhIRVhWQ3I2eGxGWml0TlByRm53Z1JRMmhOQ2lHeWRadUswUjlyamtHVTJzODJtaXFFVDc2ZEM?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:19:25 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 16:19:25 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Meteorological Department"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यात पावसाचा जोर आणखी वाढणार हवामान विभागाकडून येलो अलर्ट मराठवाडा विदर्भासह पुणे साताऱ",
+      "title": "राज्यात पावसाचा जोर आणखी वाढणार: हवामान विभागाकडून येलो अलर्ट; मराठवाडा, विदर्भासह पुणे-साताऱ्यात मुसळधार प...",
+      "summary": "राज्यात पावसाचा जोर आणखी वाढणार: हवामान विभागाकडून येलो अलर्ट; मराठवाडा, विदर्भासह पुणे-साताऱ्यात मुसळधार प...",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDFiTW1NbXFEYmRkWWR6dXVJR3BUU05HZGtQY2l2U2F1OHlfdTQ3YUlGZkRuR3dmbDVZUnhIeHEzbWVjN0hHY2RETVdWNHVKSHZyYkNLX245U2REQlRWclg4V1JDc2JVakRXYVd6U2s4R3hBcnVKWnBsbi1EcGZWazRLRWlFcGlxUWxHSG1uX2J3YnB3aG83UkQ2aExqWHJ6N2RVZ2JiTjl4ZG1BTVlfNC03NmNSY2RtUk40cGdCU0RJNnNpdW5TXzRDa9IB0AFBVV95cUxNcGxaUzl2XzVycGF4LTdQMDhwem85TjYtYUFXdm9rX0lEQndqNVQ3emhBWU04cE5VdEx1dmg4a2RocDVpZ1dfX3lBZHY2U0RlZmhjSllNTTNxdHVPNkJrZTRoRmgzNlhlT0YwU0toTkg3blZUcjJGWS1uTW9paUhwUVA0Q19pckc2dVJnQzZMZHc2MGxseGlPSGctNGZaalltN3FaeW10TnhJMWFBV0ZreEdsV3EwcndFSEI4ZnQxZ3dhbzg2Z0dNSWdTYjA5cmQx?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:18:24 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 16:18:24 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -4147,7 +4315,7 @@
       "id": "chandrakant patil । work on dp road shouldn t be stalled due to lack of funds",
       "title": "Chandrakant Patil । Work on DP Road shouldn’t be stalled due to lack of funds",
       "summary": "Chandrakant Patil । Work on DP Road shouldn’t be stalled due to lack of funds",
-      "source": "पोलीसनामा",
+      "source": "policenama.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTEyMWdRdm92UGFvYXJQWVpaY1N1cXBidGpoSmJ0MjNraENhN19mdDBRWTBiNklzWE1jbUJhWHZ1azlIeGU5OFJoQy0wUkxIUzBHYmdnNUxKVGlqRnpNcFR0QVg2UW9UMzVnUDV0RXFEcXN2ejA1SkkxUnVYbGx0a3JaNXpNd1MtV19qdFVEaDhzekZvRkVtVk1iLXNFbjdwaDd5cF9nbkxEdVhPdTR3X2lhaGp4R29lZmthZVBHZTFOcERWanRXMV9JdUJEcDVnejE3bDBnUEZlRE9QSVlOTnBmcXA5SzFFYWo0?oc=5",
       "pubDate": "Fri, 24 Jul 2026 13:39:28 GMT",
@@ -4155,7 +4323,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "पोलीसनामा"
+        "policenama.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -4606,9 +4774,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "how a snapchat friend robbed teacher s house on their first meet",
-      "title": "How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet",
-      "summary": "How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet",
+      "id": "how a snapchat friend burgled teacher s house on their first meet",
+      "title": "How a Snapchat ‘friend’ burgled Pune teacher’s house on their first meet",
+      "summary": "How a Snapchat ‘friend’ burgled Pune teacher’s house on their first meet",
       "source": "The Indian Express",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1RQTkZDdE5NXzVTdGNMbXVRV2RqM0MwcWNkRmE3cUtXYV9XZmVwYXJvbGV5Sjg3MjFmcFRTS2dHQjlleWEwVHlXR3FFRU5Ka01XZjJKUS1rSUN6SkptNzZZVVllOFl6QkR1dW9CX2hDNmlfalZWZFlxS2IySC1Bc2JIcGNnMmFJdzhENUxVcTB6US1lZ0ZlVzdyekwtSHA1OGdfb3paOEw3V2FHUVQ5Q0U5WVjSAbsBQVVfeXFMTlVLcHIwNVY2MDlTcjVacjBOaUxBeDJ6YVlUZEhjTndVZnM4NkFFLVc5akU0bEpKSE5HU2hpT0VoQmkwSE9OR0s3dS1yYWZxV0FQVmM1M2ExLXdXa3A1bzJkWjhITS1JU1F4U2RFU1FSZjZXZVlrcHM0YlplcU4zS1k5eTQ3QWIxakstWnVpX0dsdEg4eTdPSm15OVdtbjhGY1BhUzhwNWw4bVF4ZlpyMGR3dWVuN0hZLWl2MA?oc=5",
@@ -4625,28 +4793,6 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "2026 07 24 time of issue 13 16 00 hours ist mid day all india weather summary and forecast",
-      "title": "2026-07-24 Time of Issue: 13:16:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
-      "summary": "2026-07-24 Time of Issue: 13:16:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
-      "source": "India Meteorological Department",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR29yXzdUWHJ4UWEzZHNwTXBfc3gxSFlhWURkZ3FUV3R2bHI4c09LQlNPSTB0WVBLalNNOFpmamFfYXhITmFtSUhHaC1ZS1RKT29nbHNSSzhWcFRVTExfcFpKZUtNWWxTTV9OWVBpVVF4bXczNmF2STBZN1lBNzUzREpDLWFkdUE1RElkc01Eb3I?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 08:20:20 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 08:20:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "India Meteorological Department"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
       "action": "No immediate action required."
     },
     {
@@ -4896,28 +5042,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather मुंबईला यलो अलर्ट तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा पुढील 24 तासांसा",
-      "title": "Maharashtra Weather Today : मुंबईला यलो अलर्ट, तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा; पुढील 24 तासांसाठी पावसाचा अंदाज काय?",
-      "summary": "Maharashtra Weather Today : मुंबईला यलो अलर्ट, तर पुणे घाटमाथ्यावर सतर्कतेचा इशारा; पुढील 24 तासांसाठी पावसाचा अंदाज काय?",
-      "source": "marathi.hindusthanpost.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVdYT1JzSVJzcTdaNFRRUUVEc1hnRTNXN2RLbEVQWTA1Uno5SkZfRnp6TzBiZ0Z2cnYzVGI0bjFmTEhXdU9MVlJ3WFB0UXl6RjJCYW1KOTl1NzFLQXVpZEpUS0lTZGl4MV9sR3djZko1RFFpMFBGZTdXWUVFb0hUVzVKeHJkLVc3eFFhQm5WTVdpaDU0V21STnd6TDhvcmplNTlUcDFEc3l5d09OdFN1Vm9NSXRKOFgzdkU2aEw5Q0VydlZnOWc4UF9XQ0YybElFQzdneUhIOA?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 06:30:23 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 06:30:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "marathi.hindusthanpost.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "rain damage closes key rural road links",
       "title": "Pune Rain Damage Closes Key Rural Road Links.",
       "summary": "Pune Rain Damage Closes Key Rural Road Links.",
@@ -4930,6 +5054,28 @@
       "region": "pune",
       "sources": [
         "urbanacres.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यात मुसळधार पावसाचा धुमाकूळ नाशिकमध्ये गोदावरीला पूर पुणे घाटमाथ्यावर अतिवृष्टीचा इशार",
+      "title": "राज्यात मुसळधार पावसाचा धुमाकूळ; नाशिकमध्ये गोदावरीला पूर, पुणे घाटमाथ्यावर अतिवृष्टीचा इशारा",
+      "summary": "राज्यात मुसळधार पावसाचा धुमाकूळ; नाशिकमध्ये गोदावरीला पूर, पुणे घाटमाथ्यावर अतिवृष्टीचा इशारा",
+      "source": "लोकमंथन",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSkUxWFhDRXV4X2lpN1hpTlJDeDdqTlFtUGMtVk8zXzZYTFBhYTNPOTlMTm1uSkN4OGJDNWlVTTI5czlyRTVwU2szQjVheE40eDB1SUNnUnoxOWdXWjBpM0tIUHE4aVc2RUFGUEE4NVQ0VnExbGdlSlZSQjhLV25UZl9rOXJ2MUtqMkZyNVJRal83YlNTUmxSSzI0cW9xRGFnVWJCSFFWUVRqWGI2UVFXMm4yUWNXVnVfSDlvM1BVVlFlU2xQWFJULXZaQ2VEYzBaZDdRQzY5RjRkUXNPRVN2eF9UeThSSG1yRnNwRkZ3RQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:27:40 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 06:27:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "लोकमंथन"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -5116,6 +5262,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "four pg operators booked in for failing to provide tenant details",
+      "title": "Four PG Operators Booked in Pune for Failing to Provide Tenant Details",
+      "summary": "Four PG Operators Booked in Pune for Failing to Provide Tenant Details",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVQ5dUU1cmhmM3NkdEZuTW80TTVLcjZMVmJLODFOa1lWaF90UTI1RjNxR0E5aDFsMXZPVFFZUVVlRFhvMkZ0b2E1WHJQMjZYa2dBMkVqNWpFTVVCelNpVjNvaVBjVkg0Rjk2WTQ1RVdhcE9aVkJPNWVyek5hSUVWbk5ubUNFbHNWVTN0cTVwYXczOW9ldDF4YThmUzZiOW8?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 04:59:46 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 04:59:46 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "wethear पुण्यात पावसाचा जोर कायम शहराला ऑरेंज घाटमाथ्याला रेड अलर्ट",
       "title": "Pune Wethear : पुण्यात पावसाचा जोर कायम; शहराला ऑरेंज, घाटमाथ्याला रेड अलर्ट",
       "summary": "Pune Wethear : पुण्यात पावसाचा जोर कायम; शहराला ऑरेंज, घाटमाथ्याला रेड अलर्ट",
@@ -5138,28 +5306,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra rains राज्यात मान्सून सक्रिय मुंबई पुणे पालघरसह अनेक जिल्ह्यांना imd चा इशारा",
-      "title": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
-      "summary": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
-      "source": "Asianet News Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZS9IB4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZSw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:55:06 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 03:55:06 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Asianet News Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "कुंजीरवाडीत कंटेनर ट्रक आणि क्रूझरची धडक अपघातात एकाचा मृत्यू",
       "title": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
       "summary": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
@@ -5172,28 +5318,6 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "water storage in dams nears last year s level hindustan times",
-      "title": "Water storage in Pune dams nears last year’s level | Hindustan Times",
-      "summary": "Water storage in Pune dams nears last year’s level | Hindustan Times",
-      "source": "Hindustan Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2FLTUdCaE8tbE1zOWtfZ2thTUE0cUV2eWNrQUtINDBhbU9tNl9KUVV3OU54Q3dNX3NfTEZDSUlfbUtCOVIzTW5WajNmNHZrcFVFeVN4NEhybzJ5RDFiSnRTbDQyMkxZTzRINC1nUGRFbmpFY19iZ3pYd2xIOHl0TWNhSTl5bXpVeEhaU1gxUGtTbzhjLVRYWHRvUFgtOTB1d2RrcTliTzdGb3h2YmZSVHFCWkJlOExiOC1V0gHAAUFVX3lxTFBkWEYxX1UzRmh1Y2I3bHE5bF9KXzlOVWZvNHNIQmZDaWU4VURqcm5mbU5taGg5aEdnNUdHdXhGNDhqVlNIMGVFdkY3V1M4Q180X0xhVjBhaVpCWnRGUGJ0ZFg4enBYOFF0Y09MQ2tTUVFJb1VHMkk0X0VyQ3B6NjBnUTZrS1ZtNjZwQUdTd1RiWlV2OXNWLXdDSGlvWUtNXzE1X2dVVlc0dDZxLWgxbnBkMlg2bUM3cGJOeElOaVNZdA?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 03:09:05 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 03:09:05 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Hindustan Times"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -5402,6 +5526,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "weather july 24 imd predicts heavy rain in maharashtra gujarat uttarakhand himachal northe",
+      "title": "Weather Today, July 24: IMD predicts heavy rain in Maharashtra, Gujarat, Uttarakhand, Himachal & Northeast",
+      "summary": "Weather Today, July 24: IMD predicts heavy rain in Maharashtra, Gujarat, Uttarakhand, Himachal & Northeast",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdkF3clcta0NCRVlZcFE0LW1vZmZudG5scTVlVEVOQUV2WkNIQmlGMmE0V212WjNEY29EdmhLODhzMEdoblFaOGRZQWJzQzFaVU9lZzZQT0FKN1dyRFNjY2hnN3A3cV9wbHIwaERwdHJZTFpsaDhKUlA4WDFRR1c4a09hdlJ6OUxUcThiNzE2SDNDc0FJTVJ0V090N1AwXy01Z3dkRFRoNldQZWNYTmRPSGIyN1lHUHdrdmZrSmFQQ0R6eUZSTGdRbDBuWGtGS08tbmZMSUtJX1EtdWRiNUpleEF6MzhBZFJJNEhySUQzd3ZxWXpRSm1EcHltSDFJRHRPV3ZiaHdqMVZRdm9iWUV4RU9BVFhqUDU5QWp4TGRYREt3a0Zhd1FHd0Z30gGqAkFVX3lxTE52QXdyVy1rQ0JFWVlwUTQtbW9mZm50bmxxNWVURU5BRXZaQ0hCaUYyYTRXbXZaM0Rjb0R2aEs4OHMwR2huUVo4ZFlBYnNDMVpVT2VnNlBPQUo3V3JEU2NjaGc3cDdxX3BscjBoRHB0cllMWmxoOEpSUDhYMVFHVzhrT2F2Uno5TFRxOGI3MTZIM0NzQUlNUnRXT3Q3UDBfLTVnd2REVGg2V1BlY1hOZE9IYjI3WUdQd2t2ZmtKYVBDRHp5RlJMZ1FsMG5Ya0ZLTy1uZkxJS0lfUS11ZGI1SmV4QXozOEFkUkk0SHJJRDN3dnFZelFKbURweW1IMUlEdE9XdmJod2oxVlF2b2JZRXhFT0FUWGpQNTlBanhMZFhES3drRmF3UUd3Rnc?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 02:01:00 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 02:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain alert पुणेकरांनो सावधान घाटमाथ्यावर रेड अलर्ट मुसळधार पावसाचा इशारा कुठे कुठे कोसळणार",
       "title": "Rain Alert: पुणेकरांनो सावधान! घाटमाथ्यावर रेड अलर्ट, मुसळधार पावसाचा इशारा; कुठे- कुठे कोसळणार?",
       "summary": "Rain Alert: पुणेकरांनो सावधान! घाटमाथ्यावर रेड अलर्ट, मुसळधार पावसाचा इशारा; कुठे- कुठे कोसळणार?",
@@ -5534,6 +5680,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31 49 जलसाठा गतवर्षी याच काळात पाच वेळा गोदापात",
+      "title": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31.49% जलसाठा: गतवर्षी याच काळात पाच वेळा गोदापात्रात पाणी सोडले‎",
+      "summary": "जायकवाडी धरणामध्ये गतवर्षी 75 तर यंदा केवळ 31.49% जलसाठा: गतवर्षी याच काळात पाच वेळा गोदापात्रात पाणी सोडले‎",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZ2NmMnRfQmJ4T2JqRHZ4NjdzcjVsLXJBclJkOGtieEU4dGJYeXZlUVFNbWpXb1FsckpseDhMa0s5Vld1LWdIZWt2RFhYYW1uMnlWNXNuNnduSTRVdnFuU3pyc0t1bTlXVGEyRmk3WmNzQXFRMHBTZG8tdURiVGhFY3hIcS1zLW5ObHJ0YmFONlgtM05YN1hScjhfSHNhd0xJbXVxVWYwTHpKSVliZ2pGSDFiclg2Nnp5aUFPUDl5Slp4bWxuNVN5WjN1S05tT1RzQVBQMVR6elYtRU1rc3RmZlVyQ0ZXNjJQNFF3WkNyNldPU3pSbmhrdGxEbzBuMElORkhzajNZaXdMSk9FeTgzekxEN2tUMGMzWkg3NDhNOWZxaDd2Qm9maHJJdndULUZYbk5LVUFVa3RpbHRIUk9BLUFlaUVEOEU4Z0ljSHVMY2E2Z29qZkV4NXhQRzBVWG440gHmAkFVX3lxTE5qcTBaQzRSaXRJakFicEtaT2p2dHZWZWtGMk5vQjZtaGxzOVdNQWk0TkxlR21tWHRxTWsyYldRYU9ORWE5cThhVGRtd1NUV2JYMXY0aXIxWWpzd2Fnc0laM3V2OFlPRDNtS2hYVGppbGt1U29RX0dKQTFMcVZHTTlrbG5JOGh1dHRqQmxjaE9lVGN6UkZ3cVlxSlZYc21WV0cwZUp4OEk1QXVnS1FhNFRfckFVQ09RSU5iQ2E1bVBsa0swQWhfOXNNRFY2TW5NY1B0NURqTHNoRGFHNjFpenFSRVdLeFRtOXFwcXZLQXBlWlgzOW9ZQkViNV9jSFZkZElzU21aWWw1ZGhMcjIwMlJWM0pwUDNYTGFVcTMzUS01NmRqZ3pjVWtDdTBVN2VmTlQxOGVuUE12aGNUSi1IWlVIYVAwY0kxaVdoYllNbkltZENGOUM2SzN6SEFYX3d1b3U2VDNQTnc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:49:57 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 19:49:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "3km in 5 hours rain traps amdavadis on roads",
       "title": "3km in 5 hours: Rain traps Amdavadis on roads",
       "summary": "3km in 5 hours: Rain traps Amdavadis on roads",
@@ -5542,6 +5710,28 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMm10Rk1KUWVoNTBCWFRXSm11elpOSUhWREFsSjJCRUNfVGJlNUMzSlFDZlgyMzkyT0NuRWRaaXdMWGhfN1lmM21sUHhMRVNWb3dsdzZnX01qT3Q1MjdaZXA4NllqZ3NpODNhMXkxLXMxeWZXNXdTb1lRbkxJWkVGWDBkd0k3LTB1VHMtMnRndXc4cHlMdldlNGJwczNqVVVIcmhKTm1uR1c3ZzgwOGtFbVJndVJSbGRnQlRvR1930gHDAUFVX3lxTE1XNHdsQXRyaGIza21jLTIyZUl2YUhidU9lM21pV1FHbURSdTQ0UGpIRUV6LVp6UWdWLUpkMlRVVFFLRzdMY3lJVmNpbGVja3J2Qm9wNmxRalVNc2ZGRExFX3FBajFUcDcwUXQzOXhFUEFHVFlORGZWdXhsbDdsV0JsREYyUVZkMUN6Yzh3RHpYMDBFWFVORFRLSHU4SDhZRnU2WUhON0xNdDlYZ3FlUlZaRkc5UEQ2NlFiSjVldXRuM3JWZw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:18:00 GMT",
       "lastUpdated": "Thu, 23 Jul 2026 19:18:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ban junk food in and around schools icmr led policy brief",
+      "title": "Ban junk food in and around schools: ICMR-led policy brief",
+      "summary": "Ban junk food in and around schools: ICMR-led policy brief",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlF4RHJhV2RrMlZSTVdyckZfQzc1am12eEM4cjF6LVRBTHF3VjZDZDFJNWRfYVMwMXQ4U0JMbDRYeWtTNTVFVlRab2tPOWFMRGRaN2dxdTRjV1k0d3Zqc3ZFS2l1dVNpa2RaR29kTGt0YktWQmRzbjlnWGtSSFByZjdqUEoxTVlPd0pyU1ZfbDl5ZGJBQUlKeEc1MldGSnJuVy1tdEo5TTdNQ1NhOXItQWVUcG14MTZZV2J3VE0tbzBJWlRvRWtoRdIBzgFBVV95cUxPeWhNVEstUER0VV8yUVV1cDRScGZXQlhuYjlPeTlOSm8tQ2xzUHNHMmhsQXh0a0steFd2bzhjSWRJaGRuOUtTM1ZEdllSVXUxWlVpV1IzVEJpb05MRzFHclVGX1Q3djFqN0R6Z3VJd0U3NEh6ZnpPVC1CdTUwQVZDZVc1U3B3TVZ0cTlBemtGczRSTGZTZnIxYmJ3NVJKX2NZUzFrS1czOFBLRkdEaDM3cjlNMWJ4ZUo1NWplOURoX1c4aUlIVUJINjVJZElTQQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:16:00 GMT",
+      "lastUpdated": "Thu, 23 Jul 2026 19:16:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -5669,56 +5859,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "western railway cancels several ahmedabad mumbai trains",
-      "title": "Western Railway cancels several Ahmedabad-Mumbai trains",
-      "summary": "Western Railway cancels several Ahmedabad-Mumbai trains",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3NDcy1IdmJOWGxwbV9kdjBXMEZHUlNoN05GTzl0X0MyalJJcmxGX0NxaXhtWGdjQUU2ZEhqdmRuSUFxeldKUHZKRDlKaEhCT0I2LWxSNFhWczhCTVFyOTRlMkpYdjhNdWl1ejZNY0NMUUpfOURXYzlVRnlES3E5Qy1lLWNlRGhuN0FJU0M5cFZDVWIxcVplZDlsSlBodE9Sc3kyNFVLMHlPOWV1YThjdGxFc3lnZS1BWkZORE9jdG9NamQ2MDlnVXhSRkTSAdIBQVVfeXFMUG1VYXJ0S0FVdU1uaGQtTnd3V1NBdUU2QXVJSUMyV1RmSm11a01fN25Yc2hBeklPdkpxRGtydS1pX3U1QnA5VkYxUWNNbnU2UktGLURQRkJ5NExLeHNiVzdWUlhHS0xEZWE3QzhvZ0NFbVdtdHJqUzhyMEN2dURzVFdILUtMbWFZTHR5ZWVpZ1VLeDBBVmN0OGxTSll5MXRyb2NjX0M5VTM1TmtmZjdsLU94aGFqQ2U4V2VzejFPNzNPT194WEpEaE1zaWctdjdMY2tn?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:54:00 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:54:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "imd weather forecast july 24 will it rain in delhi maharashtra gujarat check detailed imd ",
-      "title": "IMD weather forecast July 24: Will it rain in Delhi, Maharashtra, Gujarat,? Check detailed IMD forecast",
-      "summary": "IMD weather forecast July 24: Will it rain in Delhi, Maharashtra, Gujarat,? Check detailed IMD forecast",
-      "source": "India.Com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMXhobmgxalhicHNERVRuTGZZZlJFdlNWemFjV1BmRGdUVHpLemZKTGxvYW1hMnY3b29iZnVuZ1pENmxaVXZJaXpwTHB0LWM0eUVuUnBLYkZsazdaVHpjNjB6Zi1KTGp6YV9Hd2pha2dfaFlNbGxXSjU3YkVvWG1jbEM3VzkwTEhfV29jdEZzN1dGZTZQWFV6MjR4bWM5djIyUVVrNlA5MjN6WTNMNTBTOXNoQ1VjdWNaZWF4cXdldjNQOGZCWUFfd1Z3VTlhWkRXNEhUbW43NFlkMVZwWlpUbW9jejFOS09XdXlCbEVqcjJrcmUtR2RjdG9MMjZtUHljUDBfWEJDQ3ZSQnJiZlo2M280Uy14VWFlLWfSAZ8CQVVfeXFMTkdKeHlNY3dyS08tSXZ0NlZpWnR6NEpCY091SFRsSVhhM3M0aDc4QldTS3NreFVHWlI2VWNSQzFxRjFhT21tVmJSQk1lUXFrcmRnNmxKeDZYNFVydjZvN2dFNXV1ajNvMEZ5c3hJOWdGU1hOVHVieFFERUptVlZ1RUxYRmc3ZkV6ZGp1b0ZsSUMyYXNhVzZCVEtUVGM3LXRsMDdpR3V4SzQ0MVFEM1FKdGRPbE5oYlJfQjZhY1dKQng4SVF2a0Uxa2VyV0Z0NG1SNm9ONnNFUDVSSGdPUVpGaTJqVko2bXhSX1VsRkZMMXBDaEFuTzExYk1QMUlldzhGT2tBeGRuSVl0SmZWbXhPZDd5S1BWY2FZWVM0NGpzYlE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:09:09 GMT",
-      "lastUpdated": "Thu, 23 Jul 2026 18:09:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "India.Com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 120,
-    "alerts": 31,
-    "news": 89
+    "total": 123,
+    "alerts": 32,
+    "news": 91
   },
-  "cleanedAt": "2026-07-24T17:22:54.993Z"
+  "cleanedAt": "2026-07-24T18:54:28.051Z"
 }
