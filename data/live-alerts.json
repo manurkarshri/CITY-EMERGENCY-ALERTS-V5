@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:34:55.672Z",
+  "generatedAt": "2026-07-24T22:56:04.414Z",
   "status": "ok",
   "alerts": [
     {
@@ -15,7 +15,7 @@
       "region": "pune",
       "sources": [
         "Mid-Day",
-        "marathi.hindusthanpost.com"
+        "HindusthanPost"
       ],
       "confidence": "Medium",
       "w": [
@@ -952,41 +952,6 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "amit shah assures centre s support to states amid heavy rainfall disruptions",
-      "title": "Amit Shah assures Centre’s support to states amid heavy rainfall disruptions",
-      "summary": "Amit Shah assures Centre’s support to states amid heavy rainfall disruptions",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejBJeFZ0ZGN2M2pFd2dOODRLVHV1VzVTQ1E2NTE2OURrNU5qcDNuWVd4UzJBMkxsTHhERjFGcWJTTm5YNEVxZW8xZHRaa2I0S1c0b3hvZ0xtUVU5RDdPajBubERjcGlYYmZjRmZxM3c2cklvY3JfdVJTbkd0dHhvdlRiSTVnN2lsTTgwMlBLRkx4Y0FOSmZCSEprVVdVNzdVQS04QnFhckFhbHVQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:27:36 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 07:27:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "monsoon traffic gridlock tests urban mobility",
       "title": "Pune Monsoon Traffic Gridlock Tests Urban Mobility.",
       "summary": "Pune Monsoon Traffic Gridlock Tests Urban Mobility.",
@@ -1625,6 +1590,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "palghar rain सूर्या अन् वैतरणा नद्यांना तुफान पूर पालघरला मुसळधार पावसाने झोडपले गावांचा स",
+      "title": "Palghar Rain : सूर्या अन् वैतरणा नद्यांना तुफान पूर, पालघरला मुसळधार पावसाने झोडपले; गावांचा संपर्क तुटला, डहाणूत पाणीच पाणी अन् अतिवृष्टीमुळे एकाचा मृत्यू",
+      "summary": "Palghar Rain : सूर्या अन् वैतरणा नद्यांना तुफान पूर, पालघरला मुसळधार पावसाने झोडपले; गावांचा संपर्क तुटला, डहाणूत पाणीच पाणी अन् अतिवृष्टीमुळे एकाचा मृत्यू",
+      "source": "navakal.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTEM5N3JYTG5xVnlQQVUta2l6SnE0amprZHdVc3ZUQUVvZDRfRWJNWVZXdjdUcEQ4cHU0V2RWemN0b2NYZk9OZzI5WVVmLXBfZUljdkhOM25JRTF0cWdCZ0pIRFBYdElMYVp3SEZ5c3NnZk1IdG9iQTByZGJBeDJvdE9NWVhCTjdtLTdOWmpVN2FsLS1KcllBSzZzNjNSQ21wRVYtZS1kODBTUFplSktQT2hwSkRsUjhfWkluZUJqU2NDVkFYUU83QlJNb1M3WDFsWGtNb2Y1V2o3aG4xWjNXejBxQVMydUIxaHEwYXBNa0JvWlFKM0gybUUzWkhVM2gzZEVfVWYyMmJ2SXJWd2RGYklPLXk2clpuU19TdjRaZFJpZXFXVGQtUVlBZDlGdFVzZDdBckUxUjY?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:33:42 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 10:33:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "navakal.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra monsoon राज्यात मुसळधार पावसाचा हाहाकार नद्यांना पूर आणि जनजीवन विस्कळीत",
@@ -2357,6 +2347,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra rains राज्यात मान्सून सक्रिय मुंबई पुणे पालघरसह अनेक जिल्ह्यांना imd चा इशारा",
+      "title": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
+      "summary": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
+      "source": "Asianet News Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZS9IB4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZSw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 03:55:06 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 03:55:06 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Asianet News Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "कुंजीरवाडीत कंटेनर ट्रक आणि क्रूझरची धडक अपघातात एकाचा मृत्यू",
       "title": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
       "summary": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
@@ -2750,7 +2765,7 @@
       "region": "pune",
       "sources": [
         "Mid-Day",
-        "marathi.hindusthanpost.com"
+        "HindusthanPost"
       ],
       "confidence": "Medium",
       "w": [
@@ -3511,38 +3526,6 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "amit shah assures centre s support to states amid heavy rainfall disruptions",
-      "title": "Amit Shah assures Centre’s support to states amid heavy rainfall disruptions",
-      "summary": "Amit Shah assures Centre’s support to states amid heavy rainfall disruptions",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejBJeFZ0ZGN2M2pFd2dOODRLVHV1VzVTQ1E2NTE2OURrNU5qcDNuWVd4UzJBMkxsTHhERjFGcWJTTm5YNEVxZW8xZHRaa2I0S1c0b3hvZ0xtUVU5RDdPajBubERjcGlYYmZjRmZxM3c2cklvY3JfdVJTbkd0dHhvdlRiSTVnN2lsTTgwMlBLRkx4Y0FOSmZCSEprVVdVNzdVQS04QnFhckFhbHVQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:27:36 GMT",
-      "lastUpdated": "Fri, 24 Jul 2026 07:27:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
-      "critical": false,
-      "action": "Be cautious in the affected area."
-    },
-    {
       "id": "civic power coordination strengthens monsoon preparedness",
       "title": "Pune Civic Power Coordination Strengthens Monsoon Preparedness",
       "summary": "Pune Civic Power Coordination Strengthens Monsoon Preparedness",
@@ -4277,6 +4260,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "palghar rain सूर्या अन् वैतरणा नद्यांना तुफान पूर पालघरला मुसळधार पावसाने झोडपले गावांचा स",
+      "title": "Palghar Rain : सूर्या अन् वैतरणा नद्यांना तुफान पूर, पालघरला मुसळधार पावसाने झोडपले; गावांचा संपर्क तुटला, डहाणूत पाणीच पाणी अन् अतिवृष्टीमुळे एकाचा मृत्यू",
+      "summary": "Palghar Rain : सूर्या अन् वैतरणा नद्यांना तुफान पूर, पालघरला मुसळधार पावसाने झोडपले; गावांचा संपर्क तुटला, डहाणूत पाणीच पाणी अन् अतिवृष्टीमुळे एकाचा मृत्यू",
+      "source": "navakal.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTEM5N3JYTG5xVnlQQVUta2l6SnE0amprZHdVc3ZUQUVvZDRfRWJNWVZXdjdUcEQ4cHU0V2RWemN0b2NYZk9OZzI5WVVmLXBfZUljdkhOM25JRTF0cWdCZ0pIRFBYdElMYVp3SEZ5c3NnZk1IdG9iQTByZGJBeDJvdE9NWVhCTjdtLTdOWmpVN2FsLS1KcllBSzZzNjNSQ21wRVYtZS1kODBTUFplSktQT2hwSkRsUjhfWkluZUJqU2NDVkFYUU83QlJNb1M3WDFsWGtNb2Y1V2o3aG4xWjNXejBxQVMydUIxaHEwYXBNa0JvWlFKM0gybUUzWkhVM2gzZEVfVWYyMmJ2SXJWd2RGYklPLXk2clpuU19TdjRaZFJpZXFXVGQtUVlBZDlGdFVzZDdBckUxUjY?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:33:42 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 10:33:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "navakal.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "maharashtra monsoon राज्यात मुसळधार पावसाचा हाहाकार नद्यांना पूर आणि जनजीवन विस्कळीत",
       "title": "Maharashtra Monsoon : राज्यात मुसळधार पावसाचा हाहाकार, नद्यांना पूर आणि जनजीवन विस्कळीत",
       "summary": "Maharashtra Monsoon : राज्यात मुसळधार पावसाचा हाहाकार, नद्यांना पूर आणि जनजीवन विस्कळीत",
@@ -4985,6 +4990,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra rains राज्यात मान्सून सक्रिय मुंबई पुणे पालघरसह अनेक जिल्ह्यांना imd चा इशारा",
+      "title": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
+      "summary": "Maharashtra Rains : राज्यात मान्सून सक्रिय; मुंबई, पुणे, पालघरसह अनेक जिल्ह्यांना IMD चा इशारा",
+      "source": "Asianet News Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZS9IB4AFBVV95cUxQdVJyR0Z3a3o3b3J5YmFUSnZUcHZiSXBMS3RpQjI3OTdxRUhKRzZUSERmMVJTRWh0MXZhR3AyZlN4U3BNUDRvZnExMDg0OWRGSUV6bkV3YUlmbElBcWRtaFo3eUZRU3ZCMlY1WlpUY1RaYk5jZTM0NGQ3Y3l6cHc5N29zSWQ3QUNtVzFkUzRNcWRxMmtQXzRyMXFPQWJkaHlBOFltSjljTmNMQ1NkQXlja3JqOUtkTFkwcGYxQndEUzMxa3VQSjFKTmMxUVpjNzgxR2plUml3VzZvcXVCZWdZSw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 03:55:06 GMT",
+      "lastUpdated": "Fri, 24 Jul 2026 03:55:06 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Asianet News Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "कुंजीरवाडीत कंटेनर ट्रक आणि क्रूझरची धडक अपघातात एकाचा मृत्यू",
       "title": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
       "summary": "कुंजीरवाडीत कंटेनर, ट्रक आणि क्रूझरची धडक; अपघातात एकाचा मृत्यू",
@@ -5338,9 +5365,9 @@
     }
   ],
   "summary": {
-    "total": 111,
+    "total": 112,
     "alerts": 28,
-    "news": 83
+    "news": 84
   },
-  "cleanedAt": "2026-07-24T21:34:55.717Z"
+  "cleanedAt": "2026-07-24T22:56:04.424Z"
 }
