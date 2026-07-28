@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-07-28T09:14:47.931Z",
+  "generatedAt": "2026-07-28T11:32:57.315Z",
   "source": "Open-Meteo",
   "regions": {
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "temp": 27.3,
-      "humidity": 70,
-      "rain": 0,
-      "wind": 26.6,
-      "gust": 50,
-      "code": 51,
-      "rainChance": 100,
-      "visibility": 5,
-      "next6hRainMm": 1.6,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.863Z"
-    },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 28.1,
-      "humidity": 67,
-      "rain": 0.1,
-      "wind": 26.8,
-      "gust": 50.8,
-      "code": 51,
-      "rainChance": 98,
-      "visibility": 5,
-      "next6hRainMm": 2,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.864Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "temp": 24.5,
-      "humidity": 87,
-      "rain": 0.1,
-      "wind": 27.3,
-      "gust": 50.8,
-      "code": 80,
-      "rainChance": 100,
-      "visibility": 6,
-      "next6hRainMm": 2.9,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.867Z"
-    },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 25.3,
-      "humidity": 84,
-      "rain": 0,
-      "wind": 22.8,
-      "gust": 48.2,
-      "code": 95,
-      "rainChance": 100,
-      "visibility": 6,
-      "next6hRainMm": 3.7,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.869Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "temp": 28.3,
-      "humidity": 63,
-      "rain": 0,
-      "wind": 31,
-      "gust": 55.8,
-      "code": 3,
-      "rainChance": 96,
-      "visibility": 5,
-      "next6hRainMm": 2,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.877Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "temp": 24.9,
-      "humidity": 79,
-      "rain": 0.1,
-      "wind": 26.6,
-      "gust": 55.8,
-      "code": 53,
-      "rainChance": 100,
-      "visibility": 4,
-      "next6hRainMm": 2.1,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.895Z"
+      "error": true,
+      "message": "Open-Meteo failed for pcmc: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.147Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 24.8,
-      "humidity": 89,
-      "rain": 0,
-      "wind": 20,
-      "gust": 50.4,
-      "code": 95,
-      "rainChance": 100,
-      "visibility": 3,
-      "next6hRainMm": 9.9,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.900Z"
+      "error": true,
+      "message": "Open-Meteo failed for pune: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.148Z"
+    },
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "error": true,
+      "message": "Open-Meteo failed for chakan: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.284Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "error": true,
+      "message": "Open-Meteo failed for alandi: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.289Z"
+    },
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
+      "error": true,
+      "message": "Open-Meteo failed for khed: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.309Z"
+    },
+    "saswad": {
+      "label": "Saswad Region",
+      "error": true,
+      "message": "Open-Meteo failed for saswad: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.309Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "error": true,
+      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.312Z"
     },
     "talegaon": {
       "label": "Talegaon Dabhade",
-      "temp": 25.9,
-      "humidity": 85,
-      "rain": 0.1,
-      "wind": 23.9,
-      "gust": 51.5,
-      "code": 53,
-      "rainChance": 100,
-      "visibility": 5,
-      "next6hRainMm": 2.9,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.903Z"
+      "error": true,
+      "message": "Open-Meteo failed for talegaon: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.314Z"
     },
     "fursungi": {
       "label": "Fursungi / Uruli",
-      "temp": 25.6,
-      "humidity": 87,
-      "rain": 0.1,
-      "wind": 21.1,
-      "gust": 51.8,
-      "code": 96,
-      "rainChance": 96,
-      "visibility": 2,
-      "next6hRainMm": 5.3,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-07-28T09:14:47.931Z"
+      "error": true,
+      "message": "Open-Meteo failed for fursungi: HTTP 429",
+      "updatedAt": "2026-07-28T11:32:57.315Z"
     }
   }
 }
