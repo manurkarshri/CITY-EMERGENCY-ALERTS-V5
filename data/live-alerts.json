@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T23:06:36.130Z",
+  "generatedAt": "2026-07-28T00:53:29.286Z",
   "status": "ok",
   "alerts": [
     {
@@ -29,6 +29,69 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
+    },
+    {
+      "id": "orange alert पुणेकरांनो छत्री अन् रेनकोट तयार ठेवा पुढील ५ दिवस हवामान खात्याचा ऑरेंज अलर्",
+      "title": "Pune Orange Alert: पुणेकरांनो, छत्री अन् रेनकोट तयार ठेवा! पुढील ५ दिवस हवामान खात्याचा ‘ऑरेंज अलर्ट’",
+      "summary": "Pune Orange Alert: पुणेकरांनो, छत्री अन् रेनकोट तयार ठेवा! पुढील ५ दिवस हवामान खात्याचा ‘ऑरेंज अलर्ट’",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcVVLQWZoM3FydUhMUkc4LWdQeFdZUzBUVVVWcV9pMWhvTzZvbmVTRGEyV2l5bXI5SDNWYzU1ZmhlcUs5cG9uRlBSUDJxM0NJTDh3QWpYY2h2R25aUTlFX290YURFQ1VCX0wySndPLVFVV1VBN2E4elZuVVFQSzc4NWpQWl9hR3VqNXFWNmJtUWVpcVBnRWNuY3psM1EteXExeG1hOVM5SmVYOEVKWVlaNEpWYzU3Sk13bjdpa2gtYmFLWEFqUWlObXlQVVoyQ1QwYnl0ZkdNMjJmdlBMcmp2dXRPUzVVdWRmZmZnWjlFeE9IbUVVSjlwLXRuNnowbklCZlJn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "mutha river flood alert खडकवासला १०० अन् पानशेत ओव्हरफ्लोच्या मार्गावर मुठा नदीकाठच्या रहि",
+      "title": "Mutha River Flood Alert: खडकवासला १००% अन् पानशेत ओव्हरफ्लोच्या मार्गावर! मुठा नदीकाठच्या रहिवाशांना अलर्ट जारी",
+      "summary": "Mutha River Flood Alert: खडकवासला १००% अन् पानशेत ओव्हरफ्लोच्या मार्गावर! मुठा नदीकाठच्या रहिवाशांना अलर्ट जारी",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeHJuZHR1b3dPek93SFlsdnFER0h2SHVZeVhUZkp1dEt0Mk93Y0gxOTVBZ3ZLdjhKM0hqSEpzYTNBNGZkT2l3ajE4RmFkMWNET0JGdzR4c3pldlI1LUpXeFFmRjJKOFpDTjFySFB3TzlhcEFCbWxhQlFlbk9QM0wyQjNUbTREV0p1YTJMSnVMQlFhX1RXWWduOUUwbWdkd0VkeVJFeTNGNlRMRWZyMkxobm9XN3dTVkxhNE5qYVpJVFkxcTRrUURxOUNtQXlhVkY3QkVDVU5Vd3F3QmhQOWlXaGFQQVNUazQ5OUNUSXQ4a2VFWUJjRmpxMjBJRQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "areas": [
+        "Mutha River"
+      ],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra rain alert imd issues orange alert for ghats raigad and ratnagiri heavy rain l",
@@ -75,6 +138,33 @@
       "region": "pune",
       "sources": [
         "Mid-Day"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "drone strike triggers massive fire at saudi aramcos abqaiq refinery riyadh blames iran bac",
+      "title": "Drone Strike Triggers Massive Fire At Saudi Aramcos Abqaiq Refinery; Riyadh Blames Iran-Backed Groups",
+      "summary": "Drone Strike Triggers Massive Fire At Saudi Aramcos Abqaiq Refinery; Riyadh Blames Iran-Backed Groups",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVhmNHVpZnVWSVVPUnJGTHlvX2wwTXRrU0p3YUpHUkpFYk9GdmFhRFFRQmZxZVhjSTJ4aVlyOUo5VUwyb2VUa1lEUzNOWDVQZTI2MGNBR1N4cVVUbkNOcXFxUm93b0lROV94NFJNbmNTMXpPOFlseWVUdmdQQU43a2dTU2VkRTFISHVDZzRiZWJhSXJyVnM3dXBSWE90Y1JlTlIxZnlQenZXdGh4cGN1cWxiN2VXZHBMNXBxQ3JQOUNEbmlNeV9SQTlFRk9LZ1VoT1dLZtIB2gFBVV95cUxNcnZiTFZOS2NRU1pxaHdnNVFBYzBIU1RjS0JyeTNQbmIwMG9YSmZBZF9Gb051Z21XS2xSNUhlVlR5VjBBbC1CbmVhSk90WjJNd1pPNlViU2hKYmRqenJKdFdUZk1ZUTFsbWJGVlNadWFmYWJIM3hTUWlGa01ZVGpRbUZqSlJyU1Q4a19KVEsyR1hsUUVZUFQ0dEh5WkhpNFNfcTdraUh2SFkyaWxaTzB5TEdyMW1RN3Nqd19JMkdzRUZMOS1xNnFPX21pTEJ6V21jOHhYcDM4cmNPZw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:17:45 GMT",
+      "lastUpdated": "Mon, 27 Jul 2026 15:17:45 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -744,6 +834,31 @@
       ]
     },
     {
+      "id": "maharashtra rain कोकण घाटमाथा विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "title": "Maharashtra Rain Update: कोकण, घाटमाथा, विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "summary": "Maharashtra Rain Update: कोकण, घाटमाथा, विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1V3WFZ6MzVqd0xkWHRnUnlCWHNsbTRVSmV3OGttNER2MlhXTk83MkczTDFFSG5aVFQ3bnVlV0U4Z2cwcVJRa1NWRFpYNE5hamk3Y0ZOaFJpTzdsSWpTOXl6dkp1eVFXX1lRdmdCbUtmblMwQ0ZMR25iNHF6RFctVFN6QVBvTUZ0b3djZlNEYw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "trimbakeshwar blackout exposes infra gaps ahead of simhastha kumbh mela residents left wit",
       "title": "Trimbakeshwar blackout exposes infra gaps ahead of Simhastha Kumbh Mela, residents left without water su",
       "summary": "Trimbakeshwar blackout exposes infra gaps ahead of Simhastha Kumbh Mela, residents left without water su",
@@ -790,15 +905,17 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra dam storage jumps to 59 as july rain revives reservoirs",
-      "title": "Maharashtra dam storage jumps to 59% as July rain revives reservoirs",
-      "summary": "Maharashtra dam storage jumps to 59% as July rain revives reservoirs",
+      "id": "home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
+      "title": "Home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
+      "summary": "Home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnBrMVZydnYtY1p6c3phM1J4THVqX2hnSVAtOUxCMThBN0QzckZhM0hJa3BOOXBhdjlHRFZUczdTOUFRLUgtWlFFOXJFVjd1RXhKeFk0QTJFMDBIODROUjlPdldEWEtBSkd6V0hqYTA2X3R6MnZ6bW1ScTkwbE4tS2I5VDFleHFHM2tTYWg5VG90QjNrZGhYMjc2Y1BOZDNVbW9aZVVEWExqOThOQ3dYaURmLWw0VnJ4ck0wcndkeGFLOS1yMmw2aDdlMmtlZXY1SUZQQkJB0gHbAUFVX3lxTE5ENTF2bUI0NUt3bDJUOGRNd2oyR3l3SHJCZzViVnQyWERGS3RkeENYandMQWZWOGpURGRoYXVkZFZFb3dUcFRlZFczVzRmNnd6WGhZX3g2SVV2bWRQeFEwOXJxVkVicTk0SjQ3RktIV2tJdGg3ZW15OXhLQkpUdi1lbG55VHNiLVE1YTBUeTI0cWhsb0xDWEhrQ3FxSHF3LWcyQmVEallOMW95Wmp3NDFIbjM1VnlnV3BVaTJmaTA0RmJ5RE5Gc1JRdGEwUGU1eThoLUVZVDZqXzZsUQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:36:00 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 18:36:00 GMT",
-      "areas": [],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVHF1WXk2cy1YTERDNEZUSTVsemJmM0Y2Z1JqdVJxSzI5Q0h6YWM4ZmRTdXdmQnY0dW1qQmREaHpZbDc3bnNVR0dxdXQ2SzcxZVh1ejV4QTg0bE9BU2pyNXdCd3lIdlJkQWxZTWNKVFJMd1ZkUzI4X0RUanJkYVVzQjJGSTBLclZpMFdreEd5Y3pKWjhpZ2xLdG1wVG5JdjFZMXBGekYxUW15NERyUXRjSGJhMGhzQk5FN19MdGpfcDkzTlh2MkV5cndnV1VvdHFfUjk3T2NZTUF2ZjQ5b2l2OGNJbUQyRi1qMDFZUURMZE9ra2_SAfgBQVVfeXFMTl9KeGlPcUFnYjU4dTF5czdldjh5MTB2enZfWnlnRWZCaWd3c3VCMm1wWjl1LWtFTzlTRXZDUjV6LWJPeTViamNLc0I4N2VNV1NwdUw1QTVPU29SbDM3NGszcXpneTJyZ2NrRGJrOFcwdXB4cGVsb1pCYW1NalRVV0Nib2tyd1ZkSFFpaE9aeTJ3RWRVYndmcVN1UnRJQUtwMFh2X19rVGNxT3Q3ZnRqRzdMemFQYTJkTHpIMGMwVnNBWW9fMzR2WDd5UTBuVFVoYVdTMDA5bVlsYXhWSXNSZHFZRnVxejRZc2FSX0FfM2R4NkdSWWUxUEg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:31:00 GMT",
+      "lastUpdated": "Mon, 27 Jul 2026 18:31:00 GMT",
+      "areas": [
+        "Urse"
+      ],
       "region": "pune",
       "sources": [
         "The Times of India"
@@ -809,10 +926,7 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "action": "No immediate action required."
     },
     {
       "id": "पाऊस आता रौद्ररुप दाखवणार मुंबईसह महाराष्ट्रात भयानक पाऊस पडणार 18 राज्यांना अलर्ट",
@@ -1046,7 +1160,7 @@
       "summary": "Pusegaon News : नेर फाट्यानजीक आयशर ट्रक-कारची समोरासमोर धडक; पुसेगावातील दांपत्याचा जागीच मृत्यू, मुलगा गंभीर जखमी",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcThvMGstcXZjb1J2VmJzazA2eEhwcktjWjI5aS11UnNZczI5c1RCMk1VVzBjU3BHQlRudmlhMXE3UTVWVHlEMlB6ZE00cDlTUEtRZDBpLWdHRFVVcHZkNlVKVGpISlNoTUE0X1JsVUFhQ2V0bndiM1F4WnFxRDI0aE9VOEs3REhGbzcwLUtyUng4TWJSUV9UZTN1WWE4eldpblBUaWpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkxLVHE0M1h1MWQxNXdXSjFOYXVBeGoxTHdoS184RGZnbnlud1pfOWNYLXFGVjVFWkR2V0djeUhKV1dJUWZGX19lN2xuNGFZRHVPUVc3UEVlUW1vT0Jmem5Rd3o3UWJpQ2FrUkZEOXJvUTBJY1V2TGZZZ2xLTmVyZEVzWmtZSlFGNTFjQTNEN2pxd1NLMFVWTzQyMTBqRzBPeTFCUg?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:37:00 GMT",
       "lastUpdated": "Mon, 27 Jul 2026 12:37:00 GMT",
       "areas": [],
@@ -1361,28 +1475,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "राज्यात पावसाचा हाहाकार पुढील 24 तास धोक्याचे हवामान खात्याने दिला हा इशारा",
-      "title": "राज्यात पावसाचा हाहाकार ! पुढील 24 तास धोक्याचे; हवामान खात्याने दिला ''हा'' इशारा",
-      "summary": "राज्यात पावसाचा हाहाकार ! पुढील 24 तास धोक्याचे; हवामान खात्याने दिला ''हा'' इशारा",
-      "source": "Dainik Bhramar",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajJ0eE9fN202MkJBcE00VEh1d293UTFYMW5iMEduVVRxeTV5X3lyZTdWNkw5M1lnTDBHSFl5RE1vcXdGXzV3ZWExX3NSTlZ6WFJpZ0JwbXdIeXNEM0dzQTlKZjczbmJhV2ZpM3BOd181Qkdid0ZXLWZKbnQtZnlXN1ZwN2VzZ093NGtTZ1BDWFlibTdzTTZCM1JqYW91cnptbzZCTktB?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 06:21:34 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 06:21:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Bhramar"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     },
     {
       "id": "ngt pulls up cantonment board over garbage mismanagement closes suo motu case after clean ",
@@ -1740,6 +1832,66 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
+      "id": "orange alert पुणेकरांनो छत्री अन् रेनकोट तयार ठेवा पुढील ५ दिवस हवामान खात्याचा ऑरेंज अलर्",
+      "title": "Pune Orange Alert: पुणेकरांनो, छत्री अन् रेनकोट तयार ठेवा! पुढील ५ दिवस हवामान खात्याचा ‘ऑरेंज अलर्ट’",
+      "summary": "Pune Orange Alert: पुणेकरांनो, छत्री अन् रेनकोट तयार ठेवा! पुढील ५ दिवस हवामान खात्याचा ‘ऑरेंज अलर्ट’",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcVVLQWZoM3FydUhMUkc4LWdQeFdZUzBUVVVWcV9pMWhvTzZvbmVTRGEyV2l5bXI5SDNWYzU1ZmhlcUs5cG9uRlBSUDJxM0NJTDh3QWpYY2h2R25aUTlFX290YURFQ1VCX0wySndPLVFVV1VBN2E4elZuVVFQSzc4NWpQWl9hR3VqNXFWNmJtUWVpcVBnRWNuY3psM1EteXExeG1hOVM5SmVYOEVKWVlaNEpWYzU3Sk13bjdpa2gtYmFLWEFqUWlObXlQVVoyQ1QwYnl0ZkdNMjJmdlBMcmp2dXRPUzVVdWRmZmZnWjlFeE9IbUVVSjlwLXRuNnowbklCZlJn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "mutha river flood alert खडकवासला १०० अन् पानशेत ओव्हरफ्लोच्या मार्गावर मुठा नदीकाठच्या रहि",
+      "title": "Mutha River Flood Alert: खडकवासला १००% अन् पानशेत ओव्हरफ्लोच्या मार्गावर! मुठा नदीकाठच्या रहिवाशांना अलर्ट जारी",
+      "summary": "Mutha River Flood Alert: खडकवासला १००% अन् पानशेत ओव्हरफ्लोच्या मार्गावर! मुठा नदीकाठच्या रहिवाशांना अलर्ट जारी",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeHJuZHR1b3dPek93SFlsdnFER0h2SHVZeVhUZkp1dEt0Mk93Y0gxOTVBZ3ZLdjhKM0hqSEpzYTNBNGZkT2l3ajE4RmFkMWNET0JGdzR4c3pldlI1LUpXeFFmRjJKOFpDTjFySFB3TzlhcEFCbWxhQlFlbk9QM0wyQjNUbTREV0p1YTJMSnVMQlFhX1RXWWduOUUwbWdkd0VkeVJFeTNGNlRMRWZyMkxobm9XN3dTVkxhNE5qYVpJVFkxcTRrUURxOUNtQXlhVkY3QkVDVU5Vd3F3QmhQOWlXaGFQQVNUazQ5OUNUSXQ4a2VFWUJjRmpxMjBJRQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "areas": [
+        "Mutha River"
+      ],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
       "id": "maharashtra rain alert imd issues orange alert for ghats raigad and ratnagiri heavy rain l",
       "title": "Maharashtra Rain Alert: IMD Issues Orange Alert For Pune Ghats, Raigad And Ratnagiri; Heavy Rain Likely In Next 24 Hours",
       "summary": "Maharashtra Rain Alert: IMD Issues Orange Alert For Pune Ghats, Raigad And Ratnagiri; Heavy Rain Likely In Next 24 Hours",
@@ -1781,6 +1933,33 @@
       "region": "pune",
       "sources": [
         "Mid-Day"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "drone strike triggers massive fire at saudi aramcos abqaiq refinery riyadh blames iran bac",
+      "title": "Drone Strike Triggers Massive Fire At Saudi Aramcos Abqaiq Refinery; Riyadh Blames Iran-Backed Groups",
+      "summary": "Drone Strike Triggers Massive Fire At Saudi Aramcos Abqaiq Refinery; Riyadh Blames Iran-Backed Groups",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVhmNHVpZnVWSVVPUnJGTHlvX2wwTXRrU0p3YUpHUkpFYk9GdmFhRFFRQmZxZVhjSTJ4aVlyOUo5VUwyb2VUa1lEUzNOWDVQZTI2MGNBR1N4cVVUbkNOcXFxUm93b0lROV94NFJNbmNTMXpPOFlseWVUdmdQQU43a2dTU2VkRTFISHVDZzRiZWJhSXJyVnM3dXBSWE90Y1JlTlIxZnlQenZXdGh4cGN1cWxiN2VXZHBMNXBxQ3JQOUNEbmlNeV9SQTlFRk9LZ1VoT1dLZtIB2gFBVV95cUxNcnZiTFZOS2NRU1pxaHdnNVFBYzBIU1RjS0JyeTNQbmIwMG9YSmZBZF9Gb051Z21XS2xSNUhlVlR5VjBBbC1CbmVhSk90WjJNd1pPNlViU2hKYmRqenJKdFdUZk1ZUTFsbWJGVlNadWFmYWJIM3hTUWlGa01ZVGpRbUZqSlJyU1Q4a19KVEsyR1hsUUVZUFQ0dEh5WkhpNFNfcTdraUh2SFkyaWxaTzB5TEdyMW1RN3Nqd19JMkdzRUZMOS1xNnFPX21pTEJ6V21jOHhYcDM4cmNPZw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:17:45 GMT",
+      "lastUpdated": "Mon, 27 Jul 2026 15:17:45 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -2409,6 +2588,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra rain कोकण घाटमाथा विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "title": "Maharashtra Rain Update: कोकण, घाटमाथा, विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "summary": "Maharashtra Rain Update: कोकण, घाटमाथा, विदर्भात पावसाच्या जोरदार सरी शक्य",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1V3WFZ6MzVqd0xkWHRnUnlCWHNsbTRVSmV3OGttNER2MlhXTk83MkczTDFFSG5aVFQ3bnVlV0U4Z2cwcVJRa1NWRFpYNE5hamk3Y0ZOaFJpTzdsSWpTOXl6dkp1eVFXX1lRdmdCbUtmblMwQ0ZMR25iNHF6RFctVFN6QVBvTUZ0b3djZlNEYw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "trimbakeshwar blackout exposes infra gaps ahead of simhastha kumbh mela residents left wit",
       "title": "Trimbakeshwar blackout exposes infra gaps ahead of Simhastha Kumbh Mela, residents left without water su",
       "summary": "Trimbakeshwar blackout exposes infra gaps ahead of Simhastha Kumbh Mela, residents left without water su",
@@ -2455,15 +2656,17 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra dam storage jumps to 59 as july rain revives reservoirs",
-      "title": "Maharashtra dam storage jumps to 59% as July rain revives reservoirs",
-      "summary": "Maharashtra dam storage jumps to 59% as July rain revives reservoirs",
+      "id": "home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
+      "title": "Home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
+      "summary": "Home gardeners rush to nurseries as high humidity leads to surge in plant fungal diseases",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnBrMVZydnYtY1p6c3phM1J4THVqX2hnSVAtOUxCMThBN0QzckZhM0hJa3BOOXBhdjlHRFZUczdTOUFRLUgtWlFFOXJFVjd1RXhKeFk0QTJFMDBIODROUjlPdldEWEtBSkd6V0hqYTA2X3R6MnZ6bW1ScTkwbE4tS2I5VDFleHFHM2tTYWg5VG90QjNrZGhYMjc2Y1BOZDNVbW9aZVVEWExqOThOQ3dYaURmLWw0VnJ4ck0wcndkeGFLOS1yMmw2aDdlMmtlZXY1SUZQQkJB0gHbAUFVX3lxTE5ENTF2bUI0NUt3bDJUOGRNd2oyR3l3SHJCZzViVnQyWERGS3RkeENYandMQWZWOGpURGRoYXVkZFZFb3dUcFRlZFczVzRmNnd6WGhZX3g2SVV2bWRQeFEwOXJxVkVicTk0SjQ3RktIV2tJdGg3ZW15OXhLQkpUdi1lbG55VHNiLVE1YTBUeTI0cWhsb0xDWEhrQ3FxSHF3LWcyQmVEallOMW95Wmp3NDFIbjM1VnlnV3BVaTJmaTA0RmJ5RE5Gc1JRdGEwUGU1eThoLUVZVDZqXzZsUQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:36:00 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 18:36:00 GMT",
-      "areas": [],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVHF1WXk2cy1YTERDNEZUSTVsemJmM0Y2Z1JqdVJxSzI5Q0h6YWM4ZmRTdXdmQnY0dW1qQmREaHpZbDc3bnNVR0dxdXQ2SzcxZVh1ejV4QTg0bE9BU2pyNXdCd3lIdlJkQWxZTWNKVFJMd1ZkUzI4X0RUanJkYVVzQjJGSTBLclZpMFdreEd5Y3pKWjhpZ2xLdG1wVG5JdjFZMXBGekYxUW15NERyUXRjSGJhMGhzQk5FN19MdGpfcDkzTlh2MkV5cndnV1VvdHFfUjk3T2NZTUF2ZjQ5b2l2OGNJbUQyRi1qMDFZUURMZE9ra2_SAfgBQVVfeXFMTl9KeGlPcUFnYjU4dTF5czdldjh5MTB2enZfWnlnRWZCaWd3c3VCMm1wWjl1LWtFTzlTRXZDUjV6LWJPeTViamNLc0I4N2VNV1NwdUw1QTVPU29SbDM3NGszcXpneTJyZ2NrRGJrOFcwdXB4cGVsb1pCYW1NalRVV0Nib2tyd1ZkSFFpaE9aeTJ3RWRVYndmcVN1UnRJQUtwMFh2X19rVGNxT3Q3ZnRqRzdMemFQYTJkTHpIMGMwVnNBWW9fMzR2WDd5UTBuVFVoYVdTMDA5bVlsYXhWSXNSZHFZRnVxejRZc2FSX0FfM2R4NkdSWWUxUEg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:31:00 GMT",
+      "lastUpdated": "Mon, 27 Jul 2026 18:31:00 GMT",
+      "areas": [
+        "Urse"
+      ],
       "region": "pune",
       "sources": [
         "The Times of India"
@@ -2702,7 +2905,7 @@
       "summary": "Pusegaon News : नेर फाट्यानजीक आयशर ट्रक-कारची समोरासमोर धडक; पुसेगावातील दांपत्याचा जागीच मृत्यू, मुलगा गंभीर जखमी",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcThvMGstcXZjb1J2VmJzazA2eEhwcktjWjI5aS11UnNZczI5c1RCMk1VVzBjU3BHQlRudmlhMXE3UTVWVHlEMlB6ZE00cDlTUEtRZDBpLWdHRFVVcHZkNlVKVGpISlNoTUE0X1JsVUFhQ2V0bndiM1F4WnFxRDI0aE9VOEs3REhGbzcwLUtyUng4TWJSUV9UZTN1WWE4eldpblBUaWpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkxLVHE0M1h1MWQxNXdXSjFOYXVBeGoxTHdoS184RGZnbnlud1pfOWNYLXFGVjVFWkR2V0djeUhKV1dJUWZGX19lN2xuNGFZRHVPUVc3UEVlUW1vT0Jmem5Rd3o3UWJpQ2FrUkZEOXJvUTBJY1V2TGZZZ2xLTmVyZEVzWmtZSlFGNTFjQTNEN2pxd1NLMFVWTzQyMTBqRzBPeTFCUg?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:37:00 GMT",
       "lastUpdated": "Mon, 27 Jul 2026 12:37:00 GMT",
       "areas": [],
@@ -3000,28 +3203,6 @@
       "region": "pune",
       "sources": [
         "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "राज्यात पावसाचा हाहाकार पुढील 24 तास धोक्याचे हवामान खात्याने दिला हा इशारा",
-      "title": "राज्यात पावसाचा हाहाकार ! पुढील 24 तास धोक्याचे; हवामान खात्याने दिला ''हा'' इशारा",
-      "summary": "राज्यात पावसाचा हाहाकार ! पुढील 24 तास धोक्याचे; हवामान खात्याने दिला ''हा'' इशारा",
-      "source": "Dainik Bhramar",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajJ0eE9fN202MkJBcE00VEh1d293UTFYMW5iMEduVVRxeTV5X3lyZTdWNkw5M1lnTDBHSFl5RE1vcXdGXzV3ZWExX3NSTlZ6WFJpZ0JwbXdIeXNEM0dzQTlKZjczbmJhV2ZpM3BOd181Qkdid0ZXLWZKbnQtZnlXN1ZwN2VzZ093NGtTZ1BDWFlibTdzTTZCM1JqYW91cnptbzZCTktB?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 06:21:34 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 06:21:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Bhramar"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3346,9 +3527,9 @@
     }
   ],
   "summary": {
-    "total": 77,
-    "alerts": 24,
+    "total": 80,
+    "alerts": 27,
     "news": 53
   },
-  "cleanedAt": "2026-07-27T23:06:36.145Z"
+  "cleanedAt": "2026-07-28T00:53:29.299Z"
 }
