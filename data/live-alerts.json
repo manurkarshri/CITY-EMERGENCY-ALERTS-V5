@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:13:00.159Z",
+  "generatedAt": "2026-07-28T20:40:44.581Z",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,36 @@
       "icon": "🚨",
       "critical": true,
       "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "maharashtra monsoon deficit shrinks to 4 amid rain revival triple digit showers continue i",
+      "title": "Maharashtra monsoon deficit shrinks to 4% amid rain revival; triple-digit showers continue in ghats",
+      "summary": "Maharashtra monsoon deficit shrinks to 4% amid rain revival; triple-digit showers continue in ghats",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2daU0hGbDkyR1pNNERrbFAzNWQ2RlU5SGRNa1V3S0hFRzg0QjJDWE1FVWptcXJkTEZ3RUdpQUZrbS1iVlRzQjU0cmJuWWsxaDdrY1VuV21WZkZoQmRpTmxuU0pqV1Y1UTA5SnpteVItNlA2d0Jla1BWLXNjdnE3U25Rb3VTSFdEdVhYX05fWUVCX1plcVh1LTVzNjNDdWxKWmh5Z2huOHFyaXc0VHJLTkRja2tlc2lHdkNqVEZLUkxMQjQ5RFd4NnI1eVFOWmxUbHUydDZKNFg4TkM1S0xqNlh2bFExaTBZODNacVZraWxneWN4amFrMl9iZmI1UQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 18:37:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 18:37:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -619,7 +649,7 @@
       "id": "2026 07 28 time of issue 13 43 00 hours ist mid day all india weather summary and forecast",
       "title": "2026-07-28 Time of Issue: 13:43:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
       "summary": "2026-07-28 Time of Issue: 13:43:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
-      "source": "India Meteorological Department",
+      "source": "IMD",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTExVGQxWDd0WXhiOUJwSmwzUGVycEpXbWdxR2FfeXQxZHZrT25zVU9Ta1ItZFdoWmhVZW1FQmI0ZlNYWk9xOVFCUDQ5M1p4UW1MNTVyNDNlYXJocTF1V2huNUs3dklUNF9KYkFZcVJ3VjNDclJJSHc2SmxUamhYQnNlRVBkZHQ1N29iQkt5RE0?oc=5",
       "pubDate": "Tue, 28 Jul 2026 08:22:52 GMT",
@@ -627,7 +657,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Meteorological Department"
+        "IMD"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -1133,28 +1163,6 @@
       "region": "pune",
       "sources": [
         "Loksatta"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "barvi dam ७९ टक्के भरले स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "title": "Barvi Dam ७९ टक्के भरले; स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "summary": "Barvi Dam ७९ टक्के भरले; स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "source": "marathi.hindusthanpost.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3pRcXN6eUR3enEwa2NydElhQzFBMGsyeHNETmxYSGJpc2NOQjEzVkxGYVloMlNCdW5mYWg3ckVqRFpCbDd1ZjlnWEtXV0NTU3VtZWRUU21RdDhnMm9SNTROZlVlMW5PWjVpeHdPb0NlS3B2NUl2eDFKeWZsc19xM3ZQYVFJS29kQjdUeW9BYUdFX1VWY2syQ0lyR3FYYkl6dURTdVRDMmdmU2xuV1FfdU14cVg?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:45:35 GMT",
-      "lastUpdated": "Tue, 28 Jul 2026 12:45:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "marathi.hindusthanpost.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2101,28 +2109,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "राज्यात आजपासून पावसाचा जोर वाढणार मुंबई ठाणे अन् पुण्यात ऑरेंज अलर्ट मराठवाड्यात विजांच्य",
-      "title": "राज्यात आजपासून पावसाचा जोर वाढणार!: मुंबई, ठाणे अन् पुण्यात ऑरेंज अलर्ट; मराठवाड्यात विजांच्या कडकडाटासह प...",
-      "summary": "राज्यात आजपासून पावसाचा जोर वाढणार!: मुंबई, ठाणे अन् पुण्यात ऑरेंज अलर्ट; मराठवाड्यात विजांच्या कडकडाटासह प...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeEFoUWd0Q19IN2JVZ1lqbkdlZG9QN1g2eVpNaVhLMVJNS3BKbGhsdGhIMGRIdl9DZmVpX01zNl92MEVWQ2FzbnRiTjJMZHJXT0had3FVWDhpWUVYSWNwTjNCUVZtYzZVTVp1aF9IYVYxcl84ZkRaUVVFR3EtN1VIb3l2NzI5RldKV0YzZ3lnNWY1WE9CS2hUTjZkUEVDSk80S3g0Rl9xS0p1MjdmblpVVlFZTVM5QTh2Vlp1SnpRUXU2VnY4bkVrc0NFZ9IB0AFBVV95cUxOOEpDOXJoM0VrTklkRVljRDlUZzlmNTFKd2thTTRIUWhXRG85ZkNaRU5FUnloa2Zqa0lNbVUxbHpqMXhBeG8tc0JqYmxRREZqSmdIY29PVElvQXpDYzlkWGhhTVZZQUJHNjFoTTA1UlJ1OFBvd1A3N1Y4VEJ2cDFjUTd5MGRMbG9GSHdRTlNwdG4zNTdFR0pha0o2OFNlU1BlRGg3SFkxTW9URlpsRUNFYk00aWo4TFZUMEdnWkkyQ1VVLVRTRjdwTng2bVBaVUxa?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:28:27 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 20:28:27 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -2155,6 +2141,33 @@
       "icon": "🚨",
       "critical": true,
       "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "maharashtra monsoon deficit shrinks to 4 amid rain revival triple digit showers continue i",
+      "title": "Maharashtra monsoon deficit shrinks to 4% amid rain revival; triple-digit showers continue in ghats",
+      "summary": "Maharashtra monsoon deficit shrinks to 4% amid rain revival; triple-digit showers continue in ghats",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2daU0hGbDkyR1pNNERrbFAzNWQ2RlU5SGRNa1V3S0hFRzg0QjJDWE1FVWptcXJkTEZ3RUdpQUZrbS1iVlRzQjU0cmJuWWsxaDdrY1VuV21WZkZoQmRpTmxuU0pqV1Y1UTA5SnpteVItNlA2d0Jla1BWLXNjdnE3U25Rb3VTSFdEdVhYX05fWUVCX1plcVh1LTVzNjNDdWxKWmh5Z2huOHFyaXc0VHJLTkRja2tlc2lHdkNqVEZLUkxMQjQ5RFd4NnI1eVFOWmxUbHUydDZKNFg4TkM1S0xqNlh2bFExaTBZODNacVZraWxneWN4amFrMl9iZmI1UQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 18:37:00 GMT",
+      "lastUpdated": "Tue, 28 Jul 2026 18:37:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "water release from dams eases but flood alert along rivers stays",
@@ -3180,28 +3193,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "barvi dam ७९ टक्के भरले स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "title": "Barvi Dam ७९ टक्के भरले; स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "summary": "Barvi Dam ७९ टक्के भरले; स्वयंचलित दरवाज्यांतून गळतीमुळे पाण्याचा अपव्यय",
-      "source": "marathi.hindusthanpost.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3pRcXN6eUR3enEwa2NydElhQzFBMGsyeHNETmxYSGJpc2NOQjEzVkxGYVloMlNCdW5mYWg3ckVqRFpCbDd1ZjlnWEtXV0NTU3VtZWRUU21RdDhnMm9SNTROZlVlMW5PWjVpeHdPb0NlS3B2NUl2eDFKeWZsc19xM3ZQYVFJS29kQjdUeW9BYUdFX1VWY2syQ0lyR3FYYkl6dURTdVRDMmdmU2xuV1FfdU14cVg?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:45:35 GMT",
-      "lastUpdated": "Tue, 28 Jul 2026 12:45:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "marathi.hindusthanpost.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra rain alert पुणे ठाण्यासह 33 जिल्ह्यांना पावसाचा यलो अलर्ट मुंबईची काय स्थिती प",
       "title": "Maharashtra Rain Alert: पुणे, ठाण्यासह 33 जिल्ह्यांना पावसाचा यलो अलर्ट, मुंबईची काय स्थिती? पाहा तुमच्या जिल्ह्यातील पावसाचा अंदाज maharashtra rain update imd issues yellow alert for thane palghar nashik pun",
       "summary": "Maharashtra Rain Alert: पुणे, ठाण्यासह 33 जिल्ह्यांना पावसाचा यलो अलर्ट, मुंबईची काय स्थिती? पाहा तुमच्या जिल्ह्यातील पावसाचा अंदाज maharashtra rain update imd issues yellow alert for thane palghar nashik pun",
@@ -3320,7 +3311,7 @@
       "id": "2026 07 28 time of issue 13 43 00 hours ist mid day all india weather summary and forecast",
       "title": "2026-07-28 Time of Issue: 13:43:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
       "summary": "2026-07-28 Time of Issue: 13:43:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
-      "source": "India Meteorological Department",
+      "source": "IMD",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTExVGQxWDd0WXhiOUJwSmwzUGVycEpXbWdxR2FfeXQxZHZrT25zVU9Ta1ItZFdoWmhVZW1FQmI0ZlNYWk9xOVFCUDQ5M1p4UW1MNTVyNDNlYXJocTF1V2huNUs3dklUNF9KYkFZcVJ3VjNDclJJSHc2SmxUamhYQnNlRVBkZHQ1N29iQkt5RE0?oc=5",
       "pubDate": "Tue, 28 Jul 2026 08:22:52 GMT",
@@ -3328,7 +3319,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Meteorological Department"
+        "IMD"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -4136,34 +4127,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "राज्यात आजपासून पावसाचा जोर वाढणार मुंबई ठाणे अन् पुण्यात ऑरेंज अलर्ट मराठवाड्यात विजांच्य",
-      "title": "राज्यात आजपासून पावसाचा जोर वाढणार!: मुंबई, ठाणे अन् पुण्यात ऑरेंज अलर्ट; मराठवाड्यात विजांच्या कडकडाटासह प...",
-      "summary": "राज्यात आजपासून पावसाचा जोर वाढणार!: मुंबई, ठाणे अन् पुण्यात ऑरेंज अलर्ट; मराठवाड्यात विजांच्या कडकडाटासह प...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeEFoUWd0Q19IN2JVZ1lqbkdlZG9QN1g2eVpNaVhLMVJNS3BKbGhsdGhIMGRIdl9DZmVpX01zNl92MEVWQ2FzbnRiTjJMZHJXT0had3FVWDhpWUVYSWNwTjNCUVZtYzZVTVp1aF9IYVYxcl84ZkRaUVVFR3EtN1VIb3l2NzI5RldKV0YzZ3lnNWY1WE9CS2hUTjZkUEVDSk80S3g0Rl9xS0p1MjdmblpVVlFZTVM5QTh2Vlp1SnpRUXU2VnY4bkVrc0NFZ9IB0AFBVV95cUxOOEpDOXJoM0VrTklkRVljRDlUZzlmNTFKd2thTTRIUWhXRG85ZkNaRU5FUnloa2Zqa0lNbVUxbHpqMXhBeG8tc0JqYmxRREZqSmdIY29PVElvQXpDYzlkWGhhTVZZQUJHNjFoTTA1UlJ1OFBvd1A3N1Y4VEJ2cDFjUTd5MGRMbG9GSHdRTlNwdG4zNTdFR0pha0o2OFNlU1BlRGg3SFkxTW9URlpsRUNFYk00aWo4TFZUMEdnWkkyQ1VVLVRTRjdwTng2bVBaVUxa?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:28:27 GMT",
-      "lastUpdated": "Mon, 27 Jul 2026 20:28:27 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 95,
-    "alerts": 32,
-    "news": 63
+    "total": 94,
+    "alerts": 33,
+    "news": 61
   },
-  "cleanedAt": "2026-07-28T19:13:00.273Z"
+  "cleanedAt": "2026-07-28T20:40:44.592Z"
 }
