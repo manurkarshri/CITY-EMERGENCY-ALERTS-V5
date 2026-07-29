@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:53:41.092Z",
+  "generatedAt": "2026-07-29T22:54:53.973Z",
   "status": "ok",
   "alerts": [
     {
@@ -42,6 +42,38 @@
       "region": "pune",
       "sources": [
         "Punekar News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "imd warns of flash flood risk across central india as monsoon intensifies",
+      "title": "IMD warns of flash flood risk across central India as monsoon intensifies",
+      "summary": "IMD warns of flash flood risk across central India as monsoon intensifies",
+      "source": "Business Upturn",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlNrVGI1UzBZUDRVd0VIU1NVYlVSVnVmUHFVY1M1cFdLWnFHcEJTYjliQTc1TE41MlJSY2FPM05CWGdfTmJJbE5kZE1VcjRtREhVN21mRDNKOHp5WU5IZXZhZHg0cVJBU2RBM1d3eHBiMWtMbkZ1X0o3SzIwdnkxbU40RDk3QWVXVU1UaWpwNHlKcmhDajZqYkpmbTBnR1dJNE1vNW1tMWtZb0lvMkJkelln?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 15:50:47 GMT",
+      "lastUpdated": "Wed, 29 Jul 2026 15:50:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Business Upturn"
       ],
       "confidence": "Single source",
       "w": [
@@ -590,7 +622,7 @@
       "sources": [
         "The Sunday Guardian",
         "The Economic Times",
-        "Jagran Josh"
+        "jagranjosh.com"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -607,7 +639,7 @@
       "id": "nitin gadkari नाशिक पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
       "title": "Nitin Gadkari: नाशिक-पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
       "summary": "Nitin Gadkari: नाशिक-पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
-      "source": "Tendernama + 1 more",
+      "source": "tendernama.com + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDlLQVdxanZleEVraUtXa2RhTGxJQkttLS1hMFhOQVZGQmhTUDI5ekZpSmp5ZDJzNW5yelFCVEI1VFlERy0zbnR0dmptTEtKTXJyT2hmT0dmUGlRUjJqX2hHTS1nenJlVW9Ma1A5bGRidl9iS3F4cEJuSUpIV0ppMkpmNERGX00ybFlYMkx5b3o1Y2hjbVAyaVFPSERHOUUybDMyQ0VDb9IBtAFBVV95cUxOczVpRUFGbmh2WXhNN2hpWXh3b1V1OFhTWllyN2RwTExzUlcyTGRoanhXYm95VVhweVlVQ1I1YTBNU0ExbWVqUmhtVk5EMzhPbEU1anp6T0FDTlYyb2EyTm15LXRydURvZ3N2Z3VNYjIzM29fUTVwM1FOWC1kdmRuSVFkelZoN3ZRRnAxR2RIR3FWR1JOMHZvaEJqQXBoNDEyamJXVFlNUExmdmVVazdOdmVsb0E?oc=5",
       "pubDate": "Wed, 29 Jul 2026 12:17:25 GMT",
@@ -615,7 +647,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Tendernama",
+        "tendernama.com",
         "Prahaar.in"
       ],
       "confidence": "Medium",
@@ -886,7 +918,7 @@
       "id": "नाशिक पुणे महामार्गावरील कोंडी लोकसभेत गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
       "title": "नाशिक-पुणे महामार्गावरील कोंडी लोकसभेत; गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
       "summary": "नाशिक-पुणे महामार्गावरील कोंडी लोकसभेत; गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
-      "source": "Loksatta",
+      "source": "loksatta.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFRLblZVYWVGakxjd0FUbzA3eUlyWUcyMGFodEhUVGxoNUFrSlFQRjBjaUd6U1JQYnJkSXc4bGFoRWI0d1JibTJUdHVEVTlnTk5MSlZONmJzZ2RPbmNkamRoNjZURVRveXA5Mk55c0VhZGc3Q0c1WmlFSU4yNGpNTzJoZnFDN2FLZ1BaYWFxSE5KZ0hLQnNIeU05TmlNSDdRcUU2VHBZbzR5UGpsdjJKRi1qVTE5Y1hOb0o1RDBR0gHEAUFVX3lxTFBEWTgyVXNSTDQwWHJFZ1JqQk5YcElaMzlOc1dqaFd6dHA0b2otWVpLSXJLdEJ6b1JiUFRQVGJTVUVjbkhBM1pYNG9UdnNUcVY1NGpwcjR2OW1jalBFVk1zV0VFd0htRFl5bXVFY1ItVXBQRnBrQkdYTHFHY2JYaThEZ2l6bWpnaWctLUhQUE1BalZZUmQ2aklfNVNQLXlheXBKeHB5NnZhdG13V1BGa1RrOUo2UkxkNGlvT3l2YS1XSFFzVGg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 09:51:32 GMT",
@@ -894,7 +926,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Loksatta"
+        "loksatta.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1184,7 +1216,7 @@
       "id": "राज्यात वरुणराजाचे दमदार कमबॅक विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट नागपूर गडच",
       "title": "राज्यात वरुणराजाचे दमदार कमबॅक: विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट; नागपूर-गडचिरोलीत शाळांना ...",
       "summary": "राज्यात वरुणराजाचे दमदार कमबॅक: विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट; नागपूर-गडचिरोलीत शाळांना ...",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDZDVmk2OHlVdHFVYVdvYXl1ZDhYLUp1SVZVNHJZTVZmdmZIeTlMRmliNjJPeXVzNnhhQ05mNk5ZdUJlU3Z3SW80M3VlWkNrM1VNOFBDanpncWV6ZlhOOXlQMWRVaWptR1lCOXlwVHB3SkJLZkhBTjdaaDNJcFRtaW0tZDFDNUFXOHZFY01PNFFZNHg0N1JxRkFwR2dzNVZxZXNWUzRPMHl4c2RDLUhsMUdGMTdvd21fMFJiU24tT3BySWlEcUVnYXNsMWpYdzBIYUJGQWtObmZvWlXSAdsBQVVfeXFMTlQ2Q1ZpNjh5VXRxVWFXb2F5dWQ4WC1KdUlWVTRyWU1WZnZmSHk5TEZpYjYyT3l1czZ4YUNOZjZOWXVCZVN2d0lvNDN1ZVpDazNVTThQQ2p6Z3FlemZYTjl5UDFkVWlqbUdZQjl5cFRwd0pCS2ZIQU43WmgzSXBUbWltLWQxQzVBVzh2RWNNTzRRWTR4NDdScUZBcEdnczVWcWVzVlM0TzB5eHNkQy1IbDFHRjE3b3dtXzBSYlNuLU9wcklpRHFFZ2FzbDFqWHcwSGFCRkFrTm5mb1pV?oc=5",
       "pubDate": "Wed, 29 Jul 2026 03:12:02 GMT",
@@ -1192,7 +1224,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1479,7 +1511,7 @@
       "id": "maharashtra weather महाराष्ट्रात तूफान पाऊस या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर पुढील 2",
       "title": "Maharashtra Weather Update : महाराष्ट्रात तूफान पाऊस, या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर, पुढील 24...",
       "summary": "Maharashtra Weather Update : महाराष्ट्रात तूफान पाऊस, या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर, पुढील 24...",
-      "source": "TV9 Marathi",
+      "source": "tv9marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYVhLLXFObl9mVi1TRmdGR1laTVJtNXF3cHozSkZiUXZiLW00dDZURzZlTWg2Wk9TN1JGRFF5TWhaeTZYZlJTanFhZHVTQ1F0dThhYTR0MGZKblM5QmtqQzFCQ2Y3eTd3WUp0VlR1aHd2LXVUUVhmbTkxLU9CQnlEcjM0TTZ4MTJ5SUp6czNBeDhkVV9wZnlkdkQ3dmNISFZoY3pMWGp3VVp5TTVFcXBzNG9kSXJGeHBUbG5CeU15czMyUVdDWUNwRG5kOEV5VzdNQ2Z2aDBPYWdtUldtZHpBUEpfN0Roa2FlYkNKOHAxb1paOHREV0pIX25YalNsbDJ1RUUzVEFUQ2dCa0d0RXpnOVJUbDhRdmxqQmZBaHZNN1hMUDY1dGh3eVk3OG9lbU5mNGE1SGJUYkVReWFuNkdNc1l4ZUNhbVAzS1c4aHdaczlzVTk2V0h5VnE5WGhGSmM5WVd6TtIB5AJBVV95cUxQYVhLLXFObl9mVi1TRmdGR1laTVJtNXF3cHozSkZiUXZiLW00dDZURzZlTWg2Wk9TN1JGRFF5TWhaeTZYZlJTanFhZHVTQ1F0dThhYTR0MGZKblM5QmtqQzFCQ2Y3eTd3WUp0VlR1aHd2LXVUUVhmbTkxLU9CQnlEcjM0TTZ4MTJ5SUp6czNBeDhkVV9wZnlkdkQ3dmNISFZoY3pMWGp3VVp5TTVFcXBzNG9kSXJGeHBUbG5CeU15czMyUVdDWUNwRG5kOEV5VzdNQ2Z2aDBPYWdtUldtZHpBUEpfN0Roa2FlYkNKOHAxb1paOHREV0pIX25YalNsbDJ1RUUzVEFUQ2dCa0d0RXpnOVJUbDhRdmxqQmZBaHZNN1hMUDY1dGh3eVk3OG9lbU5mNGE1SGJUYkVReWFuNkdNc1l4ZUNhbVAzS1c4aHdaczlzVTk2V0h5VnE5WGhGSmM5WVd6Tg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 01:45:43 GMT",
@@ -1487,7 +1519,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi"
+        "tv9marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1573,7 +1605,7 @@
       "id": "राज्यात पावसाचा धुमाकूळ पालघरमध्ये शाळांना सुट्टी पुण्यात रेड अलर्ट मराठवाडा विदर्भात दिला",
       "title": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
       "summary": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazFBWEptNHJFaGNJNGlPOHc5RloxTWdrNGRrdGtSVUF4T084MUFWSnVsVHNjQ1BqR2RBR0t0UldrWENKX0lvZUg0aDBrQ2hvUU5tTUVub19sMWN5dU9ydDBqcDBOOEw3d1NiUUtkbEZQTUt2NGMtR1ZWVjBtOWNua2l5NkpZdVlNMUk2eDhRc2tHY0NZc3Y4SHBVeXBzSENHQTktNWo2cDg1QU1obERubmJISnJ5dHJyNlo2dTJkT0VlcElkZkt0ZmN4eXNxWW5N0gHWAUFVX3lxTE1rZDdoV3VKSElRb25vdklxWU5RT0UwZ1B3X0ZsSzdqaWlIQkllV1VjQzRRc0U4azlPVERhdnRENS1ERkVTdGJrcWNaUlA2LTBsOE5IU0RFNENGU01DamVLZ3pQQUR2RlhhUkprdGY3S3o5dGo5LVRLR25HcHJ1ckFieWZMWm42YnNDcWxHSy1SdEo3dGlncVh0d2NXa1ZpcFN4RTk2QlJXZjNPZ3hrNnNsUXVGSzAteXZJMVlWbVl4YnRoZzhqSXdILWtGb2hlSGctazBCcHc?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:17:12 GMT",
@@ -1581,7 +1613,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1590,31 +1622,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai imd weather yellow warning sounded raigad braces for very heavy rainfall on tuesday",
-      "title": "Mumbai IMD weather: Yellow warning sounded; Raigad braces for ‘very heavy rainfall’ on Tuesday, July 28",
-      "summary": "Mumbai IMD weather: Yellow warning sounded; Raigad braces for ‘very heavy rainfall’ on Tuesday, July 28",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaHZuZWh6R3JvQXVXMXExRHF5Rjh5WTBxcE1KWEJFNm81UW10YVd3blpPX1Z0NEhyY3BzamJEZnFfUUF4SWdWY0l5UTA1NzAxMDA1NElndVFaYVpjd1ZQMjBGdENBYVdBYU5MQnJLdUUyUmRLT1Bnb0ZlMDBlTksyZ1BFRlRwQjhwVmZUeXNUN01CT2hDRUpBMHhNdkNCY3VMVHRnMGxLcmVJaEZpdXBOdHJvbE9IQnJEOENkNG5qOVp1Skgzb3E1QWx5Yk96MTg5cTBCYmhFbi10WWJJRGN0SlJWd0ZCWDJ5aGtFTzFsV3duQVRYNjBUN3BmWUpRR0NUTTVsWWtoS1BPWU1odXNMbkFSTdIBmgJBVV95cUxOaS02MVhOQUFkZU5nMk11bEo4aWRLN2YybWRrUmJTUGdNMEtfOTJYR0p3TU1PMkR4eWxtVWFUcG8wYTB2U0dPLWxJV3duZjV3VGZvUTFTMlF4TTNGck9ld0pZQmd6X0p4NjFJc1c3S1RTX1hCTlY1bUR4WkNwb05nQllhYlM1ejZQcnd4TDA3bEpqTkJ6UkJVdUdrb0lvXy1BM1FwXy02T001SktSeVRGY1IwZE1teHk1NlhMdWZmMm84dlF5cDZ6dlZrc09hLVV2LTR4SnVpUE9rOVV5MXVvWURXYXhZWnRfWU1hTXpJbWI0OEp4UzBLclVTWHZNU25nZzI5MmNGMTQ2WUQ4d2dUTnNFemk4UUw3WXc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 22:24:26 GMT",
-      "lastUpdated": "Tue, 28 Jul 2026 22:24:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -1658,6 +1665,35 @@
       "region": "pune",
       "sources": [
         "Punekar News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "imd warns of flash flood risk across central india as monsoon intensifies",
+      "title": "IMD warns of flash flood risk across central India as monsoon intensifies",
+      "summary": "IMD warns of flash flood risk across central India as monsoon intensifies",
+      "source": "Business Upturn",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlNrVGI1UzBZUDRVd0VIU1NVYlVSVnVmUHFVY1M1cFdLWnFHcEJTYjliQTc1TE41MlJSY2FPM05CWGdfTmJJbE5kZE1VcjRtREhVN21mRDNKOHp5WU5IZXZhZHg0cVJBU2RBM1d3eHBiMWtMbkZ1X0o3SzIwdnkxbU40RDk3QWVXVU1UaWpwNHlKcmhDajZqYkpmbTBnR1dJNE1vNW1tMWtZb0lvMkJkelln?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 15:50:47 GMT",
+      "lastUpdated": "Wed, 29 Jul 2026 15:50:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Business Upturn"
       ],
       "confidence": "Single source",
       "w": [
@@ -2180,7 +2216,7 @@
       "sources": [
         "The Sunday Guardian",
         "The Economic Times",
-        "Jagran Josh"
+        "jagranjosh.com"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -2194,7 +2230,7 @@
       "id": "nitin gadkari नाशिक पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
       "title": "Nitin Gadkari: नाशिक-पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
       "summary": "Nitin Gadkari: नाशिक-पुणे महामार्गावर एलिव्हेटेड कॉरिडॉरसाठी 7801 कोटी मंजूर",
-      "source": "Tendernama + 1 more",
+      "source": "tendernama.com + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDlLQVdxanZleEVraUtXa2RhTGxJQkttLS1hMFhOQVZGQmhTUDI5ekZpSmp5ZDJzNW5yelFCVEI1VFlERy0zbnR0dmptTEtKTXJyT2hmT0dmUGlRUjJqX2hHTS1nenJlVW9Ma1A5bGRidl9iS3F4cEJuSUpIV0ppMkpmNERGX00ybFlYMkx5b3o1Y2hjbVAyaVFPSERHOUUybDMyQ0VDb9IBtAFBVV95cUxOczVpRUFGbmh2WXhNN2hpWXh3b1V1OFhTWllyN2RwTExzUlcyTGRoanhXYm95VVhweVlVQ1I1YTBNU0ExbWVqUmhtVk5EMzhPbEU1anp6T0FDTlYyb2EyTm15LXRydURvZ3N2Z3VNYjIzM29fUTVwM1FOWC1kdmRuSVFkelZoN3ZRRnAxR2RIR3FWR1JOMHZvaEJqQXBoNDEyamJXVFlNUExmdmVVazdOdmVsb0E?oc=5",
       "pubDate": "Wed, 29 Jul 2026 12:17:25 GMT",
@@ -2202,7 +2238,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Tendernama",
+        "tendernama.com",
         "Prahaar.in"
       ],
       "confidence": "Medium",
@@ -2461,7 +2497,7 @@
       "id": "नाशिक पुणे महामार्गावरील कोंडी लोकसभेत गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
       "title": "नाशिक-पुणे महामार्गावरील कोंडी लोकसभेत; गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
       "summary": "नाशिक-पुणे महामार्गावरील कोंडी लोकसभेत; गडकरींनी सांगितली एलिव्हेटेड कॉरिडॉरची सद्यस्थिती",
-      "source": "Loksatta",
+      "source": "loksatta.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFRLblZVYWVGakxjd0FUbzA3eUlyWUcyMGFodEhUVGxoNUFrSlFQRjBjaUd6U1JQYnJkSXc4bGFoRWI0d1JibTJUdHVEVTlnTk5MSlZONmJzZ2RPbmNkamRoNjZURVRveXA5Mk55c0VhZGc3Q0c1WmlFSU4yNGpNTzJoZnFDN2FLZ1BaYWFxSE5KZ0hLQnNIeU05TmlNSDdRcUU2VHBZbzR5UGpsdjJKRi1qVTE5Y1hOb0o1RDBR0gHEAUFVX3lxTFBEWTgyVXNSTDQwWHJFZ1JqQk5YcElaMzlOc1dqaFd6dHA0b2otWVpLSXJLdEJ6b1JiUFRQVGJTVUVjbkhBM1pYNG9UdnNUcVY1NGpwcjR2OW1jalBFVk1zV0VFd0htRFl5bXVFY1ItVXBQRnBrQkdYTHFHY2JYaThEZ2l6bWpnaWctLUhQUE1BalZZUmQ2aklfNVNQLXlheXBKeHB5NnZhdG13V1BGa1RrOUo2UkxkNGlvT3l2YS1XSFFzVGg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 09:51:32 GMT",
@@ -2469,7 +2505,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Loksatta"
+        "loksatta.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2756,7 +2792,7 @@
       "id": "राज्यात वरुणराजाचे दमदार कमबॅक विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट नागपूर गडच",
       "title": "राज्यात वरुणराजाचे दमदार कमबॅक: विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट; नागपूर-गडचिरोलीत शाळांना ...",
       "summary": "राज्यात वरुणराजाचे दमदार कमबॅक: विदर्भात ऑरेंज तर उर्वरित महाराष्ट्रात यलो अलर्ट; नागपूर-गडचिरोलीत शाळांना ...",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDZDVmk2OHlVdHFVYVdvYXl1ZDhYLUp1SVZVNHJZTVZmdmZIeTlMRmliNjJPeXVzNnhhQ05mNk5ZdUJlU3Z3SW80M3VlWkNrM1VNOFBDanpncWV6ZlhOOXlQMWRVaWptR1lCOXlwVHB3SkJLZkhBTjdaaDNJcFRtaW0tZDFDNUFXOHZFY01PNFFZNHg0N1JxRkFwR2dzNVZxZXNWUzRPMHl4c2RDLUhsMUdGMTdvd21fMFJiU24tT3BySWlEcUVnYXNsMWpYdzBIYUJGQWtObmZvWlXSAdsBQVVfeXFMTlQ2Q1ZpNjh5VXRxVWFXb2F5dWQ4WC1KdUlWVTRyWU1WZnZmSHk5TEZpYjYyT3l1czZ4YUNOZjZOWXVCZVN2d0lvNDN1ZVpDazNVTThQQ2p6Z3FlemZYTjl5UDFkVWlqbUdZQjl5cFRwd0pCS2ZIQU43WmgzSXBUbWltLWQxQzVBVzh2RWNNTzRRWTR4NDdScUZBcEdnczVWcWVzVlM0TzB5eHNkQy1IbDFHRjE3b3dtXzBSYlNuLU9wcklpRHFFZ2FzbDFqWHcwSGFCRkFrTm5mb1pV?oc=5",
       "pubDate": "Wed, 29 Jul 2026 03:12:02 GMT",
@@ -2764,7 +2800,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3042,7 +3078,7 @@
       "id": "maharashtra weather महाराष्ट्रात तूफान पाऊस या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर पुढील 2",
       "title": "Maharashtra Weather Update : महाराष्ट्रात तूफान पाऊस, या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर, पुढील 24...",
       "summary": "Maharashtra Weather Update : महाराष्ट्रात तूफान पाऊस, या जिल्ह्यांमध्ये शाळांना सुट्टी जाहीर, पुढील 24...",
-      "source": "TV9 Marathi",
+      "source": "tv9marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYVhLLXFObl9mVi1TRmdGR1laTVJtNXF3cHozSkZiUXZiLW00dDZURzZlTWg2Wk9TN1JGRFF5TWhaeTZYZlJTanFhZHVTQ1F0dThhYTR0MGZKblM5QmtqQzFCQ2Y3eTd3WUp0VlR1aHd2LXVUUVhmbTkxLU9CQnlEcjM0TTZ4MTJ5SUp6czNBeDhkVV9wZnlkdkQ3dmNISFZoY3pMWGp3VVp5TTVFcXBzNG9kSXJGeHBUbG5CeU15czMyUVdDWUNwRG5kOEV5VzdNQ2Z2aDBPYWdtUldtZHpBUEpfN0Roa2FlYkNKOHAxb1paOHREV0pIX25YalNsbDJ1RUUzVEFUQ2dCa0d0RXpnOVJUbDhRdmxqQmZBaHZNN1hMUDY1dGh3eVk3OG9lbU5mNGE1SGJUYkVReWFuNkdNc1l4ZUNhbVAzS1c4aHdaczlzVTk2V0h5VnE5WGhGSmM5WVd6TtIB5AJBVV95cUxQYVhLLXFObl9mVi1TRmdGR1laTVJtNXF3cHozSkZiUXZiLW00dDZURzZlTWg2Wk9TN1JGRFF5TWhaeTZYZlJTanFhZHVTQ1F0dThhYTR0MGZKblM5QmtqQzFCQ2Y3eTd3WUp0VlR1aHd2LXVUUVhmbTkxLU9CQnlEcjM0TTZ4MTJ5SUp6czNBeDhkVV9wZnlkdkQ3dmNISFZoY3pMWGp3VVp5TTVFcXBzNG9kSXJGeHBUbG5CeU15czMyUVdDWUNwRG5kOEV5VzdNQ2Z2aDBPYWdtUldtZHpBUEpfN0Roa2FlYkNKOHAxb1paOHREV0pIX25YalNsbDJ1RUUzVEFUQ2dCa0d0RXpnOVJUbDhRdmxqQmZBaHZNN1hMUDY1dGh3eVk3OG9lbU5mNGE1SGJUYkVReWFuNkdNc1l4ZUNhbVAzS1c4aHdaczlzVTk2V0h5VnE5WGhGSmM5WVd6Tg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 01:45:43 GMT",
@@ -3050,7 +3086,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi"
+        "tv9marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3130,7 +3166,7 @@
       "id": "राज्यात पावसाचा धुमाकूळ पालघरमध्ये शाळांना सुट्टी पुण्यात रेड अलर्ट मराठवाडा विदर्भात दिला",
       "title": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
       "summary": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazFBWEptNHJFaGNJNGlPOHc5RloxTWdrNGRrdGtSVUF4T084MUFWSnVsVHNjQ1BqR2RBR0t0UldrWENKX0lvZUg0aDBrQ2hvUU5tTUVub19sMWN5dU9ydDBqcDBOOEw3d1NiUUtkbEZQTUt2NGMtR1ZWVjBtOWNua2l5NkpZdVlNMUk2eDhRc2tHY0NZc3Y4SHBVeXBzSENHQTktNWo2cDg1QU1obERubmJISnJ5dHJyNlo2dTJkT0VlcElkZkt0ZmN4eXNxWW5N0gHWAUFVX3lxTE1rZDdoV3VKSElRb25vdklxWU5RT0UwZ1B3X0ZsSzdqaWlIQkllV1VjQzRRc0U4azlPVERhdnRENS1ERkVTdGJrcWNaUlA2LTBsOE5IU0RFNENGU01DamVLZ3pQQUR2RlhhUkprdGY3S3o5dGo5LVRLR25HcHJ1ckFieWZMWm42YnNDcWxHSy1SdEo3dGlncVh0d2NXa1ZpcFN4RTk2QlJXZjNPZ3hrNnNsUXVGSzAteXZJMVlWbVl4YnRoZzhqSXdILWtGb2hlSGctazBCcHc?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:17:12 GMT",
@@ -3138,29 +3174,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai imd weather yellow warning sounded raigad braces for very heavy rainfall on tuesday",
-      "title": "Mumbai IMD weather: Yellow warning sounded; Raigad braces for ‘very heavy rainfall’ on Tuesday, July 28",
-      "summary": "Mumbai IMD weather: Yellow warning sounded; Raigad braces for ‘very heavy rainfall’ on Tuesday, July 28",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaHZuZWh6R3JvQXVXMXExRHF5Rjh5WTBxcE1KWEJFNm81UW10YVd3blpPX1Z0NEhyY3BzamJEZnFfUUF4SWdWY0l5UTA1NzAxMDA1NElndVFaYVpjd1ZQMjBGdENBYVdBYU5MQnJLdUUyUmRLT1Bnb0ZlMDBlTksyZ1BFRlRwQjhwVmZUeXNUN01CT2hDRUpBMHhNdkNCY3VMVHRnMGxLcmVJaEZpdXBOdHJvbE9IQnJEOENkNG5qOVp1Skgzb3E1QWx5Yk96MTg5cTBCYmhFbi10WWJJRGN0SlJWd0ZCWDJ5aGtFTzFsV3duQVRYNjBUN3BmWUpRR0NUTTVsWWtoS1BPWU1odXNMbkFSTdIBmgJBVV95cUxOaS02MVhOQUFkZU5nMk11bEo4aWRLN2YybWRrUmJTUGdNMEtfOTJYR0p3TU1PMkR4eWxtVWFUcG8wYTB2U0dPLWxJV3duZjV3VGZvUTFTMlF4TTNGck9ld0pZQmd6X0p4NjFJc1c3S1RTX1hCTlY1bUR4WkNwb05nQllhYlM1ejZQcnd4TDA3bEpqTkJ6UkJVdUdrb0lvXy1BM1FwXy02T001SktSeVRGY1IwZE1teHk1NlhMdWZmMm84dlF5cDZ6dlZrc09hLVV2LTR4SnVpUE9rOVV5MXVvWURXYXhZWnRfWU1hTXpJbWI0OEp4UzBLclVTWHZNU25nZzI5MmNGMTQ2WUQ4d2dUTnNFemk4UUw3WXc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 22:24:26 GMT",
-      "lastUpdated": "Tue, 28 Jul 2026 22:24:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3173,8 +3187,8 @@
   ],
   "summary": {
     "total": 74,
-    "alerts": 23,
-    "news": 51
+    "alerts": 24,
+    "news": 50
   },
-  "cleanedAt": "2026-07-29T21:53:41.128Z"
+  "cleanedAt": "2026-07-29T22:54:53.986Z"
 }
