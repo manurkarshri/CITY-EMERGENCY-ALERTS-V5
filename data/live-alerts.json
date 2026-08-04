@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:56:07.764Z",
+  "generatedAt": "2026-08-04T18:25:09.938Z",
   "status": "ok",
   "alerts": [
     {
@@ -154,6 +154,38 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
+      "id": "is tamhini ghat open route remains closed as heavy rain continues across the western ghats",
+      "title": "Is Tamhini Ghat Open? Route Remains Closed As Heavy Rain Continues Across The Western Ghats",
+      "summary": "Is Tamhini Ghat Open? Route Remains Closed As Heavy Rain Continues Across The Western Ghats",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnNLZFh4cG8wODRLaGhBemt3R1ZPTGM0V2dZLV9HTzFXRGlfY2FhU2FMNHRVS3ZTR3VxMlJvX1EzUzBoRXlTLUdnVl9Jb0w2bDR4UDE1bklidjJQRV9obmdUSHBtMU5KUGNtc3RZdkZRWC1IRHhsWkU4dW9TVURSLWRVZUdPa1lfekN6M29UaXJfY0NlbGpBSzFpOUdNTkxiSV92T1g3NTE3bFIwMnNTTko1eU5uNjJxcGpKdUpzdDM4Y2REdEHSAcsBQVVfeXFMTVJPUjBQMmtTSkJNZktBR3k5NVdYeGw5dUdaV2dhZU1JVmg3Rk5DU3dEd1hPYVQ4cjEzTklZay1MbGVwc0NBSkRybjRYRkNZU1U4ajJqeGxadFNpdkxBZHFDTmpoTWx5bzBPOU5SM21nT0xBTmxBUENvSlJLQmxoQ2tQVUZWM1h6NFZQeXlST2d4S1Q4a0NBRlh6SC1GWWE1TXVBbFZ3eW05VXNndzRGenJuWXhTUXJGSjdINFRFSURBMU1iX0gtYTBJdjQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:06:35 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 09:06:35 GMT",
+      "areas": [
+        "Tamhini Ghat"
+      ],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "greater noida factory fire kills two firefighters three injured during rescue operation",
       "title": "Greater Noida factory fire kills two firefighters, three injured during rescue operation",
       "summary": "Greater Noida factory fire kills two firefighters, three injured during rescue operation",
@@ -179,35 +211,6 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "all schools colleges closed for tomorrow as imd issues red alert warning in mumbai bmc",
-      "title": "All schools, colleges closed for tomorrow as IMD issues red alert warning in Mumbai: BMC",
-      "summary": "All schools, colleges closed for tomorrow as IMD issues red alert warning in Mumbai: BMC",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTRTRG5sVGZGaE92SzNxalZ2SU5lVEJBRm9OamVJZDFZcndkX2xVWW5kb1hfWXFYUk95eTk0NWVGVW5ud1FBbjdvY1h6VHRMVmtoVzBmQ2ZSVFJ4dmx4R1g1RHN5QkNYS0ZNS0l0UDVjLUlndDVpcWdGd1FpcWhzblctczlPUllwN1BPVUN3UXZlcjVrT283WWhOSVVxdjdEbmloQzdSdzBxSEhsb1ZDTUlKOWF1ZWlIa1U0?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 05:37:25 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 05:37:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "karnataka floods चिकोडी उपविभागात ९ पूल पाण्याखाली",
@@ -523,9 +526,78 @@
       "region": "pune",
       "sources": [
         "Prahaar.in",
-        "mumbaitak.in"
+        "Mumbai Tak"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "school holiday tomorrow august 5 2026 will schools remain closed in dehradun kerala assam ",
+      "title": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
+      "summary": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
+      "source": "Jagran Josh",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd281Wl9jNHR3THBzcVBOcV9JWXpnNUFPa2pCMTJIT3JzM0VjY0FoZjd2Q1pkdFNLTWNUVlF5OVZ5ZFZHUFZUVUlaVUhFZU9zN3NtdFNXYTlXYVpGNEtXNklBOW0zWlZzaFRQVWxCLUNxQ3EwOXdRRURUMjBLcGJxWGRfSGdoNnZSQXc3ZmhRYjdOVURtRWU1Yl94b0c5SjJyX1lzb3RvZTFSMEh0OVRxUzNudVV2SmdsRU9ZVTY1TjZCdTZxQktyNGFiMjdJOTRMa3hMUFc0VGhGSDNUYUFmU2s2T052MVVzS3NON0NNTC01SWF0T1HSAfwBQVVfeXFMTWxQd0V3VlQxaHFsc2R1cXdXVHJaTC01cFBtaG5nanNtcVhSZlU0UVNYZV9XX1VuVUZTMTBjUW80ODhQVU5FVXU0bUg2RUwwSURtMmNsaXFkNHlLX2lkVGhNMUZFR3E3dFlRR055SElUbmZ0dl9vM1VRNHlac2VEeF9kT3MtZjBEdUNtMHFUMlR0WUI4ZG5GMngxekFhbHphaVVjUzRJSjlHcXVSa2xvdDVaMDVyN3JsMXpzWGVQeVJ1UEp6dXhwTnlTZnUweExHMy00ZTFLcm1ER0tQQkpCQ1FDT19tcVpCM3d1VDU3eHVOZ0JpdnZYNmxHY05J?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 17:44:14 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 17:44:14 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jagran Josh"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "पुणे वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट मोठा अनर्थ टळला पुणे वडगाव मावळ फाटा",
+      "title": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
+      "summary": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRTZOQmZUYnBlZ3dvV1k2Y3E4Ung4RVVyZWFHTkVXZ0dGTS0zaDFQbGIzMGUxN0JoQ2dnZFdiOTdMWmxGNDg0eTVFNDZmMXUyYlIySDd3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:32:16 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 16:32:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "खासगी वाहनांवर लाल पोलीस पाटी लावणाऱ्यांवर थेट कारवाई राज्यभर विशेष मोहीम राबवण्याचे आदेश ",
+      "title": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
+      "summary": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FSlhQQzhUMGpzalppcXViMW9MTUd3MFJrck1IUGpEYTZQTTFleVE5Z21lX1J6NV94c1BrRGlleDctV3FndU15cDdEc0hVYi1KaUE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:15:01 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 16:15:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -556,65 +628,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "खासगी वाहनांवर लाल पोलीस पाटी लावणाऱ्यांवर थेट कारवाई राज्यभर विशेष मोहीम राबवण्याचे आदेश ",
-      "title": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
-      "summary": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FSlhQQzhUMGpzalppcXViMW9MTUd3MFJrck1IUGpEYTZQTTFleVE5Z21lX1J6NV94c1BrRGlleDctV3FndU15cDdEc0hVYi1KaUE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:44:49 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:44:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "delhi weather tomorrow august 5 imd issues yellow alert moderate rain likely",
       "title": "Delhi weather tomorrow August 5: IMD issues yellow alert, moderate rain likely",
       "summary": "Delhi weather tomorrow August 5: IMD issues yellow alert, moderate rain likely",
       "source": "The Economic Times",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYk56TWVoWUFlRnlpNHlTZW1WSWhaM0w5RV9kcWhDMWNPYVFsUWgxV3lZWjB5MDliemduaE1BMnBXb2d1Qm5rcTctSGV1MDZlR2tQVW9Na3M4bjlhSmhmeGhySy1oT3p0V3RaQ3ZUQ3c2YnBNdHVUNnRxNFZoU2d1TmlmQTNOeVRSdzcycjhXU1RtZmJGazdWd2xqZkhFTVVvOWRLQkt1eXdITjAtVl9UT2JxLWRCNTNWX2lRdEh2WXlJVjZ2RHFCai1zY24tSnhDaEhxWTBZNEdmdk9zVmxPUnpRY3R2Z9IB5gFBVV95cUxQYk56TWVoWUFlRnlpNHlTZW1WSWhaM0w5RV9kcWhDMWNPYVFsUWgxV3lZWjB5MDliemduaE1BMnBXb2d1Qm5rcTctSGV1MDZlR2tQVW9Na3M4bjlhSmhmeGhySy1oT3p0V3RaQ3ZUQ3c2YnBNdHVUNnRxNFZoU2d1TmlmQTNOeVRSdzcycjhXU1RtZmJGazdWd2xqZkhFTVVvOWRLQkt1eXdITjAtVl9UT2JxLWRCNTNWX2lRdEh2WXlJVjZ2RHFCai1zY24tSnhDaEhxWTBZNEdmdk9zVmxPUnpRY3R2Zw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:32:00 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNXEwZlZ3cjB4c3ZZR2l6SkRuaFVJNEhZckJ3RVpoQWpNNmlqRlRXeEhvWWNScDlKbmNka2VSYU5kNDhjOXFjaEhTNGEwQ3FZRndPbHc2R0prWm1iWjczUU9OaWFOQmRtbWJuNXIwa0FicW5Sb0szc2YwcmEteUcyLWNfUm9neW9PQzhTTE1JTUR4WFFVS2pzRk9MajNwN01KbVBUTXJhajloa0RIamRzTHVkUTRLMXlMdkJBSGc1SEk5VXJoN1ZEMjAyejVuaHQtaWF2bzR1bTJRLVRnZE5EOG1jOXJFSVdJblpEbg?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:32:05 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:32:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "The Economic Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "school holiday tomorrow august 5 2026 will schools remain closed in dehradun kerala assam ",
-      "title": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
-      "summary": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
-      "source": "Jagran Josh",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd281Wl9jNHR3THBzcVBOcV9JWXpnNUFPa2pCMTJIT3JzM0VjY0FoZjd2Q1pkdFNLTWNUVlF5OVZ5ZFZHUFZUVUlaVUhFZU9zN3NtdFNXYTlXYVpGNEtXNklBOW0zWlZzaFRQVWxCLUNxQ3EwOXdRRURUMjBLcGJxWGRfSGdoNnZSQXc3ZmhRYjdOVURtRWU1Yl94b0c5SjJyX1lzb3RvZTFSMEh0OVRxUzNudVV2SmdsRU9ZVTY1TjZCdTZxQktyNGFiMjdJOTRMa3hMUFc0VGhGSDNUYUFmU2s2T052MVVzS3NON0NNTC01SWF0T1HSAfwBQVVfeXFMTWxQd0V3VlQxaHFsc2R1cXdXVHJaTC01cFBtaG5nanNtcVhSZlU0UVNYZV9XX1VuVUZTMTBjUW80ODhQVU5FVXU0bUg2RUwwSURtMmNsaXFkNHlLX2lkVGhNMUZFR3E3dFlRR055SElUbmZ0dl9vM1VRNHlac2VEeF9kT3MtZjBEdUNtMHFUMlR0WUI4ZG5GMngxekFhbHphaVVjUzRJSjlHcXVSa2xvdDVaMDVyN3JsMXpzWGVQeVJ1UEp6dXhwTnlTZnUweExHMy00ZTFLcm1ER0tQQkpCQ1FDT19tcVpCM3d1VDU3eHVOZ0JpdnZYNmxHY05J?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:22:24 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:22:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Jagran Josh"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -650,6 +675,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra rain मुंबई वेधशाळेकडून हवामान अंदाज आला पुढील पाच दिवस या जिल्ह्यांत पावसाची श",
+      "title": "Maharashtra Rain : मुंबई वेधशाळेकडून हवामान अंदाज आला, पुढील पाच दिवस 'या' जिल्ह्यांत पावसाची शक्यता",
+      "summary": "Maharashtra Rain : मुंबई वेधशाळेकडून हवामान अंदाज आला, पुढील पाच दिवस 'या' जिल्ह्यांत पावसाची शक्यता",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjUwSDBHY1V1X2JiVVZpRVVISTYwQkZzNkU3N3dBSkVvRDFDME5hSEJ1dmJGdC1BYWpGb3YwMTNKZXNGSlJHSndDdmdtalBiQlhwYTBBV1AxTFBLVEVKcVItVEljRUtSdnczZ1JuNE91cUNyWlF5S2g3dlF5VXVGSUJOckNLUlNRM052UjA5YXNpUmJtTXEzMGMwVE82Uk0zbE0zSVBHOWd0RkRQX0JSYmU5dlRiNDNPcmxnRVpVNnFtbEZ5UnlCUi1NaGw3ckhNajFfaW5zNWNndjFnRWRiWUVkVUVQczRPd0c5N1ZUWHVtLWPSAfgBQVVfeXFMTkh5NFZPRlZ2T3RwQkwyQU95b0IyMHY3dzA3XzNiVVRibEhCTEMxRXZOay1hRFlFUERFTElrOWJiTWstaHRSOThzbTAwOG1OZS1wclZ4d2ROTzgxOEhOaTVsQVRTQ1ZwM0FpT1QwSEJmLVBPaXlDWk5GUlkzRUZoaVk0V25IeFlSNHdncm9fNXUzSVYwVm9EaEZLdjVaQ0ppQXU0WGkzNzRTNEFJbWQ3MFNMR1ZvWWtBY05hdGxCWl8xTW1RZXpCVERRMGVjNjcxMFh6d0FsdFpnYUxYcWFoR05Xd3lBU1FVX3BSamRwOFdiU0pYSGFDY2g?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:05:00 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "केज किनवट सिल्लोड येथे नवीन न्यायालये",
       "title": "केज, किनवट, सिल्लोड येथे नवीन न्यायालये",
       "summary": "केज, किनवट, सिल्लोड येथे नवीन न्यायालये",
@@ -662,6 +712,50 @@
       "region": "pune",
       "sources": [
         "dainikekmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुण्याच्या रस्त्यांची अक्षरशः चाळण पथ विभागाचा कारभार ढिसाळच रस्त्यांवर एवढे खड्डे पडले कस",
+      "title": "पुण्याच्या रस्त्यांची अक्षरशः चाळण; पथ विभागाचा कारभार ढिसाळच, रस्त्यांवर एवढे खड्डे पडले कसे?",
+      "summary": "पुण्याच्या रस्त्यांची अक्षरशः चाळण; पथ विभागाचा कारभार ढिसाळच, रस्त्यांवर एवढे खड्डे पडले कसे?",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON3VGcnZ5OUVKY3ZGd3NUUFNLdFowMkFPTFJ1bzNTenRjdmZrNnNxSExUbWg0S3lJMEQ1cEtKVzBCVFNZWUE2ZUZhbFlxYU04M29DUnI3aGk0b3ItQlBpSDl1UURkLUJaVm1sdDNSV1lHRUFSdlgtYmQ1UXpQUDhEa0ZKc05LN09CTmRFcmdjNEJlck9jYW1GTjdZMHZpZjNxQ1diMWktbHZad3ZsVFZMVEpiYWQ2MWI4RWd4QTBPS2pTWU9lTE0xczVtYTZiZkVTS1F3bGl0WTlsMUxITXpWQW9pRi1UQTBjMGpRQnJIcnpIc1JtYUd2S3lR0gH6AUFVX3lxTE43dUZydnk5RUpjdkZ3c1RQU0t0WjAyQU9MUnVvM1N6dGN2Zms2c3FITFRtaDRLeUkwRDVwS0pXMEJUU1lZQTZlRmFsWXFhTTgzb0NScjdoaTRvci1CUGlIOXVRRGQtQlpWbWx0M1JXWUdFQVJ2WC1iZDVRelBQOERrRkpzTks3T0JOZEVyZ2M0QmVyT2NhbUZON1kwdmlmM3FDV2IxaS1sdlp3dmxUVkxUSmJhZDYxYjhFZ3hBME9LalNZT2VMTTFzNW1hNmJmRVNLUXdsaXRZOWwxTEhNelZBb2lGLVRBMGMwalFCckhyekhzUm1hR3ZLeVE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:01:28 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:01:28 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला वाहतूक आधीच बंद केल्याने जीवितहान",
+      "title": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला; वाहतूक आधीच बंद केल्याने जीवितहानी टळली हिमाचल प्रदेश : सिरमौर जिल्ह्यातील बाता नदीवरील ७४ वर्षे जुना पूल मुसळधार पाऊस आण",
+      "summary": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला; वाहतूक आधीच बंद केल्याने जीवितहानी टळली हिमाचल प्रदेश : सिरमौर जिल्ह्यातील बाता नदीवरील ७४ वर्षे जुना पूल मुसळधार पाऊस आण",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qblh5MzZBb3ZXQ1E3dzdPcUpzekhfT3ZxRlZoYWdMZ3ozc0REUjZtSjVsTFJQcm03bnhYLU9tR3l1UkFlckY1YUtxcjhQWEZpTG5rM2xB?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:01:12 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:01:12 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -703,8 +797,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZmxzRk1HYzdQZFV3S2ZxalFwTUIxOE9Yd3RZVGxPb3RvLWtKc1hkYTU2SVZKR2hXRmkxYlYxTHVrS1otUW1nY3A2cDZrOXNMQ2pwMjBpdmhaT2ptRXc4Nlgxa2s3djRsR05SQ3ZNYVNpTG1sRGl1dUNSUnBER0lEb2FLSWtZd25EWWg5cE9Vd1V5ZUk0bmhaVThqaGlaWGVyVlpCVU0yYk1ZNDVDajBtTWhfLXBGVzdIQ0hFMUtySzJjSnJ4bUp2ZWNFd25zOHRmdGxZeTFmSWlwVFNZQWE0MW9nT3RSUjUzS1JBQngtS3E5OWlZU29xNEhSVGdxbkktYnQySU5zeG1Idw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 13:51:27 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 13:51:27 GMT",
+      "pubDate": "Tue, 04 Aug 2026 13:51:00 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 13:51:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -883,28 +977,6 @@
       ]
     },
     {
-      "id": "पुणे वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट मोठा अनर्थ टळला पुणे वडगाव मावळ फाटा",
-      "title": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
-      "summary": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRTZOQmZUYnBlZ3dvV1k2Y3E4Ung4RVVyZWFHTkVXZ0dGTS0zaDFQbGIzMGUxN0JoQ2dnZFdiOTdMWmxGNDg0eTVFNDZmMXUyYlIySDd3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:51:32 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 10:51:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "पुणे गरवारे पुलाखाली पाण्याच्या प्रवाहात अडकलेल्या 25 वर्षीय तरुणाची सुखरूप सुटका पुणे मुठ",
       "title": "पुणे : गरवारे पुलाखाली पाण्याच्या प्रवाहात अडकलेल्या 25 वर्षीय तरुणाची सुखरूप सुटका पुणे : मुठा नदीच्या वेगवान प्रवाहात गरवारे पुलाखाली अडकलेल्या २५ वर्षीय तरुणाला अग्निशमन दलाच्या ज",
       "summary": "पुणे : गरवारे पुलाखाली पाण्याच्या प्रवाहात अडकलेल्या 25 वर्षीय तरुणाची सुखरूप सुटका पुणे : मुठा नदीच्या वेगवान प्रवाहात गरवारे पुलाखाली अडकलेल्या २५ वर्षीय तरुणाला अग्निशमन दलाच्या ज",
@@ -1080,50 +1152,6 @@
       "region": "pune",
       "sources": [
         "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्या",
-      "title": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न; शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्यातील शिरूर तालुक्यात पुराच्या पाण्यातून दुचाकी नेण्याचा प्रयत्न एका तरुणाच्या जीवावर बेतल",
-      "summary": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न; शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्यातील शिरूर तालुक्यात पुराच्या पाण्यातून दुचाकी नेण्याचा प्रयत्न एका तरुणाच्या जीवावर बेतल",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdjVTeGM3czVadjhuWmJUWno5N05TM1V5Ml81VWJsVVVqd01MQUZ1bHNCNWhmM204b0ZkUmx6cDRFUWh2ajVEQW5kdk82d1hWR1FhUnJB?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:14:39 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 09:14:39 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे 1 सप्टेंबरपासून रिक्षा प्रवास महाग किमान भाड्यात 5 रुपयांची वाढ पहिल्या दीड km च्या ट",
-      "title": "पुणे : 1 सप्टेंबरपासून रिक्षा प्रवास महाग! किमान भाड्यात 5 रुपयांची वाढ; पहिल्या दीड KM च्या टप्प्यासाठी 25 रुपयांऐवजी 30 रुपये मोजावे लागणार पुणे आणि पिंपरी-चिंचवडमध्ये १ सप्टेंबरपासून र",
-      "summary": "पुणे : 1 सप्टेंबरपासून रिक्षा प्रवास महाग! किमान भाड्यात 5 रुपयांची वाढ; पहिल्या दीड KM च्या टप्प्यासाठी 25 रुपयांऐवजी 30 रुपये मोजावे लागणार पुणे आणि पिंपरी-चिंचवडमध्ये १ सप्टेंबरपासून र",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kR0dxQTB2QnpEblZxM1BqbWtUMy04Y2VtREU0aGd0d2VPb2R1LUpRaGxMNDUtTlNnbVdydm1YX3dyZGdVZmQzRExKYTBvWmdKUnc?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 07:59:35 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 07:59:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1321,7 +1349,7 @@
       "id": "bhramacha bhopla natak थांबायचं नाय जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम मिरवणूकीं",
       "title": "Bhramacha Bhopla Natak : थांबायचं नाय! जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम, मिरवणूकींमुळे वाहतुक कोंडी मग नाटकाला उशीर; व्हिडिओ",
       "summary": "Bhramacha Bhopla Natak : थांबायचं नाय! जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम, मिरवणूकींमुळे वाहतुक कोंडी मग नाटकाला उशीर; व्हिडिओ",
-      "source": "Maharashtra Times",
+      "source": "maharashtratimes.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMkdXWHpTbUc4MEFGZTN5elI4Mi1YUS1fM1hES2tacTZwV0c0X3hsSloyMHVYQkV3RlduZURhcmVYcG4xLTdFZlk4YjljUm1PQVNnVzZWYk81RXJUV1dDWVU0Q3ZkRTh2bFdwaWFqT0Y1QnNsd0h5a3YtdjY5WWtFc24yLURzcHhDZ2FuRWZFcGUweUo5UVY3eHJydkVWTjB4TU15Y0dWTmdXWnVmUDdlb1I3M0c3RkJVMjk2ZFdIV0ZwRjNWSUxHUXJWamVueVI1cURXWUNhNXdvbkRmMUZWZlBzQmhPV0JPQ1FrMl9RUVdScEowdFVrSE5vZG9FUFNRaXVWeTdsUjJXbmlWaXlISUcxd0lONlE0N0x4Q2c2b2xqMWs3VExfOE90azJncm5rRGdCS1pHQ1lxRnNNSExCMFRid9IByAJBVV95cUxNYjZXODA1TWF2V0NMZEo4Z203UFp5WVd3aXhEQmE4NE1DdGc5akJ6UGFERXVla25Xa1JTeF90X2Y5U19IdmMwM005YTZWVTZrbkVYMnJHRkdWd05scWpQSF9zMHhLSDlzTFpfdGFoUlhIY2xOWE5tdXBCZ2VRTkpfZVVrb1B3RmRkVjRLcFF4S0lVcWdiTUZ5djAyVTVET0cxbmFBYllmWjE2aEdUckJmTEx4MjFxUzNTcWV6c0dWYk9nbzFjb1dzd2swNmZzX1pxZ19HQzBtOF92OFk5b3BzaUFJM2hjS0V2SnhLcmRPamkzU1ZsS25nSEx0bGZISnJwZTRDQV93NnJhRHhGWkxRbDFkdng5NFIzeXJqckVwcEd6ZjNRR0hydEpYQUxDMXNjN3l2QjJuTWd6dXAxMTEyUnhLVWdjc25z?oc=5",
       "pubDate": "Tue, 04 Aug 2026 04:05:05 GMT",
@@ -1329,7 +1357,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Times"
+        "maharashtratimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1553,7 +1581,7 @@
       "id": "photo gallery page 2",
       "title": "Photo gallery: pune Page -2",
       "summary": "Photo gallery: pune Page -2",
-      "source": "News18",
+      "source": "news18.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aMEdwS1dtNmxhWUdDbFhtdFpEenVhNXBaWUxoaVdqNW8xbXRsVmd3WXFPVWtya0p6OHFFcTUyV1BTbUlyWGJRb2hHMkpFVWFiLVAyUmxlN1gyNkZo?oc=5",
       "pubDate": "Mon, 03 Aug 2026 23:30:00 GMT",
@@ -1561,7 +1589,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18"
+        "news18.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1584,28 +1612,6 @@
       "region": "pune",
       "sources": [
         "The News Mill"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "राज्यात पावसाचा धुमाकूळ पालघरमध्ये शाळांना सुट्टी पुण्यात रेड अलर्ट मराठवाडा विदर्भात दिला",
-      "title": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "summary": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazFBWEptNHJFaGNJNGlPOHc5RloxTWdrNGRrdGtSVUF4T084MUFWSnVsVHNjQ1BqR2RBR0t0UldrWENKX0lvZUg0aDBrQ2hvUU5tTUVub19sMWN5dU9ydDBqcDBOOEw3d1NiUUtkbEZQTUt2NGMtR1ZWVjBtOWNua2l5NkpZdVlNMUk2eDhRc2tHY0NZc3Y4SHBVeXBzSENHQTktNWo2cDg1QU1obERubmJISnJ5dHJyNlo2dTJkT0VlcElkZkt0ZmN4eXNxWW5N0gHWAUFVX3lxTE1rZDdoV3VKSElRb25vdklxWU5RT0UwZ1B3X0ZsSzdqaWlIQkllV1VjQzRRc0U4azlPVERhdnRENS1ERkVTdGJrcWNaUlA2LTBsOE5IU0RFNENGU01DamVLZ3pQQUR2RlhhUkprdGY3S3o5dGo5LVRLR25HcHJ1ckFieWZMWm42YnNDcWxHSy1SdEo3dGlncVh0d2NXa1ZpcFN4RTk2QlJXZjNPZ3hrNnNsUXVGSzAteXZJMVlWbVl4YnRoZzhqSXdILWtGb2hlSGctazBCcHc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:19:14 GMT",
-      "lastUpdated": "Mon, 03 Aug 2026 17:19:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1757,6 +1763,35 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
+      "id": "is tamhini ghat open route remains closed as heavy rain continues across the western ghats",
+      "title": "Is Tamhini Ghat Open? Route Remains Closed As Heavy Rain Continues Across The Western Ghats",
+      "summary": "Is Tamhini Ghat Open? Route Remains Closed As Heavy Rain Continues Across The Western Ghats",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnNLZFh4cG8wODRLaGhBemt3R1ZPTGM0V2dZLV9HTzFXRGlfY2FhU2FMNHRVS3ZTR3VxMlJvX1EzUzBoRXlTLUdnVl9Jb0w2bDR4UDE1bklidjJQRV9obmdUSHBtMU5KUGNtc3RZdkZRWC1IRHhsWkU4dW9TVURSLWRVZUdPa1lfekN6M29UaXJfY0NlbGpBSzFpOUdNTkxiSV92T1g3NTE3bFIwMnNTTko1eU5uNjJxcGpKdUpzdDM4Y2REdEHSAcsBQVVfeXFMTVJPUjBQMmtTSkJNZktBR3k5NVdYeGw5dUdaV2dhZU1JVmg3Rk5DU3dEd1hPYVQ4cjEzTklZay1MbGVwc0NBSkRybjRYRkNZU1U4ajJqeGxadFNpdkxBZHFDTmpoTWx5bzBPOU5SM21nT0xBTmxBUENvSlJLQmxoQ2tQVUZWM1h6NFZQeXlST2d4S1Q4a0NBRlh6SC1GWWE1TXVBbFZ3eW05VXNndzRGenJuWXhTUXJGSjdINFRFSURBMU1iX0gtYTBJdjQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:06:35 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 09:06:35 GMT",
+      "areas": [
+        "Tamhini Ghat"
+      ],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
       "id": "greater noida factory fire kills two firefighters three injured during rescue operation",
       "title": "Greater Noida factory fire kills two firefighters, three injured during rescue operation",
       "summary": "Greater Noida factory fire kills two firefighters, three injured during rescue operation",
@@ -1782,35 +1817,6 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "all schools colleges closed for tomorrow as imd issues red alert warning in mumbai bmc",
-      "title": "All schools, colleges closed for tomorrow as IMD issues red alert warning in Mumbai: BMC",
-      "summary": "All schools, colleges closed for tomorrow as IMD issues red alert warning in Mumbai: BMC",
-      "source": "The News Mill",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTRTRG5sVGZGaE92SzNxalZ2SU5lVEJBRm9OamVJZDFZcndkX2xVWW5kb1hfWXFYUk95eTk0NWVGVW5ud1FBbjdvY1h6VHRMVmtoVzBmQ2ZSVFJ4dmx4R1g1RHN5QkNYS0ZNS0l0UDVjLUlndDVpcWdGd1FpcWhzblctczlPUllwN1BPVUN3UXZlcjVrT283WWhOSVVxdjdEbmloQzdSdzBxSEhsb1ZDTUlKOWF1ZWlIa1U0?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 05:37:25 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 05:37:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The News Mill"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "karnataka floods चिकोडी उपविभागात ९ पूल पाण्याखाली",
@@ -2087,9 +2093,75 @@
       "region": "pune",
       "sources": [
         "Prahaar.in",
-        "mumbaitak.in"
+        "Mumbai Tak"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "school holiday tomorrow august 5 2026 will schools remain closed in dehradun kerala assam ",
+      "title": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
+      "summary": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
+      "source": "Jagran Josh",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd281Wl9jNHR3THBzcVBOcV9JWXpnNUFPa2pCMTJIT3JzM0VjY0FoZjd2Q1pkdFNLTWNUVlF5OVZ5ZFZHUFZUVUlaVUhFZU9zN3NtdFNXYTlXYVpGNEtXNklBOW0zWlZzaFRQVWxCLUNxQ3EwOXdRRURUMjBLcGJxWGRfSGdoNnZSQXc3ZmhRYjdOVURtRWU1Yl94b0c5SjJyX1lzb3RvZTFSMEh0OVRxUzNudVV2SmdsRU9ZVTY1TjZCdTZxQktyNGFiMjdJOTRMa3hMUFc0VGhGSDNUYUFmU2s2T052MVVzS3NON0NNTC01SWF0T1HSAfwBQVVfeXFMTWxQd0V3VlQxaHFsc2R1cXdXVHJaTC01cFBtaG5nanNtcVhSZlU0UVNYZV9XX1VuVUZTMTBjUW80ODhQVU5FVXU0bUg2RUwwSURtMmNsaXFkNHlLX2lkVGhNMUZFR3E3dFlRR055SElUbmZ0dl9vM1VRNHlac2VEeF9kT3MtZjBEdUNtMHFUMlR0WUI4ZG5GMngxekFhbHphaVVjUzRJSjlHcXVSa2xvdDVaMDVyN3JsMXpzWGVQeVJ1UEp6dXhwTnlTZnUweExHMy00ZTFLcm1ER0tQQkpCQ1FDT19tcVpCM3d1VDU3eHVOZ0JpdnZYNmxHY05J?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 17:44:14 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 17:44:14 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jagran Josh"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट मोठा अनर्थ टळला पुणे वडगाव मावळ फाटा",
+      "title": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
+      "summary": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRTZOQmZUYnBlZ3dvV1k2Y3E4Ung4RVVyZWFHTkVXZ0dGTS0zaDFQbGIzMGUxN0JoQ2dnZFdiOTdMWmxGNDg0eTVFNDZmMXUyYlIySDd3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:32:16 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 16:32:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "खासगी वाहनांवर लाल पोलीस पाटी लावणाऱ्यांवर थेट कारवाई राज्यभर विशेष मोहीम राबवण्याचे आदेश ",
+      "title": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
+      "summary": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FSlhQQzhUMGpzalppcXViMW9MTUd3MFJrck1IUGpEYTZQTTFleVE5Z21lX1J6NV94c1BrRGlleDctV3FndU15cDdEc0hVYi1KaUE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:15:01 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 16:15:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -2120,62 +2192,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "खासगी वाहनांवर लाल पोलीस पाटी लावणाऱ्यांवर थेट कारवाई राज्यभर विशेष मोहीम राबवण्याचे आदेश ",
-      "title": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
-      "summary": "खासगी वाहनांवर लाल ‘पोलीस’ पाटी लावणाऱ्यांवर थेट कारवाई; राज्यभर विशेष मोहीम राबवण्याचे आदेश पुणे : खासगी वाहनांवर लाल रंगाची “पोलीस” पाटी लावून तिचा गैरवापर करणाऱ्यांविरोधात राज्य",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FSlhQQzhUMGpzalppcXViMW9MTUd3MFJrck1IUGpEYTZQTTFleVE5Z21lX1J6NV94c1BrRGlleDctV3FndU15cDdEc0hVYi1KaUE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:44:49 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:44:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "delhi weather tomorrow august 5 imd issues yellow alert moderate rain likely",
       "title": "Delhi weather tomorrow August 5: IMD issues yellow alert, moderate rain likely",
       "summary": "Delhi weather tomorrow August 5: IMD issues yellow alert, moderate rain likely",
       "source": "The Economic Times",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYk56TWVoWUFlRnlpNHlTZW1WSWhaM0w5RV9kcWhDMWNPYVFsUWgxV3lZWjB5MDliemduaE1BMnBXb2d1Qm5rcTctSGV1MDZlR2tQVW9Na3M4bjlhSmhmeGhySy1oT3p0V3RaQ3ZUQ3c2YnBNdHVUNnRxNFZoU2d1TmlmQTNOeVRSdzcycjhXU1RtZmJGazdWd2xqZkhFTVVvOWRLQkt1eXdITjAtVl9UT2JxLWRCNTNWX2lRdEh2WXlJVjZ2RHFCai1zY24tSnhDaEhxWTBZNEdmdk9zVmxPUnpRY3R2Z9IB5gFBVV95cUxQYk56TWVoWUFlRnlpNHlTZW1WSWhaM0w5RV9kcWhDMWNPYVFsUWgxV3lZWjB5MDliemduaE1BMnBXb2d1Qm5rcTctSGV1MDZlR2tQVW9Na3M4bjlhSmhmeGhySy1oT3p0V3RaQ3ZUQ3c2YnBNdHVUNnRxNFZoU2d1TmlmQTNOeVRSdzcycjhXU1RtZmJGazdWd2xqZkhFTVVvOWRLQkt1eXdITjAtVl9UT2JxLWRCNTNWX2lRdEh2WXlJVjZ2RHFCai1zY24tSnhDaEhxWTBZNEdmdk9zVmxPUnpRY3R2Zw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:32:00 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNXEwZlZ3cjB4c3ZZR2l6SkRuaFVJNEhZckJ3RVpoQWpNNmlqRlRXeEhvWWNScDlKbmNka2VSYU5kNDhjOXFjaEhTNGEwQ3FZRndPbHc2R0prWm1iWjczUU9OaWFOQmRtbWJuNXIwa0FicW5Sb0szc2YwcmEteUcyLWNfUm9neW9PQzhTTE1JTUR4WFFVS2pzRk9MajNwN01KbVBUTXJhajloa0RIamRzTHVkUTRLMXlMdkJBSGc1SEk5VXJoN1ZEMjAyejVuaHQtaWF2bzR1bTJRLVRnZE5EOG1jOXJFSVdJblpEbg?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:32:05 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:32:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "The Economic Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "school holiday tomorrow august 5 2026 will schools remain closed in dehradun kerala assam ",
-      "title": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
-      "summary": "School Holiday Tomorrow, August 5, 2026: Will Schools Remain Closed in Dehradun, Kerala, Assam? Check IMD Rain Alert and State-wise Updates",
-      "source": "Jagran Josh",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd281Wl9jNHR3THBzcVBOcV9JWXpnNUFPa2pCMTJIT3JzM0VjY0FoZjd2Q1pkdFNLTWNUVlF5OVZ5ZFZHUFZUVUlaVUhFZU9zN3NtdFNXYTlXYVpGNEtXNklBOW0zWlZzaFRQVWxCLUNxQ3EwOXdRRURUMjBLcGJxWGRfSGdoNnZSQXc3ZmhRYjdOVURtRWU1Yl94b0c5SjJyX1lzb3RvZTFSMEh0OVRxUzNudVV2SmdsRU9ZVTY1TjZCdTZxQktyNGFiMjdJOTRMa3hMUFc0VGhGSDNUYUFmU2s2T052MVVzS3NON0NNTC01SWF0T1HSAfwBQVVfeXFMTWxQd0V3VlQxaHFsc2R1cXdXVHJaTC01cFBtaG5nanNtcVhSZlU0UVNYZV9XX1VuVUZTMTBjUW80ODhQVU5FVXU0bUg2RUwwSURtMmNsaXFkNHlLX2lkVGhNMUZFR3E3dFlRR055SElUbmZ0dl9vM1VRNHlac2VEeF9kT3MtZjBEdUNtMHFUMlR0WUI4ZG5GMngxekFhbHphaVVjUzRJSjlHcXVSa2xvdDVaMDVyN3JsMXpzWGVQeVJ1UEp6dXhwTnlTZnUweExHMy00ZTFLcm1ER0tQQkpCQ1FDT19tcVpCM3d1VDU3eHVOZ0JpdnZYNmxHY05J?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 15:22:24 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 15:22:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Jagran Josh"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2208,6 +2236,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra rain मुंबई वेधशाळेकडून हवामान अंदाज आला पुढील पाच दिवस या जिल्ह्यांत पावसाची श",
+      "title": "Maharashtra Rain : मुंबई वेधशाळेकडून हवामान अंदाज आला, पुढील पाच दिवस 'या' जिल्ह्यांत पावसाची शक्यता",
+      "summary": "Maharashtra Rain : मुंबई वेधशाळेकडून हवामान अंदाज आला, पुढील पाच दिवस 'या' जिल्ह्यांत पावसाची शक्यता",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjUwSDBHY1V1X2JiVVZpRVVISTYwQkZzNkU3N3dBSkVvRDFDME5hSEJ1dmJGdC1BYWpGb3YwMTNKZXNGSlJHSndDdmdtalBiQlhwYTBBV1AxTFBLVEVKcVItVEljRUtSdnczZ1JuNE91cUNyWlF5S2g3dlF5VXVGSUJOckNLUlNRM052UjA5YXNpUmJtTXEzMGMwVE82Uk0zbE0zSVBHOWd0RkRQX0JSYmU5dlRiNDNPcmxnRVpVNnFtbEZ5UnlCUi1NaGw3ckhNajFfaW5zNWNndjFnRWRiWUVkVUVQczRPd0c5N1ZUWHVtLWPSAfgBQVVfeXFMTkh5NFZPRlZ2T3RwQkwyQU95b0IyMHY3dzA3XzNiVVRibEhCTEMxRXZOay1hRFlFUERFTElrOWJiTWstaHRSOThzbTAwOG1OZS1wclZ4d2ROTzgxOEhOaTVsQVRTQ1ZwM0FpT1QwSEJmLVBPaXlDWk5GUlkzRUZoaVk0V25IeFlSNHdncm9fNXUzSVYwVm9EaEZLdjVaQ0ppQXU0WGkzNzRTNEFJbWQ3MFNMR1ZvWWtBY05hdGxCWl8xTW1RZXpCVERRMGVjNjcxMFh6d0FsdFpnYUxYcWFoR05Xd3lBU1FVX3BSamRwOFdiU0pYSGFDY2g?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:05:00 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "केज किनवट सिल्लोड येथे नवीन न्यायालये",
       "title": "केज, किनवट, सिल्लोड येथे नवीन न्यायालये",
       "summary": "केज, किनवट, सिल्लोड येथे नवीन न्यायालये",
@@ -2220,6 +2270,50 @@
       "region": "pune",
       "sources": [
         "dainikekmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुण्याच्या रस्त्यांची अक्षरशः चाळण पथ विभागाचा कारभार ढिसाळच रस्त्यांवर एवढे खड्डे पडले कस",
+      "title": "पुण्याच्या रस्त्यांची अक्षरशः चाळण; पथ विभागाचा कारभार ढिसाळच, रस्त्यांवर एवढे खड्डे पडले कसे?",
+      "summary": "पुण्याच्या रस्त्यांची अक्षरशः चाळण; पथ विभागाचा कारभार ढिसाळच, रस्त्यांवर एवढे खड्डे पडले कसे?",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON3VGcnZ5OUVKY3ZGd3NUUFNLdFowMkFPTFJ1bzNTenRjdmZrNnNxSExUbWg0S3lJMEQ1cEtKVzBCVFNZWUE2ZUZhbFlxYU04M29DUnI3aGk0b3ItQlBpSDl1UURkLUJaVm1sdDNSV1lHRUFSdlgtYmQ1UXpQUDhEa0ZKc05LN09CTmRFcmdjNEJlck9jYW1GTjdZMHZpZjNxQ1diMWktbHZad3ZsVFZMVEpiYWQ2MWI4RWd4QTBPS2pTWU9lTE0xczVtYTZiZkVTS1F3bGl0WTlsMUxITXpWQW9pRi1UQTBjMGpRQnJIcnpIc1JtYUd2S3lR0gH6AUFVX3lxTE43dUZydnk5RUpjdkZ3c1RQU0t0WjAyQU9MUnVvM1N6dGN2Zms2c3FITFRtaDRLeUkwRDVwS0pXMEJUU1lZQTZlRmFsWXFhTTgzb0NScjdoaTRvci1CUGlIOXVRRGQtQlpWbWx0M1JXWUdFQVJ2WC1iZDVRelBQOERrRkpzTks3T0JOZEVyZ2M0QmVyT2NhbUZON1kwdmlmM3FDV2IxaS1sdlp3dmxUVkxUSmJhZDYxYjhFZ3hBME9LalNZT2VMTTFzNW1hNmJmRVNLUXdsaXRZOWwxTEhNelZBb2lGLVRBMGMwalFCckhyekhzUm1hR3ZLeVE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:01:28 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:01:28 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला वाहतूक आधीच बंद केल्याने जीवितहान",
+      "title": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला; वाहतूक आधीच बंद केल्याने जीवितहानी टळली हिमाचल प्रदेश : सिरमौर जिल्ह्यातील बाता नदीवरील ७४ वर्षे जुना पूल मुसळधार पाऊस आण",
+      "summary": "मान्सूनच्या तडाख्यात हिमाचलमधील 74 वर्षे जुना पूल कोसळला; वाहतूक आधीच बंद केल्याने जीवितहानी टळली हिमाचल प्रदेश : सिरमौर जिल्ह्यातील बाता नदीवरील ७४ वर्षे जुना पूल मुसळधार पाऊस आण",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qblh5MzZBb3ZXQ1E3dzdPcUpzekhfT3ZxRlZoYWdMZ3ozc0REUjZtSjVsTFJQcm03bnhYLU9tR3l1UkFlckY1YUtxcjhQWEZpTG5rM2xB?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:01:12 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 15:01:12 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2258,8 +2352,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZmxzRk1HYzdQZFV3S2ZxalFwTUIxOE9Yd3RZVGxPb3RvLWtKc1hkYTU2SVZKR2hXRmkxYlYxTHVrS1otUW1nY3A2cDZrOXNMQ2pwMjBpdmhaT2ptRXc4Nlgxa2s3djRsR05SQ3ZNYVNpTG1sRGl1dUNSUnBER0lEb2FLSWtZd25EWWg5cE9Vd1V5ZUk0bmhaVThqaGlaWGVyVlpCVU0yYk1ZNDVDajBtTWhfLXBGVzdIQ0hFMUtySzJjSnJ4bUp2ZWNFd25zOHRmdGxZeTFmSWlwVFNZQWE0MW9nT3RSUjUzS1JBQngtS3E5OWlZU29xNEhSVGdxbkktYnQySU5zeG1Idw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 13:51:27 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 13:51:27 GMT",
+      "pubDate": "Tue, 04 Aug 2026 13:51:00 GMT",
+      "lastUpdated": "Tue, 04 Aug 2026 13:51:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2421,28 +2515,6 @@
       "region": "pune",
       "sources": [
         "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट मोठा अनर्थ टळला पुणे वडगाव मावळ फाटा",
-      "title": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
-      "summary": "पुणे : वडगाव मावळजवळ वाहनाच्या सायलेन्सरमधून धुराचे लोट; मोठा अनर्थ टळला पुणे : वडगाव मावळ फाटा ते उर्से खिंड या मार्गावर ३ ऑगस्ट रोजी दुपारी सुमारे ३ वाजता धक्कादायक प्रकार घडला. व्हिडि",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRTZOQmZUYnBlZ3dvV1k2Y3E4Ung4RVVyZWFHTkVXZ0dGTS0zaDFQbGIzMGUxN0JoQ2dnZFdiOTdMWmxGNDg0eTVFNDZmMXUyYlIySDd3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:51:32 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 10:51:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2629,28 +2701,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्या",
-      "title": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न; शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्यातील शिरूर तालुक्यात पुराच्या पाण्यातून दुचाकी नेण्याचा प्रयत्न एका तरुणाच्या जीवावर बेतल",
-      "summary": "पुराच्या प्रवाहात दुचाकी नेण्याचा जीवघेणा प्रयत्न; शिरूरमध्ये तरुण वाहून गेला पुणे जिल्ह्यातील शिरूर तालुक्यात पुराच्या पाण्यातून दुचाकी नेण्याचा प्रयत्न एका तरुणाच्या जीवावर बेतल",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdjVTeGM3czVadjhuWmJUWno5N05TM1V5Ml81VWJsVVVqd01MQUZ1bHNCNWhmM204b0ZkUmx6cDRFUWh2ajVEQW5kdk82d1hWR1FhUnJB?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:14:39 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 09:14:39 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "2026 08 04 time of issue 13 18 00 hours ist mid day all india weather summary and forecast",
       "title": "2026-08-04 Time of Issue: 13:18:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
       "summary": "2026-08-04 Time of Issue: 13:18:00 hours IST (Mid-Day) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Featu",
@@ -2670,28 +2720,6 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": true,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे 1 सप्टेंबरपासून रिक्षा प्रवास महाग किमान भाड्यात 5 रुपयांची वाढ पहिल्या दीड km च्या ट",
-      "title": "पुणे : 1 सप्टेंबरपासून रिक्षा प्रवास महाग! किमान भाड्यात 5 रुपयांची वाढ; पहिल्या दीड KM च्या टप्प्यासाठी 25 रुपयांऐवजी 30 रुपये मोजावे लागणार पुणे आणि पिंपरी-चिंचवडमध्ये १ सप्टेंबरपासून र",
-      "summary": "पुणे : 1 सप्टेंबरपासून रिक्षा प्रवास महाग! किमान भाड्यात 5 रुपयांची वाढ; पहिल्या दीड KM च्या टप्प्यासाठी 25 रुपयांऐवजी 30 रुपये मोजावे लागणार पुणे आणि पिंपरी-चिंचवडमध्ये १ सप्टेंबरपासून र",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kR0dxQTB2QnpEblZxM1BqbWtUMy04Y2VtREU0aGd0d2VPb2R1LUpRaGxMNDUtTlNnbVdydm1YX3dyZGdVZmQzRExKYTBvWmdKUnc?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 07:59:35 GMT",
-      "lastUpdated": "Tue, 04 Aug 2026 07:59:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
       "action": "No immediate action required."
     },
     {
@@ -2876,7 +2904,7 @@
       "id": "bhramacha bhopla natak थांबायचं नाय जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम मिरवणूकीं",
       "title": "Bhramacha Bhopla Natak : थांबायचं नाय! जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम, मिरवणूकींमुळे वाहतुक कोंडी मग नाटकाला उशीर; व्हिडिओ",
       "summary": "Bhramacha Bhopla Natak : थांबायचं नाय! जेव्हा नाटकातील कलाकार करतात बॅक स्टेजचं काम, मिरवणूकींमुळे वाहतुक कोंडी मग नाटकाला उशीर; व्हिडिओ",
-      "source": "Maharashtra Times",
+      "source": "maharashtratimes.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMkdXWHpTbUc4MEFGZTN5elI4Mi1YUS1fM1hES2tacTZwV0c0X3hsSloyMHVYQkV3RlduZURhcmVYcG4xLTdFZlk4YjljUm1PQVNnVzZWYk81RXJUV1dDWVU0Q3ZkRTh2bFdwaWFqT0Y1QnNsd0h5a3YtdjY5WWtFc24yLURzcHhDZ2FuRWZFcGUweUo5UVY3eHJydkVWTjB4TU15Y0dWTmdXWnVmUDdlb1I3M0c3RkJVMjk2ZFdIV0ZwRjNWSUxHUXJWamVueVI1cURXWUNhNXdvbkRmMUZWZlBzQmhPV0JPQ1FrMl9RUVdScEowdFVrSE5vZG9FUFNRaXVWeTdsUjJXbmlWaXlISUcxd0lONlE0N0x4Q2c2b2xqMWs3VExfOE90azJncm5rRGdCS1pHQ1lxRnNNSExCMFRid9IByAJBVV95cUxNYjZXODA1TWF2V0NMZEo4Z203UFp5WVd3aXhEQmE4NE1DdGc5akJ6UGFERXVla25Xa1JTeF90X2Y5U19IdmMwM005YTZWVTZrbkVYMnJHRkdWd05scWpQSF9zMHhLSDlzTFpfdGFoUlhIY2xOWE5tdXBCZ2VRTkpfZVVrb1B3RmRkVjRLcFF4S0lVcWdiTUZ5djAyVTVET0cxbmFBYllmWjE2aEdUckJmTEx4MjFxUzNTcWV6c0dWYk9nbzFjb1dzd2swNmZzX1pxZ19HQzBtOF92OFk5b3BzaUFJM2hjS0V2SnhLcmRPamkzU1ZsS25nSEx0bGZISnJwZTRDQV93NnJhRHhGWkxRbDFkdng5NFIzeXJqckVwcEd6ZjNRR0hydEpYQUxDMXNjN3l2QjJuTWd6dXAxMTEyUnhLVWdjc25z?oc=5",
       "pubDate": "Tue, 04 Aug 2026 04:05:05 GMT",
@@ -2884,7 +2912,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Times"
+        "maharashtratimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3096,7 +3124,7 @@
       "id": "photo gallery page 2",
       "title": "Photo gallery: pune Page -2",
       "summary": "Photo gallery: pune Page -2",
-      "source": "News18",
+      "source": "news18.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aMEdwS1dtNmxhWUdDbFhtdFpEenVhNXBaWUxoaVdqNW8xbXRsVmd3WXFPVWtya0p6OHFFcTUyV1BTbUlyWGJRb2hHMkpFVWFiLVAyUmxlN1gyNkZo?oc=5",
       "pubDate": "Mon, 03 Aug 2026 23:30:00 GMT",
@@ -3104,7 +3132,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18"
+        "news18.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3135,34 +3163,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "राज्यात पावसाचा धुमाकूळ पालघरमध्ये शाळांना सुट्टी पुण्यात रेड अलर्ट मराठवाडा विदर्भात दिला",
-      "title": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "summary": "राज्यात पावसाचा धुमाकूळ: पालघरमध्ये शाळांना सुट्टी, पुण्यात 'रेड अलर्ट'; मराठवाडा-विदर्भात दिलासा, शनिवारनं...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazFBWEptNHJFaGNJNGlPOHc5RloxTWdrNGRrdGtSVUF4T084MUFWSnVsVHNjQ1BqR2RBR0t0UldrWENKX0lvZUg0aDBrQ2hvUU5tTUVub19sMWN5dU9ydDBqcDBOOEw3d1NiUUtkbEZQTUt2NGMtR1ZWVjBtOWNua2l5NkpZdVlNMUk2eDhRc2tHY0NZc3Y4SHBVeXBzSENHQTktNWo2cDg1QU1obERubmJISnJ5dHJyNlo2dTJkT0VlcElkZkt0ZmN4eXNxWW5N0gHWAUFVX3lxTE1rZDdoV3VKSElRb25vdklxWU5RT0UwZ1B3X0ZsSzdqaWlIQkllV1VjQzRRc0U4azlPVERhdnRENS1ERkVTdGJrcWNaUlA2LTBsOE5IU0RFNENGU01DamVLZ3pQQUR2RlhhUkprdGY3S3o5dGo5LVRLR25HcHJ1ckFieWZMWm42YnNDcWxHSy1SdEo3dGlncVh0d2NXa1ZpcFN4RTk2QlJXZjNPZ3hrNnNsUXVGSzAteXZJMVlWbVl4YnRoZzhqSXdILWtGb2hlSGctazBCcHc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:19:14 GMT",
-      "lastUpdated": "Mon, 03 Aug 2026 17:19:14 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 71,
-    "alerts": 19,
+    "total": 70,
+    "alerts": 18,
     "news": 52
   },
-  "cleanedAt": "2026-08-04T16:56:07.777Z"
+  "cleanedAt": "2026-08-04T18:25:09.952Z"
 }
