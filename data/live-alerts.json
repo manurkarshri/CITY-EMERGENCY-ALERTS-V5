@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:09:11.753Z",
+  "generatedAt": "2026-08-07T09:29:59.679Z",
   "status": "ok",
   "alerts": [
     {
@@ -50,6 +50,38 @@
       "region": "pune",
       "sources": [
         "The Sunday Guardian"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "3 hour red alert for delhi after heavy rain gurugram battles flooding",
+      "title": "3-hour red alert for Delhi after heavy rain; Gurugram battles flooding",
+      "summary": "3-hour red alert for Delhi after heavy rain; Gurugram battles flooding",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2xFcWhfaFRVRUJva0ExMC01MzFvcHg0VkVhMTRKLVJnanVqZjhGblhaak5ZUkdmTlUxOXZOTDdhdFktY0RieEZQQnZLVWtGVGdPYndkVW9SQ0RmMHRYZ3pJWnVFLU42d3dxRVBOczUtd3JGLU9iWDgxWVpSREdGRDFSLThmZ05Ka29VaTdKUXI3b0FVenZSWm9ZOFhoZHdiTlUtX09waV92NG5zMU9mMllOcmpXbklucS1jMFhrd09HYUhQeWFmRzlB0gHQAUFVX3lxTE1rcmd2U1N6U1BzeHVtclFnRWVKRThrMGNmaE9uT2RTdURVblh2REpEbVdUYW5jQlJ4V0lVTG01ZUJRaG9JTndEckNwdEtKVVNXZ05HY1BSd3R1aVNaU3YyOWtLR3BVNVFVd2NCMDBxMGJiaG5USUZTemk4VTV0aDJyanlGczJ1WVFLaFJ4T092VWRzZW1HWjRpNlZqM0JCR3Q0Sy1pR2tfRjFtcGtKZHV2dG90c1RMMmNUcExrVkJFMXpJYnhpcEIzZTNCUnYwMEc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 05:37:32 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 05:37:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Indian Express"
       ],
       "confidence": "Single source",
       "w": [
@@ -132,21 +164,23 @@
       ]
     },
     {
-      "id": "congress worker dies in road accident on mumbai expressway missing link",
-      "title": "Congress worker dies in road accident on Pune–Mumbai Expressway ‘Missing Link’",
-      "summary": "Congress worker dies in road accident on Pune–Mumbai Expressway ‘Missing Link’",
-      "source": "The Indian Express + 1 more",
+      "id": "mumbai accident मुंबई पुणे एक्सप्रेसवेवर भीषण अपघात मिसिंग लिंक बोगद्यात फॉर्च्युनरची टेम्",
+      "title": "Mumbai Accident: मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात! 'मिसिंग लिंक' बोगद्यात फॉर्च्युनरची टेम्पोला जोरदार धडक; एकाचा जागीच मृत्यू",
+      "summary": "Mumbai Accident: मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात! 'मिसिंग लिंक' बोगद्यात फॉर्च्युनरची टेम्पोला जोरदार धडक; एकाचा जागीच मृत्यू",
+      "source": "Pudhari + 3 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3kzSGc5LXpmVktYTmhYcmsyeFFFOWNMLTA5bTZ1WF9zNWhoSG90dlJXNlFsOUlsSUJva3ZSWHRETHVOV0lIbkVzRFdIUld2MkV4YkhfX3drRjlKbXNEUXhEaFRfbXZhNTdKUEgtMlJONFVQLTFaTW80Tk5oTFlnQ192RlZzZ1YtVHlQeVRwMUQzcDhQSXZ3TnRSYzMzOVJ6cjZEVkdMeHJLSmJIVWdoQzRtOXg4YURyRDBjOE54UWlhcDNjNV9TMFR6M1nSAdMBQVVfeXFMT092bUo4UnlVeTdPeTZDN3d3dEE0OWhzalhIdW5EUmhxbXplaWd5cm9MZzc0T2NtV2pOVlJ0bDdMYlpXU2ozTGVOVWpTV3R6eTFBZW5BX0R3X3h0VUFwbGQ0WXkxcjE3cnplT2xKandEdy03RDMwd1dLVkJOOTI3NkN0eGh2dTdPV01VaGJTeTZNRF9XYzl2eUlNMEFrdXFmYUFCLVhZaWhaa3h5TWZfQ0pwODk4Y1JrQnpzS1ZkbUZpeDI3RGlMRTFBMnNHNFNubElHbw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 04:54:55 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 04:54:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbmVvdjJLMkJnWEZaUjVJTG1CUmZlU3ItOEU5SGZTT25ydlk5NXZ5Z0FlTHFKMk9DS05lRUtNX0hPcWRkdFJsT3RyRk5KV1pVeEtMTlBkc1hNaDhXNWliU2xkWWRCeUNNRmFQcUN2UjdmQmNQYi1yZm8xSktrNHg5cTlScm9VX3kwRmlaY3F5OTFhRXhiUl9UYThhRlBZakdPbkQ1S0NuMHRxbEZnVjNXandOdnBlN3Z1cjh3ZzhxTktrTktGblEyQWJydldPbWVaVVljWGFOekItWWlITEhGc1BaSGI2U0hOVHRvbWpR0gHuAUFVX3lxTFBuZW92MksyQmdYRlpSNUlMbUJSZmVTci04RTlIZlNPbnJ2WTk1dnlnQWVMcUoyT0NLTmVFS01fSE9xZGR0UmxPdHJGTkpXWlV4S0xOUGRzWE1oOFc1aWJTbGRZZEJ5Q01GYVBxQ3ZSN2ZCY1BiLXJmbzFKS2s0eDlxOVJyb1VfeTBGaVpjcXk5MWFFeGJSX1RhOGFGUFlqR09uRDVLQ24wdHFsRmdWM1dqd052cGU3dnVyOHdnOHFOS2tOS0ZuUTJBYnJ2V09tZVpVWWNYYU56Qi1ZaUhMSEZzUFpIYjZTSE5UdG9talE?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 07:11:01 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 07:11:01 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express",
-        "Marathi Jagran"
+        "Pudhari",
+        "instagram.com",
+        "Marathi Jagran",
+        "lokmat.com"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
       "w": [
         "accident",
         "crash",
@@ -158,10 +192,7 @@
       "type": "Accident",
       "icon": "🚑",
       "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
+      "action": "Expect delays. Avoid the affected road if possible."
     },
     {
       "id": "missing link accident मुंबई पुणे मिसिंग लिंकवर पहिला अपघाती बळी फॉर्च्युनर टेम्पोच्या धडके",
@@ -220,34 +251,6 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "missing link accident फॉर्च्युनरचा अक्षरश चुराडा भीषण अपघाताचे अंगावर काटा आणणारे photo",
-      "title": "Missing Link Accident: फॉर्च्युनरचा अक्षरश: चुराडा, भीषण अपघाताचे अंगावर काटा आणणारे PHOTO",
-      "summary": "Missing Link Accident: फॉर्च्युनरचा अक्षरश: चुराडा, भीषण अपघाताचे अंगावर काटा आणणारे PHOTO",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUU4RHU0VUhWOGVqekFiSWQtZzhwWmttYzBKY2JFbFNHZ2dSZUJ3dlY0UE40U2FFSl9sSUJmbE01YXZsR0dhZUFxbWZFdVR2YnpYSmY2MTI5d2g2NEVlcGstY2RmSFdDMzVUZjB2dk0xbU0yTm5zeW5WRVRnUUJ0cTFZMWdaYzlrVGhPMzM2cE1JMzF6WDNHR2JDRGZnNWtSOXA4OXY2cVU3ODlGTzN6YUxEU1NXODN4MzFiQg?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 03:13:45 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 03:13:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
-    },
-    {
       "id": "mumbai expressway accident मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात पुण्यातील युवा न",
       "title": "Mumbai Pune Expressway Accident: मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात, पुण्यातील युवा नेत्याचा जागीच मृत्यू",
       "summary": "Mumbai Pune Expressway Accident: मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात, पुण्यातील युवा नेत्याचा जागीच मृत्यू",
@@ -276,32 +279,38 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "missing link accident पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं फॉर्च्युन",
-      "title": "Missing Link Accident : पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं, फॉर्च्युनरचा अक्षरशः चुराडा, 2 तास वाहतूक बंद",
-      "summary": "Missing Link Accident : पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं, फॉर्च्युनरचा अक्षरशः चुराडा, 2 तास वाहतूक बंद",
-      "source": "News18 Marathi",
+      "id": "technical fault at msedcl substation disrupts power supply on sinhagad road hingne",
+      "title": "Pune: Technical Fault at MSEDCL Substation Disrupts Power Supply on Sinhagad Road, Hingne",
+      "summary": "Pune: Technical Fault at MSEDCL Substation Disrupts Power Supply on Sinhagad Road, Hingne",
+      "source": "Punekar News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1I1THFxR2l6MVNvWUYxOHppV3B6amVrR0lXOUNFSkNVSU1xb1ZBa3drYTVLNzFwTGdpSEt4emR4ZzRYSmJIU2ctX0hrUzFMcVAzX0hqd2FOYTB0NVpYMzIxLVlla2U5M3R5TE5qa01WRjhvajZ6NG01ZlRQNnhDY1BNZERHMFJkMGtfRVdxNTFFSmY4ektyZFE2THlncmswckJhVmxsakV1MnlFWEx0LTQ1dlpTeW16MUEzdjFpZkVKX2F1bjFxN0dzcVE5ZkZiZVJHMU1R?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 01:10:00 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 01:10:00 GMT",
-      "areas": [],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3ljVHlSM214OURqUWgxNXhGOUt0cjhWcW1aWjRHeXNveFlTeF9DbDI4ZVZyMDd1UmxlS2FkQkYzWkc1a2F3bnAzVHBxM09laG5ITEtRRWxXS2w2YXdzUHJ0NVVONUFyMkNsNW9XYV9DNG5lcERzTUZ4QXAxTDB6YlotZE42a1BYN2hoNFgydHotOGF1Zk1sUTNxNzJ1clJPZWNFZ2hRbmZwbk1xMjhmV2RULUlrQQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:25:43 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:25:43 GMT",
+      "areas": [
+        "Sinhagad Road"
+      ],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Punekar News"
       ],
       "confidence": "Single source",
       "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
       ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Road delay or diversion possible.",
+        "Power supply impact possible."
+      ]
     },
     {
       "id": "power outage in cidco",
@@ -404,6 +413,38 @@
       ]
     },
     {
+      "id": "traffic tomtom traffic index 2025 ranks fifth in the world for traffic jams",
+      "title": "Pune Traffic News | TomTom Traffic Index 2025: Pune ranks fifth in the world for traffic jams",
+      "summary": "Pune Traffic News | TomTom Traffic Index 2025: Pune ranks fifth in the world for traffic jams",
+      "source": "policenama.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYnpOVjllSWN3TS1hZlkzWFc4Y3FqRVg0RnJwMENOd2lULUlnNWVkWklydEEyMmhNWlF4b1dkOVN6ZE1mczNCTVV1dTZDSEhYRE1XaUIzdG1XeW42TzRxZEtTVWlua2diU1NCeHFET2RkMldyOVJuOFE3ZEpBM1dTTWVFd0hRSUpxMHBEcjFLMEtyNWdQUjVzU3lJM0VtdXY4bXBfakN6R292dS1QUXBOZzlXNGdEQXlfLVk4QWV5d1Faakdsa0hOeVZROFpMYXhQWXVRdng5QnRVU1ZudE56cExsNEpBbmhLX1BoRQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:47:52 GMT",
+      "lastUpdated": "Thu, 06 Aug 2026 12:47:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "policenama.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "traffic पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
       "title": "Pune Traffic : पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर; ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
       "summary": "Pune Traffic : पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर; ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
@@ -436,39 +477,70 @@
       ]
     },
     {
-      "id": "delhi ncr heavy rain triggers widespread waterlogging",
-      "title": "Delhi NCR Heavy Rain Triggers Widespread Waterlogging",
-      "summary": "Delhi NCR Heavy Rain Triggers Widespread Waterlogging",
-      "source": "urbanacres.in",
+      "id": "राज्यात धो धो पाऊस कोसळणार पुणे साताऱ्यासह या जिल्ह्यांना येलो अलर्ट हवामान खात्याचा अंदाज",
+      "title": "राज्यात धो धो पाऊस कोसळणार, पुणे-साताऱ्यासह ‘या’ जिल्ह्यांना येलो अलर्ट; हवामान खात्याचा अंदाज पुणे : राज्यातील अनेक भागांत गेल्या काही दिवसांपासून पावसाचा जोर काहीसा कमी झाला अ",
+      "summary": "राज्यात धो धो पाऊस कोसळणार, पुणे-साताऱ्यासह ‘या’ जिल्ह्यांना येलो अलर्ट; हवामान खात्याचा अंदाज पुणे : राज्यातील अनेक भागांत गेल्या काही दिवसांपासून पावसाचा जोर काहीसा कमी झाला अ",
+      "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ01CQWdKdFZSQm5BNWI0MTg0dWZRRUtnd2JZTl9jNGJIaTk3X3pXSlZVWVBIV0hTOFdia2FReWNhY2lNeUhQYm1tZFY3TDY5dG9JRzdrd1Y5VmpyWnVSU05HRVNjOThxbTdIb2RqUUJxVnlMQWh1U0FPd3oyM1ZpUE5R?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:16:53 GMT",
-      "lastUpdated": "Thu, 06 Aug 2026 09:16:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ZVNDb0lZcVAwVkRkNGFQT3pGdFg3dGdTV0NxOHNCaVRWLWxETnZTZGNzS1M3UXl1amtwcHF3LWc1UXBNQ3d0OGdmdXBqX2JReWc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:50:04 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:50:04 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in"
+        "instagram.com"
       ],
       "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "action": "No immediate action required."
+    },
+    {
+      "id": "isro recruitment 2026 notification out for 242 posts check eligibility vacancy details and",
+      "title": "ISRO Recruitment 2026 Notification Out For 242 Posts; Check Eligibility, Vacancy Details And How To Apply",
+      "summary": "ISRO Recruitment 2026 Notification Out For 242 Posts; Check Eligibility, Vacancy Details And How To Apply",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2hyakNjb21TOHY0YzdqaV9PZ2dsbjNyaXE0dHdKVC1QRU1pQ2hHdVp2eXEyX3pKM2tvLU1Vd3B6RTNiNUpPRnYtVGtnV3RGTm9MMzlycTJzLTU2S0hsSjB3S3ZUZU5rNXFuVWlDSVdaUWR4Z2plSVhBckFaWi1HbmxJNzV4WVBmaXN5ZGIwODNLSW5rUE9fbU1rWlFGaXNVN050U2QwOGFLZ0RnOXR5QThvWWQ3LUdRdDIyd1hTM01SaGxwY2FobHZSTQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:29:48 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:29:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "dimbhe dam water leakage डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती शेतकऱ्यांमध",
+      "title": "Dimbhe Dam Water Leakage: डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती; शेतकऱ्यांमध्ये चिंतेचे वातावरण",
+      "summary": "Dimbhe Dam Water Leakage: डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती; शेतकऱ्यांमध्ये चिंतेचे वातावरण",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2VCclhGNHZLZTV1VDUwOVZReVdCbTBOYmFncG03cERpcFY3MWVhNnMzVTBUVzdCVjRzcEpRQW1nQ3dSOFg5S2wwOFM2NXVwMWx2T19pQzdfa29mTXBCbEJET2dJSFRnSzRHWi1UMktFSUNLa2drYVZtRjN5YW1tZ2lEMU5BUHlqZ3h4Z1A1azdNbElRZkHSAaMBQVVfeXFMTzR1bUN3RUlYQ2lfb2lzaTVldmdOOU04UWVZdmlsNUJHcmhjVTFlVjd2QXlnSVN6OG9xN2hRdng5eTlVdTVERUx0TmVCTENjbGZRZjM3WThlR0VpVWdOWWNQdGwwRjFZYnJ3RmhfSmNrZTRGYm9wb0dPWTNfWFlrS0U2aWxhTFRxX04wS0dWdHFJdGMzcVNxY3BPS1NfQlJVQkpDcw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:08:00 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "police व्हायरल व्हिडिओप्रकरणी वाहतूक पोलिसाचे निलंबन कर्तव्यस्थळ सोडल्याचा ठपका डीसीपींची ",
@@ -498,9 +570,9 @@
       "summary": "Khadakwasla dam water storage: खडकवासलातून सध्या मुठा नदीत ८,७७७ क्युसेकने विसर्ग; महिनाभरात धरणसाखळीत ४३ टीएमसी पाणी जमा",
       "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2h3cE5lMXlTeXM4QnA1Ry1sNUIxUE1QN3FPdk9JOFZKZ2tuckM5eXZFZGhpekVtNVY0ZGtWQWVzOE40eTlqT3MycVNxRTdtQTZJWGozUFVBMTd4UmFZNTI0eGlFUTFUSUJhVjRFMlpyR0w0VHFXcll0ODN4QmVmZGZ5Nzc3TjFFMmtGTWZyZmhIbzNYeF9BOEpNRlIyZ1YwN1HSAa8BQVVfeXFMTnlNNGxaaWotOEJqV1hHZGk1T2lrYmk0alRzU3BoSDBoZlZwRUdwVmtRSVBrRjEtM0xzcXFoNlNlSWJ6cEtHTER0Mkk0TzJFb0p5UXpKUlVobjNoSTJzRWJqNENrZS1pRGZPWXcwNVlhZENKd2tUcmJXTkd2MGR5Nm9OTFpld2M0cmNtTnVvbE5TUFU4eVZXbzFQWXFZdXluX0NzX2JJTGZBY2prUFM4TQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 06:44:55 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 06:44:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeU00bFppai04QmpXWEdkaTVPaWtiaTRqVHNTcGhIMGhmVnBFR3BWa1FJUGtGMS0zTHNxcWg2U2VJYnpwS0dMRHQySTRPMkVvSnlRekpSVWhuM2hJMnNFYmo0Q2tlLWlEZk9ZdzA1WWFkQ0p3a1RyYldOR3YwZHk2b05MWmV3YzRyY21OdW9sTlNQVTh5VldvMVBZcVl1eW5fQ3NfYklMZkFjamtQUzhN0gGvAUFVX3lxTE55TTRsWmlqLThCaldYR2RpNU9pa2JpNGpUc1NwaEgwaGZWcEVHcFZrUUlQa0YxLTNMc3FxaDZTZUlienBLR0xEdDJJNE8yRW9KeVF6SlJVaG4zaEkyc0ViajRDa2UtaURmT1l3MDVZYWRDSndrVHJiV05HdjBkeTZvTkxaZXdjNHJjbU51b2xOU1BVOHlWV28xUFlxWXV5bl9Dc19iSUxmQWNqa1BTOE0?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 06:52:17 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 06:52:17 GMT",
       "areas": [
         "Khadakwasla"
       ],
@@ -520,7 +592,7 @@
       "id": "maharashtra weather राज्यातील या भागात मुसळधार पावसाचा इशारा हवामान विभागाचा सतर्कतेचा इशा",
       "title": "Maharashtra Weather | राज्यातील 'या' भागात मुसळधार पावसाचा इशारा, हवामान विभागाचा सतर्कतेचा इशारा",
       "summary": "Maharashtra Weather | राज्यातील 'या' भागात मुसळधार पावसाचा इशारा, हवामान विभागाचा सतर्कतेचा इशारा",
-      "source": "thodkyaat.com",
+      "source": "Thodkyaat",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5obk4xcGFMWFZrZ2IxcERoRllYNS1ZWHBEZXFrRTBGMHBTT3BwSUcyWGd6NnJuQjJZdTBIWnlWX0ZoblplMFowNEFkMW5PVFU3QmRIQmZxVXJBb01ZeFZYVXgxT2J2MU5oZHphNkZRYUVrZw?oc=5",
       "pubDate": "Fri, 07 Aug 2026 06:22:19 GMT",
@@ -528,7 +600,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "thodkyaat.com"
+        "Thodkyaat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -561,18 +633,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "मुंबई पुणे मिसिंग लिंक बोगद्यात भीषण अपघात एकाचा मृत्यू मुंबई पुणे द्रुतगती मार्गावरील मिस",
-      "title": "मुंबई-पुणे मिसिंग लिंक बोगद्यात भीषण अपघात; एकाचा मृत्यू मुंबई–पुणे द्रुतगती मार्गावरील मिसिंग लिंकच्या बोगद्यात रात्री भीषण अपघात झाला. पुण्याहून मुंबईच्या दिशेने जाणाऱ्या भरधाव",
-      "summary": "मुंबई-पुणे मिसिंग लिंक बोगद्यात भीषण अपघात; एकाचा मृत्यू मुंबई–पुणे द्रुतगती मार्गावरील मिसिंग लिंकच्या बोगद्यात रात्री भीषण अपघात झाला. पुण्याहून मुंबईच्या दिशेने जाणाऱ्या भरधाव",
-      "source": "instagram.com",
+      "id": "मुंबई पुणे एक्सप्रेसवेवर भीषण अपघात वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "title": "मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात; वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "summary": "मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात; वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "source": "civicmirror.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80emZaeFd2Q09YdU91S3U0a0ZOOE9rc0ZnQTVxdXN6dmp1M000a2Mxc1ExT2c2dGpLZkhzRHNrUm9hdGN1d2MtTE5OTThmamVYU0NDTktB?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 05:38:41 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 05:38:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekFkTlF5NW1nVk1RaW5NdG1VRDRfdzdheWszaFp2cGVXM1ctZHptd2pyVlZCb3JPSFpqTjM0NFMzN3E2SUNwWUxVZXk3ODBJdHc2cjJZcGM2SExXQmFXNmRvQ3pJTFhGLVVCOXVXZTU4cEI0VXpCeEMzWkZfYnVEVEJ6QjMyTllUUnFMOUN1T0dIOFJTX3F4WElrWlllUEZwYmRBT0l1T0xUN3hKaFBDTlhzbENtY005WW9naDRzeG5YMXc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 05:09:05 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 05:09:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "instagram.com"
+        "civicmirror.in"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -723,28 +795,6 @@
       ]
     },
     {
-      "id": "मुंबई पुणे एक्सप्रेसवेच्या मिसिंग लिंक वर भीषण अपघात फॉर्च्युनरचा चक्काचूर एकाचा मृत्यू २ ",
-      "title": "मुंबई-पुणे एक्सप्रेसवेच्या 'मिसिंग लिंक'वर भीषण अपघात, फॉर्च्युनरचा चक्काचूर, एकाचा मृत्यू; २ तास वाहतूक ठप्प",
-      "summary": "मुंबई-पुणे एक्सप्रेसवेच्या 'मिसिंग लिंक'वर भीषण अपघात, फॉर्च्युनरचा चक्काचूर, एकाचा मृत्यू; २ तास वाहतूक ठप्प",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUm5IM0o3ZGxacTlVMXFwdlBKNVRUa1hhX2ItaFB6SW1YSEkzMGZKTXFpVTNxNFRsSHhsNU9vQnhlMUZjWms3NlIyTV9NU2pJMVRVb0VCZzBxLTZ4SFp1eWFncXN6eU9JbzNZeS16enJmTm1GQkVlQnc5ZVNkYjRNNnJhMm5QZWpWY3FSakNodE1PNXJvY1pIaHgydnVrZjhMcThLTDdXRVJ1Wk8yVGJlNEpMRGgzNVIwaGRiSHJpUURfaTZkNmJxeHhQMXlvc0p1d1JYbndTbmFQdFNYbFJJOWtNWnhyZmRLOFHSAe8BQVVfeXFMT1FCZ0sxTk5temUxckJ2Wnc1QkRQcnNLa3N2ZzY0X1lEUkpKaFUtY2tWSHFrU05sQzFCSEY3YURycVljbHBiWjlFUzN1RGhXcGR0dEE1cnRMQUFnSnNVa1hOcjVMcFdTbUVhSk1rM1QwLXlvQnRRU09pd0VSTm55dThhOGRUSXU2ZzZPYXBiNHNmbmViODE5all6aTBNcmdXdTkyV1dQMDl0MTh6UXdpNXl3MV95Z3IwODZLbFZBQ1I4ZmozMm5YeGp1eVM3UWJiZDhFM0V0UDVUaWRZVHZKQ3FyRzBqTnFtMU5fczFLcGs?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 02:32:00 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 02:32:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra rain forecast महाराष्ट्रात पावसाचा जोर कमी पण या भागांत मुसळधार सरी कोसळणार आज",
       "title": "Maharashtra Rain Forecast : महाराष्ट्रात पावसाचा जोर कमी, पण ‘या’ भागांत मुसळधार सरी कोसळणार; आज तुमच्या जिल्ह्यांत कसे असेल हवामान? जाणून घ्या",
       "summary": "Maharashtra Rain Forecast : महाराष्ट्रात पावसाचा जोर कमी, पण ‘या’ भागांत मुसळधार सरी कोसळणार; आज तुमच्या जिल्ह्यांत कसे असेल हवामान? जाणून घ्या",
@@ -775,9 +825,9 @@
       "summary": "Weather Alert: बंगालच्या उपसागरात वारं फिरलं, इकडं महाराष्ट्राला संकटानं घेरलं, आजचं हवामान अपडेट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVRNb1IzdENCbGpuYXNtMjU5ZEY2M0p0cnh3YVBrQ3Z4RFU1X0VucVA3b0xSSUxXT0llZXZTUzZnejRtSEl4VEQza0tUdWJuZUNtc2JVajFEV0s2RGJMV0xXSDQxdHl4Slh6UDNJak9EVG5wZU5YblphZjloSEp3RVRHX0VQbE1MZlFNM1ZIUXN5ZGttR0NnbGd2RXA3eWJUY0xOQW9La1d4RWNhSXdnMm5SUy1CMTVGejhpRXJGTFFBSnR4eXNlYkJyMGs3bGFfdVduWHZyd3U5TU9EeThsWFRCM2kwQlBZQk5NWlVKUQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 02:07:38 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 02:07:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTWQtTkpGeGlod05jQnpNbUJJRUhtNV81OEpYTEZVaWZHdzhWUWRVMkZxczladFdSVVZ3a2cwOHp4eE10YW01bkM5YXdUdTRuZ1RwSzlUcXdOQnprUmVNc1hsQVF0Y3ppbzd4X3E5RlZwNFIyWXlvVVk5cURtaWVNVWE0QzJsRGhaTzNBdFhlNm9PV3ZqS1pzRG1FSFhDVUtFVkVsbERGbldzaGtaNWpjTDFOd1R6NXZENEdrelBSdENTM0JOYkp4cE1jTXVVZnVDcGxINXpjSW16ejB3Y05Nek9oUTdla01rNVVZWk1FMA?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 02:07:00 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 02:07:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -795,7 +845,7 @@
       "id": "पुन्हा पावसाचा जोर वाढणार कोकण घाटमाथ्यावर मुसळधार सरींचा इशारा imd कडून अलर्ट जारी",
       "title": "पुन्हा पावसाचा जोर वाढणार!कोकण-घाटमाथ्यावर मुसळधार सरींचा इशारा,IMD कडून अलर्ट जारी",
       "summary": "पुन्हा पावसाचा जोर वाढणार!कोकण-घाटमाथ्यावर मुसळधार सरींचा इशारा,IMD कडून अलर्ट जारी",
-      "source": "Pune Prime News",
+      "source": "puneprimenews.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN285ZmJqeVZseWk0MG42TElOMUVQOEk0Q1pKRERLaTBUOXpKYWFqWXg0UU1MdkExQ3gtM1dMQzVaRnVFY3NIWllJSmFJcWJQY1k5LVJyVFZYclgzdGtZQlZ4Vnp2MHh6c280QVdMbmdlNUk3ejFmQm1zLTZXWVpmX0pqakxOWjVOUGVUeG9xa0NRWEZSZ1FiSUU2OWtJZExuQ1c3Y2lGd1JFWXlGOWMyVl9sb3RELVZLZ0pSWVNWNC1kaUlFd1JQaHJuR3pZLUU3Zkh0YlhyQXJyVTViYWp0aTJB?oc=5",
       "pubDate": "Fri, 07 Aug 2026 02:02:14 GMT",
@@ -803,7 +853,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News"
+        "puneprimenews.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -955,7 +1005,7 @@
       "id": "weather राज्यात पावसाचा जोर वाढणार या जिल्ह्यांना imd चा ऑरेंज अलर्ट",
       "title": "Weather Update : राज्यात पावसाचा जोर वाढणार, 'या' जिल्ह्यांना IMD चा ऑरेंज अलर्ट!",
       "summary": "Weather Update : राज्यात पावसाचा जोर वाढणार, 'या' जिल्ह्यांना IMD चा ऑरेंज अलर्ट!",
-      "source": "marathi.asianetnews.com",
+      "source": "Asianet News Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXJTb0JUMmVHMUljcW83TlVvQWprSWx3UllCbFJVdmNheFRtREMxMVpVMmVkbFVZWU8yVHBGeGN4X1FCOGZDVDZFa1otMl9JNkFyT1NNUUhUOHhEbTZwUE9JYW1Mb3pod3NYel9QdUFXN3YzUW9vSGt3MzV2TXIxM1h5WlZjeXlqRFZBMG1zVWhhQ3FlY3ZvUURoa1VuQmlZYUJsZ1NJVGFkZVBXdlluQjFKWlo2TFhrd0xzUXlwMEJlUdIBwgFBVV95cUxOcXJTb0JUMmVHMUljcW83TlVvQWprSWx3UllCbFJVdmNheFRtREMxMVpVMmVkbFVZWU8yVHBGeGN4X1FCOGZDVDZFa1otMl9JNkFyT1NNUUhUOHhEbTZwUE9JYW1Mb3pod3NYel9QdUFXN3YzUW9vSGt3MzV2TXIxM1h5WlZjeXlqRFZBMG1zVWhhQ3FlY3ZvUURoa1VuQmlZYUJsZ1NJVGFkZVBXdlluQjFKWlo2TFhrd0xzUXlwMEJlUQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 15:03:21 GMT",
@@ -963,7 +1013,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.asianetnews.com"
+        "Asianet News Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "बड्डे आहे भावाचा रस्त्यावर केक कापून हवेत गोळीबार भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखव",
+      "title": "बड्डे आहे भावाचा! रस्त्यावर केक कापून हवेत गोळीबार, भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखवला चांगलाच इंगा",
+      "summary": "बड्डे आहे भावाचा! रस्त्यावर केक कापून हवेत गोळीबार, भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखवला चांगलाच इंगा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNC1rNkpwZnpfT0dOTExfS2IxdzJBVE9JZUkzSm4tdTZybDB6cjVKYTJGSEFKQ1VGZS1IT0M1UFlNM2lkOVEycklyeGw1V0NHUGZtU3hXNTQwcE1UVDVLYUdsOW1MZU8tWjA1Rkt2U09kLV81S3IwN3NHQWY3WEZaaWhtVzBRdmIyRmpFYnlzbm9sb2NLYjhycFlLMEJ2bGFtSFRYWExwRHdHVU1OdGxkY2wyZTVGeGJnd1JIVVA0SlRoWndvR09JNmlySlBMdjZsaUNmZUdRMlAxeTU0OHlqMG9KNGlKTW5GbF8ta01MRQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 14:43:54 GMT",
+      "lastUpdated": "Thu, 06 Aug 2026 14:43:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1179,28 +1251,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट मुंबई पुणे नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "title": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट: मुंबई, पुणे, नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "summary": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट: मुंबई, पुणे, नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkx0VVZJbjNmM2M4MEZRZm4zTGsxczJSZTlmRGtLeHZSOWYwdklERmVsM1ZidFI0cGx0NXV6SXV2VGlkT2V1VE8wMW0yRGQxZ0doMWc5dXY5WnZuY3I2TmhCUDJ3ZFVmTDdCTEVKdjdvaXBKa3o1ZnQ0ejBQMDBNWkRiLWIyMUdXd2ZyYy1WY09MWmZETUNfTEZxenhaV0JwTXJxTDJUelZxUl80UEgwMWV1azhiSF9HZGZmRmgyWjZzNHlGZ1o2YS1HWUNMbTA?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:24:08 GMT",
-      "lastUpdated": "Thu, 06 Aug 2026 09:24:08 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1249,6 +1299,35 @@
       "region": "pune",
       "sources": [
         "The Sunday Guardian"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "3 hour red alert for delhi after heavy rain gurugram battles flooding",
+      "title": "3-hour red alert for Delhi after heavy rain; Gurugram battles flooding",
+      "summary": "3-hour red alert for Delhi after heavy rain; Gurugram battles flooding",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2xFcWhfaFRVRUJva0ExMC01MzFvcHg0VkVhMTRKLVJnanVqZjhGblhaak5ZUkdmTlUxOXZOTDdhdFktY0RieEZQQnZLVWtGVGdPYndkVW9SQ0RmMHRYZ3pJWnVFLU42d3dxRVBOczUtd3JGLU9iWDgxWVpSREdGRDFSLThmZ05Ka29VaTdKUXI3b0FVenZSWm9ZOFhoZHdiTlUtX09waV92NG5zMU9mMllOcmpXbklucS1jMFhrd09HYUhQeWFmRzlB0gHQAUFVX3lxTE1rcmd2U1N6U1BzeHVtclFnRWVKRThrMGNmaE9uT2RTdURVblh2REpEbVdUYW5jQlJ4V0lVTG01ZUJRaG9JTndEckNwdEtKVVNXZ05HY1BSd3R1aVNaU3YyOWtLR3BVNVFVd2NCMDBxMGJiaG5USUZTemk4VTV0aDJyanlGczJ1WVFLaFJ4T092VWRzZW1HWjRpNlZqM0JCR3Q0Sy1pR2tfRjFtcGtKZHV2dG90c1RMMmNUcExrVkJFMXpJYnhpcEIzZTNCUnYwMEc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 05:37:32 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 05:37:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Indian Express"
       ],
       "confidence": "Single source",
       "w": [
@@ -1322,21 +1401,23 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
-      "id": "congress worker dies in road accident on mumbai expressway missing link",
-      "title": "Congress worker dies in road accident on Pune–Mumbai Expressway ‘Missing Link’",
-      "summary": "Congress worker dies in road accident on Pune–Mumbai Expressway ‘Missing Link’",
-      "source": "The Indian Express + 1 more",
+      "id": "mumbai accident मुंबई पुणे एक्सप्रेसवेवर भीषण अपघात मिसिंग लिंक बोगद्यात फॉर्च्युनरची टेम्",
+      "title": "Mumbai Accident: मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात! 'मिसिंग लिंक' बोगद्यात फॉर्च्युनरची टेम्पोला जोरदार धडक; एकाचा जागीच मृत्यू",
+      "summary": "Mumbai Accident: मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात! 'मिसिंग लिंक' बोगद्यात फॉर्च्युनरची टेम्पोला जोरदार धडक; एकाचा जागीच मृत्यू",
+      "source": "Pudhari + 3 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3kzSGc5LXpmVktYTmhYcmsyeFFFOWNMLTA5bTZ1WF9zNWhoSG90dlJXNlFsOUlsSUJva3ZSWHRETHVOV0lIbkVzRFdIUld2MkV4YkhfX3drRjlKbXNEUXhEaFRfbXZhNTdKUEgtMlJONFVQLTFaTW80Tk5oTFlnQ192RlZzZ1YtVHlQeVRwMUQzcDhQSXZ3TnRSYzMzOVJ6cjZEVkdMeHJLSmJIVWdoQzRtOXg4YURyRDBjOE54UWlhcDNjNV9TMFR6M1nSAdMBQVVfeXFMT092bUo4UnlVeTdPeTZDN3d3dEE0OWhzalhIdW5EUmhxbXplaWd5cm9MZzc0T2NtV2pOVlJ0bDdMYlpXU2ozTGVOVWpTV3R6eTFBZW5BX0R3X3h0VUFwbGQ0WXkxcjE3cnplT2xKandEdy03RDMwd1dLVkJOOTI3NkN0eGh2dTdPV01VaGJTeTZNRF9XYzl2eUlNMEFrdXFmYUFCLVhZaWhaa3h5TWZfQ0pwODk4Y1JrQnpzS1ZkbUZpeDI3RGlMRTFBMnNHNFNubElHbw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 04:54:55 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 04:54:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbmVvdjJLMkJnWEZaUjVJTG1CUmZlU3ItOEU5SGZTT25ydlk5NXZ5Z0FlTHFKMk9DS05lRUtNX0hPcWRkdFJsT3RyRk5KV1pVeEtMTlBkc1hNaDhXNWliU2xkWWRCeUNNRmFQcUN2UjdmQmNQYi1yZm8xSktrNHg5cTlScm9VX3kwRmlaY3F5OTFhRXhiUl9UYThhRlBZakdPbkQ1S0NuMHRxbEZnVjNXandOdnBlN3Z1cjh3ZzhxTktrTktGblEyQWJydldPbWVaVVljWGFOekItWWlITEhGc1BaSGI2U0hOVHRvbWpR0gHuAUFVX3lxTFBuZW92MksyQmdYRlpSNUlMbUJSZmVTci04RTlIZlNPbnJ2WTk1dnlnQWVMcUoyT0NLTmVFS01fSE9xZGR0UmxPdHJGTkpXWlV4S0xOUGRzWE1oOFc1aWJTbGRZZEJ5Q01GYVBxQ3ZSN2ZCY1BiLXJmbzFKS2s0eDlxOVJyb1VfeTBGaVpjcXk5MWFFeGJSX1RhOGFGUFlqR09uRDVLQ24wdHFsRmdWM1dqd052cGU3dnVyOHdnOHFOS2tOS0ZuUTJBYnJ2V09tZVpVWWNYYU56Qi1ZaUhMSEZzUFpIYjZTSE5UdG9talE?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 07:11:01 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 07:11:01 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express",
-        "Marathi Jagran"
+        "Pudhari",
+        "instagram.com",
+        "Marathi Jagran",
+        "lokmat.com"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
       "w": [
         "accident",
         "crash",
@@ -1407,34 +1488,6 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "missing link accident फॉर्च्युनरचा अक्षरश चुराडा भीषण अपघाताचे अंगावर काटा आणणारे photo",
-      "title": "Missing Link Accident: फॉर्च्युनरचा अक्षरश: चुराडा, भीषण अपघाताचे अंगावर काटा आणणारे PHOTO",
-      "summary": "Missing Link Accident: फॉर्च्युनरचा अक्षरश: चुराडा, भीषण अपघाताचे अंगावर काटा आणणारे PHOTO",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUU4RHU0VUhWOGVqekFiSWQtZzhwWmttYzBKY2JFbFNHZ2dSZUJ3dlY0UE40U2FFSl9sSUJmbE01YXZsR0dhZUFxbWZFdVR2YnpYSmY2MTI5d2g2NEVlcGstY2RmSFdDMzVUZjB2dk0xbU0yTm5zeW5WRVRnUUJ0cTFZMWdaYzlrVGhPMzM2cE1JMzF6WDNHR2JDRGZnNWtSOXA4OXY2cVU3ODlGTzN6YUxEU1NXODN4MzFiQg?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 03:13:45 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 03:13:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
-    },
-    {
       "id": "mumbai expressway accident मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात पुण्यातील युवा न",
       "title": "Mumbai Pune Expressway Accident: मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात, पुण्यातील युवा नेत्याचा जागीच मृत्यू",
       "summary": "Mumbai Pune Expressway Accident: मिसिंग लिंकच्या बोगद्यात मध्यरात्री भीषण अपघात, पुण्यातील युवा नेत्याचा जागीच मृत्यू",
@@ -1463,32 +1516,34 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "missing link accident पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं फॉर्च्युन",
-      "title": "Missing Link Accident : पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं, फॉर्च्युनरचा अक्षरशः चुराडा, 2 तास वाहतूक बंद",
-      "summary": "Missing Link Accident : पुण्याहून मुंबईकडे निघाले पण मिसिंग लिंकवरच मृत्यूनं गाठलं, फॉर्च्युनरचा अक्षरशः चुराडा, 2 तास वाहतूक बंद",
-      "source": "News18 Marathi",
+      "id": "technical fault at msedcl substation disrupts power supply on sinhagad road hingne",
+      "title": "Pune: Technical Fault at MSEDCL Substation Disrupts Power Supply on Sinhagad Road, Hingne",
+      "summary": "Pune: Technical Fault at MSEDCL Substation Disrupts Power Supply on Sinhagad Road, Hingne",
+      "source": "Punekar News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1I1THFxR2l6MVNvWUYxOHppV3B6amVrR0lXOUNFSkNVSU1xb1ZBa3drYTVLNzFwTGdpSEt4emR4ZzRYSmJIU2ctX0hrUzFMcVAzX0hqd2FOYTB0NVpYMzIxLVlla2U5M3R5TE5qa01WRjhvajZ6NG01ZlRQNnhDY1BNZERHMFJkMGtfRVdxNTFFSmY4ektyZFE2THlncmswckJhVmxsakV1MnlFWEx0LTQ1dlpTeW16MUEzdjFpZkVKX2F1bjFxN0dzcVE5ZkZiZVJHMU1R?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 01:10:00 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 01:10:00 GMT",
-      "areas": [],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3ljVHlSM214OURqUWgxNXhGOUt0cjhWcW1aWjRHeXNveFlTeF9DbDI4ZVZyMDd1UmxlS2FkQkYzWkc1a2F3bnAzVHBxM09laG5ITEtRRWxXS2w2YXdzUHJ0NVVONUFyMkNsNW9XYV9DNG5lcERzTUZ4QXAxTDB6YlotZE42a1BYN2hoNFgydHotOGF1Zk1sUTNxNzJ1clJPZWNFZ2hRbmZwbk1xMjhmV2RULUlrQQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:25:43 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:25:43 GMT",
+      "areas": [
+        "Sinhagad Road"
+      ],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Punekar News"
       ],
       "confidence": "Single source",
       "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
       ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
       "id": "mumbai rainfall causes severe waterlogging at lokmanya tilak terminus",
@@ -1580,6 +1635,35 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
+      "id": "traffic tomtom traffic index 2025 ranks fifth in the world for traffic jams",
+      "title": "Pune Traffic News | TomTom Traffic Index 2025: Pune ranks fifth in the world for traffic jams",
+      "summary": "Pune Traffic News | TomTom Traffic Index 2025: Pune ranks fifth in the world for traffic jams",
+      "source": "policenama.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYnpOVjllSWN3TS1hZlkzWFc4Y3FqRVg0RnJwMENOd2lULUlnNWVkWklydEEyMmhNWlF4b1dkOVN6ZE1mczNCTVV1dTZDSEhYRE1XaUIzdG1XeW42TzRxZEtTVWlua2diU1NCeHFET2RkMldyOVJuOFE3ZEpBM1dTTWVFd0hRSUpxMHBEcjFLMEtyNWdQUjVzU3lJM0VtdXY4bXBfakN6R292dS1QUXBOZzlXNGdEQXlfLVk4QWV5d1Faakdsa0hOeVZROFpMYXhQWXVRdng5QnRVU1ZudE56cExsNEpBbmhLX1BoRQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:47:52 GMT",
+      "lastUpdated": "Thu, 06 Aug 2026 12:47:52 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "policenama.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "traffic पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
       "title": "Pune Traffic : पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर; ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
       "summary": "Pune Traffic : पुण्याची वाहतूक कोंडी जगात ५ व्या क्रमांकावर; ट्रॅफिकमुळं पुणेकरांचे १५२ तास वाया",
@@ -1609,36 +1693,70 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "delhi ncr heavy rain triggers widespread waterlogging",
-      "title": "Delhi NCR Heavy Rain Triggers Widespread Waterlogging",
-      "summary": "Delhi NCR Heavy Rain Triggers Widespread Waterlogging",
-      "source": "urbanacres.in",
+      "id": "राज्यात धो धो पाऊस कोसळणार पुणे साताऱ्यासह या जिल्ह्यांना येलो अलर्ट हवामान खात्याचा अंदाज",
+      "title": "राज्यात धो धो पाऊस कोसळणार, पुणे-साताऱ्यासह ‘या’ जिल्ह्यांना येलो अलर्ट; हवामान खात्याचा अंदाज पुणे : राज्यातील अनेक भागांत गेल्या काही दिवसांपासून पावसाचा जोर काहीसा कमी झाला अ",
+      "summary": "राज्यात धो धो पाऊस कोसळणार, पुणे-साताऱ्यासह ‘या’ जिल्ह्यांना येलो अलर्ट; हवामान खात्याचा अंदाज पुणे : राज्यातील अनेक भागांत गेल्या काही दिवसांपासून पावसाचा जोर काहीसा कमी झाला अ",
+      "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ01CQWdKdFZSQm5BNWI0MTg0dWZRRUtnd2JZTl9jNGJIaTk3X3pXSlZVWVBIV0hTOFdia2FReWNhY2lNeUhQYm1tZFY3TDY5dG9JRzdrd1Y5VmpyWnVSU05HRVNjOThxbTdIb2RqUUJxVnlMQWh1U0FPd3oyM1ZpUE5R?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:16:53 GMT",
-      "lastUpdated": "Thu, 06 Aug 2026 09:16:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ZVNDb0lZcVAwVkRkNGFQT3pGdFg3dGdTV0NxOHNCaVRWLWxETnZTZGNzS1M3UXl1amtwcHF3LWc1UXBNQ3d0OGdmdXBqX2JReWc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:50:04 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:50:04 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in"
+        "instagram.com"
       ],
       "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area."
+      "action": "No immediate action required."
+    },
+    {
+      "id": "isro recruitment 2026 notification out for 242 posts check eligibility vacancy details and",
+      "title": "ISRO Recruitment 2026 Notification Out For 242 Posts; Check Eligibility, Vacancy Details And How To Apply",
+      "summary": "ISRO Recruitment 2026 Notification Out For 242 Posts; Check Eligibility, Vacancy Details And How To Apply",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2hyakNjb21TOHY0YzdqaV9PZ2dsbjNyaXE0dHdKVC1QRU1pQ2hHdVp2eXEyX3pKM2tvLU1Vd3B6RTNiNUpPRnYtVGtnV3RGTm9MMzlycTJzLTU2S0hsSjB3S3ZUZU5rNXFuVWlDSVdaUWR4Z2plSVhBckFaWi1HbmxJNzV4WVBmaXN5ZGIwODNLSW5rUE9fbU1rWlFGaXNVN050U2QwOGFLZ0RnOXR5QThvWWQ3LUdRdDIyd1hTM01SaGxwY2FobHZSTQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:29:48 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:29:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "dimbhe dam water leakage डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती शेतकऱ्यांमध",
+      "title": "Dimbhe Dam Water Leakage: डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती; शेतकऱ्यांमध्ये चिंतेचे वातावरण",
+      "summary": "Dimbhe Dam Water Leakage: डिंभे धरणाच्या भिंतीतून मोठ्या प्रमाणात पाण्याची गळती; शेतकऱ्यांमध्ये चिंतेचे वातावरण",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2VCclhGNHZLZTV1VDUwOVZReVdCbTBOYmFncG03cERpcFY3MWVhNnMzVTBUVzdCVjRzcEpRQW1nQ3dSOFg5S2wwOFM2NXVwMWx2T19pQzdfa29mTXBCbEJET2dJSFRnSzRHWi1UMktFSUNLa2drYVZtRjN5YW1tZ2lEMU5BUHlqZ3h4Z1A1azdNbElRZkHSAaMBQVVfeXFMTzR1bUN3RUlYQ2lfb2lzaTVldmdOOU04UWVZdmlsNUJHcmhjVTFlVjd2QXlnSVN6OG9xN2hRdng5eTlVdTVERUx0TmVCTENjbGZRZjM3WThlR0VpVWdOWWNQdGwwRjFZYnJ3RmhfSmNrZTRGYm9wb0dPWTNfWFlrS0U2aWxhTFRxX04wS0dWdHFJdGMzcVNxY3BPS1NfQlJVQkpDcw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 08:08:00 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 08:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "police व्हायरल व्हिडिओप्रकरणी वाहतूक पोलिसाचे निलंबन कर्तव्यस्थळ सोडल्याचा ठपका डीसीपींची ",
@@ -1668,9 +1786,9 @@
       "summary": "Khadakwasla dam water storage: खडकवासलातून सध्या मुठा नदीत ८,७७७ क्युसेकने विसर्ग; महिनाभरात धरणसाखळीत ४३ टीएमसी पाणी जमा",
       "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2h3cE5lMXlTeXM4QnA1Ry1sNUIxUE1QN3FPdk9JOFZKZ2tuckM5eXZFZGhpekVtNVY0ZGtWQWVzOE40eTlqT3MycVNxRTdtQTZJWGozUFVBMTd4UmFZNTI0eGlFUTFUSUJhVjRFMlpyR0w0VHFXcll0ODN4QmVmZGZ5Nzc3TjFFMmtGTWZyZmhIbzNYeF9BOEpNRlIyZ1YwN1HSAa8BQVVfeXFMTnlNNGxaaWotOEJqV1hHZGk1T2lrYmk0alRzU3BoSDBoZlZwRUdwVmtRSVBrRjEtM0xzcXFoNlNlSWJ6cEtHTER0Mkk0TzJFb0p5UXpKUlVobjNoSTJzRWJqNENrZS1pRGZPWXcwNVlhZENKd2tUcmJXTkd2MGR5Nm9OTFpld2M0cmNtTnVvbE5TUFU4eVZXbzFQWXFZdXluX0NzX2JJTGZBY2prUFM4TQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 06:44:55 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 06:44:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeU00bFppai04QmpXWEdkaTVPaWtiaTRqVHNTcGhIMGhmVnBFR3BWa1FJUGtGMS0zTHNxcWg2U2VJYnpwS0dMRHQySTRPMkVvSnlRekpSVWhuM2hJMnNFYmo0Q2tlLWlEZk9ZdzA1WWFkQ0p3a1RyYldOR3YwZHk2b05MWmV3YzRyY21OdW9sTlNQVTh5VldvMVBZcVl1eW5fQ3NfYklMZkFjamtQUzhN0gGvAUFVX3lxTE55TTRsWmlqLThCaldYR2RpNU9pa2JpNGpUc1NwaEgwaGZWcEVHcFZrUUlQa0YxLTNMc3FxaDZTZUlienBLR0xEdDJJNE8yRW9KeVF6SlJVaG4zaEkyc0ViajRDa2UtaURmT1l3MDVZYWRDSndrVHJiV05HdjBkeTZvTkxaZXdjNHJjbU51b2xOU1BVOHlWV28xUFlxWXV5bl9Dc19iSUxmQWNqa1BTOE0?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 06:52:17 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 06:52:17 GMT",
       "areas": [
         "Khadakwasla"
       ],
@@ -1690,7 +1808,7 @@
       "id": "maharashtra weather राज्यातील या भागात मुसळधार पावसाचा इशारा हवामान विभागाचा सतर्कतेचा इशा",
       "title": "Maharashtra Weather | राज्यातील 'या' भागात मुसळधार पावसाचा इशारा, हवामान विभागाचा सतर्कतेचा इशारा",
       "summary": "Maharashtra Weather | राज्यातील 'या' भागात मुसळधार पावसाचा इशारा, हवामान विभागाचा सतर्कतेचा इशारा",
-      "source": "thodkyaat.com",
+      "source": "Thodkyaat",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5obk4xcGFMWFZrZ2IxcERoRllYNS1ZWHBEZXFrRTBGMHBTT3BwSUcyWGd6NnJuQjJZdTBIWnlWX0ZoblplMFowNEFkMW5PVFU3QmRIQmZxVXJBb01ZeFZYVXgxT2J2MU5oZHphNkZRYUVrZw?oc=5",
       "pubDate": "Fri, 07 Aug 2026 06:22:19 GMT",
@@ -1698,7 +1816,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "thodkyaat.com"
+        "Thodkyaat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1731,18 +1849,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "मुंबई पुणे मिसिंग लिंक बोगद्यात भीषण अपघात एकाचा मृत्यू मुंबई पुणे द्रुतगती मार्गावरील मिस",
-      "title": "मुंबई-पुणे मिसिंग लिंक बोगद्यात भीषण अपघात; एकाचा मृत्यू मुंबई–पुणे द्रुतगती मार्गावरील मिसिंग लिंकच्या बोगद्यात रात्री भीषण अपघात झाला. पुण्याहून मुंबईच्या दिशेने जाणाऱ्या भरधाव",
-      "summary": "मुंबई-पुणे मिसिंग लिंक बोगद्यात भीषण अपघात; एकाचा मृत्यू मुंबई–पुणे द्रुतगती मार्गावरील मिसिंग लिंकच्या बोगद्यात रात्री भीषण अपघात झाला. पुण्याहून मुंबईच्या दिशेने जाणाऱ्या भरधाव",
-      "source": "instagram.com",
+      "id": "मुंबई पुणे एक्सप्रेसवेवर भीषण अपघात वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "title": "मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात; वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "summary": "मुंबई-पुणे एक्सप्रेसवेवर भीषण अपघात; वाकडचे युवा नेते तुषार भूमकर यांचे निधन",
+      "source": "civicmirror.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80emZaeFd2Q09YdU91S3U0a0ZOOE9rc0ZnQTVxdXN6dmp1M000a2Mxc1ExT2c2dGpLZkhzRHNrUm9hdGN1d2MtTE5OTThmamVYU0NDTktB?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 05:38:41 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 05:38:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekFkTlF5NW1nVk1RaW5NdG1VRDRfdzdheWszaFp2cGVXM1ctZHptd2pyVlZCb3JPSFpqTjM0NFMzN3E2SUNwWUxVZXk3ODBJdHc2cjJZcGM2SExXQmFXNmRvQ3pJTFhGLVVCOXVXZTU4cEI0VXpCeEMzWkZfYnVEVEJ6QjMyTllUUnFMOUN1T0dIOFJTX3F4WElrWlllUEZwYmRBT0l1T0xUN3hKaFBDTlhzbENtY005WW9naDRzeG5YMXc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 05:09:05 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 05:09:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "instagram.com"
+        "civicmirror.in"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1890,28 +2008,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "मुंबई पुणे एक्सप्रेसवेच्या मिसिंग लिंक वर भीषण अपघात फॉर्च्युनरचा चक्काचूर एकाचा मृत्यू २ ",
-      "title": "मुंबई-पुणे एक्सप्रेसवेच्या 'मिसिंग लिंक'वर भीषण अपघात, फॉर्च्युनरचा चक्काचूर, एकाचा मृत्यू; २ तास वाहतूक ठप्प",
-      "summary": "मुंबई-पुणे एक्सप्रेसवेच्या 'मिसिंग लिंक'वर भीषण अपघात, फॉर्च्युनरचा चक्काचूर, एकाचा मृत्यू; २ तास वाहतूक ठप्प",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUm5IM0o3ZGxacTlVMXFwdlBKNVRUa1hhX2ItaFB6SW1YSEkzMGZKTXFpVTNxNFRsSHhsNU9vQnhlMUZjWms3NlIyTV9NU2pJMVRVb0VCZzBxLTZ4SFp1eWFncXN6eU9JbzNZeS16enJmTm1GQkVlQnc5ZVNkYjRNNnJhMm5QZWpWY3FSakNodE1PNXJvY1pIaHgydnVrZjhMcThLTDdXRVJ1Wk8yVGJlNEpMRGgzNVIwaGRiSHJpUURfaTZkNmJxeHhQMXlvc0p1d1JYbndTbmFQdFNYbFJJOWtNWnhyZmRLOFHSAe8BQVVfeXFMT1FCZ0sxTk5temUxckJ2Wnc1QkRQcnNLa3N2ZzY0X1lEUkpKaFUtY2tWSHFrU05sQzFCSEY3YURycVljbHBiWjlFUzN1RGhXcGR0dEE1cnRMQUFnSnNVa1hOcjVMcFdTbUVhSk1rM1QwLXlvQnRRU09pd0VSTm55dThhOGRUSXU2ZzZPYXBiNHNmbmViODE5all6aTBNcmdXdTkyV1dQMDl0MTh6UXdpNXl3MV95Z3IwODZLbFZBQ1I4ZmozMm5YeGp1eVM3UWJiZDhFM0V0UDVUaWRZVHZKQ3FyRzBqTnFtMU5fczFLcGs?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 02:32:00 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 02:32:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra rain forecast महाराष्ट्रात पावसाचा जोर कमी पण या भागांत मुसळधार सरी कोसळणार आज",
       "title": "Maharashtra Rain Forecast : महाराष्ट्रात पावसाचा जोर कमी, पण ‘या’ भागांत मुसळधार सरी कोसळणार; आज तुमच्या जिल्ह्यांत कसे असेल हवामान? जाणून घ्या",
       "summary": "Maharashtra Rain Forecast : महाराष्ट्रात पावसाचा जोर कमी, पण ‘या’ भागांत मुसळधार सरी कोसळणार; आज तुमच्या जिल्ह्यांत कसे असेल हवामान? जाणून घ्या",
@@ -1939,9 +2035,9 @@
       "summary": "Weather Alert: बंगालच्या उपसागरात वारं फिरलं, इकडं महाराष्ट्राला संकटानं घेरलं, आजचं हवामान अपडेट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVRNb1IzdENCbGpuYXNtMjU5ZEY2M0p0cnh3YVBrQ3Z4RFU1X0VucVA3b0xSSUxXT0llZXZTUzZnejRtSEl4VEQza0tUdWJuZUNtc2JVajFEV0s2RGJMV0xXSDQxdHl4Slh6UDNJak9EVG5wZU5YblphZjloSEp3RVRHX0VQbE1MZlFNM1ZIUXN5ZGttR0NnbGd2RXA3eWJUY0xOQW9La1d4RWNhSXdnMm5SUy1CMTVGejhpRXJGTFFBSnR4eXNlYkJyMGs3bGFfdVduWHZyd3U5TU9EeThsWFRCM2kwQlBZQk5NWlVKUQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 02:07:38 GMT",
-      "lastUpdated": "Fri, 07 Aug 2026 02:07:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTWQtTkpGeGlod05jQnpNbUJJRUhtNV81OEpYTEZVaWZHdzhWUWRVMkZxczladFdSVVZ3a2cwOHp4eE10YW01bkM5YXdUdTRuZ1RwSzlUcXdOQnprUmVNc1hsQVF0Y3ppbzd4X3E5RlZwNFIyWXlvVVk5cURtaWVNVWE0QzJsRGhaTzNBdFhlNm9PV3ZqS1pzRG1FSFhDVUtFVkVsbERGbldzaGtaNWpjTDFOd1R6NXZENEdrelBSdENTM0JOYkp4cE1jTXVVZnVDcGxINXpjSW16ejB3Y05Nek9oUTdla01rNVVZWk1FMA?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 02:07:00 GMT",
+      "lastUpdated": "Fri, 07 Aug 2026 02:07:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1959,7 +2055,7 @@
       "id": "पुन्हा पावसाचा जोर वाढणार कोकण घाटमाथ्यावर मुसळधार सरींचा इशारा imd कडून अलर्ट जारी",
       "title": "पुन्हा पावसाचा जोर वाढणार!कोकण-घाटमाथ्यावर मुसळधार सरींचा इशारा,IMD कडून अलर्ट जारी",
       "summary": "पुन्हा पावसाचा जोर वाढणार!कोकण-घाटमाथ्यावर मुसळधार सरींचा इशारा,IMD कडून अलर्ट जारी",
-      "source": "Pune Prime News",
+      "source": "puneprimenews.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN285ZmJqeVZseWk0MG42TElOMUVQOEk0Q1pKRERLaTBUOXpKYWFqWXg0UU1MdkExQ3gtM1dMQzVaRnVFY3NIWllJSmFJcWJQY1k5LVJyVFZYclgzdGtZQlZ4Vnp2MHh6c280QVdMbmdlNUk3ejFmQm1zLTZXWVpmX0pqakxOWjVOUGVUeG9xa0NRWEZSZ1FiSUU2OWtJZExuQ1c3Y2lGd1JFWXlGOWMyVl9sb3RELVZLZ0pSWVNWNC1kaUlFd1JQaHJuR3pZLUU3Zkh0YlhyQXJyVTViYWp0aTJB?oc=5",
       "pubDate": "Fri, 07 Aug 2026 02:02:14 GMT",
@@ -1967,7 +2063,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News"
+        "puneprimenews.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2113,7 +2209,7 @@
       "id": "weather राज्यात पावसाचा जोर वाढणार या जिल्ह्यांना imd चा ऑरेंज अलर्ट",
       "title": "Weather Update : राज्यात पावसाचा जोर वाढणार, 'या' जिल्ह्यांना IMD चा ऑरेंज अलर्ट!",
       "summary": "Weather Update : राज्यात पावसाचा जोर वाढणार, 'या' जिल्ह्यांना IMD चा ऑरेंज अलर्ट!",
-      "source": "marathi.asianetnews.com",
+      "source": "Asianet News Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXJTb0JUMmVHMUljcW83TlVvQWprSWx3UllCbFJVdmNheFRtREMxMVpVMmVkbFVZWU8yVHBGeGN4X1FCOGZDVDZFa1otMl9JNkFyT1NNUUhUOHhEbTZwUE9JYW1Mb3pod3NYel9QdUFXN3YzUW9vSGt3MzV2TXIxM1h5WlZjeXlqRFZBMG1zVWhhQ3FlY3ZvUURoa1VuQmlZYUJsZ1NJVGFkZVBXdlluQjFKWlo2TFhrd0xzUXlwMEJlUdIBwgFBVV95cUxOcXJTb0JUMmVHMUljcW83TlVvQWprSWx3UllCbFJVdmNheFRtREMxMVpVMmVkbFVZWU8yVHBGeGN4X1FCOGZDVDZFa1otMl9JNkFyT1NNUUhUOHhEbTZwUE9JYW1Mb3pod3NYel9QdUFXN3YzUW9vSGt3MzV2TXIxM1h5WlZjeXlqRFZBMG1zVWhhQ3FlY3ZvUURoa1VuQmlZYUJsZ1NJVGFkZVBXdlluQjFKWlo2TFhrd0xzUXlwMEJlUQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 15:03:21 GMT",
@@ -2121,7 +2217,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.asianetnews.com"
+        "Asianet News Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "बड्डे आहे भावाचा रस्त्यावर केक कापून हवेत गोळीबार भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखव",
+      "title": "बड्डे आहे भावाचा! रस्त्यावर केक कापून हवेत गोळीबार, भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखवला चांगलाच इंगा",
+      "summary": "बड्डे आहे भावाचा! रस्त्यावर केक कापून हवेत गोळीबार, भाजप कार्यकर्त्याला मुंबई पोलिसांनी दाखवला चांगलाच इंगा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNC1rNkpwZnpfT0dOTExfS2IxdzJBVE9JZUkzSm4tdTZybDB6cjVKYTJGSEFKQ1VGZS1IT0M1UFlNM2lkOVEycklyeGw1V0NHUGZtU3hXNTQwcE1UVDVLYUdsOW1MZU8tWjA1Rkt2U09kLV81S3IwN3NHQWY3WEZaaWhtVzBRdmIyRmpFYnlzbm9sb2NLYjhycFlLMEJ2bGFtSFRYWExwRHdHVU1OdGxkY2wyZTVGeGJnd1JIVVA0SlRoWndvR09JNmlySlBMdjZsaUNmZUdRMlAxeTU0OHlqMG9KNGlKTW5GbF8ta01MRQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 14:43:54 GMT",
+      "lastUpdated": "Thu, 06 Aug 2026 14:43:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2331,34 +2449,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट मुंबई पुणे नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "title": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट: मुंबई, पुणे, नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "summary": "उद्याचे हवामान महाराष्ट्र 7 ऑगस्ट: मुंबई, पुणे, नाशिकसह विविध शहरांमधील पावसाचा अंदाज",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObkx0VVZJbjNmM2M4MEZRZm4zTGsxczJSZTlmRGtLeHZSOWYwdklERmVsM1ZidFI0cGx0NXV6SXV2VGlkT2V1VE8wMW0yRGQxZ0doMWc5dXY5WnZuY3I2TmhCUDJ3ZFVmTDdCTEVKdjdvaXBKa3o1ZnQ0ejBQMDBNWkRiLWIyMUdXd2ZyYy1WY09MWmZETUNfTEZxenhaV0JwTXJxTDJUelZxUl80UEgwMWV1azhiSF9HZGZmRmgyWjZzNHlGZ1o2YS1HWUNMbTA?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:24:08 GMT",
-      "lastUpdated": "Thu, 06 Aug 2026 09:24:08 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 53,
+    "total": 55,
     "alerts": 17,
-    "news": 36
+    "news": 38
   },
-  "cleanedAt": "2026-08-07T08:09:11.760Z"
+  "cleanedAt": "2026-08-07T09:29:59.694Z"
 }
