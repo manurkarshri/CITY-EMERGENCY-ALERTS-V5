@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T16:26:38.488Z",
+  "generatedAt": "2026-08-09T17:04:12.833Z",
   "status": "ok",
   "alerts": [
     {
@@ -28,6 +28,37 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "another plane crash in baramati carvwr aviations trainee aircraft overruns runway during e",
+      "title": "Another Plane Crash In Baramati: Carvwr Aviations Trainee Aircraft Overruns Runway During Emergency Practice,",
+      "summary": "Another Plane Crash In Baramati: Carvwr Aviations Trainee Aircraft Overruns Runway During Emergency Practice,",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVGpmeGQ4a0FLaVVLenNSZXBhRFZ6b3lCVS1CUmlOOGt0QmhQc3hINjg0SjZ2QUQ0dVp2VmtUQ1hFU25sYzNUV05DbGNQam9UendVMFJkWWE1cFM1c1dGZ2RxUmVtUy1QbkVycURkaHdqN1dXR0FFY21jeXZWTkpINFp0Zkh6UXpwQ3k1dkUyX25hdWhwdHNfNnlsQ18weU9odkdmbmxRQWNMQU9LOTlTQS10WVFRUldfVGNleUJHTkxhYlFFSHJDSkduMFNTWWtzQkNtb1NiWnJHWmt1cWtLQmlRWlVGN1dOQ1RKOWJURdIB9AFBVV95cUxOQmFLR0U0NDZNSmZhZVQ4anJNTk1YejZJLVFzNTRpaWJtazQtd25qXzNQLTJ2ejBJN1NaSlJEZW9XZlh0ODVsdGs3QmM4enhZVW1CRXNvdE5TSG5vN2wzZWNyV1V2elVlYTlhaFVrMTlPOEVOX011Sy1ZU3hsZXY4WFVJSWVfcnFXaVNkN0Qxb2xGOEo4TVZpd0UwVVM4MXJ2dnlaNi1kaVE4b3lhQXpXdHZvbURZM0tWMG1HOFNmR1o2MkJHVU44YzFqRUlkRTc4eVZ2NndmTlZVcnpkWmE0a1h1RWJqM0xjVHRCZDRNNjB3Ykds?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 16:20:19 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 16:20:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "bus accident पुण्यात भीषण अपघात pmpml बसच्या धडकेत २ महिलांचा मृत्यू",
@@ -60,10 +91,49 @@
   ],
   "news": [
     {
+      "id": "punekar impact waterlogging at khadi machine chowk on katraj kondhwa road cleared",
+      "title": "Punekar News Impact: Waterlogging at Khadi Machine Chowk on Katraj–Kondhwa Road Cleared",
+      "summary": "Punekar News Impact: Waterlogging at Khadi Machine Chowk on Katraj–Kondhwa Road Cleared",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakpIY1JGTEhseFpFRmdsMm9RNmhXTnc1OHVBcXl5azBnV0V6cHlodDduNDVWMWJxNThPSTBNUU5qdEZJTFN4Z2s1aFgzMTdOcVpkTmZxQzBmekdmNEVCemhEV0NjcUhVR2p0aWxHSjhLT1ljOV9lRVJNRUdXcF9DSXc0d2w4elhaZ2t2UWp1WkpGOThGakN0LVJ4UUtCTldNb1F0MEVpNFhFNjR4LXlUYXdhWTA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 16:45:30 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 16:45:30 GMT",
+      "areas": [
+        "Katraj",
+        "Kondhwa"
+      ],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "delhi airport indigo delhi jaipur flight delayed as pilot stuck in traffic",
       "title": "Delhi Airport News: IndiGo Delhi-Jaipur Flight Delayed as Pilot Stuck in Traffic",
       "summary": "Delhi Airport News: IndiGo Delhi-Jaipur Flight Delayed as Pilot Stuck in Traffic",
-      "source": "aviationjeta.com",
+      "source": "Aviation Jeta",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkxrZ3NfQXUwTmdfSEVPbHZBVDloOHB2MGZ4alBOSXUzX0Zzem14ZzlWQ2RNVFk5WmF1NmNFTy1DU1VseElzQXlwLXFIME05VVFONFBWQzFweWg5TW1FMXZPOURXV3F3UE1yUFBZcklUQ0d6cnBLZk5TU2VCTjA5Q2JjYmU0UVUwN18tUjE1WDVoMzRWYnlUcmxlVjZyVWlWaTc3WERKTmY?oc=5",
       "pubDate": "Sun, 09 Aug 2026 11:50:54 GMT",
@@ -71,7 +141,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "aviationjeta.com"
+        "Aviation Jeta"
       ],
       "confidence": "Single source",
       "w": [
@@ -120,6 +190,40 @@
       "action": "Stay alert and follow police advisories."
     },
     {
+      "id": "lonavala heavy traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी",
+      "title": "Lonavala Heavy Traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी कायम; आषाढाच्या शेवटच्या रविवारी ८ ते १० किमी रांगा",
+      "summary": "Lonavala Heavy Traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी कायम; आषाढाच्या शेवटच्या रविवारी ८ ते १० किमी रांगा",
+      "source": "मावळ माझा",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV084VGMwWTFTU1FvYmRYWVdibXFzTnhPd2w4UDJ6SlhTWDByYjZWVHF1dFVzSGQ0eHFWNndKSVREVjFCWXhQdWlFVFlrd1NRTm1Mc3hvNXlMaWl1bjJHMEFZTXM4NUVNM25iblF4VFRZcGlQcWpSTVZkUFRDN184dnBQVnptTmpIRzZGRUx1Y0lfVWQxaWN6elRCdDRSM3hhelc5MmhGX0FIR1JBaDI5ajFxWngtQkNPUWZSU0RGOURRUUNBazdldFNIUVVXMWdrbHhNNUROSEpKdTZuWmRmY3pJTEpzUW5nY3Bj?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 04:24:28 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 04:24:28 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "मावळ माझा"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "three held in indore within 24 hours of businessman robbery hindustan times",
       "title": "Three held in Indore within 24 hours of businessman robbery | Hindustan Times",
       "summary": "Three held in Indore within 24 hours of businessman robbery | Hindustan Times",
@@ -180,35 +284,6 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "mumbai expressway boosts tunnel surveillance",
-      "title": "Pune Mumbai Expressway Boosts Tunnel Surveillance",
-      "summary": "Pune Mumbai Expressway Boosts Tunnel Surveillance",
-      "source": "urbanacres.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRzNXQ09jTVZGY2lXcXlacnlYWnQ1bVg2SHN5YTBZVFZaY3BqUWhEUFk2VnVwZzRKSkszdEktQXN1NjNzVi1xcUpOVjMzY09TeHY0NE5EWF9KWUtXYWQ1M3pLVklKMzNFN01LcUxVYnpMQ0tGdGdFNF9WSk0?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 16:36:45 GMT",
-      "lastUpdated": "Sat, 08 Aug 2026 16:36:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "urbanacres.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "school holiday tomorrow august 10 2026 will schools remain closed check state wise heavy r",
       "title": "School Holiday Tomorrow, August 10, 2026: Will Schools Remain Closed? Check State-wise Heavy Rainfall Alert and Latest Updates",
       "summary": "School Holiday Tomorrow, August 10, 2026: Will Schools Remain Closed? Check State-wise Heavy Rainfall Alert and Latest Updates",
@@ -238,7 +313,7 @@
       "id": "maharashtra weather महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज १० जिल्ह्यांना अलर्ट विजा",
       "title": "Maharashtra Weather Update : महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज, १० जिल्ह्यांना अलर्ट; विजांसह वादळी पावसाचा इशारा",
       "summary": "Maharashtra Weather Update : महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज, १० जिल्ह्यांना अलर्ट; विजांसह वादळी पावसाचा इशारा",
-      "source": "Esakal + 1 more",
+      "source": "esakal.com + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObU9kd0NvUmZuaEl3OVdNaEZDTDNLVTE4eDBlODI3VUxqSi00OW9KOEwyOTk2eWtjZzctM0kzcEc5ZTY0Q2VpOUFmcTlfcGRlZFJ6cW9lc3BMWDg2WEhaQkZVXzdTLTliaVV4eEN1ZzAxaHozQ3ZDLVlzNmVFVFFBYV8wUXNFQkFNRnNOX0ZGZ0JLalVhMm5yUkZVV0d1VVNzRDVFZkFHVUVzSUxSTGtRWldRTmo?oc=5",
       "pubDate": "Sun, 09 Aug 2026 02:01:33 GMT",
@@ -246,8 +321,8 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal",
-        "Agrowon"
+        "esakal.com",
+        "agrowon.esakal.com"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -601,7 +676,7 @@
       "id": "उद्याचे हवामान महाराष्ट्र कोकण मराठवाडा विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती क",
       "title": "उद्याचे हवामान महाराष्ट्र: कोकण, मराठवाडा, विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती काय?",
       "summary": "उद्याचे हवामान महाराष्ट्र: कोकण, मराठवाडा, विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती काय?",
-      "source": "marathi.latestly.com",
+      "source": "LatestLY",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbllGTFJkSFk1ZU53NUtIRldTZUt2UXZfVWZwdXFNcXltTnRDaUR0QWZGMERVdWdyYlhvWXYtYmZSdVBNa0NiOVRKWGVmdUgwaVRYVGJMSDJ1cUE0WGY3TmFRZnlYZ1labTJUSEVBQkF5VHhlanNMYXMwRFR2VE1hSTYzUnA0bHp2QmFUcEsxQWpVZ0FscHlTWVBQbTZJRFd4YUhpNlYyQjZnbU1ORllyV0pwZWZxbHJOVXU5YUZWRUNaYjhZQUg3dTJEZktaVjVn?oc=5",
       "pubDate": "Sun, 09 Aug 2026 09:22:20 GMT",
@@ -609,7 +684,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.latestly.com"
+        "LatestLY"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -797,6 +872,28 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "toxic यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट टॉक्सिक चा ट्रेलर पाहून थक्क व्हाल अवघ्या ४ मिन",
+      "title": "Toxic : यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट; 'टॉक्सिक'चा ट्रेलर पाहून थक्क व्हाल, अवघ्या ४ मिनिटांत सोशल मीडिया हादरले| VIDEO",
+      "summary": "Toxic : यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट; 'टॉक्सिक'चा ट्रेलर पाहून थक्क व्हाल, अवघ्या ४ मिनिटांत सोशल मीडिया हादरले| VIDEO",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbTVMMGpZN0c2ekE3MzZZTFU3dXd2aWNqTkt6dHU1NE9BcDYzMnpsYTBoenNJU00wT0JnMzBVY2FSWTgzazZvS0VlWUFKcWhGQ2lMUmI4TFEyQjkzSnNmRVRuSjdoT1BiLVJEZFBQSUJycFZWNkZoYVpCT3BPcUR2UlVoUzk0c2lFNHhNSVZnbm14V2g0b1RqQkZJMzRaUGsyaVp0QUFnajRrWEh0WmxTVXd4ZDhyOVlhYjZJNU02bTN4UW5XdlF1U0NBRXFNYmxrVmhqeWwyNUw1VWhSbE1CaDRPb1NhUGJGOXNyd3kxYnBjcndPVDJoN0tFNVQzZmladlZ1RkhhakxMNXFncXhqWDQwbGNJQVpkb3BES2Z0NHpseFFKWWpCYXB1QXFPR3RtOGNDZV9KdjRPQdIBugJBVV95cUxPbTVMMGpZN0c2ekE3MzZZTFU3dXd2aWNqTkt6dHU1NE9BcDYzMnpsYTBoenNJU00wT0JnMzBVY2FSWTgzazZvS0VlWUFKcWhGQ2lMUmI4TFEyQjkzSnNmRVRuSjdoT1BiLVJEZFBQSUJycFZWNkZoYVpCT3BPcUR2UlVoUzk0c2lFNHhNSVZnbm14V2g0b1RqQkZJMzRaUGsyaVp0QUFnajRrWEh0WmxTVXd4ZDhyOVlhYjZJNU02bTN4UW5XdlF1U0NBRXFNYmxrVmhqeWwyNUw1VWhSbE1CaDRPb1NhUGJGOXNyd3kxYnBjcndPVDJoN0tFNVQzZmladlZ1RkhhakxMNXFncXhqWDQwbGNJQVpkb3BES2Z0NHpseFFKWWpCYXB1QXFPR3RtOGNDZV9KdjRPQQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 02:34:00 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 02:34:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "rain महाराष्ट्रात पुन्हा मुसळधार पावसाची शक्यता १३ जिल्ह्यांना यलो अलर्ट जारी हवामान खात्य",
@@ -940,31 +1037,6 @@
       "correlation": [
         "Road delay or diversion possible."
       ]
-    },
-    {
-      "id": "himachal pradesh rain हिमाचलमध्ये निसर्गाचे रौद्ररूप 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "title": "Himachal Pradesh Rain: हिमाचलमध्ये निसर्गाचे रौद्ररूप! 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "summary": "Himachal Pradesh Rain: हिमाचलमध्ये निसर्गाचे रौद्ररूप! 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGNjQTlNNTZjUW5WZW5xeHhwcnZrNmMwYlc0cmFKNzRPeHRUcnpXRmVqOTFUelplZ05fbkltRmxlNzNsUS12Qy00ZnpsQU9Najh6RlBvbGxieklUV3FPTG5FTFpBTjV4SGp4clhpMVZmLUhUYnotbWEwWkw0MEFVYzE2aTRDUE15aTJsYzhHOTQ?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 16:45:00 GMT",
-      "lastUpdated": "Sat, 08 Aug 2026 16:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -996,6 +1068,34 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "another plane crash in baramati carvwr aviations trainee aircraft overruns runway during e",
+      "title": "Another Plane Crash In Baramati: Carvwr Aviations Trainee Aircraft Overruns Runway During Emergency Practice,",
+      "summary": "Another Plane Crash In Baramati: Carvwr Aviations Trainee Aircraft Overruns Runway During Emergency Practice,",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVGpmeGQ4a0FLaVVLenNSZXBhRFZ6b3lCVS1CUmlOOGt0QmhQc3hINjg0SjZ2QUQ0dVp2VmtUQ1hFU25sYzNUV05DbGNQam9UendVMFJkWWE1cFM1c1dGZ2RxUmVtUy1QbkVycURkaHdqN1dXR0FFY21jeXZWTkpINFp0Zkh6UXpwQ3k1dkUyX25hdWhwdHNfNnlsQ18weU9odkdmbmxRQWNMQU9LOTlTQS10WVFRUldfVGNleUJHTkxhYlFFSHJDSkduMFNTWWtzQkNtb1NiWnJHWmt1cWtLQmlRWlVGN1dOQ1RKOWJURdIB9AFBVV95cUxOQmFLR0U0NDZNSmZhZVQ4anJNTk1YejZJLVFzNTRpaWJtazQtd25qXzNQLTJ2ejBJN1NaSlJEZW9XZlh0ODVsdGs3QmM4enhZVW1CRXNvdE5TSG5vN2wzZWNyV1V2elVlYTlhaFVrMTlPOEVOX011Sy1ZU3hsZXY4WFVJSWVfcnFXaVNkN0Qxb2xGOEo4TVZpd0UwVVM4MXJ2dnlaNi1kaVE4b3lhQXpXdHZvbURZM0tWMG1HOFNmR1o2MkJHVU44YzFqRUlkRTc4eVZ2NndmTlZVcnpkWmE0a1h1RWJqM0xjVHRCZDRNNjB3Ykds?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 16:20:19 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 16:20:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
       "id": "bus accident पुण्यात भीषण अपघात pmpml बसच्या धडकेत २ महिलांचा मृत्यू",
       "title": "Bus Accident : पुण्यात भीषण अपघात! PMPML बसच्या धडकेत २ महिलांचा मृत्यू",
       "summary": "Bus Accident : पुण्यात भीषण अपघात! PMPML बसच्या धडकेत २ महिलांचा मृत्यू",
@@ -1024,10 +1124,45 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
+      "id": "punekar impact waterlogging at khadi machine chowk on katraj kondhwa road cleared",
+      "title": "Punekar News Impact: Waterlogging at Khadi Machine Chowk on Katraj–Kondhwa Road Cleared",
+      "summary": "Punekar News Impact: Waterlogging at Khadi Machine Chowk on Katraj–Kondhwa Road Cleared",
+      "source": "Punekar News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakpIY1JGTEhseFpFRmdsMm9RNmhXTnc1OHVBcXl5azBnV0V6cHlodDduNDVWMWJxNThPSTBNUU5qdEZJTFN4Z2s1aFgzMTdOcVpkTmZxQzBmekdmNEVCemhEV0NjcUhVR2p0aWxHSjhLT1ljOV9lRVJNRUdXcF9DSXc0d2w4elhaZ2t2UWp1WkpGOThGakN0LVJ4UUtCTldNb1F0MEVpNFhFNjR4LXlUYXdhWTA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 16:45:30 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 16:45:30 GMT",
+      "areas": [
+        "Katraj",
+        "Kondhwa"
+      ],
+      "region": "pune",
+      "sources": [
+        "Punekar News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
+    },
+    {
       "id": "delhi airport indigo delhi jaipur flight delayed as pilot stuck in traffic",
       "title": "Delhi Airport News: IndiGo Delhi-Jaipur Flight Delayed as Pilot Stuck in Traffic",
       "summary": "Delhi Airport News: IndiGo Delhi-Jaipur Flight Delayed as Pilot Stuck in Traffic",
-      "source": "aviationjeta.com",
+      "source": "Aviation Jeta",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkxrZ3NfQXUwTmdfSEVPbHZBVDloOHB2MGZ4alBOSXUzX0Zzem14ZzlWQ2RNVFk5WmF1NmNFTy1DU1VseElzQXlwLXFIME05VVFONFBWQzFweWg5TW1FMXZPOURXV3F3UE1yUFBZcklUQ0d6cnBLZk5TU2VCTjA5Q2JjYmU0UVUwN18tUjE1WDVoMzRWYnlUcmxlVjZyVWlWaTc3WERKTmY?oc=5",
       "pubDate": "Sun, 09 Aug 2026 11:50:54 GMT",
@@ -1035,7 +1170,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "aviationjeta.com"
+        "Aviation Jeta"
       ],
       "confidence": "Single source",
       "w": [
@@ -1079,6 +1214,37 @@
       "icon": "🚓",
       "critical": false,
       "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "lonavala heavy traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी",
+      "title": "Lonavala Heavy Traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी कायम; आषाढाच्या शेवटच्या रविवारी ८ ते १० किमी रांगा",
+      "summary": "Lonavala Heavy Traffic l मिसिंग लिंकनंतरही लोणावळा शहर आणि परिसरामध्ये प्रचंड वाहतूक कोंडी कायम; आषाढाच्या शेवटच्या रविवारी ८ ते १० किमी रांगा",
+      "source": "मावळ माझा",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV084VGMwWTFTU1FvYmRYWVdibXFzTnhPd2w4UDJ6SlhTWDByYjZWVHF1dFVzSGQ0eHFWNndKSVREVjFCWXhQdWlFVFlrd1NRTm1Mc3hvNXlMaWl1bjJHMEFZTXM4NUVNM25iblF4VFRZcGlQcWpSTVZkUFRDN184dnBQVnptTmpIRzZGRUx1Y0lfVWQxaWN6elRCdDRSM3hhelc5MmhGX0FIR1JBaDI5ajFxWngtQkNPUWZSU0RGOURRUUNBazdldFNIUVVXMWdrbHhNNUROSEpKdTZuWmRmY3pJTEpzUW5nY3Bj?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 04:24:28 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 04:24:28 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "मावळ माझा"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
     },
     {
       "id": "three held in indore within 24 hours of businessman robbery hindustan times",
@@ -1141,35 +1307,6 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "mumbai expressway boosts tunnel surveillance",
-      "title": "Pune Mumbai Expressway Boosts Tunnel Surveillance",
-      "summary": "Pune Mumbai Expressway Boosts Tunnel Surveillance",
-      "source": "urbanacres.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRzNXQ09jTVZGY2lXcXlacnlYWnQ1bVg2SHN5YTBZVFZaY3BqUWhEUFk2VnVwZzRKSkszdEktQXN1NjNzVi1xcUpOVjMzY09TeHY0NE5EWF9KWUtXYWQ1M3pLVklKMzNFN01LcUxVYnpMQ0tGdGdFNF9WSk0?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 16:36:45 GMT",
-      "lastUpdated": "Sat, 08 Aug 2026 16:36:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "urbanacres.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "school holiday tomorrow august 10 2026 will schools remain closed check state wise heavy r",
       "title": "School Holiday Tomorrow, August 10, 2026: Will Schools Remain Closed? Check State-wise Heavy Rainfall Alert and Latest Updates",
       "summary": "School Holiday Tomorrow, August 10, 2026: Will Schools Remain Closed? Check State-wise Heavy Rainfall Alert and Latest Updates",
@@ -1196,7 +1333,7 @@
       "id": "maharashtra weather महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज १० जिल्ह्यांना अलर्ट विजा",
       "title": "Maharashtra Weather Update : महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज, १० जिल्ह्यांना अलर्ट; विजांसह वादळी पावसाचा इशारा",
       "summary": "Maharashtra Weather Update : महाराष्ट्रात पुढील पाच दिवसांचा हवामान अंदाज, १० जिल्ह्यांना अलर्ट; विजांसह वादळी पावसाचा इशारा",
-      "source": "Esakal + 1 more",
+      "source": "esakal.com + 1 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObU9kd0NvUmZuaEl3OVdNaEZDTDNLVTE4eDBlODI3VUxqSi00OW9KOEwyOTk2eWtjZzctM0kzcEc5ZTY0Q2VpOUFmcTlfcGRlZFJ6cW9lc3BMWDg2WEhaQkZVXzdTLTliaVV4eEN1ZzAxaHozQ3ZDLVlzNmVFVFFBYV8wUXNFQkFNRnNOX0ZGZ0JLalVhMm5yUkZVV0d1VVNzRDVFZkFHVUVzSUxSTGtRWldRTmo?oc=5",
       "pubDate": "Sun, 09 Aug 2026 02:01:33 GMT",
@@ -1204,8 +1341,8 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal",
-        "Agrowon"
+        "esakal.com",
+        "agrowon.esakal.com"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -1553,7 +1690,7 @@
       "id": "उद्याचे हवामान महाराष्ट्र कोकण मराठवाडा विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती क",
       "title": "उद्याचे हवामान महाराष्ट्र: कोकण, मराठवाडा, विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती काय?",
       "summary": "उद्याचे हवामान महाराष्ट्र: कोकण, मराठवाडा, विदर्भ सह महाराष्ट्रात 10 ऑगस्टची पावसाची स्थिती काय?",
-      "source": "marathi.latestly.com",
+      "source": "LatestLY",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbllGTFJkSFk1ZU53NUtIRldTZUt2UXZfVWZwdXFNcXltTnRDaUR0QWZGMERVdWdyYlhvWXYtYmZSdVBNa0NiOVRKWGVmdUgwaVRYVGJMSDJ1cUE0WGY3TmFRZnlYZ1labTJUSEVBQkF5VHhlanNMYXMwRFR2VE1hSTYzUnA0bHp2QmFUcEsxQWpVZ0FscHlTWVBQbTZJRFd4YUhpNlYyQjZnbU1ORllyV0pwZWZxbHJOVXU5YUZWRUNaYjhZQUg3dTJEZktaVjVn?oc=5",
       "pubDate": "Sun, 09 Aug 2026 09:22:20 GMT",
@@ -1561,7 +1698,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.latestly.com"
+        "LatestLY"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1748,6 +1885,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "toxic यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट टॉक्सिक चा ट्रेलर पाहून थक्क व्हाल अवघ्या ४ मिन",
+      "title": "Toxic : यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट; 'टॉक्सिक'चा ट्रेलर पाहून थक्क व्हाल, अवघ्या ४ मिनिटांत सोशल मीडिया हादरले| VIDEO",
+      "summary": "Toxic : यशचा भयानक अवतार अन् जबरदस्त ट्विस्ट; 'टॉक्सिक'चा ट्रेलर पाहून थक्क व्हाल, अवघ्या ४ मिनिटांत सोशल मीडिया हादरले| VIDEO",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbTVMMGpZN0c2ekE3MzZZTFU3dXd2aWNqTkt6dHU1NE9BcDYzMnpsYTBoenNJU00wT0JnMzBVY2FSWTgzazZvS0VlWUFKcWhGQ2lMUmI4TFEyQjkzSnNmRVRuSjdoT1BiLVJEZFBQSUJycFZWNkZoYVpCT3BPcUR2UlVoUzk0c2lFNHhNSVZnbm14V2g0b1RqQkZJMzRaUGsyaVp0QUFnajRrWEh0WmxTVXd4ZDhyOVlhYjZJNU02bTN4UW5XdlF1U0NBRXFNYmxrVmhqeWwyNUw1VWhSbE1CaDRPb1NhUGJGOXNyd3kxYnBjcndPVDJoN0tFNVQzZmladlZ1RkhhakxMNXFncXhqWDQwbGNJQVpkb3BES2Z0NHpseFFKWWpCYXB1QXFPR3RtOGNDZV9KdjRPQdIBugJBVV95cUxPbTVMMGpZN0c2ekE3MzZZTFU3dXd2aWNqTkt6dHU1NE9BcDYzMnpsYTBoenNJU00wT0JnMzBVY2FSWTgzazZvS0VlWUFKcWhGQ2lMUmI4TFEyQjkzSnNmRVRuSjdoT1BiLVJEZFBQSUJycFZWNkZoYVpCT3BPcUR2UlVoUzk0c2lFNHhNSVZnbm14V2g0b1RqQkZJMzRaUGsyaVp0QUFnajRrWEh0WmxTVXd4ZDhyOVlhYjZJNU02bTN4UW5XdlF1U0NBRXFNYmxrVmhqeWwyNUw1VWhSbE1CaDRPb1NhUGJGOXNyd3kxYnBjcndPVDJoN0tFNVQzZmladlZ1RkhhakxMNXFncXhqWDQwbGNJQVpkb3BES2Z0NHpseFFKWWpCYXB1QXFPR3RtOGNDZV9KdjRPQQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 02:34:00 GMT",
+      "lastUpdated": "Sun, 09 Aug 2026 02:34:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain महाराष्ट्रात पुन्हा मुसळधार पावसाची शक्यता १३ जिल्ह्यांना यलो अलर्ट जारी हवामान खात्य",
       "title": "Rain : महाराष्ट्रात पुन्हा मुसळधार पावसाची शक्यता, १३ जिल्ह्यांना 'यलो अलर्ट' जारी ; हवामान खात्याने काय अंदाज दिला?",
       "summary": "Rain : महाराष्ट्रात पुन्हा मुसळधार पावसाची शक्यता, १३ जिल्ह्यांना 'यलो अलर्ट' जारी ; हवामान खात्याने काय अंदाज दिला?",
@@ -1880,34 +2039,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "himachal pradesh rain हिमाचलमध्ये निसर्गाचे रौद्ररूप 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "title": "Himachal Pradesh Rain: हिमाचलमध्ये निसर्गाचे रौद्ररूप! 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "summary": "Himachal Pradesh Rain: हिमाचलमध्ये निसर्गाचे रौद्ररूप! 150 बळी अन् शेकडो कोटींचे नुकसान",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGNjQTlNNTZjUW5WZW5xeHhwcnZrNmMwYlc0cmFKNzRPeHRUcnpXRmVqOTFUelplZ05fbkltRmxlNzNsUS12Qy00ZnpsQU9Najh6RlBvbGxieklUV3FPTG5FTFpBTjV4SGp4clhpMVZmLUhUYnotbWEwWkw0MEFVYzE2aTRDUE15aTJsYzhHOTQ?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 16:45:00 GMT",
-      "lastUpdated": "Sat, 08 Aug 2026 16:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 45,
-    "alerts": 7,
-    "news": 38
+    "total": 47,
+    "alerts": 8,
+    "news": 39
   },
-  "cleanedAt": "2026-08-09T16:26:38.499Z"
+  "cleanedAt": "2026-08-09T17:04:12.839Z"
 }
