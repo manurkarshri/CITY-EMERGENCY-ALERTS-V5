@@ -1,100 +1,132 @@
 {
-  "generatedAt": "2026-08-10T19:50:05.414Z",
+  "generatedAt": "2026-08-10T20:34:01.013Z",
   "source": "Open-Meteo",
   "regions": {
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "error": true,
-      "message": "Open-Meteo failed for talegaon: HTTP 429",
-      "updatedAt": "2026-08-10T19:50:03.607Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "error": true,
-      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
-      "updatedAt": "2026-08-10T19:50:03.608Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "error": true,
-      "message": "Open-Meteo failed for saswad: HTTP 429",
-      "updatedAt": "2026-08-10T19:50:03.613Z"
-    },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
-      "error": true,
-      "message": "Open-Meteo failed for fursungi: HTTP 429",
-      "updatedAt": "2026-08-10T19:50:03.700Z"
+    "pune": {
+      "label": "Pune City (PMC)",
+      "temp": 22.9,
+      "humidity": 89,
+      "rain": 0,
+      "wind": 12.3,
+      "gust": 27,
+      "code": 3,
+      "rainChance": 0,
+      "visibility": 18,
+      "next6hRainMm": 0,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-10T20:34:00.965Z"
     },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 22.5,
-      "humidity": 93,
+      "temp": 22.9,
+      "humidity": 91,
       "rain": 0,
-      "wind": 9.7,
-      "gust": 21.6,
+      "wind": 11.2,
+      "gust": 22.3,
       "code": 3,
-      "rainChance": 0,
-      "visibility": 15,
+      "rainChance": 2,
+      "visibility": 17,
       "next6hRainMm": 0.3,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-10T19:50:04.211Z"
+      "updatedAt": "2026-08-10T20:34:00.966Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "temp": 23,
+      "humidity": 90,
+      "rain": 0,
+      "wind": 11.9,
+      "gust": 22.3,
+      "code": 3,
+      "rainChance": 6,
+      "visibility": 12,
+      "next6hRainMm": 0.2,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-10T20:34:00.987Z"
+    },
+    "saswad": {
+      "label": "Saswad Region",
+      "temp": 20.5,
+      "humidity": 99,
+      "rain": 0,
+      "wind": 12.3,
+      "gust": 28.8,
+      "code": 3,
+      "rainChance": 8,
+      "visibility": 1,
+      "next6hRainMm": 0.3,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-10T20:34:00.988Z"
     },
     "chakan": {
       "label": "Chakan Industrial Cluster",
-      "temp": 22.4,
-      "humidity": 93,
+      "temp": 22.6,
+      "humidity": 92,
       "rain": 0,
-      "wind": 12.4,
-      "gust": 22.7,
+      "wind": 13.8,
+      "gust": 25.6,
       "code": 3,
-      "rainChance": 0,
-      "visibility": 14,
+      "rainChance": 2,
+      "visibility": 10,
       "next6hRainMm": 0.2,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-10T19:50:04.832Z"
-    },
-    "pune": {
-      "label": "Pune City (PMC)",
-      "temp": 22.5,
-      "humidity": 91,
-      "rain": 0,
-      "wind": 11.6,
-      "gust": 26.3,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-08-10T19:50:04.943Z"
+      "updatedAt": "2026-08-10T20:34:00.989Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
       "temp": 20.9,
       "humidity": 98,
       "rain": 0,
-      "wind": 10.5,
+      "wind": 8.1,
+      "gust": 20.2,
+      "code": 3,
+      "rainChance": 96,
+      "visibility": 8,
+      "next6hRainMm": 0.5,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-10T20:34:00.995Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "temp": 22.2,
+      "humidity": 95,
+      "rain": 0,
+      "wind": 10.6,
       "gust": 21.2,
       "code": 3,
-      "rainChance": 80,
-      "visibility": 5,
+      "rainChance": 2,
+      "visibility": 3,
       "next6hRainMm": 0.6,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-10T19:50:05.227Z"
+      "updatedAt": "2026-08-10T20:34:01.001Z"
     },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 22.8,
-      "humidity": 91,
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "temp": 22.6,
+      "humidity": 90,
       "rain": 0,
-      "wind": 11.4,
-      "gust": 20.9,
+      "wind": 14,
+      "gust": 26.6,
       "code": 3,
-      "rainChance": 3,
-      "visibility": 17,
-      "next6hRainMm": 0.1,
+      "rainChance": 4,
+      "visibility": 13,
+      "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-10T19:50:05.414Z"
+      "updatedAt": "2026-08-10T20:34:01.009Z"
+    },
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "temp": 23.3,
+      "humidity": 88,
+      "rain": 0,
+      "wind": 11.9,
+      "gust": 25.2,
+      "code": 2,
+      "rainChance": 0,
+      "visibility": 22,
+      "next6hRainMm": 0,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-10T20:34:01.013Z"
     }
   }
 }
