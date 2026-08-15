@@ -1,40 +1,7 @@
 {
-  "generatedAt": "2026-08-15T04:01:53.853Z",
+  "generatedAt": "2026-08-15T04:54:50.466Z",
   "status": "ok",
   "alerts": [
-    {
-      "id": "delhi ncr gets heavy rain as imd issues red alert for thunderstorms",
-      "title": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
-      "summary": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
-      "source": "Outlook India + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG1Gd0l5el9Xb1JpTE9LcjhFUEdhY3F0YjZ6MUNjc1NGVGFpNFdaNkNLSE56VFJiQ0pZUHpNckMxb2FBTnBpVjQtNWUzVm54dHUycEVJOF9kNF83SXJQOEVkOWFoR0VXdHRZUG84TXRLdzljai1sX09RaEF2OWwxRHZCOVRHdXFkZUMyTHR4Ym5UM0xCRmt6Z2o3aEVTZW5oR3hsQkhRVXJJMUdnVGh2c9IBvgFBVV95cUxNbDI3cWxtOXpxTHZsdTZEOHZvSDVYd0hKM2hQV244QU03WXRneDlMV3dfLXZISVh3OG9hWWVmcEJHaHJUNEF5ODZ1Vk04cUZvR2tqWEhoWTlELUtpNER0ckRFTHB6bE9iTWZtYmFQb2pOZjdScW5WQmJraXBuMlRHYWRPOEd5WFQ4ZmFUdHBneUFwai1EMmdvSng1VXFDamVXU01ORHVNWjRPLTlSbVM5YUUyRXZrUWxqYXlROS1n?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 09:37:53 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 09:37:53 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Outlook India",
-        "The Sunday Guardian"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
     {
       "id": "80 years of independence but no freedom from floods for ekta nagar residents",
       "title": "Pune: 80 Years Of Independence, But No Freedom From Floods For Ekta Nagar Residents",
@@ -63,6 +30,38 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "delhi ncr gets heavy rain as imd issues red alert for thunderstorms",
+      "title": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
+      "summary": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
+      "source": "outlookindia.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG1Gd0l5el9Xb1JpTE9LcjhFUEdhY3F0YjZ6MUNjc1NGVGFpNFdaNkNLSE56VFJiQ0pZUHpNckMxb2FBTnBpVjQtNWUzVm54dHUycEVJOF9kNF83SXJQOEVkOWFoR0VXdHRZUG84TXRLdzljai1sX09RaEF2OWwxRHZCOVRHdXFkZUMyTHR4Ym5UM0xCRmt6Z2o3aEVTZW5oR3hsQkhRVXJJMUdnVGh2c9IBvgFBVV95cUxNbDI3cWxtOXpxTHZsdTZEOHZvSDVYd0hKM2hQV244QU03WXRneDlMV3dfLXZISVh3OG9hWWVmcEJHaHJUNEF5ODZ1Vk04cUZvR2tqWEhoWTlELUtpNER0ckRFTHB6bE9iTWZtYmFQb2pOZjdScW5WQmJraXBuMlRHYWRPOEd5WFQ4ZmFUdHBneUFwai1EMmdvSng1VXFDamVXU01ORHVNWjRPLTlSbVM5YUUyRXZrUWxqYXlROS1n?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 09:37:53 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 09:37:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "outlookindia.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -157,7 +156,7 @@
       "id": "traffic woes 15 point plan calls for ai smart cameras and digital mapping",
       "title": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
       "summary": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
-      "source": "mypunepulse.com",
+      "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHcwRnlRemczdGNNNFV0UElQeFFUc0J3R3pYVjdtTDBMU3J1d1prNE02VXBfdVF4RWJyQldZOGlyRUhEWGExbzl4LTFrMWY1YjJ0NmYxN0ZIbWtYWmdLd0dVVW5lV1NNdDZmalNxcnJSaUZOMUJWZ1JjNlZ5SnJFeDlsN3g3V2V1NnNWYlh6eGJYT3dydWV0cGFLQk9qRFFLdWFnRlBKUVpyMkE?oc=5",
       "pubDate": "Fri, 14 Aug 2026 14:49:16 GMT",
@@ -165,7 +164,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "Single source",
       "w": [
@@ -266,14 +265,82 @@
       "action": "No immediate action required."
     },
     {
+      "id": "cidco lottery 2026 फक्त 23 लाखांपासून फ्लॅट मिळवा सिडकोची 4779 घरांसाठी मेगा लॉटरी कुठे अन",
+      "title": "Cidco Lottery 2026 : फक्त 23 लाखांपासून फ्लॅट मिळवा! सिडकोची 4779 घरांसाठी मेगा लॉटरी; कुठे अन् कधीपासून नोंदणी?, वाचा",
+      "summary": "Cidco Lottery 2026 : फक्त 23 लाखांपासून फ्लॅट मिळवा! सिडकोची 4779 घरांसाठी मेगा लॉटरी; कुठे अन् कधीपासून नोंदणी?, वाचा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNzd3eWVfM05IOUwwR3VnOV83eG9ZcFhkZGZiVnFKemhEVlZsaE9Wak45SUU2TkpIWldNcnlSaDRrUFdfUzB5Z3ZEblhEc2V0M0R2c2tVckJXTUZ3ZEVqOURnaHFMVnRKUXNkSXA0eEFaTzhUMDBESTNMajR6THBEdGdic0gyVF9Ham9RZ005TmpRaE5lY0xIT0IzS1VIYlZzQjJ0RlRUaGRlV1o0VXNyWktKNVI4TkVac0dmaVVaZElpUEk3REdId0JYd1Exa08tcXowVWJnREJCWGpvZnBtNjhib2dwR29kdG51Q2E2YjdaYjdOTnBqZTRKUmJfYTVmbHdTNE5FejhYM1U?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:16:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 04:16:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "lonavala civic problems पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा आम्ही नक्की करायचे का",
+      "title": "Lonavala Civic Problems: पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा; ‘आम्ही नक्की करायचे काय?’",
+      "summary": "Lonavala Civic Problems: पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा; ‘आम्ही नक्की करायचे काय?’",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVJnN2lGb2Z3eE9UM2h3SklTbWotSm1jUWJsWUJYeVZ6VDZoUXBhNjRlcFpwZUR4WFRxOE10UjAyMjdiQVJBTnNsa2tnT3d5UGpoZzA4a3czUDUwMlhZTkhoaVpYaHhxd3Y0d0FLa2Fpb1VqYW5paDRLQUdvWjJIczdVN2tHSVFmTmE1a3RjN1dzLTdBVHMtakNycHNNZEpKNzlBdW95UGJCLWFoVkFaVU1kelVzcS0ySVHSAccBQVVfeXFMTkp2NXRSWk5NNXRFTVRrQmtmdkJnWVpPU3EwQnNYb1VNSnFoNXJ5RllJaERycVo3Nzd2cWVfQnQ2NUt2Q2M4SXdPalJMcDFHcjc0MjcwNjZvRGN0bkcyZTFFTVB1M0o1ckg1Z2otQV90WmNpSFhrd0F1MVUxYXd3bWNTTjhzalhRTUlIUFNvanF1V1BDZWZfeVRQX3J5YzNwZ3B5VEV5T3lJUDJGUjJ5VGJNZkxvZnRaa1o2LTVmNGNSLVltVDFkcw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:13:58 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 04:13:58 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण लाल किल्ल्यावरून pm मोदींचा मोठा डाव विरो",
+      "title": "'पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण...', लाल किल्ल्यावरून PM मोदींचा मोठा डाव, विरोधकांची गोची",
+      "summary": "'पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण...', लाल किल्ल्यावरून PM मोदींचा मोठा डाव, विरोधकांची गोची",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFp4WXVjVlBFaGRkNjFGbnRiZWVwMk9VaFBqeERhOUYteml6cmMySWNEX0NqclMtTHVYLUFXRzBzZTUxY284RXpOV1BleFl5ejlHbDMzdlRaY201STF3N0lseFpoc2R1WnBENDZTZUItWTVjXzB4cFdjajAxMVlTMmdabGhFb3MwRlBmZkc4bE8yQXphazlVTzVuQ3lkS01vVFNla2p5NDRDa2IxRVVBZkRpSDJlZUh3NjlEakxvLW9xY2hNTWUxQWhMcEFIT1FLX3laRkJiYklnVEw4QTRIWTdNUjhzTHc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:48:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:48:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain alert राज्यात श्रावण सरींचा जोर वाढणार पुण्यासह १४ जिल्ह्यांना यलो अलर्ट तुमच्या जिल्",
       "title": "Rain Alert Today : राज्यात श्रावण सरींचा जोर वाढणार! पुण्यासह १४ जिल्ह्यांना यलो अलर्ट; तुमच्या जिल्ह्यात पाऊस कोसळणार?",
       "summary": "Rain Alert Today : राज्यात श्रावण सरींचा जोर वाढणार! पुण्यासह १४ जिल्ह्यांना यलो अलर्ट; तुमच्या जिल्ह्यात पाऊस कोसळणार?",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQanBzaWVUdlBFWk51NWRDWUctcTNhNkpIdEd0SHZnYVVGUWRQa2pfb2J4ckQ3M3dDeV9pMVRDMXZHZk1Vd2JMTWV4S0xfYno5bmNQd1Zwblc3aGE0RDU3bHB5R1FMNUJqSDR1eUpJRlBELUgteml0c3VIRk8waExvNVE4ZmphQVFsUW9JSDZQZFIteG0wTDJHWkpYNWdxd3JBMHI0VjE1akxsdXB2b1g4M1JVUHZQaTFSNXpXaEd0cEIwcDBYODVmT3JxbF93Qzg2a0I2Y2luRy1KLVlMVm1PN1FXdWdJcV9Md25YU2VHTnFBa2hzM1ExZ051eS1sMGVTdnlFYlNFQXg5bzBOaVBDVFliV1BMdkp0T0HSAacCQVVfeXFMUDJsb1ljTFc5eWNwYTcwWkZFenVMSWJuSW5kUGs2MDl4NkdIdjV6b2J6Nll0dmt1bkV6N3VoTjRJdk9EZDVMaEoyNTJyMmVwUTR1SlhJMW5NTmlyRm1zS0ZsbUk3SDk1Z3FlUU9JUXBvX1lHVDVrbDBfZ2pDT3VPaXIybWhQaFEwdGF6eWhNdEFwbzA3enRBdUJrcGc5TmkzbHNzRWY3ZGx4eldZb0t2Yjh2LVV5Njc3enE4ZXVlWGc2S0t2LWxoSkhTLUNlM0pHZjlCM2I5ek5xM1dHblFQanU4bW1xVUQ2UWNRTi11WVYtaVAzUjdTQ3ZmM25DbEp0aHBhVjlsb3JISkhYWEkyczY5VWQ3ZEVHZHFQaUtScmNqcVVkOUNWOA?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 03:02:21 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 03:02:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMmxvWWNMVzl5Y3BhNzBaRkV6dUxJYm5JbmRQazYwOXg2R0h2NXpvYno2WXR2a3VuRXo3dWhONEl2T0RkNUxoSjI1MnIyZXBRNHVKWEkxbk1OaXJGbXNLRmxtSTdIOTVncWVRT0lRcG9fWUdUNWtsMF9nakNPdU9pcjJtaFBoUTB0YXp5aE10QXBvMDd6dEF1QmtwZzlOaTNsc3NFZjdkbHh6V1lvS3ZiOHYtVXk2Nzd6cThldWVYZzZLS3YtbGhKSFMtQ2UzSkdmOUIzYjl6TnEzV0duUVBqdThtbXFVRDZRY1FOLXVZVi1pUDNSN1NDdmYzbkNsSnRocGFWOWxvckhKSFhYSTJzNjlVZDdkRUdkcVBpS1JyY2pxVWQ5Q1Y40gGnAkFVX3lxTFAybG9ZY0xXOXljcGE3MFpGRXp1TElibkluZFBrNjA5eDZHSHY1em9iejZZdHZrdW5Fejd1aE40SXZPRGQ1TGhKMjUycjJlcFE0dUpYSTFuTU5pckZtc0tGbG1JN0g5NWdxZVFPSVFwb19ZR1Q1a2wwX2dqQ091T2lyMm1oUGhRMHRhenloTXRBcG8wN3p0QXVCa3BnOU5pM2xzc0VmN2RseHpXWW9LdmI4di1VeTY3N3pxOGV1ZVhnNktLdi1saEpIUy1DZTNKR2Y5QjNiOXpOcTNXR25RUGp1OG1tcVVENlFjUU4tdVlWLWlQM1I3U0N2ZjNuQ2xKdGhwYVY5bG9ySEpIWFhJMnM2OVVkN2RFR2RxUGlLUnJjanFVZDlDVjg?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:02:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:02:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -426,7 +493,7 @@
       "id": "maharashtra rain विदर्भात विजांसह पावसाचा इशारा कायम",
       "title": "Maharashtra Rain: विदर्भात विजांसह पावसाचा इशारा कायम",
       "summary": "Maharashtra Rain: विदर्भात विजांसह पावसाचा इशारा कायम",
-      "source": "Agrowon",
+      "source": "agrowon.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObDlwSkdDZjg4RUlFSUtkeUxpWHdEUXFIR1Y5QTFRbm9vZkt0SGpFbGNGSVBqeHliM0Z1Mm5HNUhudjNxNWhpckNuZUlpR3NNSGZTT1c0dXRsLWJadlFUUmIybkszWG14QzNFRTNENTdUS0UzajQ3Uk1CNHQxWUp4LW94Xy14MVQ1Zkw3Zm13ODd2dw?oc=5",
       "pubDate": "Sat, 15 Aug 2026 00:30:00 GMT",
@@ -434,7 +501,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Agrowon"
+        "agrowon.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -453,9 +520,9 @@
       "summary": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeC1hMm1zcmVKeE5uRWFJaWFyRENmTUJCYmF2aHJVMGR0cFVRMUdRcDhpQm1uUF8xdHE4WThqZUh5NlRlNFlIZjZzQzRIZS1Lb0FDU1BHc29VSXhkZ2pXQmRTZWkzVURUbm9HSm1OV0V0VWJDX1otVndmWHNtSUJ0bi1LeEhFbDNyYW9JaHprUF91MFVtX1JvMWZOQ2xnYnFUa2RzMGRhcWh6Xy1VVm9yeHdlQXBHUnFfeG5qeUxfbzFFLS02V0lR0gHMAUFVX3lxTFBqamllX3JpRWktM3l6SGlyRHE3MGxVRkxVc3c3MHBxMmc4d056ejUwMUhldThXcEc1elVpNHIyNWNROUJ0bzNwSXR3SXh6a2hjdDVoV255cTlTU2pkaE9acHlBOVZLSWRuQ2QzS3lCaFQ4bW15Vm1zenpDZ3YyRG0tQWpPQVNjWW9ha3N4cEZqRC1CdkdhVFJVV1NQUGs3TWp4a3l0c0JGa0x3RGRRLWEzZmFVVFZMR0xlWVdsSVlLVkRpX09vaWVRRVpZeA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:30:50 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 18:30:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamppZV9yaUVpLTN5ekhpckRxNzBsVUZMVXN3NzBwcTJnOHdOeno1MDFIZXU4V3BHNXpVaTRyMjVjUTlCdG8zcEl0d0l4emtoY3Q1aFdueXE5U1NqZGhPWnB5QTlWS0lkbkNkM0t5QmhUOG1teVZtc3p6Q2d2MkRtLUFqT0FTY1lvYWtzeHBGakQtQnZHYVRSVVdTUFBrN01qeGt5dHNCRmtMd0RkUS1hM2ZhVVRWTEdMZVlXbElZS1ZEaV9Pb2llUUVaWXjSAcwBQVVfeXFMUGpqaWVfcmlFaS0zeXpIaXJEcTcwbFVGTFVzdzcwcHEyZzh3Tnp6NTAxSGV1OFdwRzV6VWk0cjI1Y1E5QnRvM3BJdHdJeHpraGN0NWhXbnlxOVNTamRoT1pweUE5VktJZG5DZDNLeUJoVDhtbXlWbXN6ekNndjJEbS1Bak9BU2NZb2Frc3hwRmpELUJ2R2FUUlVXU1BQazdNanhreXRzQkZrTHdEZFEtYTNmYVVUVkxHTGVZV2xJWUtWRGlfT29pZVFFWll4?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:36:16 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 18:36:16 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -566,29 +633,7 @@
       "summary": "Weather Alert : स्वातंत्र्यदिनाच्या दिवशी महाराष्ट्रात मुसळधार पावसाची बॅटिंग, 13 जिल्ह्यांना हवामान खात्याचा यलो अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzBveU41aEhycUEzQWhaVGlIV29SeFBJZ05OQ2t3WUxjdnNPSzJURnlHemdwUTFWdzN2U05fMnJUVTd6X1A1M2d2MWNsMGFxTHN3QTA1enVmOVVnb1NXd1FSWFNDZ1RpRzlsaWlVa2pLTkozSTFoQktFc2h3MmwweXpMUEN6bWFlek9qaTRjM0ZKLXdhSWVPdFRMZGVVMlpXcWpad0NCcDJXckhueDVkWGdTbGdob3R2OFY2Q1dtdC1BV2xGNlRHOUtOZVk5TXVzaEE1Q1lNQW1KcG81YjBIZXJIVExKUUE1Y3g4bFlfSzBsOXNK?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "माझी पत्नी खरी नाही ती फोटो दाखवून केले माजी मंत्र्यांशी लग्न प्रत्यक्ष पाहताच झाली भलतीच ",
-      "title": "'माझी पत्नी खरी नाही, ती...'; फोटो दाखवून केले माजी मंत्र्यांशी लग्न, प्रत्यक्ष पाहताच झाली भलतीच पोलखोल!",
-      "summary": "'माझी पत्नी खरी नाही, ती...'; फोटो दाखवून केले माजी मंत्र्यांशी लग्न, प्रत्यक्ष पाहताच झाली भलतीच पोलखोल!",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTEhRMm5BRnBUZlJQS253N1FVWTFwM3NYV2JVbHNCRGJrUndJQ2VkYi1aa3c4QTBaNW5DOEhzSEdBNlprcFdVVGNCRUtKWkY0RFdWZlota1gzZTgyZlpTOUx3aW5USWhmck5HekRUenFuOTZWX0I1RTJ6ZURKQW13aEJyTV9QUkpNUGQteVVjeDFxRG1ybThtTnVQVnRad3pORW5qV1N3ZWtjYlotRExLdnBQLVRma1FMOEJpaWIzalR6Y29VREpYMXYwdVVCX3pGb3lNSmd3MlNzWGFlRkpBR1pYcERCQmVLZHFBQng5QzhHMVdJVUZsTWdDRUFIZzV2QUU2UGRSV3FiNnNNbDFPX0xTWXZjM0tDUE84?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdHpKM01xVFU5bVFJMEhaWE5CM3hueU5QMHJSejVIbnNHYk1vSjlLU3RwRnJTUl9VajQ3MGtabXBaQ3c4SVFUU0JpV1h2NmdpZ0xfYTlZMl9DcjFjdzJqaDZyc2Zydmp2WnU2eVZpUmdjc3lOUDlWMUZyTmhxb2hnWVNveEQwa01NTTJsSERUbVIzcFBYd3g5Y3JESklVX3pOcklfMFlBZWp0bGtlRUZneEVzTTNaR3ktTkhsSWlUZ2U5TVdUeGh6WlVSUmJSUzAzZkdPWEY3Y3Z1R0ZST3p2X2stenFzN01RX2wtX1ZqbnVYWjJH?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
       "areas": [],
@@ -635,7 +680,7 @@
       "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विजांच्या कडकडाटासह मुसळधार पाऊस कोसळणार; तुमच्या जिल्ह्यात काय",
       "source": "Times Now Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVUJQeDVvY3QtOVlMRW9ydmgwZUp3aE5UVFZTamhPSmUybmJyQnlnakw3Rlo0WFNNbjljYTIwcGh5cTlYOF9FUmJLSzRRRXBaNzNoeWVZZU1zcFhVWENDSVFpY0p4SEs4TUFnWEJUb0xtZjFpdFI3YkwzaXd0M0UyaGNzQ0ZiTGN0eGowYmxLbzBXM2FheFV6Qm1pTC1uYmRNQXdtY190b3Rmck9BR1diZVhZOExtQWtJV2R6cHg4cWZnb0Q1c0c3bWVnak1YRWFBMUs5aG5GdW9qMlpvVmfSAd4BQVVfeXFMTlVCUHg1b2N0LTlZTEVvcnZoMGVKd2hOVFRWU2poT0plMm5ickJ5Z2pMN0ZaNFhTTW45Y2EyMHBoeXE5WDhfRVJiS0s0UUVwWjczaHllWWVNc3BYVVhDQ0lRaWNKeEhLOE1BZ1hCVG9MbWYxaXRSN2JMM2l3dDNFMmhjc0NGYkxjdHhqMGJsS28wVzNhYXhVekJtaUwtbmJkTUF3bWNfdG90ZnJPQUdXYmVYWThMbUFrSVdkenB4OHFmZ29ENXNHN21lZ2pNWEVhQTFLOWhuRnVvajJab1Zn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU5WWmRiZW9YM0lYbVhPR2ZqZVk1aU5Gb0ZBM3FOSG5BVUswRlllYkFKX2JTWVhsdXlyd1YwWnFpMTRwWFNfRlJLeDdCbEtuX0xqZnVoaDcxVGVNVlI1cVFXVjdaem9vSkVDcDZLT3gwempqZjRvaElsQnRJN2lEc1ZkRlZIX0tNSkxvUk5HeUREV1N3V1BoTmtSeXNuR2ZHa0pBX2xQcmYwamg0VFhINGFfempQWXYzR3NhVjNCMXgxbVE2ZjQ5RXprcHJpTWllclJuY2lxRmfSAd4BQVVfeXFMTlVCUHg1b2N0LTlZTEVvcnZoMGVKd2hOVFRWU2poT0plMm5ickJ5Z2pMN0ZaNFhTTW45Y2EyMHBoeXE5WDhfRVJiS0s0UUVwWjczaHllWWVNc3BYVVhDQ0lRaWNKeEhLOE1BZ1hCVG9MbWYxaXRSN2JMM2l3dDNFMmhjc0NGYkxjdHhqMGJsS28wVzNhYXhVekJtaUwtbmJkTUF3bWNfdG90ZnJPQUdXYmVYWThMbUFrSVdkenB4OHFmZ29ENXNHN21lZ2pNWEVhQTFLOWhuRnVvajJab1Zn?oc=5",
       "pubDate": "Fri, 14 Aug 2026 11:24:38 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 11:24:38 GMT",
       "areas": [],
@@ -877,31 +922,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra rain alert महाराष्ट्रासाठी पुढील 48 तास महत्वाचे मुसळधार पाऊस कोसळणार",
-      "title": "Maharashtra Rain Alert | महाराष्ट्रासाठी पुढील 48 तास महत्वाचे! मुसळधार पाऊस कोसळणार",
-      "summary": "Maharashtra Rain Alert | महाराष्ट्रासाठी पुढील 48 तास महत्वाचे! मुसळधार पाऊस कोसळणार",
-      "source": "Thodkyaat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1heHVnSHpUeEExbXFLMEdTaFYwWURFMloyem5JYTQtNFIxcHR5clpoRW5fTWlEY3lqRV9MNGFuUExBcmlxNXFIX3ROZmF5OWVHVTRkMTFJTWxTVURJOGRpZjhISTg2eEo3ZTd2OVI2RWZjNkxZblFPVFdhVm1nNGM?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 06:47:26 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 06:47:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Thodkyaat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "spicejet delay test for drivers and sukhbir badal attack investigation what is trending in",
       "title": "SpiceJet delay, Marathi test for drivers and Sukhbir Badal attack investigation: What is trending in Pune",
       "summary": "SpiceJet delay, Marathi test for drivers and Sukhbir Badal attack investigation: What is trending in Pune",
@@ -971,7 +991,7 @@
       "id": "maval पोलीस ठाणे सुसज्ज मात्र घर मोडकळीस पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे",
       "title": "Maval News: पोलीस ठाणे सुसज्ज; मात्र घर मोडकळीस, पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे कागदावरच!",
       "summary": "Maval News: पोलीस ठाणे सुसज्ज; मात्र घर मोडकळीस, पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे कागदावरच!",
-      "source": "Sarkarnama",
+      "source": "sarkarnama.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjRsNjRyU19vbl9tX19JTEViTlNXR0ZLeVhyckJSZ3M5cHY5WFhUVVM4a0VsY2xmMm0yWHlHMFkxMFVnamdYOU9wX21sRW16Rnp1dTRJMGx0YmQ4ZTZCekdrMk1SenBpMnJVX1lYQ1paT2E3QjI2YnpjT1NORHBMdmtMYzZUMVdzUlh4czlPVHNUMjFESWpkSFZmYmM2WHFqdzloN3NUMHZXX1nSAbgBQVVfeXFMUEo0ZXFSdUJnSmlLVUNYaldaZllDUG1Tejg1dWJRTzhhWW5RQ1JXRHlva0JXNEQxNGdVLVk5VGxpdVI3RE80VGw0Z3RVeUhrbVgtdW56WnF4cFFEU3Z3UHN4bHZsY3l1WTZ4V3dvclNRakpfbF9MQXMtTFJWelNjY3ZBUkZEQzloSzhKSUFwOGFKVU9lZ0VZRDYzSWVhN2JDUFMyME9VbVUtRV9hME1mOUxhMnI4VHZ3LQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 05:28:44 GMT",
@@ -981,7 +1001,7 @@
       ],
       "region": "pune",
       "sources": [
-        "Sarkarnama"
+        "sarkarnama.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1040,36 +1060,6 @@
   ],
   "incidents": [
     {
-      "id": "delhi ncr gets heavy rain as imd issues red alert for thunderstorms",
-      "title": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
-      "summary": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
-      "source": "Outlook India + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG1Gd0l5el9Xb1JpTE9LcjhFUEdhY3F0YjZ6MUNjc1NGVGFpNFdaNkNLSE56VFJiQ0pZUHpNckMxb2FBTnBpVjQtNWUzVm54dHUycEVJOF9kNF83SXJQOEVkOWFoR0VXdHRZUG84TXRLdzljai1sX09RaEF2OWwxRHZCOVRHdXFkZUMyTHR4Ym5UM0xCRmt6Z2o3aEVTZW5oR3hsQkhRVXJJMUdnVGh2c9IBvgFBVV95cUxNbDI3cWxtOXpxTHZsdTZEOHZvSDVYd0hKM2hQV244QU03WXRneDlMV3dfLXZISVh3OG9hWWVmcEJHaHJUNEF5ODZ1Vk04cUZvR2tqWEhoWTlELUtpNER0ckRFTHB6bE9iTWZtYmFQb2pOZjdScW5WQmJraXBuMlRHYWRPOEd5WFQ4ZmFUdHBneUFwai1EMmdvSng1VXFDamVXU01ORHVNWjRPLTlSbVM5YUUyRXZrUWxqYXlROS1n?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 09:37:53 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 09:37:53 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Outlook India",
-        "The Sunday Guardian"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
-    },
-    {
       "id": "80 years of independence but no freedom from floods for ekta nagar residents",
       "title": "Pune: 80 Years Of Independence, But No Freedom From Floods For Ekta Nagar Residents",
       "summary": "Pune: 80 Years Of Independence, But No Freedom From Floods For Ekta Nagar Residents",
@@ -1097,6 +1087,35 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "delhi ncr gets heavy rain as imd issues red alert for thunderstorms",
+      "title": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
+      "summary": "Delhi-NCR Gets Heavy Rain As IMD Issues Red Alert For Thunderstorms Today",
+      "source": "outlookindia.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG1Gd0l5el9Xb1JpTE9LcjhFUEdhY3F0YjZ6MUNjc1NGVGFpNFdaNkNLSE56VFJiQ0pZUHpNckMxb2FBTnBpVjQtNWUzVm54dHUycEVJOF9kNF83SXJQOEVkOWFoR0VXdHRZUG84TXRLdzljai1sX09RaEF2OWwxRHZCOVRHdXFkZUMyTHR4Ym5UM0xCRmt6Z2o3aEVTZW5oR3hsQkhRVXJJMUdnVGh2c9IBvgFBVV95cUxNbDI3cWxtOXpxTHZsdTZEOHZvSDVYd0hKM2hQV244QU03WXRneDlMV3dfLXZISVh3OG9hWWVmcEJHaHJUNEF5ODZ1Vk04cUZvR2tqWEhoWTlELUtpNER0ckRFTHB6bE9iTWZtYmFQb2pOZjdScW5WQmJraXBuMlRHYWRPOEd5WFQ4ZmFUdHBneUFwai1EMmdvSng1VXFDamVXU01ORHVNWjRPLTlSbVM5YUUyRXZrUWxqYXlROS1n?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 09:37:53 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 09:37:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "outlookindia.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "solapur accident पाकणी फाट्यावर ट्रक टँकरची धडक जीवितहानी टळली महामार्गावरील वाहतूक खोळंबल",
@@ -1161,7 +1180,7 @@
       "id": "traffic woes 15 point plan calls for ai smart cameras and digital mapping",
       "title": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
       "summary": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
-      "source": "mypunepulse.com",
+      "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHcwRnlRemczdGNNNFV0UElQeFFUc0J3R3pYVjdtTDBMU3J1d1prNE02VXBfdVF4RWJyQldZOGlyRUhEWGExbzl4LTFrMWY1YjJ0NmYxN0ZIbWtYWmdLd0dVVW5lV1NNdDZmalNxcnJSaUZOMUJWZ1JjNlZ5SnJFeDlsN3g3V2V1NnNWYlh6eGJYT3dydWV0cGFLQk9qRFFLdWFnRlBKUVpyMkE?oc=5",
       "pubDate": "Fri, 14 Aug 2026 14:49:16 GMT",
@@ -1169,7 +1188,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "Single source",
       "w": [
@@ -1267,14 +1286,82 @@
       "action": "No immediate action required."
     },
     {
+      "id": "cidco lottery 2026 फक्त 23 लाखांपासून फ्लॅट मिळवा सिडकोची 4779 घरांसाठी मेगा लॉटरी कुठे अन",
+      "title": "Cidco Lottery 2026 : फक्त 23 लाखांपासून फ्लॅट मिळवा! सिडकोची 4779 घरांसाठी मेगा लॉटरी; कुठे अन् कधीपासून नोंदणी?, वाचा",
+      "summary": "Cidco Lottery 2026 : फक्त 23 लाखांपासून फ्लॅट मिळवा! सिडकोची 4779 घरांसाठी मेगा लॉटरी; कुठे अन् कधीपासून नोंदणी?, वाचा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNzd3eWVfM05IOUwwR3VnOV83eG9ZcFhkZGZiVnFKemhEVlZsaE9Wak45SUU2TkpIWldNcnlSaDRrUFdfUzB5Z3ZEblhEc2V0M0R2c2tVckJXTUZ3ZEVqOURnaHFMVnRKUXNkSXA0eEFaTzhUMDBESTNMajR6THBEdGdic0gyVF9Ham9RZ005TmpRaE5lY0xIT0IzS1VIYlZzQjJ0RlRUaGRlV1o0VXNyWktKNVI4TkVac0dmaVVaZElpUEk3REdId0JYd1Exa08tcXowVWJnREJCWGpvZnBtNjhib2dwR29kdG51Q2E2YjdaYjdOTnBqZTRKUmJfYTVmbHdTNE5FejhYM1U?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:16:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 04:16:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "lonavala civic problems पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा आम्ही नक्की करायचे का",
+      "title": "Lonavala Civic Problems: पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा; ‘आम्ही नक्की करायचे काय?’",
+      "summary": "Lonavala Civic Problems: पर्यटननगरी लोणावळ्याला नागरी समस्यांचा विळखा; ‘आम्ही नक्की करायचे काय?’",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVJnN2lGb2Z3eE9UM2h3SklTbWotSm1jUWJsWUJYeVZ6VDZoUXBhNjRlcFpwZUR4WFRxOE10UjAyMjdiQVJBTnNsa2tnT3d5UGpoZzA4a3czUDUwMlhZTkhoaVpYaHhxd3Y0d0FLa2Fpb1VqYW5paDRLQUdvWjJIczdVN2tHSVFmTmE1a3RjN1dzLTdBVHMtakNycHNNZEpKNzlBdW95UGJCLWFoVkFaVU1kelVzcS0ySVHSAccBQVVfeXFMTkp2NXRSWk5NNXRFTVRrQmtmdkJnWVpPU3EwQnNYb1VNSnFoNXJ5RllJaERycVo3Nzd2cWVfQnQ2NUt2Q2M4SXdPalJMcDFHcjc0MjcwNjZvRGN0bkcyZTFFTVB1M0o1ckg1Z2otQV90WmNpSFhrd0F1MVUxYXd3bWNTTjhzalhRTUlIUFNvanF1V1BDZWZfeVRQX3J5YzNwZ3B5VEV5T3lJUDJGUjJ5VGJNZkxvZnRaa1o2LTVmNGNSLVltVDFkcw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:13:58 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 04:13:58 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण लाल किल्ल्यावरून pm मोदींचा मोठा डाव विरो",
+      "title": "'पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण...', लाल किल्ल्यावरून PM मोदींचा मोठा डाव, विरोधकांची गोची",
+      "summary": "'पाहिजे तर महिला आरक्षणाचे क्रेडिट तुम्ही घ्या पण...', लाल किल्ल्यावरून PM मोदींचा मोठा डाव, विरोधकांची गोची",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFp4WXVjVlBFaGRkNjFGbnRiZWVwMk9VaFBqeERhOUYteml6cmMySWNEX0NqclMtTHVYLUFXRzBzZTUxY284RXpOV1BleFl5ejlHbDMzdlRaY201STF3N0lseFpoc2R1WnBENDZTZUItWTVjXzB4cFdjajAxMVlTMmdabGhFb3MwRlBmZkc4bE8yQXphazlVTzVuQ3lkS01vVFNla2p5NDRDa2IxRVVBZkRpSDJlZUh3NjlEakxvLW9xY2hNTWUxQWhMcEFIT1FLX3laRkJiYklnVEw4QTRIWTdNUjhzTHc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:48:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:48:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rain alert राज्यात श्रावण सरींचा जोर वाढणार पुण्यासह १४ जिल्ह्यांना यलो अलर्ट तुमच्या जिल्",
       "title": "Rain Alert Today : राज्यात श्रावण सरींचा जोर वाढणार! पुण्यासह १४ जिल्ह्यांना यलो अलर्ट; तुमच्या जिल्ह्यात पाऊस कोसळणार?",
       "summary": "Rain Alert Today : राज्यात श्रावण सरींचा जोर वाढणार! पुण्यासह १४ जिल्ह्यांना यलो अलर्ट; तुमच्या जिल्ह्यात पाऊस कोसळणार?",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQanBzaWVUdlBFWk51NWRDWUctcTNhNkpIdEd0SHZnYVVGUWRQa2pfb2J4ckQ3M3dDeV9pMVRDMXZHZk1Vd2JMTWV4S0xfYno5bmNQd1Zwblc3aGE0RDU3bHB5R1FMNUJqSDR1eUpJRlBELUgteml0c3VIRk8waExvNVE4ZmphQVFsUW9JSDZQZFIteG0wTDJHWkpYNWdxd3JBMHI0VjE1akxsdXB2b1g4M1JVUHZQaTFSNXpXaEd0cEIwcDBYODVmT3JxbF93Qzg2a0I2Y2luRy1KLVlMVm1PN1FXdWdJcV9Md25YU2VHTnFBa2hzM1ExZ051eS1sMGVTdnlFYlNFQXg5bzBOaVBDVFliV1BMdkp0T0HSAacCQVVfeXFMUDJsb1ljTFc5eWNwYTcwWkZFenVMSWJuSW5kUGs2MDl4NkdIdjV6b2J6Nll0dmt1bkV6N3VoTjRJdk9EZDVMaEoyNTJyMmVwUTR1SlhJMW5NTmlyRm1zS0ZsbUk3SDk1Z3FlUU9JUXBvX1lHVDVrbDBfZ2pDT3VPaXIybWhQaFEwdGF6eWhNdEFwbzA3enRBdUJrcGc5TmkzbHNzRWY3ZGx4eldZb0t2Yjh2LVV5Njc3enE4ZXVlWGc2S0t2LWxoSkhTLUNlM0pHZjlCM2I5ek5xM1dHblFQanU4bW1xVUQ2UWNRTi11WVYtaVAzUjdTQ3ZmM25DbEp0aHBhVjlsb3JISkhYWEkyczY5VWQ3ZEVHZHFQaUtScmNqcVVkOUNWOA?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 03:02:21 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 03:02:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMmxvWWNMVzl5Y3BhNzBaRkV6dUxJYm5JbmRQazYwOXg2R0h2NXpvYno2WXR2a3VuRXo3dWhONEl2T0RkNUxoSjI1MnIyZXBRNHVKWEkxbk1OaXJGbXNLRmxtSTdIOTVncWVRT0lRcG9fWUdUNWtsMF9nakNPdU9pcjJtaFBoUTB0YXp5aE10QXBvMDd6dEF1QmtwZzlOaTNsc3NFZjdkbHh6V1lvS3ZiOHYtVXk2Nzd6cThldWVYZzZLS3YtbGhKSFMtQ2UzSkdmOUIzYjl6TnEzV0duUVBqdThtbXFVRDZRY1FOLXVZVi1pUDNSN1NDdmYzbkNsSnRocGFWOWxvckhKSFhYSTJzNjlVZDdkRUdkcVBpS1JyY2pxVWQ5Q1Y40gGnAkFVX3lxTFAybG9ZY0xXOXljcGE3MFpGRXp1TElibkluZFBrNjA5eDZHSHY1em9iejZZdHZrdW5Fejd1aE40SXZPRGQ1TGhKMjUycjJlcFE0dUpYSTFuTU5pckZtc0tGbG1JN0g5NWdxZVFPSVFwb19ZR1Q1a2wwX2dqQ091T2lyMm1oUGhRMHRhenloTXRBcG8wN3p0QXVCa3BnOU5pM2xzc0VmN2RseHpXWW9LdmI4di1VeTY3N3pxOGV1ZVhnNktLdi1saEpIUy1DZTNKR2Y5QjNiOXpOcTNXR25RUGp1OG1tcVVENlFjUU4tdVlWLWlQM1I3U0N2ZjNuQ2xKdGhwYVY5bG9ySEpIWFhJMnM2OVVkN2RFR2RxUGlLUnJjanFVZDlDVjg?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:02:00 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:02:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1446,7 +1533,7 @@
       "id": "maharashtra rain विदर्भात विजांसह पावसाचा इशारा कायम",
       "title": "Maharashtra Rain: विदर्भात विजांसह पावसाचा इशारा कायम",
       "summary": "Maharashtra Rain: विदर्भात विजांसह पावसाचा इशारा कायम",
-      "source": "Agrowon",
+      "source": "agrowon.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObDlwSkdDZjg4RUlFSUtkeUxpWHdEUXFIR1Y5QTFRbm9vZkt0SGpFbGNGSVBqeHliM0Z1Mm5HNUhudjNxNWhpckNuZUlpR3NNSGZTT1c0dXRsLWJadlFUUmIybkszWG14QzNFRTNENTdUS0UzajQ3Uk1CNHQxWUp4LW94Xy14MVQ1Zkw3Zm13ODd2dw?oc=5",
       "pubDate": "Sat, 15 Aug 2026 00:30:00 GMT",
@@ -1454,7 +1541,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Agrowon"
+        "agrowon.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1470,9 +1557,9 @@
       "summary": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeC1hMm1zcmVKeE5uRWFJaWFyRENmTUJCYmF2aHJVMGR0cFVRMUdRcDhpQm1uUF8xdHE4WThqZUh5NlRlNFlIZjZzQzRIZS1Lb0FDU1BHc29VSXhkZ2pXQmRTZWkzVURUbm9HSm1OV0V0VWJDX1otVndmWHNtSUJ0bi1LeEhFbDNyYW9JaHprUF91MFVtX1JvMWZOQ2xnYnFUa2RzMGRhcWh6Xy1VVm9yeHdlQXBHUnFfeG5qeUxfbzFFLS02V0lR0gHMAUFVX3lxTFBqamllX3JpRWktM3l6SGlyRHE3MGxVRkxVc3c3MHBxMmc4d056ejUwMUhldThXcEc1elVpNHIyNWNROUJ0bzNwSXR3SXh6a2hjdDVoV255cTlTU2pkaE9acHlBOVZLSWRuQ2QzS3lCaFQ4bW15Vm1zenpDZ3YyRG0tQWpPQVNjWW9ha3N4cEZqRC1CdkdhVFJVV1NQUGs3TWp4a3l0c0JGa0x3RGRRLWEzZmFVVFZMR0xlWVdsSVlLVkRpX09vaWVRRVpZeA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:30:50 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 18:30:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamppZV9yaUVpLTN5ekhpckRxNzBsVUZMVXN3NzBwcTJnOHdOeno1MDFIZXU4V3BHNXpVaTRyMjVjUTlCdG8zcEl0d0l4emtoY3Q1aFdueXE5U1NqZGhPWnB5QTlWS0lkbkNkM0t5QmhUOG1teVZtc3p6Q2d2MkRtLUFqT0FTY1lvYWtzeHBGakQtQnZHYVRSVVdTUFBrN01qeGt5dHNCRmtMd0RkUS1hM2ZhVVRWTEdMZVlXbElZS1ZEaV9Pb2llUUVaWXjSAcwBQVVfeXFMUGpqaWVfcmlFaS0zeXpIaXJEcTcwbFVGTFVzdzcwcHEyZzh3Tnp6NTAxSGV1OFdwRzV6VWk0cjI1Y1E5QnRvM3BJdHdJeHpraGN0NWhXbnlxOVNTamRoT1pweUE5VktJZG5DZDNLeUJoVDhtbXlWbXN6ekNndjJEbS1Bak9BU2NZb2Frc3hwRmpELUJ2R2FUUlVXU1BQazdNanhreXRzQkZrTHdEZFEtYTNmYVVUVkxHTGVZV2xJWUtWRGlfT29pZVFFWll4?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:36:16 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 18:36:16 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1580,29 +1667,7 @@
       "summary": "Weather Alert : स्वातंत्र्यदिनाच्या दिवशी महाराष्ट्रात मुसळधार पावसाची बॅटिंग, 13 जिल्ह्यांना हवामान खात्याचा यलो अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzBveU41aEhycUEzQWhaVGlIV29SeFBJZ05OQ2t3WUxjdnNPSzJURnlHemdwUTFWdzN2U05fMnJUVTd6X1A1M2d2MWNsMGFxTHN3QTA1enVmOVVnb1NXd1FSWFNDZ1RpRzlsaWlVa2pLTkozSTFoQktFc2h3MmwweXpMUEN6bWFlek9qaTRjM0ZKLXdhSWVPdFRMZGVVMlpXcWpad0NCcDJXckhueDVkWGdTbGdob3R2OFY2Q1dtdC1BV2xGNlRHOUtOZVk5TXVzaEE1Q1lNQW1KcG81YjBIZXJIVExKUUE1Y3g4bFlfSzBsOXNK?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "माझी पत्नी खरी नाही ती फोटो दाखवून केले माजी मंत्र्यांशी लग्न प्रत्यक्ष पाहताच झाली भलतीच ",
-      "title": "'माझी पत्नी खरी नाही, ती...'; फोटो दाखवून केले माजी मंत्र्यांशी लग्न, प्रत्यक्ष पाहताच झाली भलतीच पोलखोल!",
-      "summary": "'माझी पत्नी खरी नाही, ती...'; फोटो दाखवून केले माजी मंत्र्यांशी लग्न, प्रत्यक्ष पाहताच झाली भलतीच पोलखोल!",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTEhRMm5BRnBUZlJQS253N1FVWTFwM3NYV2JVbHNCRGJrUndJQ2VkYi1aa3c4QTBaNW5DOEhzSEdBNlprcFdVVGNCRUtKWkY0RFdWZlota1gzZTgyZlpTOUx3aW5USWhmck5HekRUenFuOTZWX0I1RTJ6ZURKQW13aEJyTV9QUkpNUGQteVVjeDFxRG1ybThtTnVQVnRad3pORW5qV1N3ZWtjYlotRExLdnBQLVRma1FMOEJpaWIzalR6Y29VREpYMXYwdVVCX3pGb3lNSmd3MlNzWGFlRkpBR1pYcERCQmVLZHFBQng5QzhHMVdJVUZsTWdDRUFIZzV2QUU2UGRSV3FiNnNNbDFPX0xTWXZjM0tDUE84?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdHpKM01xVFU5bVFJMEhaWE5CM3hueU5QMHJSejVIbnNHYk1vSjlLU3RwRnJTUl9VajQ3MGtabXBaQ3c4SVFUU0JpV1h2NmdpZ0xfYTlZMl9DcjFjdzJqaDZyc2Zydmp2WnU2eVZpUmdjc3lOUDlWMUZyTmhxb2hnWVNveEQwa01NTTJsSERUbVIzcFBYd3g5Y3JESklVX3pOcklfMFlBZWp0bGtlRUZneEVzTTNaR3ktTkhsSWlUZ2U5TVdUeGh6WlVSUmJSUzAzZkdPWEY3Y3Z1R0ZST3p2X2stenFzN01RX2wtX1ZqbnVYWjJH?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
       "areas": [],
@@ -1646,7 +1711,7 @@
       "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विजांच्या कडकडाटासह मुसळधार पाऊस कोसळणार; तुमच्या जिल्ह्यात काय",
       "source": "Times Now Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVUJQeDVvY3QtOVlMRW9ydmgwZUp3aE5UVFZTamhPSmUybmJyQnlnakw3Rlo0WFNNbjljYTIwcGh5cTlYOF9FUmJLSzRRRXBaNzNoeWVZZU1zcFhVWENDSVFpY0p4SEs4TUFnWEJUb0xtZjFpdFI3YkwzaXd0M0UyaGNzQ0ZiTGN0eGowYmxLbzBXM2FheFV6Qm1pTC1uYmRNQXdtY190b3Rmck9BR1diZVhZOExtQWtJV2R6cHg4cWZnb0Q1c0c3bWVnak1YRWFBMUs5aG5GdW9qMlpvVmfSAd4BQVVfeXFMTlVCUHg1b2N0LTlZTEVvcnZoMGVKd2hOVFRWU2poT0plMm5ickJ5Z2pMN0ZaNFhTTW45Y2EyMHBoeXE5WDhfRVJiS0s0UUVwWjczaHllWWVNc3BYVVhDQ0lRaWNKeEhLOE1BZ1hCVG9MbWYxaXRSN2JMM2l3dDNFMmhjc0NGYkxjdHhqMGJsS28wVzNhYXhVekJtaUwtbmJkTUF3bWNfdG90ZnJPQUdXYmVYWThMbUFrSVdkenB4OHFmZ29ENXNHN21lZ2pNWEVhQTFLOWhuRnVvajJab1Zn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLU5WWmRiZW9YM0lYbVhPR2ZqZVk1aU5Gb0ZBM3FOSG5BVUswRlllYkFKX2JTWVhsdXlyd1YwWnFpMTRwWFNfRlJLeDdCbEtuX0xqZnVoaDcxVGVNVlI1cVFXVjdaem9vSkVDcDZLT3gwempqZjRvaElsQnRJN2lEc1ZkRlZIX0tNSkxvUk5HeUREV1N3V1BoTmtSeXNuR2ZHa0pBX2xQcmYwamg0VFhINGFfempQWXYzR3NhVjNCMXgxbVE2ZjQ5RXprcHJpTWllclJuY2lxRmfSAd4BQVVfeXFMTlVCUHg1b2N0LTlZTEVvcnZoMGVKd2hOVFRWU2poT0plMm5ickJ5Z2pMN0ZaNFhTTW45Y2EyMHBoeXE5WDhfRVJiS0s0UUVwWjczaHllWWVNc3BYVVhDQ0lRaWNKeEhLOE1BZ1hCVG9MbWYxaXRSN2JMM2l3dDNFMmhjc0NGYkxjdHhqMGJsS28wVzNhYXhVekJtaUwtbmJkTUF3bWNfdG90ZnJPQUdXYmVYWThMbUFrSVdkenB4OHFmZ29ENXNHN21lZ2pNWEVhQTFLOWhuRnVvajJab1Zn?oc=5",
       "pubDate": "Fri, 14 Aug 2026 11:24:38 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 11:24:38 GMT",
       "areas": [],
@@ -1885,28 +1950,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra rain alert महाराष्ट्रासाठी पुढील 48 तास महत्वाचे मुसळधार पाऊस कोसळणार",
-      "title": "Maharashtra Rain Alert | महाराष्ट्रासाठी पुढील 48 तास महत्वाचे! मुसळधार पाऊस कोसळणार",
-      "summary": "Maharashtra Rain Alert | महाराष्ट्रासाठी पुढील 48 तास महत्वाचे! मुसळधार पाऊस कोसळणार",
-      "source": "Thodkyaat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1heHVnSHpUeEExbXFLMEdTaFYwWURFMloyem5JYTQtNFIxcHR5clpoRW5fTWlEY3lqRV9MNGFuUExBcmlxNXFIX3ROZmF5OWVHVTRkMTFJTWxTVURJOGRpZjhISTg2eEo3ZTd2OVI2RWZjNkxZblFPVFdhVm1nNGM?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 06:47:26 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 06:47:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Thodkyaat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "spicejet delay test for drivers and sukhbir badal attack investigation what is trending in",
       "title": "SpiceJet delay, Marathi test for drivers and Sukhbir Badal attack investigation: What is trending in Pune",
       "summary": "SpiceJet delay, Marathi test for drivers and Sukhbir Badal attack investigation: What is trending in Pune",
@@ -1976,7 +2019,7 @@
       "id": "maval पोलीस ठाणे सुसज्ज मात्र घर मोडकळीस पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे",
       "title": "Maval News: पोलीस ठाणे सुसज्ज; मात्र घर मोडकळीस, पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे कागदावरच!",
       "summary": "Maval News: पोलीस ठाणे सुसज्ज; मात्र घर मोडकळीस, पोलिसांच्या शासकीय निवासाचा प्रस्ताव वर्षानुवर्षे कागदावरच!",
-      "source": "Sarkarnama",
+      "source": "sarkarnama.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjRsNjRyU19vbl9tX19JTEViTlNXR0ZLeVhyckJSZ3M5cHY5WFhUVVM4a0VsY2xmMm0yWHlHMFkxMFVnamdYOU9wX21sRW16Rnp1dTRJMGx0YmQ4ZTZCekdrMk1SenBpMnJVX1lYQ1paT2E3QjI2YnpjT1NORHBMdmtMYzZUMVdzUlh4czlPVHNUMjFESWpkSFZmYmM2WHFqdzloN3NUMHZXX1nSAbgBQVVfeXFMUEo0ZXFSdUJnSmlLVUNYaldaZllDUG1Tejg1dWJRTzhhWW5RQ1JXRHlva0JXNEQxNGdVLVk5VGxpdVI3RE80VGw0Z3RVeUhrbVgtdW56WnF4cFFEU3Z3UHN4bHZsY3l1WTZ4V3dvclNRakpfbF9MQXMtTFJWelNjY3ZBUkZEQzloSzhKSUFwOGFKVU9lZ0VZRDYzSWVhN2JDUFMyME9VbVUtRV9hME1mOUxhMnI4VHZ3LQ?oc=5",
       "pubDate": "Fri, 14 Aug 2026 05:28:44 GMT",
@@ -1986,7 +2029,7 @@
       ],
       "region": "pune",
       "sources": [
-        "Sarkarnama"
+        "sarkarnama.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2044,9 +2087,9 @@
     }
   ],
   "summary": {
-    "total": 48,
+    "total": 49,
     "alerts": 9,
-    "news": 39
+    "news": 40
   },
-  "cleanedAt": "2026-08-15T04:01:54.062Z"
+  "cleanedAt": "2026-08-15T04:54:50.478Z"
 }
