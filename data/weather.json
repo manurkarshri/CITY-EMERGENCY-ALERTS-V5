@@ -1,100 +1,100 @@
 {
-  "generatedAt": "2026-08-15T19:42:38.186Z",
+  "generatedAt": "2026-08-15T20:13:43.558Z",
   "source": "Open-Meteo",
   "regions": {
-    "talegaon": {
-      "label": "Talegaon Dabhade",
+    "fursungi": {
+      "label": "Fursungi / Uruli",
       "error": true,
-      "message": "Open-Meteo failed for talegaon: HTTP 429",
-      "updatedAt": "2026-08-15T19:42:38.038Z"
+      "message": "Open-Meteo failed for fursungi: HTTP 429",
+      "updatedAt": "2026-08-15T20:13:43.420Z"
     },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
       "error": true,
-      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
-      "updatedAt": "2026-08-15T19:42:38.042Z"
+      "message": "Open-Meteo failed for chakan: HTTP 429",
+      "updatedAt": "2026-08-15T20:13:43.421Z"
     },
     "saswad": {
       "label": "Saswad Region",
       "error": true,
       "message": "Open-Meteo failed for saswad: HTTP 429",
-      "updatedAt": "2026-08-15T19:42:38.043Z"
+      "updatedAt": "2026-08-15T20:13:43.425Z"
     },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
       "error": true,
-      "message": "Open-Meteo failed for fursungi: HTTP 429",
-      "updatedAt": "2026-08-15T19:42:38.047Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "temp": 21.1,
-      "humidity": 98,
-      "rain": 0,
-      "wind": 9.9,
-      "gust": 19.1,
-      "code": 3,
-      "rainChance": 94,
-      "visibility": 6,
-      "next6hRainMm": 0.5,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-08-15T19:42:38.083Z"
+      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
+      "updatedAt": "2026-08-15T20:13:43.426Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 22.5,
-      "humidity": 90,
+      "temp": 22.2,
+      "humidity": 91,
       "rain": 0,
-      "wind": 13.1,
-      "gust": 28.8,
+      "wind": 12.8,
+      "gust": 29.2,
       "code": 3,
       "rainChance": 0,
       "visibility": 18,
       "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-15T19:42:38.117Z"
+      "updatedAt": "2026-08-15T20:13:43.441Z"
     },
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "temp": 22.4,
-      "humidity": 94,
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
+      "temp": 21,
+      "humidity": 98,
       "rain": 0,
-      "wind": 12.8,
-      "gust": 22.3,
+      "wind": 10.6,
+      "gust": 20.9,
       "code": 3,
-      "rainChance": 5,
-      "visibility": 18,
-      "next6hRainMm": 0,
+      "rainChance": 94,
+      "visibility": 6,
+      "next6hRainMm": 0.5,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-15T19:42:38.129Z"
-    },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 22.7,
-      "humidity": 91,
-      "rain": 0,
-      "wind": 12.6,
-      "gust": 22,
-      "code": 3,
-      "rainChance": 1,
-      "visibility": 22,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-08-15T19:42:38.135Z"
+      "updatedAt": "2026-08-15T20:13:43.473Z"
     },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 22.3,
-      "humidity": 92,
+      "temp": 22.2,
+      "humidity": 93,
       "rain": 0,
-      "wind": 11.1,
-      "gust": 23.4,
+      "wind": 10.5,
+      "gust": 23.8,
       "code": 3,
       "rainChance": 5,
       "visibility": 16,
       "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-15T19:42:38.186Z"
+      "updatedAt": "2026-08-15T20:13:43.483Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "temp": 22,
+      "humidity": 96,
+      "rain": 0,
+      "wind": 16.5,
+      "gust": 30.6,
+      "code": 3,
+      "rainChance": 5,
+      "visibility": 1,
+      "next6hRainMm": 0.1,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-15T20:13:43.503Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "temp": 22.7,
+      "humidity": 90,
+      "rain": 0,
+      "wind": 14.5,
+      "gust": 24.5,
+      "code": 3,
+      "rainChance": 1,
+      "visibility": 22,
+      "next6hRainMm": 0,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-15T20:13:43.558Z"
     }
   }
 }
