@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:10:56.083Z",
+  "generatedAt": "2026-08-15T04:01:53.853Z",
   "status": "ok",
   "alerts": [
     {
@@ -68,33 +68,6 @@
       ]
     },
     {
-      "id": "minor fire at ongc kalol field installation production restored",
-      "title": "Minor Fire at ONGC Kalol Field Installation, Production Restored",
-      "summary": "Minor Fire at ONGC Kalol Field Installation, Production Restored",
-      "source": "Daily Pioneer",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNk15S3NsbnMzTldPSGRueEg5bjJZNE1lMms5VUhQczNwcEQ1VmdRQ28zWUxuS2ExZ3NLZ1QzbVRBVDd2RFZyUTZPeGU3QjAxb0U4SW1VNHEyaWlVZFBUSU5VaWZwdnM2LWZ6d01XR3hDd2E3Ulh3UzBJb191M2xPbUdtT0ZDeGVXZ1FWMjN6QW1ESUZ5cld3dXVRcW9DRWpCUkl3?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 03:25:15 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 03:25:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Daily Pioneer"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
       "id": "solapur accident पाकणी फाट्यावर ट्रक टँकरची धडक जीवितहानी टळली महामार्गावरील वाहतूक खोळंबल",
       "title": "Solapur Accident | पाकणी फाट्यावर ट्रक- टँकरची धडक; जीवितहानी टळली, महामार्गावरील वाहतूक खोळंबली",
       "summary": "Solapur Accident | पाकणी फाट्यावर ट्रक- टँकरची धडक; जीवितहानी टळली, महामार्गावरील वाहतूक खोळंबली",
@@ -147,10 +120,44 @@
   ],
   "news": [
     {
+      "id": "chakan traffic congestion चाकण औद्योगिक वसाहतीत कोंडीचा विळखा २० उद्योग स्थलांतराच्या तयार",
+      "title": "Chakan Traffic Congestion: चाकण औद्योगिक वसाहतीत कोंडीचा विळखा; २० उद्योग स्थलांतराच्या तयारीत",
+      "summary": "Chakan Traffic Congestion: चाकण औद्योगिक वसाहतीत कोंडीचा विळखा; २० उद्योग स्थलांतराच्या तयारीत",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE5xN25sbXEwNkNWSnlhb29GcHUzUWN2UHEzaW91MWFjMHgzZUZiazNiTjVCTXhuTjRDNXN5OTEwcTRPQlV1clZxTHkzdFFXNDRnV040TUtZbXROWGRRa3ZlbXE2cF9VVk91ZC1NVWdsMGVQLUlsSWFoXzFseElOYTlKbjMwSFFYbV9aeEpSOEtfNUdncVA0U2V0OVF2ZzRaSmRhVVZfcC1QVzg3V0pVRHkxbVNPNk9QbXfSAccBQVVfeXFMTVRsbnVjMllzdTJZTEtMNk1rNWZPMjA5VFBWbl93ODU4Nm1EUHczSEZGM0h6N3ZIblpHX1hrbkxzNU5JS0wxOGFRcHBzdkpBWHBmTU9sY2VMa3NDTVJrcDlZTVZLQkh1eEhUVzNVNmJTNWpXcklIQzB1dGZxVTF1b1pKZmw3UDNOUWhyR190UWlhSmhFMmVlZWozYXJuU0lTTzZuZHp4YlpJbGtaVFVBdEdybXg5VG5OZ1VmTGctSGFocG1Ud0szUQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:13:43 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:13:43 GMT",
+      "areas": [
+        "Chakan"
+      ],
+      "region": "chakan",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "traffic woes 15 point plan calls for ai smart cameras and digital mapping",
       "title": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
       "summary": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
-      "source": "PUNE PULSE",
+      "source": "mypunepulse.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHcwRnlRemczdGNNNFV0UElQeFFUc0J3R3pYVjdtTDBMU3J1d1prNE02VXBfdVF4RWJyQldZOGlyRUhEWGExbzl4LTFrMWY1YjJ0NmYxN0ZIbWtYWmdLd0dVVW5lV1NNdDZmalNxcnJSaUZOMUJWZ1JjNlZ5SnJFeDlsN3g3V2V1NnNWYlh6eGJYT3dydWV0cGFLQk9qRFFLdWFnRlBKUVpyMkE?oc=5",
       "pubDate": "Fri, 14 Aug 2026 14:49:16 GMT",
@@ -158,7 +165,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "PUNE PULSE"
+        "mypunepulse.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -236,18 +243,18 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "घाटमाथ्यावर पावसाचा जोर वाढणार हवामान विभागाचा रेड यलो अलर्ट जारी या जिल्ह्यांना सतर्कतेचा",
-      "title": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
-      "summary": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
-      "source": "Pune Prime News + 1 more",
+      "id": "maharashtra weather आजचे हवामान 15 ऑगस्ट स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी महाराष्ट्र",
+      "title": "Maharashtra Weather Today (आजचे हवामान, 15 ऑगस्ट ): स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी! महाराष्ट्रातील 14 जिल्ह्यांना हवामान विभागाचा अलर्ट",
+      "summary": "Maharashtra Weather Today (आजचे हवामान, 15 ऑगस्ट ): स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी! महाराष्ट्रातील 14 जिल्ह्यांना हवामान विभागाचा अलर्ट",
+      "source": "Times Now Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY1pPdVB0Mk1EZDZUYmhpRzZKZzAyblNGekNJVDBKLW1KRlpPdnRwcEZnS1NQQmdhUTM4Vm5Qdk5WWW5KZXUxOUVFQ3duelg3bWw2ZG5KRk5FX19MRFczZHZfcTg4UTBlejdncFhscG44NlR4ZHRNZHJ0SEQxNFRSZmJIUFpOcW44SXZ1T25aZHVqWFZMLTVMMnNiWVh2SGZ4UjNtdG9kVW9aZTlPRWdoVFBoSkVsSS1uNTNpOFQtWEpTQl8ySXNWYlpNeEFYRWU1Zl9rNFJMSUswV18tM1NfczlBUmwtaC1Ld0pJNFNkdm0wMy1laGVKdTBKWm5ScE4zM1RyVi1OOWtiRm1sOWlKRlVxSnNKVDA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:07:09 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 16:07:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVRocWZvVWVsZmV1MllMNnBCOVV0b0YzUHJEVU1tUTQ1UC1xN0R0bXo0YzRuZUx1QjRjS3FQOGdkeUFWbThqYXUwWVZRN04zLUNJaFRGeGEyaVJuaUY2SDU0SEJOZEx1VHh1clVYWEZraFl4cGFoalVjZjJZWGxwNUYwNHo2SUF4LUVQNlNTX0tfekxaOThuNW8tYjVhWjVQd0hQMVBMaTYtSlZnTmw3bnlKT044MklLM1lvS1J1WmhkNEFiTEdxNGhLcw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:37:35 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:37:35 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News",
+        "Times Now Marathi",
         "Esakal"
       ],
       "confidence": "Medium",
@@ -314,28 +321,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWtCMGtfV010b0lORnBoaXJoc3YwV09QZkpQckVPUGZUVElrbTBaNHVjTzB3R2lfZFNZdllPVmx5MEtDY0syRTlfQ0FldEVSbEg0SHZZM2RQZkJlRWFiTkdGTVpsZ0tlSHM5dFk4SHJ4QzRPeEJsd1dWLUpCYi1kcHI5NThNQjBiS3p3bngzdDJ4Yzh2NTNuRzBrTUhTUnMzTzFTVVIyZUNjYWJiRkVYcGJyNDZkZkhfNVhtRkp0Nnk0ZzVUcjVDVWV5WThrb0Rrb0JLVTJWQmFUMjhEbFNV?oc=5",
       "pubDate": "Sat, 15 Aug 2026 02:44:00 GMT",
       "lastUpdated": "Sat, 15 Aug 2026 02:44:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "आशिया कपसाठी bcci ने पुन्हा जाहीर केली टीम जेमिमा आऊट तर प्रतिका रावलसह स्टार खेळाडूची एन्",
-      "title": "आशिया कपसाठी BCCI ने पुन्हा जाहीर केली टीम; जेमिमा 'आऊट' तर प्रतिका रावलसह स्टार खेळाडूची एन्ट्री! पाहा संपूर्ण स्कॉड",
-      "summary": "आशिया कपसाठी BCCI ने पुन्हा जाहीर केली टीम; जेमिमा 'आऊट' तर प्रतिका रावलसह स्टार खेळाडूची एन्ट्री! पाहा संपूर्ण स्कॉड",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGlYcXd6V1FmVzZIS1Uxd29nbWxGUDhDOURRVXA4aW5IY3Axc3VsSXFQazVNTXZQMzZkTlpZdzZ5ckdTUmo3NEFveHFwYzV0LWhnNmIwQWQ5czlvMDhVOHlmZ1d1UDV6MzQ1MUQyZmpqWUtrV016MzJaTWxaWUoxLVhlZm10MlpkNDhlbkVrRXdrSGF3N0xXUlBUTjZyNGI0ZEJzbU9fblh3a0dUTGZ2WGlfQkdlQzFhcjhkN2hFUGFxYU5XMW9LakV6TmNZdw?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 02:03:58 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 02:03:58 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -463,36 +448,14 @@
       ]
     },
     {
-      "id": "police वाहतूक पोलिसांची दंडवसुली थांबली अमितेश कुमारांचा मोठा निर्णय ई चलन मशिन जमा होणार",
-      "title": "Pune Police: वाहतूक पोलिसांची दंडवसुली थांबली? अमितेश कुमारांचा मोठा निर्णय; ई-चलन मशिन जमा होणार",
-      "summary": "Pune Police: वाहतूक पोलिसांची दंडवसुली थांबली? अमितेश कुमारांचा मोठा निर्णय; ई-चलन मशिन जमा होणार",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEhZS0V0RGlRZGpidFB5azI0VE41aW1lRzJRRlBrMlM3cjdrN2hqamNzMmY5WjcyM2U1WkNPNFFtcXkyd29NR2xFb3N0VVZfODJ3amFmdWlSRGZiVnpWXzVlaXQzRmNCUXMxd0t5SWE1eVQ3Nno1dTBWMnIyS1Nkbko0UWxfTFJvWnhpLXdLSjBIak5Nd2xUYmtSb1VUYTVDc3BJTTM2M2FHTmFhbDVEWHV0aVhTN2ZaSllaX0R6Tnp6QTJUUEJScVpKd0hPYjUxdDVpaXdzOUlqWk1YWW9vUFV2THpnWGJwYUE?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 00:00:00 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 00:00:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "पुण्यातील ऑटो हब असलेल्या चाकण midc मधून कंपन्या स्थलांतर का करत आहेत कारण धक्कादायक",
       "title": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "summary": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamppZV9yaUVpLTN5ekhpckRxNzBsVUZMVXN3NzBwcTJnOHdOeno1MDFIZXU4V3BHNXpVaTRyMjVjUTlCdG8zcEl0d0l4emtoY3Q1aFdueXE5U1NqZGhPWnB5QTlWS0lkbkNkM0t5QmhUOG1teVZtc3p6Q2d2MkRtLUFqT0FTY1lvYWtzeHBGakQtQnZHYVRSVVdTUFBrN01qeGt5dHNCRmtMd0RkUS1hM2ZhVVRWTEdMZVlXbElZS1ZEaV9Pb2llUUVaWXjSAcwBQVVfeXFMUGpqaWVfcmlFaS0zeXpIaXJEcTcwbFVGTFVzdzcwcHEyZzh3Tnp6NTAxSGV1OFdwRzV6VWk0cjI1Y1E5QnRvM3BJdHdJeHpraGN0NWhXbnlxOVNTamRoT1pweUE5VktJZG5DZDNLeUJoVDhtbXlWbXN6ekNndjJEbS1Bak9BU2NZb2Frc3hwRmpELUJ2R2FUUlVXU1BQazdNanhreXRzQkZrTHdEZFEtYTNmYVVUVkxHTGVZV2xJWUtWRGlfT29pZVFFWll4?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:36:16 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 18:36:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeC1hMm1zcmVKeE5uRWFJaWFyRENmTUJCYmF2aHJVMGR0cFVRMUdRcDhpQm1uUF8xdHE4WThqZUh5NlRlNFlIZjZzQzRIZS1Lb0FDU1BHc29VSXhkZ2pXQmRTZWkzVURUbm9HSm1OV0V0VWJDX1otVndmWHNtSUJ0bi1LeEhFbDNyYW9JaHprUF91MFVtX1JvMWZOQ2xnYnFUa2RzMGRhcWh6Xy1VVm9yeHdlQXBHUnFfeG5qeUxfbzFFLS02V0lR0gHMAUFVX3lxTFBqamllX3JpRWktM3l6SGlyRHE3MGxVRkxVc3c3MHBxMmc4d056ejUwMUhldThXcEc1elVpNHIyNWNROUJ0bzNwSXR3SXh6a2hjdDVoV255cTlTU2pkaE9acHlBOVZLSWRuQ2QzS3lCaFQ4bW15Vm1zenpDZ3YyRG0tQWpPQVNjWW9ha3N4cEZqRC1CdkdhVFJVV1NQUGs3TWp4a3l0c0JGa0x3RGRRLWEzZmFVVFZMR0xlWVdsSVlLVkRpX09vaWVRRVpZeA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:30:50 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 18:30:50 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -554,42 +517,18 @@
       ]
     },
     {
-      "id": "caste census in india स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना special report",
-      "title": "Caste Census In India | स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना | Special Report",
-      "summary": "Caste Census In India | स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना | Special Report",
-      "source": "News18 Marathi",
+      "id": "घाटमाथ्यावर पावसाचा जोर वाढणार हवामान विभागाचा रेड यलो अलर्ट जारी या जिल्ह्यांना सतर्कतेचा",
+      "title": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
+      "summary": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
+      "source": "Pune Prime News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzlzRUFUSGNFaFc3N2JFM3JYeE5WaWk3bVRlNDVjTWxXcXRIaDFGLVZHMGEtQk9IcFZrRG5SWExXeTRyQnV2ZW9HSE1Lb3NLM3BzbnJ3bUJTSHktOGdYMDRvcXdCWHlEOW96YkdXY1hwbmR4cXNNMXotc0JyX3ZURm00bkRJNGxJNG1DR1pPaE9vUmZDMzlkeXFR?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 15:13:04 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 15:13:04 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन सबा आझादसोबत ब्रेकअप dating app वर दिसली हॉट प्",
-      "title": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन, सबा आझादसोबत ब्रेकअप? Dating App वर दिसली हॉट प्रोफाइल",
-      "summary": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन, सबा आझादसोबत ब्रेकअप? Dating App वर दिसली हॉट प्रोफाइल",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOWppRVlUWnZIaTRZLWhzM2FHc08zZnpEeGhhZWcwRl96ZnlxLWlHNnQtSGtGbEUyZm51WVpJNlhkZmMyUjlVVnE3Rmg0TDgxVmdUVzU4ZXVlNk80MmdJLXpsekhZQ2JQdC10MzZMWF9fWVBhRTVOd1JLV1NRbDBFU185cFkzR3c3a25mNUVMWlh6c2JlTFM5akk1TUg2Wjg3X3VSREN0bkRkY1Y2WVg1OWVmNDRVd3gwNHl4T29OSlJaelEzYXI4NFM1WUVQM3hIVmhCckZiY21BRWNUZklFMmxDN3o5RERtZGtzUQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 15:08:00 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 15:08:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY1pPdVB0Mk1EZDZUYmhpRzZKZzAyblNGekNJVDBKLW1KRlpPdnRwcEZnS1NQQmdhUTM4Vm5Qdk5WWW5KZXUxOUVFQ3duelg3bWw2ZG5KRk5FX19MRFczZHZfcTg4UTBlejdncFhscG44NlR4ZHRNZHJ0SEQxNFRSZmJIUFpOcW44SXZ1T25aZHVqWFZMLTVMMnNiWVh2SGZ4UjNtdG9kVW9aZTlPRWdoVFBoSkVsSS1uNTNpOFQtWEpTQl8ySXNWYlpNeEFYRWU1Zl9rNFJMSUswV18tM1NfczlBUmwtaC1Ld0pJNFNkdm0wMy1laGVKdTBKWm5ScE4zM1RyVi1OOWtiRm1sOWlKRlVxSnNKVDA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:07:09 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 16:07:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Pune Prime News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -627,7 +566,7 @@
       "summary": "Weather Alert : स्वातंत्र्यदिनाच्या दिवशी महाराष्ट्रात मुसळधार पावसाची बॅटिंग, 13 जिल्ह्यांना हवामान खात्याचा यलो अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdHpKM01xVFU5bVFJMEhaWE5CM3hueU5QMHJSejVIbnNHYk1vSjlLU3RwRnJTUl9VajQ3MGtabXBaQ3c4SVFUU0JpV1h2NmdpZ0xfYTlZMl9DcjFjdzJqaDZyc2Zydmp2WnU2eVZpUmdjc3lOUDlWMUZyTmhxb2hnWVNveEQwa01NTTJsSERUbVIzcFBYd3g5Y3JESklVX3pOcklfMFlBZWp0bGtlRUZneEVzTTNaR3ktTkhsSWlUZ2U5TVdUeGh6WlVSUmJSUzAzZkdPWEY3Y3Z1R0ZST3p2X2stenFzN01RX2wtX1ZqbnVYWjJH?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzBveU41aEhycUEzQWhaVGlIV29SeFBJZ05OQ2t3WUxjdnNPSzJURnlHemdwUTFWdzN2U05fMnJUVTd6X1A1M2d2MWNsMGFxTHN3QTA1enVmOVVnb1NXd1FSWFNDZ1RpRzlsaWlVa2pLTkozSTFoQktFc2h3MmwweXpMUEN6bWFlek9qaTRjM0ZKLXdhSWVPdFRMZGVVMlpXcWpad0NCcDJXckhueDVkWGdTbGdob3R2OFY2Q1dtdC1BV2xGNlRHOUtOZVk5TXVzaEE1Q1lNQW1KcG81YjBIZXJIVExKUUE1Y3g4bFlfSzBsOXNK?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
       "areas": [],
@@ -671,7 +610,7 @@
       "summary": "‘Unprecedented’ Rains Kill 8 In Japan",
       "source": "English Bombay Samachar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGVEeXgyNC1KdXVZNFdYek5ITnRRcTdmeVdRczFlQkRYZnhGd3VRaW1IXzZWeDZJaUd0Y2dsQURwQTBSdC1YUkFCOVdrMzlHa2VvWUI0QzNQd0hlZjVJM3RHdnJrT0IwUEJLa2I1ajVxcUktRDBTY25VMUItbHBqVU1RMUQ4STFGNmIyQnJHNUxOeUtLNFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW1lS0piQmhaTHk5QTV2OHZ0dF8wSTl3bE5jUm16SkhjVTBDaDJkVldZN28yR2tfRUdVX3dPZ3NCN1JzM0drcFlJemY5b3pDM2hvQ3pDdzduTDlyd0E4YkdDN2c3SVBEUVVyMVhTLUdQcE85UHpSYzE2MUVIbGxra1lKeTJFdGNnTmwyYUNB?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:34:19 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 12:34:19 GMT",
       "areas": [],
@@ -1160,33 +1099,6 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
-      "id": "minor fire at ongc kalol field installation production restored",
-      "title": "Minor Fire at ONGC Kalol Field Installation, Production Restored",
-      "summary": "Minor Fire at ONGC Kalol Field Installation, Production Restored",
-      "source": "Daily Pioneer",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNk15S3NsbnMzTldPSGRueEg5bjJZNE1lMms5VUhQczNwcEQ1VmdRQ28zWUxuS2ExZ3NLZ1QzbVRBVDd2RFZyUTZPeGU3QjAxb0U4SW1VNHEyaWlVZFBUSU5VaWZwdnM2LWZ6d01XR3hDd2E3Ulh3UzBJb191M2xPbUdtT0ZDeGVXZ1FWMjN6QW1ESUZ5cld3dXVRcW9DRWpCUkl3?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 03:25:15 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 03:25:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Daily Pioneer"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
       "id": "solapur accident पाकणी फाट्यावर ट्रक टँकरची धडक जीवितहानी टळली महामार्गावरील वाहतूक खोळंबल",
       "title": "Solapur Accident | पाकणी फाट्यावर ट्रक- टँकरची धडक; जीवितहानी टळली, महामार्गावरील वाहतूक खोळंबली",
       "summary": "Solapur Accident | पाकणी फाट्यावर ट्रक- टँकरची धडक; जीवितहानी टळली, महामार्गावरील वाहतूक खोळंबली",
@@ -1215,10 +1127,41 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
+      "id": "chakan traffic congestion चाकण औद्योगिक वसाहतीत कोंडीचा विळखा २० उद्योग स्थलांतराच्या तयार",
+      "title": "Chakan Traffic Congestion: चाकण औद्योगिक वसाहतीत कोंडीचा विळखा; २० उद्योग स्थलांतराच्या तयारीत",
+      "summary": "Chakan Traffic Congestion: चाकण औद्योगिक वसाहतीत कोंडीचा विळखा; २० उद्योग स्थलांतराच्या तयारीत",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE5xN25sbXEwNkNWSnlhb29GcHUzUWN2UHEzaW91MWFjMHgzZUZiazNiTjVCTXhuTjRDNXN5OTEwcTRPQlV1clZxTHkzdFFXNDRnV040TUtZbXROWGRRa3ZlbXE2cF9VVk91ZC1NVWdsMGVQLUlsSWFoXzFseElOYTlKbjMwSFFYbV9aeEpSOEtfNUdncVA0U2V0OVF2ZzRaSmRhVVZfcC1QVzg3V0pVRHkxbVNPNk9QbXfSAccBQVVfeXFMTVRsbnVjMllzdTJZTEtMNk1rNWZPMjA5VFBWbl93ODU4Nm1EUHczSEZGM0h6N3ZIblpHX1hrbkxzNU5JS0wxOGFRcHBzdkpBWHBmTU9sY2VMa3NDTVJrcDlZTVZLQkh1eEhUVzNVNmJTNWpXcklIQzB1dGZxVTF1b1pKZmw3UDNOUWhyR190UWlhSmhFMmVlZWozYXJuU0lTTzZuZHp4YlpJbGtaVFVBdEdybXg5VG5OZ1VmTGctSGFocG1Ud0szUQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:13:43 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:13:43 GMT",
+      "areas": [
+        "Chakan"
+      ],
+      "region": "chakan",
+      "sources": [
+        "Pudhari News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "traffic woes 15 point plan calls for ai smart cameras and digital mapping",
       "title": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
       "summary": "Pune Traffic Woes: 15-Point Plan Calls for AI, Smart Cameras And Digital Mapping",
-      "source": "PUNE PULSE",
+      "source": "mypunepulse.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHcwRnlRemczdGNNNFV0UElQeFFUc0J3R3pYVjdtTDBMU3J1d1prNE02VXBfdVF4RWJyQldZOGlyRUhEWGExbzl4LTFrMWY1YjJ0NmYxN0ZIbWtYWmdLd0dVVW5lV1NNdDZmalNxcnJSaUZOMUJWZ1JjNlZ5SnJFeDlsN3g3V2V1NnNWYlh6eGJYT3dydWV0cGFLQk9qRFFLdWFnRlBKUVpyMkE?oc=5",
       "pubDate": "Fri, 14 Aug 2026 14:49:16 GMT",
@@ -1226,7 +1169,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "PUNE PULSE"
+        "mypunepulse.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -1301,18 +1244,18 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "घाटमाथ्यावर पावसाचा जोर वाढणार हवामान विभागाचा रेड यलो अलर्ट जारी या जिल्ह्यांना सतर्कतेचा",
-      "title": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
-      "summary": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
-      "source": "Pune Prime News + 1 more",
+      "id": "maharashtra weather आजचे हवामान 15 ऑगस्ट स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी महाराष्ट्र",
+      "title": "Maharashtra Weather Today (आजचे हवामान, 15 ऑगस्ट ): स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी! महाराष्ट्रातील 14 जिल्ह्यांना हवामान विभागाचा अलर्ट",
+      "summary": "Maharashtra Weather Today (आजचे हवामान, 15 ऑगस्ट ): स्वातंत्र्यदिनी पावसाची तुफान फटकेबाजी! महाराष्ट्रातील 14 जिल्ह्यांना हवामान विभागाचा अलर्ट",
+      "source": "Times Now Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY1pPdVB0Mk1EZDZUYmhpRzZKZzAyblNGekNJVDBKLW1KRlpPdnRwcEZnS1NQQmdhUTM4Vm5Qdk5WWW5KZXUxOUVFQ3duelg3bWw2ZG5KRk5FX19MRFczZHZfcTg4UTBlejdncFhscG44NlR4ZHRNZHJ0SEQxNFRSZmJIUFpOcW44SXZ1T25aZHVqWFZMLTVMMnNiWVh2SGZ4UjNtdG9kVW9aZTlPRWdoVFBoSkVsSS1uNTNpOFQtWEpTQl8ySXNWYlpNeEFYRWU1Zl9rNFJMSUswV18tM1NfczlBUmwtaC1Ld0pJNFNkdm0wMy1laGVKdTBKWm5ScE4zM1RyVi1OOWtiRm1sOWlKRlVxSnNKVDA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:07:09 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 16:07:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVRocWZvVWVsZmV1MllMNnBCOVV0b0YzUHJEVU1tUTQ1UC1xN0R0bXo0YzRuZUx1QjRjS3FQOGdkeUFWbThqYXUwWVZRN04zLUNJaFRGeGEyaVJuaUY2SDU0SEJOZEx1VHh1clVYWEZraFl4cGFoalVjZjJZWGxwNUYwNHo2SUF4LUVQNlNTX0tfekxaOThuNW8tYjVhWjVQd0hQMVBMaTYtSlZnTmw3bnlKT044MklLM1lvS1J1WmhkNEFiTEdxNGhLcw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:37:35 GMT",
+      "lastUpdated": "Sat, 15 Aug 2026 03:37:35 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News",
+        "Times Now Marathi",
         "Esakal"
       ],
       "confidence": "Medium",
@@ -1376,28 +1319,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWtCMGtfV010b0lORnBoaXJoc3YwV09QZkpQckVPUGZUVElrbTBaNHVjTzB3R2lfZFNZdllPVmx5MEtDY0syRTlfQ0FldEVSbEg0SHZZM2RQZkJlRWFiTkdGTVpsZ0tlSHM5dFk4SHJ4QzRPeEJsd1dWLUpCYi1kcHI5NThNQjBiS3p3bngzdDJ4Yzh2NTNuRzBrTUhTUnMzTzFTVVIyZUNjYWJiRkVYcGJyNDZkZkhfNVhtRkp0Nnk0ZzVUcjVDVWV5WThrb0Rrb0JLVTJWQmFUMjhEbFNV?oc=5",
       "pubDate": "Sat, 15 Aug 2026 02:44:00 GMT",
       "lastUpdated": "Sat, 15 Aug 2026 02:44:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "आशिया कपसाठी bcci ने पुन्हा जाहीर केली टीम जेमिमा आऊट तर प्रतिका रावलसह स्टार खेळाडूची एन्",
-      "title": "आशिया कपसाठी BCCI ने पुन्हा जाहीर केली टीम; जेमिमा 'आऊट' तर प्रतिका रावलसह स्टार खेळाडूची एन्ट्री! पाहा संपूर्ण स्कॉड",
-      "summary": "आशिया कपसाठी BCCI ने पुन्हा जाहीर केली टीम; जेमिमा 'आऊट' तर प्रतिका रावलसह स्टार खेळाडूची एन्ट्री! पाहा संपूर्ण स्कॉड",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGlYcXd6V1FmVzZIS1Uxd29nbWxGUDhDOURRVXA4aW5IY3Axc3VsSXFQazVNTXZQMzZkTlpZdzZ5ckdTUmo3NEFveHFwYzV0LWhnNmIwQWQ5czlvMDhVOHlmZ1d1UDV6MzQ1MUQyZmpqWUtrV016MzJaTWxaWUoxLVhlZm10MlpkNDhlbkVrRXdrSGF3N0xXUlBUTjZyNGI0ZEJzbU9fblh3a0dUTGZ2WGlfQkdlQzFhcjhkN2hFUGFxYU5XMW9LakV6TmNZdw?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 02:03:58 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 02:03:58 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1544,36 +1465,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "police वाहतूक पोलिसांची दंडवसुली थांबली अमितेश कुमारांचा मोठा निर्णय ई चलन मशिन जमा होणार",
-      "title": "Pune Police: वाहतूक पोलिसांची दंडवसुली थांबली? अमितेश कुमारांचा मोठा निर्णय; ई-चलन मशिन जमा होणार",
-      "summary": "Pune Police: वाहतूक पोलिसांची दंडवसुली थांबली? अमितेश कुमारांचा मोठा निर्णय; ई-चलन मशिन जमा होणार",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEhZS0V0RGlRZGpidFB5azI0VE41aW1lRzJRRlBrMlM3cjdrN2hqamNzMmY5WjcyM2U1WkNPNFFtcXkyd29NR2xFb3N0VVZfODJ3amFmdWlSRGZiVnpWXzVlaXQzRmNCUXMxd0t5SWE1eVQ3Nno1dTBWMnIyS1Nkbko0UWxfTFJvWnhpLXdLSjBIak5Nd2xUYmtSb1VUYTVDc3BJTTM2M2FHTmFhbDVEWHV0aVhTN2ZaSllaX0R6Tnp6QTJUUEJScVpKd0hPYjUxdDVpaXdzOUlqWk1YWW9vUFV2THpnWGJwYUE?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 00:00:00 GMT",
-      "lastUpdated": "Sat, 15 Aug 2026 00:00:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "पुण्यातील ऑटो हब असलेल्या चाकण midc मधून कंपन्या स्थलांतर का करत आहेत कारण धक्कादायक",
       "title": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "summary": "पुण्यातील ‘ऑटो हब’ असलेल्या चाकण MIDC मधून कंपन्या स्थलांतर का करत आहेत? कारण धक्कादायक",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamppZV9yaUVpLTN5ekhpckRxNzBsVUZMVXN3NzBwcTJnOHdOeno1MDFIZXU4V3BHNXpVaTRyMjVjUTlCdG8zcEl0d0l4emtoY3Q1aFdueXE5U1NqZGhPWnB5QTlWS0lkbkNkM0t5QmhUOG1teVZtc3p6Q2d2MkRtLUFqT0FTY1lvYWtzeHBGakQtQnZHYVRSVVdTUFBrN01qeGt5dHNCRmtMd0RkUS1hM2ZhVVRWTEdMZVlXbElZS1ZEaV9Pb2llUUVaWXjSAcwBQVVfeXFMUGpqaWVfcmlFaS0zeXpIaXJEcTcwbFVGTFVzdzcwcHEyZzh3Tnp6NTAxSGV1OFdwRzV6VWk0cjI1Y1E5QnRvM3BJdHdJeHpraGN0NWhXbnlxOVNTamRoT1pweUE5VktJZG5DZDNLeUJoVDhtbXlWbXN6ekNndjJEbS1Bak9BU2NZb2Frc3hwRmpELUJ2R2FUUlVXU1BQazdNanhreXRzQkZrTHdEZFEtYTNmYVVUVkxHTGVZV2xJWUtWRGlfT29pZVFFWll4?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:36:16 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 18:36:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeC1hMm1zcmVKeE5uRWFJaWFyRENmTUJCYmF2aHJVMGR0cFVRMUdRcDhpQm1uUF8xdHE4WThqZUh5NlRlNFlIZjZzQzRIZS1Lb0FDU1BHc29VSXhkZ2pXQmRTZWkzVURUbm9HSm1OV0V0VWJDX1otVndmWHNtSUJ0bi1LeEhFbDNyYW9JaHprUF91MFVtX1JvMWZOQ2xnYnFUa2RzMGRhcWh6Xy1VVm9yeHdlQXBHUnFfeG5qeUxfbzFFLS02V0lR0gHMAUFVX3lxTFBqamllX3JpRWktM3l6SGlyRHE3MGxVRkxVc3c3MHBxMmc4d056ejUwMUhldThXcEc1elVpNHIyNWNROUJ0bzNwSXR3SXh6a2hjdDVoV255cTlTU2pkaE9acHlBOVZLSWRuQ2QzS3lCaFQ4bW15Vm1zenpDZ3YyRG0tQWpPQVNjWW9ha3N4cEZqRC1CdkdhVFJVV1NQUGs3TWp4a3l0c0JGa0x3RGRRLWEzZmFVVFZMR0xlWVdsSVlLVkRpX09vaWVRRVpZeA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:30:50 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 18:30:50 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1632,42 +1531,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "caste census in india स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना special report",
-      "title": "Caste Census In India | स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना | Special Report",
-      "summary": "Caste Census In India | स्वातंत्र्यानंतर पहिल्यांदाच जाातनिहाय जनगणना | Special Report",
-      "source": "News18 Marathi",
+      "id": "घाटमाथ्यावर पावसाचा जोर वाढणार हवामान विभागाचा रेड यलो अलर्ट जारी या जिल्ह्यांना सतर्कतेचा",
+      "title": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
+      "summary": "घाटमाथ्यावर पावसाचा जोर वाढणार! हवामान विभागाचा रेड/यलो अलर्ट जारी; 'या' जिल्ह्यांना सतर्कतेचा इशारा",
+      "source": "Pune Prime News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzlzRUFUSGNFaFc3N2JFM3JYeE5WaWk3bVRlNDVjTWxXcXRIaDFGLVZHMGEtQk9IcFZrRG5SWExXeTRyQnV2ZW9HSE1Lb3NLM3BzbnJ3bUJTSHktOGdYMDRvcXdCWHlEOW96YkdXY1hwbmR4cXNNMXotc0JyX3ZURm00bkRJNGxJNG1DR1pPaE9vUmZDMzlkeXFR?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 15:13:04 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 15:13:04 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन सबा आझादसोबत ब्रेकअप dating app वर दिसली हॉट प्",
-      "title": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन, सबा आझादसोबत ब्रेकअप? Dating App वर दिसली हॉट प्रोफाइल",
-      "summary": "52 व्या वर्षी पुन्हा सिंगल झाला हृतिक रोशन, सबा आझादसोबत ब्रेकअप? Dating App वर दिसली हॉट प्रोफाइल",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOWppRVlUWnZIaTRZLWhzM2FHc08zZnpEeGhhZWcwRl96ZnlxLWlHNnQtSGtGbEUyZm51WVpJNlhkZmMyUjlVVnE3Rmg0TDgxVmdUVzU4ZXVlNk80MmdJLXpsekhZQ2JQdC10MzZMWF9fWVBhRTVOd1JLV1NRbDBFU185cFkzR3c3a25mNUVMWlh6c2JlTFM5akk1TUg2Wjg3X3VSREN0bkRkY1Y2WVg1OWVmNDRVd3gwNHl4T29OSlJaelEzYXI4NFM1WUVQM3hIVmhCckZiY21BRWNUZklFMmxDN3o5RERtZGtzUQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 15:08:00 GMT",
-      "lastUpdated": "Fri, 14 Aug 2026 15:08:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY1pPdVB0Mk1EZDZUYmhpRzZKZzAyblNGekNJVDBKLW1KRlpPdnRwcEZnS1NQQmdhUTM4Vm5Qdk5WWW5KZXUxOUVFQ3duelg3bWw2ZG5KRk5FX19MRFczZHZfcTg4UTBlejdncFhscG44NlR4ZHRNZHJ0SEQxNFRSZmJIUFpOcW44SXZ1T25aZHVqWFZMLTVMMnNiWVh2SGZ4UjNtdG9kVW9aZTlPRWdoVFBoSkVsSS1uNTNpOFQtWEpTQl8ySXNWYlpNeEFYRWU1Zl9rNFJMSUswV18tM1NfczlBUmwtaC1Ld0pJNFNkdm0wMy1laGVKdTBKWm5ScE4zM1RyVi1OOWtiRm1sOWlKRlVxSnNKVDA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:07:09 GMT",
+      "lastUpdated": "Fri, 14 Aug 2026 16:07:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Pune Prime News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1705,7 +1580,7 @@
       "summary": "Weather Alert : स्वातंत्र्यदिनाच्या दिवशी महाराष्ट्रात मुसळधार पावसाची बॅटिंग, 13 जिल्ह्यांना हवामान खात्याचा यलो अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdHpKM01xVFU5bVFJMEhaWE5CM3hueU5QMHJSejVIbnNHYk1vSjlLU3RwRnJTUl9VajQ3MGtabXBaQ3c4SVFUU0JpV1h2NmdpZ0xfYTlZMl9DcjFjdzJqaDZyc2Zydmp2WnU2eVZpUmdjc3lOUDlWMUZyTmhxb2hnWVNveEQwa01NTTJsSERUbVIzcFBYd3g5Y3JESklVX3pOcklfMFlBZWp0bGtlRUZneEVzTTNaR3ktTkhsSWlUZ2U5TVdUeGh6WlVSUmJSUzAzZkdPWEY3Y3Z1R0ZST3p2X2stenFzN01RX2wtX1ZqbnVYWjJH?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzBveU41aEhycUEzQWhaVGlIV29SeFBJZ05OQ2t3WUxjdnNPSzJURnlHemdwUTFWdzN2U05fMnJUVTd6X1A1M2d2MWNsMGFxTHN3QTA1enVmOVVnb1NXd1FSWFNDZ1RpRzlsaWlVa2pLTkozSTFoQktFc2h3MmwweXpMUEN6bWFlek9qaTRjM0ZKLXdhSWVPdFRMZGVVMlpXcWpad0NCcDJXckhueDVkWGdTbGdob3R2OFY2Q1dtdC1BV2xGNlRHOUtOZVk5TXVzaEE1Q1lNQW1KcG81YjBIZXJIVExKUUE1Y3g4bFlfSzBsOXNK?oc=5",
       "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 13:43:00 GMT",
       "areas": [],
@@ -1749,7 +1624,7 @@
       "summary": "‘Unprecedented’ Rains Kill 8 In Japan",
       "source": "English Bombay Samachar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGVEeXgyNC1KdXVZNFdYek5ITnRRcTdmeVdRczFlQkRYZnhGd3VRaW1IXzZWeDZJaUd0Y2dsQURwQTBSdC1YUkFCOVdrMzlHa2VvWUI0QzNQd0hlZjVJM3RHdnJrT0IwUEJLa2I1ajVxcUktRDBTY25VMUItbHBqVU1RMUQ4STFGNmIyQnJHNUxOeUtLNFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW1lS0piQmhaTHk5QTV2OHZ0dF8wSTl3bE5jUm16SkhjVTBDaDJkVldZN28yR2tfRUdVX3dPZ3NCN1JzM0drcFlJemY5b3pDM2hvQ3pDdzduTDlyd0E4YkdDN2c3SVBEUVVyMVhTLUdQcE85UHpSYzE2MUVIbGxra1lKeTJFdGNnTmwyYUNB?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:34:19 GMT",
       "lastUpdated": "Fri, 14 Aug 2026 12:34:19 GMT",
       "areas": [],
@@ -2169,9 +2044,9 @@
     }
   ],
   "summary": {
-    "total": 51,
-    "alerts": 10,
-    "news": 41
+    "total": 48,
+    "alerts": 9,
+    "news": 39
   },
-  "cleanedAt": "2026-08-15T03:10:56.093Z"
+  "cleanedAt": "2026-08-15T04:01:54.062Z"
 }
