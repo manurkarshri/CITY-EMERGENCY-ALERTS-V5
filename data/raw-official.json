@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:49:06.556Z",
+  "generatedAt": "2026-08-16T10:15:26.909Z",
   "items": [
     {
       "id": "imd district wise warnings",
@@ -14,6 +14,28 @@
       "region": "pune",
       "sources": [
         "India Meteorological Department"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "imd mausam",
+      "title": "IMD Mausam",
+      "summary": "IMD Mausam",
+      "source": "India Meteorological Department - India Meteorological Department",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaXdRdWNpSmZHbTZXU09ZM2hPTFRacGFEQU1GSmNseXhvR25icklySUJxRk01dlBJQk9LSjh6UklmMFl5TWNIWEkxR0NDYTg?oc=5",
+      "pubDate": "Wed, 25 Feb 2026 06:58:55 GMT",
+      "lastUpdated": "Wed, 25 Feb 2026 06:58:55 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Meteorological Department - India Meteorological Department"
       ],
       "confidence": "High",
       "severity": "advisory",
