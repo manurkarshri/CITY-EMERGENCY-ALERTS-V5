@@ -1,100 +1,100 @@
 {
-  "generatedAt": "2026-08-20T05:54:07.103Z",
+  "generatedAt": "2026-08-20T06:33:13.589Z",
   "source": "Open-Meteo",
   "regions": {
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
+    "alandi": {
+      "label": "Alandi Area",
       "error": true,
-      "message": "Open-Meteo failed for chakan: HTTP 429",
-      "updatedAt": "2026-08-20T05:54:07.040Z"
+      "message": "Open-Meteo failed for alandi: HTTP 429",
+      "updatedAt": "2026-08-20T06:33:13.549Z"
     },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
       "error": true,
-      "message": "Open-Meteo failed for talegaon: HTTP 429",
-      "updatedAt": "2026-08-20T05:54:07.044Z"
+      "message": "Open-Meteo failed for khed: HTTP 429",
+      "updatedAt": "2026-08-20T06:33:13.550Z"
     },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
+    "saswad": {
+      "label": "Saswad Region",
       "error": true,
-      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
-      "updatedAt": "2026-08-20T05:54:07.046Z"
+      "message": "Open-Meteo failed for saswad: HTTP 429",
+      "updatedAt": "2026-08-20T06:33:13.552Z"
     },
     "fursungi": {
       "label": "Fursungi / Uruli",
       "error": true,
       "message": "Open-Meteo failed for fursungi: HTTP 429",
-      "updatedAt": "2026-08-20T05:54:07.048Z"
+      "updatedAt": "2026-08-20T06:33:13.553Z"
     },
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 26.9,
-      "humidity": 72,
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "temp": 25.5,
+      "humidity": 81,
       "rain": 0.1,
-      "wind": 17.7,
-      "gust": 40.7,
+      "wind": 22.1,
+      "gust": 44.6,
       "code": 51,
-      "rainChance": 51,
-      "visibility": 17,
-      "next6hRainMm": 1.4,
+      "rainChance": 60,
+      "visibility": 6,
+      "next6hRainMm": 2.4,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-20T05:54:07.060Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "temp": 26,
-      "humidity": 70,
-      "rain": 0,
-      "wind": 20.9,
-      "gust": 43.6,
-      "code": 3,
-      "rainChance": 49,
-      "visibility": 14,
-      "next6hRainMm": 1.1,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-08-20T05:54:07.065Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "temp": 25.9,
-      "humidity": 72,
-      "rain": 0,
-      "wind": 20.9,
-      "gust": 40.3,
-      "code": 2,
-      "rainChance": 100,
-      "visibility": 10,
-      "next6hRainMm": 1.1,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-08-20T05:54:07.066Z"
+      "updatedAt": "2026-08-20T06:33:13.565Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 26.8,
-      "humidity": 72,
+      "temp": 27.5,
+      "humidity": 67,
       "rain": 0,
-      "wind": 17.3,
-      "gust": 41,
+      "wind": 18.5,
+      "gust": 43.2,
       "code": 1,
-      "rainChance": 29,
-      "visibility": 24,
-      "next6hRainMm": 1.4,
+      "rainChance": 45,
+      "visibility": 8,
+      "next6hRainMm": 1.5,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-20T05:54:07.071Z"
+      "updatedAt": "2026-08-20T06:33:13.567Z"
     },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 27.4,
-      "humidity": 70,
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "temp": 27.2,
+      "humidity": 71,
       "rain": 0.1,
-      "wind": 20.5,
-      "gust": 38.2,
+      "wind": 23.8,
+      "gust": 45,
       "code": 51,
-      "rainChance": 49,
-      "visibility": 11,
+      "rainChance": 60,
+      "visibility": 5,
+      "next6hRainMm": 1.7,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-20T06:33:13.568Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "temp": 28.4,
+      "humidity": 64,
+      "rain": 0,
+      "wind": 24.1,
+      "gust": 45,
+      "code": 1,
+      "rainChance": 26,
+      "visibility": 9,
+      "next6hRainMm": 0.3,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-08-20T06:33:13.572Z"
+    },
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
+      "temp": 27.3,
+      "humidity": 71,
+      "rain": 0,
+      "wind": 19.6,
+      "gust": 44.6,
+      "code": 1,
+      "rainChance": 60,
+      "visibility": 8,
       "next6hRainMm": 1.3,
       "source": "Open-Meteo",
-      "updatedAt": "2026-08-20T05:54:07.103Z"
+      "updatedAt": "2026-08-20T06:33:13.589Z"
     }
   }
 }
