@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:58:38.947Z",
+  "generatedAt": "2026-08-20T10:33:07.833Z",
   "status": "ok",
   "alerts": [
     {
@@ -240,37 +240,71 @@
       "correlation": [
         "Road delay or diversion possible."
       ]
-    },
-    {
-      "id": "navale bridge crash 5 6 vehicles collide rickshaw driver seriously injured",
-      "title": "Pune Navale Bridge Crash: 5–6 Vehicles Collide, Rickshaw Driver Seriously Injured",
-      "summary": "Pune Navale Bridge Crash: 5–6 Vehicles Collide, Rickshaw Driver Seriously Injured",
-      "source": "PUNE PULSE",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFBRTmI5T2k2djBlbDBQaVlHNlFvRmE3Wl9ZZkg3UzRlZEZJRHA2VXY2TE5RbkEyOHRScXBBeG1GNHR2bjZ6V2FTVTJSTHNfX2pzUVNQSC1nTGNvbFdJcGdwSElLVTFZTzI2WjVCUkVacXhGTk9uVXlSVDBuMkhwVFB6UGFGZHMtOHV5d0FraWo0YTBVbXlCWUlicW41dG0wemR3Vk5kQUNIeEh1?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:10:44 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:10:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "PUNE PULSE"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
     }
   ],
   "news": [
+    {
+      "id": "pimpri chinchwad robbery gang cracked company driver allegedly used inside information to ",
+      "title": "Pimpri-Chinchwad Robbery Gang Cracked: Company Driver Allegedly Used Inside Information to Plan money Heist",
+      "summary": "Pimpri-Chinchwad Robbery Gang Cracked: Company Driver Allegedly Used Inside Information to Plan money Heist",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTNQVGNxbGpVQ0tHYlZXRDVkQTdPVWxEeGZXc2JHQ2pxTlBGX1BuR3g4bnllenlQZnFEbTdaTUx6bHVKLTVFQWttY015bTMxOURyZWJRRFdmRmJqTFFBTl9oVEMzTUpXV25nTTFBZU52SXNMdndNeWo3ZkV6Z0RsRFV2UEJHeUZqMjU2OFpnRUxmSVZNeUVadHdycklYTUFXSUZwcmFPMTNwVG9MOHltb1hLQ1J0UVhFVGc2akwyRndxT1VDVmJn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:08:41 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 10:08:41 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "Pune Mirror"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
+      ],
+      "severity": "watch",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
+      "critical": false,
+      "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "gadkari highlights 27 year pothole free record of mumbai expressway",
+      "title": "Gadkari highlights 27-year pothole-free record of Mumbai-Pune Expressway",
+      "summary": "Gadkari highlights 27-year pothole-free record of Mumbai-Pune Expressway",
+      "source": "Prop News Time",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0ZyT0lhT0g0aVQtT3pXMmc5ZU5xSVg1MmRZdW9PZm9mdGRWWkZqSW9qSmQzdnRQZWh1QlFRamt0N0NYVUQzWnRtcTlDVkgwTElLU1RPcE13Y2cwbkZzS3puQWx2M25tNTc3MDd0TERxeGV4b1R0ZlMyRHNqUExGRGtWeEdBdWdobm0xdENYVTVMNjNwQmNuLUF5UFNoQU9OUzFsTWlJem92U2dyVHFHa0hTd2VSLWxGeV9BYXFiak05UQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:02:09 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 10:02:09 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway"
+      ],
+      "region": "pune",
+      "sources": [
+        "Prop News Time"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
     {
       "id": "heavy rain triggers waterlogging traffic chaos in south delhi airport road",
       "title": "Heavy Rain Triggers Waterlogging, Traffic Chaos in South Delhi, Airport Road",
@@ -617,7 +651,7 @@
       "summary": "पुणे : विमाननगरमधील नेगो गार्डनजवळ वाहनाला आग पुणे : विमाननगर परिसरातील नेगो गार्डनजवळ बुधवारी सायंकाळी एका वाहनाला अचानक आग लागल्याची घटना घडली. या घटनेमुळे परिसरातील वाहनचालक आ",
       "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYkZjek51d1BHaTV6Ni11SGJRM0JqODZTU042eTFDYU1tazV2bFdjYVR5QUJMOXFEWUUwQnNSeWdmdTVSX1JXTGExRHdlUHVST3VPSVB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KRldLbERFTU41dldwcjZ6N2JwSnBmS2JqcGpObjkxVXZsTm1wV3NkaGg4NTZBQmFCUzlraEc3MkhxS0VudEN4SVJ6dHBReTdjSXc?oc=5",
       "pubDate": "Thu, 20 Aug 2026 05:58:38 GMT",
       "lastUpdated": "Thu, 20 Aug 2026 05:58:38 GMT",
       "areas": [],
@@ -777,9 +811,9 @@
       "summary": "Rain Alert : महाराष्ट्रात विजांसह वादळी पाऊस ; ४ जिल्ह्यांना येलो अलर्ट, वाचा हवामानाचा अंदाज",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPY2U5eTdCQU1oMTY3ZHJfTHA4eTlyQnBvWlBrVnZJOWxzRjlhVndBVWgtTXc1R1FKSEh4M1M3bVhHVENINTNmWUptdS1Ea2lrbXFwUThoc2h2MXRBemhDMXpjdkNEc1N1TjVhRW93dHRhMWZzVXhySzBLTktlM2YwcGF3ZHNKOGZMcXNrSXJEZG1oWmI0NWoyZ2NMdkp2VzFWRVR3RkJRNzNZYTFLaWNHMlVBUjhZbldSN0s3ZkUxRm1CV0FLMVJxcTJJVC0zSGx3TXQ3MkoyS3o2NUJmM1dhdGtaazM5NkttdDU5MEFaalJhZXRwOXROYU9VTXV6bFVUbmwtWllTYjAtTC01RmwwcjBiT1NsZUJCSDBuYTdWR2FIUdIBrwJBVV95cUxNdWdlcXZOazlqa3JIeDJVbW9ITERYbWdjaFl2NEJaR0NjdkRnUUZmYmlYUm1CQy11dzM2TGtQOU5WWndvUFhlX29CUEZ2b3dZZE1pbTdjcnVIVWI4a2VDUmRjcXYzVGZkeTgwdkZiVmNTaEFZN1JHTnA5NkRMV0Q5YUNiMFhMVEJxS1N6MnFrNmZFal9XQVFVeDFCa3k2TnY4d0RLVy1Pb18yelU2cmxQMzNhYXZ5REpWRjZrRWJDM2gzTGFSOGd3b2JzOUhLa1BmWGduN0FMVzlCajU0N1c2VllNMGF2ZlZiX2hTWmF6b1VTM1BRSTVlY0p3WmZkUzBHZ1N2MDlydGFqQWM4YXI0ckJGcmVjcWV4UXZYQTBiTDJMWXljMlFTbFBaZGV3WlU?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 02:34:20 GMT",
-      "lastUpdated": "Thu, 20 Aug 2026 02:34:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdWdlcXZOazlqa3JIeDJVbW9ITERYbWdjaFl2NEJaR0NjdkRnUUZmYmlYUm1CQy11dzM2TGtQOU5WWndvUFhlX29CUEZ2b3dZZE1pbTdjcnVIVWI4a2VDUmRjcXYzVGZkeTgwdkZiVmNTaEFZN1JHTnA5NkRMV0Q5YUNiMFhMVEJxS1N6MnFrNmZFal9XQVFVeDFCa3k2TnY4d0RLVy1Pb18yelU2cmxQMzNhYXZ5REpWRjZrRWJDM2gzTGFSOGd3b2JzOUhLa1BmWGduN0FMVzlCajU0N1c2VllNMGF2ZlZiX2hTWmF6b1VTM1BRSTVlY0p3WmZkUzBHZ1N2MDlydGFqQWM4YXI0ckJGcmVjcWV4UXZYQTBiTDJMWXljMlFTbFBaZGV3WlXSAa8CQVVfeXFMTXVnZXF2Tms5amtySHgyVW1vSExEWG1nY2hZdjRCWkdDY3ZEZ1FGZmJpWFJtQkMtdXczNkxrUDlOVlp3b1BYZV9vQlBGdm93WWRNaW03Y3J1SFViOGtlQ1JkY3F2M1RmZHk4MHZGYlZjU2hBWTdSR05wOTZETFdEOWFDYjBYTFRCcUtTejJxazZmRWpfV0FRVXgxQmt5Nk52OHdES1ctT29fMnpVNnJsUDMzYWF2eURKVkY2a0ViQzNoM0xhUjhnd29iczlIS2tQZlhnbjdBTFc5Qmo1NDdXNlZZTTBhdmZWYl9oU1phem9VUzNQUUk1ZWNKd1pmZFMwR2dTdjA5cnRhakFjOGFyNHJCRnJlY3FleFF2WEEwYkwyTFl5YzJRU2xQWmRld1pV?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:39:23 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 02:39:23 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -795,6 +829,28 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "अख्खं कॅफे धुतलं अन् पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला कॅफे मालकाचं कांडही ",
+      "title": "अख्खं कॅफे धुतलं अन्...पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला; कॅफे मालकाचं कांडही समोर, अटक",
+      "summary": "अख्खं कॅफे धुतलं अन्...पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला; कॅफे मालकाचं कांडही समोर, अटक",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnVyWk1DbjF3aFduRnN3akhyOWNGRXdRWTVjX0JWb3JPdWN4T1gzSVJ1dU43NWFBV3pqLVFremVBOUFENDFWT09SU01fTXFKZnBSb2h6WGpUZlU4SkpmbkNRa0F4S2tNQmc4X001RDRmWEdqNkJpTG9hdmZhempqRE9Ebi13SkhaSlZHTmd3X3RJZ1NudmlxYmc5cFUyU0RFS3RMc1VaVUdUVWVoNUlfUWptdlo1TVhkcGFGMDJUMzl6cDVw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:36:00 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 02:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "weather alert महाराष्ट्रातील हवामानात पुन्हा उलटफेर 24 तास पावसाचे imd च्या अलर्टनं टेन्शन",
@@ -1180,6 +1236,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "rain राज्यातील या भागात पावसाचा जोर ओसरणार हवामान विभागाचा अंदाज काय",
+      "title": "Rain Update : राज्यातील ‘या’ भागात पावसाचा जोर ओसरणार; हवामान विभागाचा अंदाज काय?",
+      "summary": "Rain Update : राज्यातील ‘या’ भागात पावसाचा जोर ओसरणार; हवामान विभागाचा अंदाज काय?",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWVya3VHSmZHeW85cW01SnFFTnItTktIQ1dWMnk5VVh1Wm4wc2dpbUpHZ2xQbWJQMTItMjZJTmxGM3M3STl2aHIxUVlDSVdMOUNBNTY0bUVGTWt2d0YwVWdfVVQxWXN6SmV4aUpGRFpTd3ZjMThJdHJxY2xacVNnSlR2cDRMbzQza0JZ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:27:00 GMT",
+      "lastUpdated": "Wed, 19 Aug 2026 13:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "weather tomorrow august 20 imd predicts rain thunderstorms and heavy showers across severa",
       "title": "Weather Tomorrow August 20: IMD predicts rain, thunderstorms and heavy showers across several states; chec",
       "summary": "Weather Tomorrow August 20: IMD predicts rain, thunderstorms and heavy showers across several states; chec",
@@ -1428,52 +1509,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार मुंबई पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "title": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार; मुंबई-पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "summary": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार; मुंबई-पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "source": "- Mumbai Tak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOWEzQU9BVFh5di1kYklvS0NYMkY5UDdQMUxEcjEyVkQxYWxKTU5SSm1DUmtybjlaX2t2LVhsVG5EZFVaZjlrUWtBQ3dPbjlXclVrSTExMWZpRnI2bUpPNll4V2dacHVyRVVMZXFnaEN0STQyY3FMRmtpOHBOeElPcnNMSVM3QjRTWmJKV3VUOXdqdXlzZGxMMTJYRTlQaFl4RGFCWDdUekhBSV80OWRFUHBubm1VY0NoY1hfN05ibEJNTkwzTmlOWG56dkZQQWtnb2Q3ZXF0R2RsRWE4M0Znbm1UWjZ6ZS1zd2c?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:23:18 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:23:18 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "- Mumbai Tak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "chakan midc चाकण एमआयडीसी आहे की यमनगरी २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी ७ महिन्यां",
-      "title": "Chakan MIDC: चाकण एमआयडीसी आहे की, यमनगरी? २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी, ७ महिन्यांत खड्ड्यांमुळ...",
-      "summary": "Chakan MIDC: चाकण एमआयडीसी आहे की, यमनगरी? २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी, ७ महिन्यांत खड्ड्यांमुळ...",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNzlDcndZZm5BUzRwUGRYeEdOM2hyWVRQY1YzNUN0aVpEQWxTOFpVYmRMZXdlbkh5WWZ5VHRVWUZTRnZyMHllWUJvQzIyS2FNQ2x0MWxYLUl1ZGFrbEpjZld1ZGd1TlFuUTczM256ZlJTWDdjdWh1M05kdnAxNmc4VERubkQyM2M4aXJWQzQ3WVBESUVpRWRLSjhiVU5Ud1Bwamd2b2g5bnpVVzE2VjVRMTVqT3hYNTNwcW94ZE1oN1lObXEzNHN2NEVqc0xybm1XNkg1QkdIS0M2Q0lTZmJwLUxJUE1jbHdTaFFB0gHwAUFVX3lxTFBPTldoT0puZkpLNjRqWExIODBXRkRDSmh2Qm1kWTBNMDIyVFd2b0k4bG5MVno3SFgyQ3BvMm5xTjJFaElDdE81YjFEam5hbWpqd08ycFlYMHpDWHJFYjVCZEJIcUVOY1M2MS1yX0h3djQyZHphWVJJTEtWUGRkdVNRYXFjd2xvckhCREVlMGFUTzFYY3AtZE1xa0hVZ0NoU1JEOFZDSzBYMGh6b2Z5blNqdjVKOVAzRmU0aU1JR2FxZFVXUmhraFhVSHFENVc3Y0ZXaHFRRmxhZ29OMjVtS1pwajY4WnNUMzUxampkbzBENw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:07:00 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:07:00 GMT",
-      "areas": [
-        "Chakan"
-      ],
-      "region": "chakan",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1704,32 +1739,66 @@
       "action": "Use alternate route and follow police diversion."
     },
     {
-      "id": "navale bridge crash 5 6 vehicles collide rickshaw driver seriously injured",
-      "title": "Pune Navale Bridge Crash: 5–6 Vehicles Collide, Rickshaw Driver Seriously Injured",
-      "summary": "Pune Navale Bridge Crash: 5–6 Vehicles Collide, Rickshaw Driver Seriously Injured",
-      "source": "PUNE PULSE",
+      "id": "pimpri chinchwad robbery gang cracked company driver allegedly used inside information to ",
+      "title": "Pimpri-Chinchwad Robbery Gang Cracked: Company Driver Allegedly Used Inside Information to Plan money Heist",
+      "summary": "Pimpri-Chinchwad Robbery Gang Cracked: Company Driver Allegedly Used Inside Information to Plan money Heist",
+      "source": "Pune Mirror",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFBRTmI5T2k2djBlbDBQaVlHNlFvRmE3Wl9ZZkg3UzRlZEZJRHA2VXY2TE5RbkEyOHRScXBBeG1GNHR2bjZ6V2FTVTJSTHNfX2pzUVNQSC1nTGNvbFdJcGdwSElLVTFZTzI2WjVCUkVacXhGTk9uVXlSVDBuMkhwVFB6UGFGZHMtOHV5d0FraWo0YTBVbXlCWUlicW41dG0wemR3Vk5kQUNIeEh1?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:10:44 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:10:44 GMT",
-      "areas": [],
-      "region": "pune",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTNQVGNxbGpVQ0tHYlZXRDVkQTdPVWxEeGZXc2JHQ2pxTlBGX1BuR3g4bnllenlQZnFEbTdaTUx6bHVKLTVFQWttY015bTMxOURyZWJRRFdmRmJqTFFBTl9oVEMzTUpXV25nTTFBZU52SXNMdndNeWo3ZkV6Z0RsRFV2UEJHeUZqMjU2OFpnRUxmSVZNeUVadHdycklYTUFXSUZwcmFPMTNwVG9MOHltb1hLQ1J0UVhFVGc2akwyRndxT1VDVmJn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:08:41 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 10:08:41 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
       "sources": [
-        "PUNE PULSE"
+        "Pune Mirror"
       ],
       "confidence": "Single source",
       "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
       ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
+      "severity": "watch",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
       "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
+      "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "gadkari highlights 27 year pothole free record of mumbai expressway",
+      "title": "Gadkari highlights 27-year pothole-free record of Mumbai-Pune Expressway",
+      "summary": "Gadkari highlights 27-year pothole-free record of Mumbai-Pune Expressway",
+      "source": "Prop News Time",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0ZyT0lhT0g0aVQtT3pXMmc5ZU5xSVg1MmRZdW9PZm9mdGRWWkZqSW9qSmQzdnRQZWh1QlFRamt0N0NYVUQzWnRtcTlDVkgwTElLU1RPcE13Y2cwbkZzS3puQWx2M25tNTc3MDd0TERxeGV4b1R0ZlMyRHNqUExGRGtWeEdBdWdobm0xdENYVTVMNjNwQmNuLUF5UFNoQU9OUzFsTWlJem92U2dyVHFHa0hTd2VSLWxGeV9BYXFiak05UQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:02:09 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 10:02:09 GMT",
+      "areas": [
+        "Mumbai-Pune Expressway"
+      ],
+      "region": "pune",
+      "sources": [
+        "Prop News Time"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
     },
     {
       "id": "heavy rain triggers waterlogging traffic chaos in south delhi airport road",
@@ -2070,7 +2139,7 @@
       "summary": "पुणे : विमाननगरमधील नेगो गार्डनजवळ वाहनाला आग पुणे : विमाननगर परिसरातील नेगो गार्डनजवळ बुधवारी सायंकाळी एका वाहनाला अचानक आग लागल्याची घटना घडली. या घटनेमुळे परिसरातील वाहनचालक आ",
       "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYkZjek51d1BHaTV6Ni11SGJRM0JqODZTU042eTFDYU1tazV2bFdjYVR5QUJMOXFEWUUwQnNSeWdmdTVSX1JXTGExRHdlUHVST3VPSVB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KRldLbERFTU41dldwcjZ6N2JwSnBmS2JqcGpObjkxVXZsTm1wV3NkaGg4NTZBQmFCUzlraEc3MkhxS0VudEN4SVJ6dHBReTdjSXc?oc=5",
       "pubDate": "Thu, 20 Aug 2026 05:58:38 GMT",
       "lastUpdated": "Thu, 20 Aug 2026 05:58:38 GMT",
       "areas": [],
@@ -2224,13 +2293,35 @@
       "summary": "Rain Alert : महाराष्ट्रात विजांसह वादळी पाऊस ; ४ जिल्ह्यांना येलो अलर्ट, वाचा हवामानाचा अंदाज",
       "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPY2U5eTdCQU1oMTY3ZHJfTHA4eTlyQnBvWlBrVnZJOWxzRjlhVndBVWgtTXc1R1FKSEh4M1M3bVhHVENINTNmWUptdS1Ea2lrbXFwUThoc2h2MXRBemhDMXpjdkNEc1N1TjVhRW93dHRhMWZzVXhySzBLTktlM2YwcGF3ZHNKOGZMcXNrSXJEZG1oWmI0NWoyZ2NMdkp2VzFWRVR3RkJRNzNZYTFLaWNHMlVBUjhZbldSN0s3ZkUxRm1CV0FLMVJxcTJJVC0zSGx3TXQ3MkoyS3o2NUJmM1dhdGtaazM5NkttdDU5MEFaalJhZXRwOXROYU9VTXV6bFVUbmwtWllTYjAtTC01RmwwcjBiT1NsZUJCSDBuYTdWR2FIUdIBrwJBVV95cUxNdWdlcXZOazlqa3JIeDJVbW9ITERYbWdjaFl2NEJaR0NjdkRnUUZmYmlYUm1CQy11dzM2TGtQOU5WWndvUFhlX29CUEZ2b3dZZE1pbTdjcnVIVWI4a2VDUmRjcXYzVGZkeTgwdkZiVmNTaEFZN1JHTnA5NkRMV0Q5YUNiMFhMVEJxS1N6MnFrNmZFal9XQVFVeDFCa3k2TnY4d0RLVy1Pb18yelU2cmxQMzNhYXZ5REpWRjZrRWJDM2gzTGFSOGd3b2JzOUhLa1BmWGduN0FMVzlCajU0N1c2VllNMGF2ZlZiX2hTWmF6b1VTM1BRSTVlY0p3WmZkUzBHZ1N2MDlydGFqQWM4YXI0ckJGcmVjcWV4UXZYQTBiTDJMWXljMlFTbFBaZGV3WlU?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 02:34:20 GMT",
-      "lastUpdated": "Thu, 20 Aug 2026 02:34:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdWdlcXZOazlqa3JIeDJVbW9ITERYbWdjaFl2NEJaR0NjdkRnUUZmYmlYUm1CQy11dzM2TGtQOU5WWndvUFhlX29CUEZ2b3dZZE1pbTdjcnVIVWI4a2VDUmRjcXYzVGZkeTgwdkZiVmNTaEFZN1JHTnA5NkRMV0Q5YUNiMFhMVEJxS1N6MnFrNmZFal9XQVFVeDFCa3k2TnY4d0RLVy1Pb18yelU2cmxQMzNhYXZ5REpWRjZrRWJDM2gzTGFSOGd3b2JzOUhLa1BmWGduN0FMVzlCajU0N1c2VllNMGF2ZlZiX2hTWmF6b1VTM1BRSTVlY0p3WmZkUzBHZ1N2MDlydGFqQWM4YXI0ckJGcmVjcWV4UXZYQTBiTDJMWXljMlFTbFBaZGV3WlXSAa8CQVVfeXFMTXVnZXF2Tms5amtySHgyVW1vSExEWG1nY2hZdjRCWkdDY3ZEZ1FGZmJpWFJtQkMtdXczNkxrUDlOVlp3b1BYZV9vQlBGdm93WWRNaW03Y3J1SFViOGtlQ1JkY3F2M1RmZHk4MHZGYlZjU2hBWTdSR05wOTZETFdEOWFDYjBYTFRCcUtTejJxazZmRWpfV0FRVXgxQmt5Nk52OHdES1ctT29fMnpVNnJsUDMzYWF2eURKVkY2a0ViQzNoM0xhUjhnd29iczlIS2tQZlhnbjdBTFc5Qmo1NDdXNlZZTTBhdmZWYl9oU1phem9VUzNQUUk1ZWNKd1pmZFMwR2dTdjA5cnRhakFjOGFyNHJCRnJlY3FleFF2WEEwYkwyTFl5YzJRU2xQWmRld1pV?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:39:23 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 02:39:23 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "अख्खं कॅफे धुतलं अन् पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला कॅफे मालकाचं कांडही ",
+      "title": "अख्खं कॅफे धुतलं अन्...पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला; कॅफे मालकाचं कांडही समोर, अटक",
+      "summary": "अख्खं कॅफे धुतलं अन्...पुण्यात रिलस्टार तरुणीचा तरुणावर कोयत्यानं हल्ला; कॅफे मालकाचं कांडही समोर, अटक",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnVyWk1DbjF3aFduRnN3akhyOWNGRXdRWTVjX0JWb3JPdWN4T1gzSVJ1dU43NWFBV3pqLVFremVBOUFENDFWT09SU01fTXFKZnBSb2h6WGpUZlU4SkpmbkNRa0F4S2tNQmc4X001RDRmWEdqNkJpTG9hdmZhempqRE9Ebi13SkhaSlZHTmd3X3RJZ1NudmlxYmc5cFUyU0RFS3RMc1VaVUdUVWVoNUlfUWptdlo1TVhkcGFGMDJUMzl6cDVw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:36:00 GMT",
+      "lastUpdated": "Thu, 20 Aug 2026 02:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2617,6 +2708,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "rain राज्यातील या भागात पावसाचा जोर ओसरणार हवामान विभागाचा अंदाज काय",
+      "title": "Rain Update : राज्यातील ‘या’ भागात पावसाचा जोर ओसरणार; हवामान विभागाचा अंदाज काय?",
+      "summary": "Rain Update : राज्यातील ‘या’ भागात पावसाचा जोर ओसरणार; हवामान विभागाचा अंदाज काय?",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWVya3VHSmZHeW85cW01SnFFTnItTktIQ1dWMnk5VVh1Wm4wc2dpbUpHZ2xQbWJQMTItMjZJTmxGM3M3STl2aHIxUVlDSVdMOUNBNTY0bUVGTWt2d0YwVWdfVVQxWXN6SmV4aUpGRFpTd3ZjMThJdHJxY2xacVNnSlR2cDRMbzQza0JZ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:27:00 GMT",
+      "lastUpdated": "Wed, 19 Aug 2026 13:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "weather tomorrow august 20 imd predicts rain thunderstorms and heavy showers across severa",
       "title": "Weather Tomorrow August 20: IMD predicts rain, thunderstorms and heavy showers across several states; chec",
       "summary": "Weather Tomorrow August 20: IMD predicts rain, thunderstorms and heavy showers across several states; chec",
@@ -2859,58 +2972,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार मुंबई पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "title": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार; मुंबई-पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "summary": "महाराष्ट्रात मान्सून पुन्हा सक्रिय होणार; मुंबई-पुण्यासह या जिल्ह्यांना अलर्ट जारी",
-      "source": "- Mumbai Tak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOWEzQU9BVFh5di1kYklvS0NYMkY5UDdQMUxEcjEyVkQxYWxKTU5SSm1DUmtybjlaX2t2LVhsVG5EZFVaZjlrUWtBQ3dPbjlXclVrSTExMWZpRnI2bUpPNll4V2dacHVyRVVMZXFnaEN0STQyY3FMRmtpOHBOeElPcnNMSVM3QjRTWmJKV3VUOXdqdXlzZGxMMTJYRTlQaFl4RGFCWDdUekhBSV80OWRFUHBubm1VY0NoY1hfN05ibEJNTkwzTmlOWG56dkZQQWtnb2Q3ZXF0R2RsRWE4M0Znbm1UWjZ6ZS1zd2c?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:23:18 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:23:18 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "- Mumbai Tak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "chakan midc चाकण एमआयडीसी आहे की यमनगरी २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी ७ महिन्यां",
-      "title": "Chakan MIDC: चाकण एमआयडीसी आहे की, यमनगरी? २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी, ७ महिन्यांत खड्ड्यांमुळ...",
-      "summary": "Chakan MIDC: चाकण एमआयडीसी आहे की, यमनगरी? २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी, ७ महिन्यांत खड्ड्यांमुळ...",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNzlDcndZZm5BUzRwUGRYeEdOM2hyWVRQY1YzNUN0aVpEQWxTOFpVYmRMZXdlbkh5WWZ5VHRVWUZTRnZyMHllWUJvQzIyS2FNQ2x0MWxYLUl1ZGFrbEpjZld1ZGd1TlFuUTczM256ZlJTWDdjdWh1M05kdnAxNmc4VERubkQyM2M4aXJWQzQ3WVBESUVpRWRLSjhiVU5Ud1Bwamd2b2g5bnpVVzE2VjVRMTVqT3hYNTNwcW94ZE1oN1lObXEzNHN2NEVqc0xybm1XNkg1QkdIS0M2Q0lTZmJwLUxJUE1jbHdTaFFB0gHwAUFVX3lxTFBPTldoT0puZkpLNjRqWExIODBXRkRDSmh2Qm1kWTBNMDIyVFd2b0k4bG5MVno3SFgyQ3BvMm5xTjJFaElDdE81YjFEam5hbWpqd08ycFlYMHpDWHJFYjVCZEJIcUVOY1M2MS1yX0h3djQyZHphWVJJTEtWUGRkdVNRYXFjd2xvckhCREVlMGFUTzFYY3AtZE1xa0hVZ0NoU1JEOFZDSzBYMGh6b2Z5blNqdjVKOVAzRmU0aU1JR2FxZFVXUmhraFhVSHFENVc3Y0ZXaHFRRmxhZ29OMjVtS1pwajY4WnNUMzUxampkbzBENw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 10:07:00 GMT",
-      "lastUpdated": "Wed, 19 Aug 2026 10:07:00 GMT",
-      "areas": [
-        "Chakan"
-      ],
-      "region": "chakan",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 75,
-    "alerts": 23,
-    "news": 52
+    "total": 76,
+    "alerts": 22,
+    "news": 54
   },
-  "cleanedAt": "2026-08-20T09:58:38.960Z"
+  "cleanedAt": "2026-08-20T10:33:07.848Z"
 }
