@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T09:49:24.310Z",
+  "generatedAt": "2026-08-22T10:15:21.479Z",
   "status": "ok",
   "alerts": [
     {
@@ -74,6 +74,34 @@
       "region": "pune",
       "sources": [
         "Maharashtra Times"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "nagpur tragic accident तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू रस्त्याचे बांधकाम ",
+      "title": "Nagpur Tragic Accident: तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू; रस्त्याचे बांधकाम सुरू, एकाच मार्गाने वाहतूक",
+      "summary": "Nagpur Tragic Accident: तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू; रस्त्याचे बांधकाम सुरू, एकाच मार्गाने वाहतूक",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGQ3dmZjZWZpNW5yTmdXbFd2bmZaS05kVTFGeDlFOWFLdmViS2lzUGFLeE85bjlaTXZKTjJsQ2phUEFpRmo0QjJrcHlKN19PS3FVZnIyVExkUWZkRGhrTXBuSkhMTlZScVJRdkU0TkhROHcwTFRyQWNVSWRpV3REUjRWS21iMHVWMzZxdzJmUWlXY0pvNjh0M0VPalQzOUM4bTNsSlE1U19oNm1fNVFDTmVXZ2xyV25KekhsWjdvYzhUYUptQmw0TTBLYkZHNy1WNjNsSG5fd9IB1wFBVV95cUxNUGQ3dmZjZWZpNW5yTmdXbFd2bmZaS05kVTFGeDlFOWFLdmViS2lzUGFLeE85bjlaTXZKTjJsQ2phUEFpRmo0QjJrcHlKN19PS3FVZnIyVExkUWZkRGhrTXBuSkhMTlZScVJRdkU0TkhROHcwTFRyQWNVSWRpV3REUjRWS21iMHVWMzZxdzJmUWlXY0pvNjh0M0VPalQzOUM4bTNsSlE1U19oNm1fNVFDTmVXZ2xyV25KekhsWjdvYzhUYUptQmw0TTBLYkZHNy1WNjNsSG5fdw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 07:37:49 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 07:37:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
       ],
       "confidence": "Single source",
       "w": [
@@ -384,7 +412,7 @@
       "id": "maharashtra weather पुढील काही दिवस पावसाचा जोर कायम महाराष्ट्रातील या जिल्ह्यांना अलर्ट",
       "title": "Maharashtra Weather Today : पुढील काही दिवस पावसाचा जोर कायम; महाराष्ट्रातील 'या' जिल्ह्यांना अलर्ट",
       "summary": "Maharashtra Weather Today : पुढील काही दिवस पावसाचा जोर कायम; महाराष्ट्रातील 'या' जिल्ह्यांना अलर्ट",
-      "source": "HindusthanPost",
+      "source": "marathi.hindusthanpost.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWl9pbjY3VEpkTFZQdW16WHNfSFNHdEJKelRNOFFIY3d3NkhzOExMQUc1TWhVMlkzVjBnWm1pTndDSE0xMjl3SndBeUhQaG8wd2NDaVhLc1h2SlhBTXFCT3FjbFYyQXBScW55UnhuZS1qZXltRjh0TFFnVlJyWnFGQ2cyTWs3SWtGNElJZi1iZXdaTzhZbzJvSWwxcjJsMjBrTEZtdC1DOWFxZ3E0S1JsWHJiQXF5LThvWUdMVmZMNVRCRFprRGFB?oc=5",
       "pubDate": "Sat, 22 Aug 2026 06:50:05 GMT",
@@ -392,7 +420,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "HindusthanPost"
+        "marathi.hindusthanpost.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -765,31 +793,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "685 digital bus shelters with cctv panic buttons planned in pimpri chinchwad",
-      "title": "685 Digital Bus Shelters With CCTV, Panic Buttons Planned In Pune, Pimpri-Chinchwad",
-      "summary": "685 Digital Bus Shelters With CCTV, Panic Buttons Planned In Pune, Pimpri-Chinchwad",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelF5dU1hNUFORWhSVEVacnFNckd4VVRza2t6REZ3blZmWVlSUGwtejVKVXpEckpZQ3NEWmNyS3BRYmRJN09xLVM4NHhxWkVaenJpX09ITTZQdlhaT2lObmRQUXhUcnF1QlJCbjc0WWYyT3U1cjBwY0VIQ2gwTFFMZjFrT09XUUlaNVpXblU2NDJlb1JGWlBPQUhLaXZJQ2JCRWFFRl95bDJHc3BOZGFMeFNDYlZxS2lWZlHSAb8BQVVfeXFMT3pMcXVsSmRaVHBSMmc5bGQtRjIxMjlQaklaanYzQzU2SVRRMWJLei1VbzZHUXpwMllqaHk2NVVUQWxqUkxqTmJ4NzFZQlJ6N1lhckhtUVFHbUtRWXNsVkNrdURDZTA2eWpERE1JQTVDM2ktY1FyR2t0VEhJYzJIVnIyN092bFM2NVU3TER5QXI5dWVvQ2FmWFQ2bnZsVGRjUXpqOGYyMjlKNVBweTFIc2YxZ29TOWk2ZzloTGhBUXc?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 10:14:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 10:14:00 GMT",
-      "areas": [
-        "Pimpri",
-        "Chinchwad"
-      ],
-      "region": "pcmc",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -862,6 +865,34 @@
       "region": "pune",
       "sources": [
         "Maharashtra Times"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "accident",
+        "crash",
+        "collision",
+        "pile-up"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Accident",
+      "icon": "🚑",
+      "critical": false,
+      "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "nagpur tragic accident तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू रस्त्याचे बांधकाम ",
+      "title": "Nagpur Tragic Accident: तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू; रस्त्याचे बांधकाम सुरू, एकाच मार्गाने वाहतूक",
+      "summary": "Nagpur Tragic Accident: तरुणीचा इलेक्ट्रिक बसखाली चिरडून दुर्दैवी मृत्यू; रस्त्याचे बांधकाम सुरू, एकाच मार्गाने वाहतूक",
+      "source": "Pudhari News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGQ3dmZjZWZpNW5yTmdXbFd2bmZaS05kVTFGeDlFOWFLdmViS2lzUGFLeE85bjlaTXZKTjJsQ2phUEFpRmo0QjJrcHlKN19PS3FVZnIyVExkUWZkRGhrTXBuSkhMTlZScVJRdkU0TkhROHcwTFRyQWNVSWRpV3REUjRWS21iMHVWMzZxdzJmUWlXY0pvNjh0M0VPalQzOUM4bTNsSlE1U19oNm1fNVFDTmVXZ2xyV25KekhsWjdvYzhUYUptQmw0TTBLYkZHNy1WNjNsSG5fd9IB1wFBVV95cUxNUGQ3dmZjZWZpNW5yTmdXbFd2bmZaS05kVTFGeDlFOWFLdmViS2lzUGFLeE85bjlaTXZKTjJsQ2phUEFpRmo0QjJrcHlKN19PS3FVZnIyVExkUWZkRGhrTXBuSkhMTlZScVJRdkU0TkhROHcwTFRyQWNVSWRpV3REUjRWS21iMHVWMzZxdzJmUWlXY0pvNjh0M0VPalQzOUM4bTNsSlE1U19oNm1fNVFDTmVXZ2xyV25KekhsWjdvYzhUYUptQmw0TTBLYkZHNy1WNjNsSG5fdw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 07:37:49 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 07:37:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari News"
       ],
       "confidence": "Single source",
       "w": [
@@ -1155,7 +1186,7 @@
       "id": "maharashtra weather पुढील काही दिवस पावसाचा जोर कायम महाराष्ट्रातील या जिल्ह्यांना अलर्ट",
       "title": "Maharashtra Weather Today : पुढील काही दिवस पावसाचा जोर कायम; महाराष्ट्रातील 'या' जिल्ह्यांना अलर्ट",
       "summary": "Maharashtra Weather Today : पुढील काही दिवस पावसाचा जोर कायम; महाराष्ट्रातील 'या' जिल्ह्यांना अलर्ट",
-      "source": "HindusthanPost",
+      "source": "marathi.hindusthanpost.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWl9pbjY3VEpkTFZQdW16WHNfSFNHdEJKelRNOFFIY3d3NkhzOExMQUc1TWhVMlkzVjBnWm1pTndDSE0xMjl3SndBeUhQaG8wd2NDaVhLc1h2SlhBTXFCT3FjbFYyQXBScW55UnhuZS1qZXltRjh0TFFnVlJyWnFGQ2cyTWs3SWtGNElJZi1iZXdaTzhZbzJvSWwxcjJsMjBrTEZtdC1DOWFxZ3E0S1JsWHJiQXF5LThvWUdMVmZMNVRCRFprRGFB?oc=5",
       "pubDate": "Sat, 22 Aug 2026 06:50:05 GMT",
@@ -1163,7 +1194,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "HindusthanPost"
+        "marathi.hindusthanpost.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1524,37 +1555,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "685 digital bus shelters with cctv panic buttons planned in pimpri chinchwad",
-      "title": "685 Digital Bus Shelters With CCTV, Panic Buttons Planned In Pune, Pimpri-Chinchwad",
-      "summary": "685 Digital Bus Shelters With CCTV, Panic Buttons Planned In Pune, Pimpri-Chinchwad",
-      "source": "Free Press Journal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelF5dU1hNUFORWhSVEVacnFNckd4VVRza2t6REZ3blZmWVlSUGwtejVKVXpEckpZQ3NEWmNyS3BRYmRJN09xLVM4NHhxWkVaenJpX09ITTZQdlhaT2lObmRQUXhUcnF1QlJCbjc0WWYyT3U1cjBwY0VIQ2gwTFFMZjFrT09XUUlaNVpXblU2NDJlb1JGWlBPQUhLaXZJQ2JCRWFFRl95bDJHc3BOZGFMeFNDYlZxS2lWZlHSAb8BQVVfeXFMT3pMcXVsSmRaVHBSMmc5bGQtRjIxMjlQaklaanYzQzU2SVRRMWJLei1VbzZHUXpwMllqaHk2NVVUQWxqUkxqTmJ4NzFZQlJ6N1lhckhtUVFHbUtRWXNsVkNrdURDZTA2eWpERE1JQTVDM2ktY1FyR2t0VEhJYzJIVnIyN092bFM2NVU3TER5QXI5dWVvQ2FmWFQ2bnZsVGRjUXpqOGYyMjlKNVBweTFIc2YxZ29TOWk2ZzloTGhBUXc?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 10:14:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 10:14:00 GMT",
-      "areas": [
-        "Pimpri",
-        "Chinchwad"
-      ],
-      "region": "pcmc",
-      "sources": [
-        "Free Press Journal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
     "total": 39,
-    "alerts": 13,
-    "news": 26
+    "alerts": 14,
+    "news": 25
   },
-  "cleanedAt": "2026-08-22T09:49:24.349Z"
+  "cleanedAt": "2026-08-22T10:15:21.482Z"
 }
