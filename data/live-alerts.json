@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:15:16.164Z",
+  "generatedAt": "2026-08-22T16:47:23.351Z",
   "status": "ok",
   "alerts": [
     {
@@ -276,40 +276,6 @@
       ]
     },
     {
-      "id": "chakan traffic issue चाकण एमआयडीसीतील कोंडी फोडण्यासाठी एआय आधारित कृती आराखडा",
-      "title": "Chakan Traffic Issue : चाकण एमआयडीसीतील कोंडी फोडण्यासाठी ‘एआय’ आधारित कृती आराखडा!",
-      "summary": "Chakan Traffic Issue : चाकण एमआयडीसीतील कोंडी फोडण्यासाठी ‘एआय’ आधारित कृती आराखडा!",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmdVd05nMHU2eTM0ZmM5QXM0Q3dLdzZEMVNFWDlZVEcybWhqdzdwcm12dHFycXh6c0VUcDJadGtPTklHQldvbjd2SWdfVlpVVmp6SzBDMjFSbWVhVUVabUxrT292NVozb2FzYldkc2huSUR2NE5LNTlPMWF0V3FuX3c4SnZYLXUxbUFJcmJXZlJiS1hCLXd5c3dVbnU?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 16:38:44 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 16:38:44 GMT",
-      "areas": [
-        "Chakan"
-      ],
-      "region": "chakan",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
       "id": "मुंबई पुणे एक्स्प्रेस वेवर भीषण अपघात बसची चार वाहनांना धडक १० जण जखमी",
       "title": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
       "summary": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
@@ -333,6 +299,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "फेव्हर नको फक्त फेअर चान्स हवा पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थे",
+      "title": "फेव्हर नको, फक्त फेअर चान्स हवा; पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थेचे वाभाडे, महागड्या शिक्षणाविरोधात थेट एल्गार",
+      "summary": "फेव्हर नको, फक्त फेअर चान्स हवा; पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थेचे वाभाडे, महागड्या शिक्षणाविरोधात थेट एल्गार",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWGZpbThrcUV6bDY5cTRGdmFkVWZxUmZkNThPc1lVUDNaWHcxZFl6M2czaWFRczNoZDVMdXlBb0pLTTg0TmNyTmIwdVFtYXFGLUk3eTl0RzllNFNnY3F2WUk4eG5jVUJXRjJmdHdyalRjMzhhQXNPX0RnWjl3VWtzRUs0NEtGbzJNSTZrcV9DTXhhN19nMV82YVRUc0YwOE4xWEhNVlkzMnBQc0lfa1dqbHN5UnFDR1gwbzc2R1RMbDB1TjVqNk1haVdjejZmZFZwRFU3ZWtFdnZNOGlnUTdiYlpjYXNKN3ZIS2RmTFRCU1Z3cW1GSzJnXzkxQ1l4d2hxbHRDbl9VTQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 15:35:00 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 15:35:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rahul gandhi ही गोष्ट महाराष्ट्राची मी मराठीच बोलणार राहुल गांधींसमोर gen z वाघिण बेधडक बो",
       "title": "Rahul Gandhi : 'ही गोष्ट महाराष्ट्राची, मी मराठीच बोलणार...', राहुल गांधींसमोर Gen Z वाघिण बेधडक बोलली",
       "summary": "Rahul Gandhi : 'ही गोष्ट महाराष्ट्राची, मी मराठीच बोलणार...', राहुल गांधींसमोर Gen Z वाघिण बेधडक बोलली",
@@ -345,6 +333,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "वीजचोरीविरोधात महावितरणची धडक",
+      "title": "वीजचोरीविरोधात महावितरणची धडक",
+      "summary": "वीजचोरीविरोधात महावितरणची धडक",
+      "source": "Krushival",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iTVBIM0UxZExGajRGdTNDQm15bUVfaU1hYW1xcWM1elM2MkpjdkIyRTdGbHVqem1ycklMVjA1WmV5NTlqa3F6RVFPVTZsaTRrc3A1WTJ5bGhCZThSRWZ2ak4zOUpMS2VlYkhIX1dVUVB0ek5ZYnA0N3FWUU1Sd9IBfkFVX3lxTE9iTVBIM0UxZExGajRGdTNDQm15bUVfaU1hYW1xcWM1elM2MkpjdkIyRTdGbHVqem1ycklMVjA1WmV5NTlqa3F6RVFPVTZsaTRrc3A1WTJ5bGhCZThSRWZ2ak4zOUpMS2VlYkhIX1dVUVB0ek5ZYnA0N3FWUU1Sdw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 14:43:11 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 14:43:11 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Krushival"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -567,28 +577,6 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "shravan 2026 आयुष्यातील अडचणी होतील दूर श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा",
-      "title": "Shravan 2026 : आयुष्यातील अडचणी होतील दूर, श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा, Video",
-      "summary": "Shravan 2026 : आयुष्यातील अडचणी होतील दूर, श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा, Video",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzVUb0Y1X0doVDAzZ3gyd3V5VGdZYkNxMncxcGNWLTRrRlgwQ1FrODJjYk5LQ250YTVIM0lPaXJaTVF6eXotMzhKNGVSS3gwSy1OVG9Nb2ZTNEdOX0RnYTVyODZkWGdVeEZlQ1hRWUtObWFPU3ZaWWVFTlplTFdUQVZXeXJfby16ZlFNVEEyUHhIQ0Facmo0SkhlWUlOTjctajV4aEtLMG1ydnhoN056X2tGUXBwcTRGR0cyOXB4dkhqQVFfU1ZFVHgxTlRVZ19kVDVF?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 09:59:00 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 09:59:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1270,37 +1258,6 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "chakan traffic issue चाकण एमआयडीसीतील कोंडी फोडण्यासाठी एआय आधारित कृती आराखडा",
-      "title": "Chakan Traffic Issue : चाकण एमआयडीसीतील कोंडी फोडण्यासाठी ‘एआय’ आधारित कृती आराखडा!",
-      "summary": "Chakan Traffic Issue : चाकण एमआयडीसीतील कोंडी फोडण्यासाठी ‘एआय’ आधारित कृती आराखडा!",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmdVd05nMHU2eTM0ZmM5QXM0Q3dLdzZEMVNFWDlZVEcybWhqdzdwcm12dHFycXh6c0VUcDJadGtPTklHQldvbjd2SWdfVlpVVmp6SzBDMjFSbWVhVUVabUxrT292NVozb2FzYldkc2huSUR2NE5LNTlPMWF0V3FuX3c4SnZYLXUxbUFJcmJXZlJiS1hCLXd5c3dVbnU?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 16:38:44 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 16:38:44 GMT",
-      "areas": [
-        "Chakan"
-      ],
-      "region": "chakan",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "मुंबई पुणे एक्स्प्रेस वेवर भीषण अपघात बसची चार वाहनांना धडक १० जण जखमी",
       "title": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
       "summary": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
@@ -1324,6 +1281,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "फेव्हर नको फक्त फेअर चान्स हवा पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थे",
+      "title": "फेव्हर नको, फक्त फेअर चान्स हवा; पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थेचे वाभाडे, महागड्या शिक्षणाविरोधात थेट एल्गार",
+      "summary": "फेव्हर नको, फक्त फेअर चान्स हवा; पुण्याच्या प्रज्ञाने राहुल गांधींसमोर काढले शिक्षण व्यवस्थेचे वाभाडे, महागड्या शिक्षणाविरोधात थेट एल्गार",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWGZpbThrcUV6bDY5cTRGdmFkVWZxUmZkNThPc1lVUDNaWHcxZFl6M2czaWFRczNoZDVMdXlBb0pLTTg0TmNyTmIwdVFtYXFGLUk3eTl0RzllNFNnY3F2WUk4eG5jVUJXRjJmdHdyalRjMzhhQXNPX0RnWjl3VWtzRUs0NEtGbzJNSTZrcV9DTXhhN19nMV82YVRUc0YwOE4xWEhNVlkzMnBQc0lfa1dqbHN5UnFDR1gwbzc2R1RMbDB1TjVqNk1haVdjejZmZFZwRFU3ZWtFdnZNOGlnUTdiYlpjYXNKN3ZIS2RmTFRCU1Z3cW1GSzJnXzkxQ1l4d2hxbHRDbl9VTQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 15:35:00 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 15:35:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rahul gandhi ही गोष्ट महाराष्ट्राची मी मराठीच बोलणार राहुल गांधींसमोर gen z वाघिण बेधडक बो",
       "title": "Rahul Gandhi : 'ही गोष्ट महाराष्ट्राची, मी मराठीच बोलणार...', राहुल गांधींसमोर Gen Z वाघिण बेधडक बोलली",
       "summary": "Rahul Gandhi : 'ही गोष्ट महाराष्ट्राची, मी मराठीच बोलणार...', राहुल गांधींसमोर Gen Z वाघिण बेधडक बोलली",
@@ -1336,6 +1315,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "वीजचोरीविरोधात महावितरणची धडक",
+      "title": "वीजचोरीविरोधात महावितरणची धडक",
+      "summary": "वीजचोरीविरोधात महावितरणची धडक",
+      "source": "Krushival",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iTVBIM0UxZExGajRGdTNDQm15bUVfaU1hYW1xcWM1elM2MkpjdkIyRTdGbHVqem1ycklMVjA1WmV5NTlqa3F6RVFPVTZsaTRrc3A1WTJ5bGhCZThSRWZ2ak4zOUpMS2VlYkhIX1dVUVB0ek5ZYnA0N3FWUU1Sd9IBfkFVX3lxTE9iTVBIM0UxZExGajRGdTNDQm15bUVfaU1hYW1xcWM1elM2MkpjdkIyRTdGbHVqem1ycklMVjA1WmV5NTlqa3F6RVFPVTZsaTRrc3A1WTJ5bGhCZThSRWZ2ak4zOUpMS2VlYkhIX1dVUVB0ek5ZYnA0N3FWUU1Sdw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 14:43:11 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 14:43:11 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Krushival"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1558,28 +1559,6 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "shravan 2026 आयुष्यातील अडचणी होतील दूर श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा",
-      "title": "Shravan 2026 : आयुष्यातील अडचणी होतील दूर, श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा, Video",
-      "summary": "Shravan 2026 : आयुष्यातील अडचणी होतील दूर, श्रावणात शिवलीलामृताचं पारायण करतानी ही चूक टाळा, Video",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzVUb0Y1X0doVDAzZ3gyd3V5VGdZYkNxMncxcGNWLTRrRlgwQ1FrODJjYk5LQ250YTVIM0lPaXJaTVF6eXotMzhKNGVSS3gwSy1OVG9Nb2ZTNEdOX0RnYTVyODZkWGdVeEZlQ1hRWUtObWFPU3ZaWWVFTlplTFdUQVZXeXJfby16ZlFNVEEyUHhIQ0Facmo0SkhlWUlOTjctajV4aEtLMG1ydnhoN056X2tGUXBwcTRGR0cyOXB4dkhqQVFfU1ZFVHgxTlRVZ19kVDVF?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 09:59:00 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 09:59:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1989,9 +1968,9 @@
     }
   ],
   "summary": {
-    "total": 48,
-    "alerts": 13,
+    "total": 47,
+    "alerts": 12,
     "news": 35
   },
-  "cleanedAt": "2026-08-22T16:15:16.175Z"
+  "cleanedAt": "2026-08-22T16:47:23.362Z"
 }
