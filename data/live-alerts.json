@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:18:44.269Z",
+  "generatedAt": "2026-08-22T18:56:01.037Z",
   "status": "ok",
   "alerts": [
     {
@@ -241,38 +241,6 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "one way traffic near council hall starts travel time to go up",
-      "title": "One-way traffic near Council Hall starts today, travel time to go up",
-      "summary": "One-way traffic near Council Hall starts today, travel time to go up",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3R6VDJxT2l4MGxoeFR2cVhUVE01TmpJX0lON0wzNFd0RHFoSmVHUk5QYTMtUWdBalgwOXJsazREMGY2UjlJMV9hOUpKN2FidWktVFJMbjBYXzJJUEw5QWtoQ0t0a1JCdkhBNm5QQ1Q0V3RqQzNUT1FaY0hqcmdvdWlyNUdpV2g2eHdxVGZqVGJpSVhNZ3F3NS1SWlJscUc0cmJwTlMxR0Q2Q1VfeWI3bTdJaTdIRWtrS2NNNHlrQ2NYVkdoSEZZb0NFUW14TjV1MUdyOEtn0gHbAUFVX3lxTFBSbHA3ZXBGWlZlRnlLdW5uVDVOeThkb0xDZnNGM3o2aVRmY3BVQWk3VUdiVFdnM3dtQU9MdWRkaHY2aEs2djdVRVVMOGpmd1hmWnU2Ni0tVUZtZFZaT3Z0Q0ZFOFFjd0Jqc1BROVI0NmlLMEdGbFNCRHdtVGh0R09EYlV2emR6QmM2TDVZOEpOT3hKc3RxcDg2dS04amtnT1F3c2pXZC03djNrbjN3cGFUaDFPV21CcnpNakdNNGpWZ184TTZVVTNzbExDbkFzcnNqRFdQOFNObkJlRQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:45:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 18:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
       "id": "मुंबई पुणे एक्स्प्रेस वेवर भीषण अपघात बसची चार वाहनांना धडक १० जण जखमी",
       "title": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
       "summary": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
@@ -288,6 +256,28 @@
         "Maharashtra Times"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "chhatron ki goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "title": "Pune Chhatron Ki Goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "summary": "Pune Chhatron Ki Goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUFia3lnX1gwenhPeE1qTW1wRHVubHJHMTNHdUVULTdXam1Zc19sM3UtblFsTlAzdzE5c1g0T3gyUDFQc3lOR2ozTWV1UUE0c2VWdW11dEdkNURuYUotT3JtTWpaRlhLal95UUhhWGZnX0pTMUx6ampMUU5lZl94NzVKRnplSXc?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 17:07:35 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 17:07:35 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -368,8 +358,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRjVYa3dQT0RwQXJ1MENIczhRSDBnUUJ6UldXTERub2JwcXhvYUtjU1FVT1B0VFhxUUkxbFdIUVZMdk9wZWVRRUduQ1lWSkQ1QTFHRm9pb2ozOTlLQ09yTmVmWUU0Z1U0ZFlZdlAzbVBhYnVnMmhVeGtUTG90RHdGVWp4ZUg2SEk5NFZ1blJxUTAxV19PcDY0QTdUdkJJZ1dtRGxDRTV2NmxtS2ZzdnRsYlB5cUFuS1hYM0xzYkNhTUItVHFFLUxxcnJEaEtBRXFYNTU3YW1IbTJ3QTlGaGRieEE5cDc5OXJyaGM4ak90RHpMcVYtbFRNSlBUUEZJQ0ZpWFZPbA?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 14:14:40 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 14:14:40 GMT",
+      "pubDate": "Sat, 22 Aug 2026 14:14:00 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 14:14:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -970,31 +960,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "monsoon revival unlikely in maharashtra till first few days of sept below normal rain over",
-      "title": "Monsoon revival unlikely in Maharashtra till first few days of Sept, below-normal rain over next 2 weeks",
-      "summary": "Monsoon revival unlikely in Maharashtra till first few days of Sept, below-normal rain over next 2 weeks",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbXBCSjBzbDlYNEVJSExjaFd5NWJWNURTdmNrTHNBN3ZIU1RWdmp4MnlGQWpiMmVtbUc1QVBrWlN4VF9Hbm16bWlMQWZFQV9RRU1tTnFIeXZUZnlDOG43bC14dVBlcFRFcGdxNGJpTFljUk12VTV4enRJanVBdnNRQU1BWmdjUzcxVjJkR0xJaE9LWTVrQy1XQnhrMXV5S3c4bnpxSGFMTFNocGRQc0s0bnYySXpZQ01MTEtCZHhnNmZzeU85eDNxRlhza091akM2M1VTaVV4UmVjbDNyQXVla2hkZ3phVTVyMlhCUE5PTDFCMDMtYWlVLXRSNWRzV2xOaGlBeU5ya3k1OEk4V0hKTE9qRnlLakRIWEHSAZ8CQVVfeXFMTWdBNTFsV1N6ZmZKaHZod1VtcU1KcEw0cmd4OU1aOEJSSDROMkhlYmlVcVlXeVZSUkU5NmJYMTlNeVFLZDBWMDNNb3VZUWg0cW5RYVVtZnJZRU1uT1U2UVJaVlBsYXpVX0RONWFCd2x0NXRBbHh6eWRwaVotMmlYOVNRbHZuYWIwaWFlZWhwWWR2X096TTVPMlNrVnRteFZhZ0NmeXNJZ1E2b05sanB2OFl3MHQ0TkhmNjNaV2p5LUo1THM2Z2dneGY5RVlWQWVzMWI4SDFmRXV2N3ZUd2NpVUx0ekdXSzhNNDByTTVYN01iOHVpczZ0QWtWTl9GczVNX0s5RXJadWRnVFJURHRhUTRNUVRVWTNISnQ2eG9pYWM?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:33:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 18:33:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -1226,35 +1191,6 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "one way traffic near council hall starts travel time to go up",
-      "title": "One-way traffic near Council Hall starts today, travel time to go up",
-      "summary": "One-way traffic near Council Hall starts today, travel time to go up",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3R6VDJxT2l4MGxoeFR2cVhUVE01TmpJX0lON0wzNFd0RHFoSmVHUk5QYTMtUWdBalgwOXJsazREMGY2UjlJMV9hOUpKN2FidWktVFJMbjBYXzJJUEw5QWtoQ0t0a1JCdkhBNm5QQ1Q0V3RqQzNUT1FaY0hqcmdvdWlyNUdpV2g2eHdxVGZqVGJpSVhNZ3F3NS1SWlJscUc0cmJwTlMxR0Q2Q1VfeWI3bTdJaTdIRWtrS2NNNHlrQ2NYVkdoSEZZb0NFUW14TjV1MUdyOEtn0gHbAUFVX3lxTFBSbHA3ZXBGWlZlRnlLdW5uVDVOeThkb0xDZnNGM3o2aVRmY3BVQWk3VUdiVFdnM3dtQU9MdWRkaHY2aEs2djdVRVVMOGpmd1hmWnU2Ni0tVUZtZFZaT3Z0Q0ZFOFFjd0Jqc1BROVI0NmlLMEdGbFNCRHdtVGh0R09EYlV2emR6QmM2TDVZOEpOT3hKc3RxcDg2dS04amtnT1F3c2pXZC03djNrbjN3cGFUaDFPV21CcnpNakdNNGpWZ184TTZVVTNzbExDbkFzcnNqRFdQOFNObkJlRQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:45:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 18:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "मुंबई पुणे एक्स्प्रेस वेवर भीषण अपघात बसची चार वाहनांना धडक १० जण जखमी",
       "title": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
       "summary": "मुंबई-पुणे-एक्स्प्रेस-वेवर-भीषण-अपघात-बसची-चार-वाहनांना-धडक-१०-जण-जखमी",
@@ -1270,6 +1206,28 @@
         "Maharashtra Times"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "chhatron ki goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "title": "Pune Chhatron Ki Goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "summary": "Pune Chhatron Ki Goonj कार्यक्रमातून राहुल गांधींचा विद्यार्थिनींशी संवाद",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUFia3lnX1gwenhPeE1qTW1wRHVubHJHMTNHdUVULTdXam1Zc19sM3UtblFsTlAzdzE5c1g0T3gyUDFQc3lOR2ozTWV1UUE0c2VWdW11dEdkNURuYUotT3JtTWpaRlhLal95UUhhWGZnX0pTMUx6ampMUU5lZl94NzVKRnplSXc?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 17:07:35 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 17:07:35 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1350,8 +1308,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRjVYa3dQT0RwQXJ1MENIczhRSDBnUUJ6UldXTERub2JwcXhvYUtjU1FVT1B0VFhxUUkxbFdIUVZMdk9wZWVRRUduQ1lWSkQ1QTFHRm9pb2ozOTlLQ09yTmVmWUU0Z1U0ZFlZdlAzbVBhYnVnMmhVeGtUTG90RHdGVWp4ZUg2SEk5NFZ1blJxUTAxV19PcDY0QTdUdkJJZ1dtRGxDRTV2NmxtS2ZzdnRsYlB5cUFuS1hYM0xzYkNhTUItVHFFLUxxcnJEaEtBRXFYNTU3YW1IbTJ3QTlGaGRieEE5cDc5OXJyaGM4ak90RHpMcVYtbFRNSlBUUEZJQ0ZpWFZPbA?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 14:14:40 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 14:14:40 GMT",
+      "pubDate": "Sat, 22 Aug 2026 14:14:00 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 14:14:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1940,34 +1898,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "monsoon revival unlikely in maharashtra till first few days of sept below normal rain over",
-      "title": "Monsoon revival unlikely in Maharashtra till first few days of Sept, below-normal rain over next 2 weeks",
-      "summary": "Monsoon revival unlikely in Maharashtra till first few days of Sept, below-normal rain over next 2 weeks",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbXBCSjBzbDlYNEVJSExjaFd5NWJWNURTdmNrTHNBN3ZIU1RWdmp4MnlGQWpiMmVtbUc1QVBrWlN4VF9Hbm16bWlMQWZFQV9RRU1tTnFIeXZUZnlDOG43bC14dVBlcFRFcGdxNGJpTFljUk12VTV4enRJanVBdnNRQU1BWmdjUzcxVjJkR0xJaE9LWTVrQy1XQnhrMXV5S3c4bnpxSGFMTFNocGRQc0s0bnYySXpZQ01MTEtCZHhnNmZzeU85eDNxRlhza091akM2M1VTaVV4UmVjbDNyQXVla2hkZ3phVTVyMlhCUE5PTDFCMDMtYWlVLXRSNWRzV2xOaGlBeU5ya3k1OEk4V0hKTE9qRnlLakRIWEHSAZ8CQVVfeXFMTWdBNTFsV1N6ZmZKaHZod1VtcU1KcEw0cmd4OU1aOEJSSDROMkhlYmlVcVlXeVZSUkU5NmJYMTlNeVFLZDBWMDNNb3VZUWg0cW5RYVVtZnJZRU1uT1U2UVJaVlBsYXpVX0RONWFCd2x0NXRBbHh6eWRwaVotMmlYOVNRbHZuYWIwaWFlZWhwWWR2X096TTVPMlNrVnRteFZhZ0NmeXNJZ1E2b05sanB2OFl3MHQ0TkhmNjNaV2p5LUo1THM2Z2dneGY5RVlWQWVzMWI4SDFmRXV2N3ZUd2NpVUx0ekdXSzhNNDByTTVYN01iOHVpczZ0QWtWTl9GczVNX0s5RXJadWRnVFJURHRhUTRNUVRVWTNISnQ2eG9pYWM?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 18:33:00 GMT",
-      "lastUpdated": "Fri, 21 Aug 2026 18:33:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 47,
-    "alerts": 12,
-    "news": 35
+    "total": 45,
+    "alerts": 11,
+    "news": 34
   },
-  "cleanedAt": "2026-08-22T18:18:44.274Z"
+  "cleanedAt": "2026-08-22T18:56:01.367Z"
 }
