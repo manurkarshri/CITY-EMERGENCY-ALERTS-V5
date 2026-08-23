@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:33:40.361Z",
+  "generatedAt": "2026-08-23T06:28:11.833Z",
   "status": "ok",
   "alerts": [
     {
@@ -30,34 +30,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "wardha accident सेलूजवळ खासगी वाहनाचा अपघात १२ जण जखमी",
-      "title": "Wardha Accident |सेलूजवळ खासगी वाहनाचा अपघात; १२ जण जखमी!",
-      "summary": "Wardha Accident |सेलूजवळ खासगी वाहनाचा अपघात; १२ जण जखमी!",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXl5VTBOX1dZUm1lVzRkemplNVZyUVl2cF9zNy1vaGJpZmwyTmNwZ21TTVJESWtvZTNlRGZkT05uemJNR3lDTC10ZFY2MjRMZlpYaHFkS1YxQkl4a1Y5S0NTU05panYwOWpHdGU1T2Q0MHlRX3luM1VqRjBqdDN3Q2xmYURLY0ZibDVFX1Q2TmZNd0hydU40REVTWHdBamFQX0xBYS1VZXFKNkMzaS02dWFFb3d3bmVjOVlqekp4M2NHTHpuVDYyNU1RVdIBywFBVV95cUxOcXl5VTBOX1dZUm1lVzRkemplNVZyUVl2cF9zNy1vaGJpZmwyTmNwZ21TTVJESWtvZTNlRGZkT05uemJNR3lDTC10ZFY2MjRMZlpYaHFkS1YxQkl4a1Y5S0NTU05panYwOWpHdGU1T2Q0MHlRX3luM1VqRjBqdDN3Q2xmYURLY0ZibDVFX1Q2TmZNd0hydU40REVTWHdBamFQX0xBYS1VZXFKNkMzaS02dWFFb3d3bmVjOVlqekp4M2NHTHpuVDYyNU1RVQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 17:32:56 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 17:32:56 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
-    },
-    {
       "id": "a66 traffic fatal crash closes road in both directions near middlesbrough check affected r",
       "title": "A66 Traffic Latest Update: Fatal Crash Closes Road In Both Directions Near Middlesbrough; Check Affected Roads, Diversion Routes & More",
       "summary": "A66 Traffic Latest Update: Fatal Crash Closes Road In Both Directions Near Middlesbrough; Check Affected Roads, Diversion Routes & More",
@@ -66,6 +38,37 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1RXZU5SU3JJenZHVkNRYlBlRFhrb1VqTW9HLS05aFZCckNmV1hqcXNzMnZiV0YxTXhZNldJTDZpeXhBZmo2VFdKcURpbmJ2VUd4Tm1RZGwtRHZ3elowZkJmTDlVLXZVVVpZNjd1RnFVVlp6UlJYWDV5RkR6ZjI0TU9nX1hHZWJNdHdqMnVrdmFMdS1jSlNrRGxCcWxMOUI0azZvSWhZSWIwZ3N2aS1KTFRSMEN3OVNiek82QUpvMXpXQXJNcFVfU2g4LVA1eGkxZGp0cEh1NnVqajE5ZTR3OVZxSS1RUkg1UDNOdFl4Q193SVcteXQzRkcwTkg0ZE0waE9jcXpn0gGLAkFVX3lxTE4xMlU1c1BQczlnaUc3SEU1N09NYWlNSTJNR0J3X1dqN0tSek9hM3lXTVBMRkNwWnFRQ01KOWd2bkpPUWZlWHpHeWZhOTh1Mm1JdE1ramhNUXRvZ0ttTjFrVDFxeUlaX3VjVDNQZjBfdW1GbFhkdXVxT3U4OWRSOGcySUhWMUUtYlhRbmxUYWZfLUxzeENqazd3X0lpMUF0NW9FUkJJbzJoMW5GWVJ6LW1JOTVPRWVod3ZJMVQ0cmp0U0hIM056R2NrNDlsa3k3XzJzcDdjRUFuaWt0cE5GM3FEamtrT3VVaU9XdThFb2FMUnBJRE03VG0tR1NLdFVJYmE5ZllhSVdZa1JfNA?oc=5",
       "pubDate": "Sat, 22 Aug 2026 09:44:01 GMT",
       "lastUpdated": "Sat, 22 Aug 2026 09:44:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Sunday Guardian"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
+      "id": "a66 accident multiple dead after police vehicle crashes with vw passat in south bank road ",
+      "title": "A66 Accident Live Today: Multiple Dead After Police Vehicle Crashes With VW Passat in South Bank; Road Closed Both Ways – Check Affected Roads, Diversion Routes, Junction Disruption, Helpline Numbers",
+      "summary": "A66 Accident Live Today: Multiple Dead After Police Vehicle Crashes With VW Passat in South Bank; Road Closed Both Ways – Check Affected Roads, Diversion Routes, Junction Disruption, Helpline Numbers",
+      "source": "The Sunday Guardian",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOaGdTVWJnclFXbXZDb2M2T1ctLTF3R1ViSWxXblY3ZUFGSDZVLXNvUlFrdTlHY2YxNzF5T3BVeTBKby1yTlNxWVE4VkUwbFZSSW1TUjJrRnpkOHdORHlkZUtzc3NxNzdyVXJRWnBXVWZOZ3BybDJSanNpSXRpU1N6a0QyX1MyclNDY1lPUEg0emdsNHZnOFp1dEc5VlZaU0lPektjX0U2SFBZLUJfdW9hdVZ0bE1DVWZFNDMwRjVXN0FSbjdnc3NURU1WMTVBcXF3NFJCOF80Sl9PYjFLZFZweFRHaENpMWY5a09RSHNWM1B6Wllmd0h2dmRJdnpNMHh4MUZUZGVPeXQ1N1gyNFplVDBzUld1WlY4aDV1amowZE5PbENXLWhNalM3V2VwRTJRZlhwWXZPVkJ1YUV5dmZkWk9vWnA1Y1BUNFpWdVFETkhDQ1V0Y0xHetIB3gJBVV95cUxOdldYanZ2N2k1NjluZ3AyZUNIdVl6NF9GWS1RMHJmX25fVzhtUXlnbWhQeTZMZFphNk9idldJNjZsQVJCRFR5RWJQZmZmbDFFWm00azd1eXJRdWlYR0llQW1iSHMzUzJQbnlyV29BYVZ6X2JrdTRZWTlpUU9pb1BrTFMycmY2cFRYaVpXdG0yRnlKTjM0Tm1OUzJqZklNMVFoQ3V5b0RMRXZjQ2FpSHpxeHFPdzBjYzNkckdRZHFKak9UbDRjanZtdXZWd2lJanFTc3pnVDFHT2hUZ1NHZGZvcHZ3aE5FdXQtU2dwVVRBMzJ2UEQyMmpwZ2x0RlFmQ3ZGQUQ2Ujk4b1FxaTFLZ3pzSkttZ3dNY1NWRzR3V2JGWnBMTXVXUGU3R1pQcHo3QTBZNHhKTEttTGpKVEM2WXlzWWI5dE9iV0xYaE1FN0RSdnJaTU5MQV9McUlKamRGUQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 08:48:38 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 08:48:38 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -234,18 +237,21 @@
       "action": "No immediate action required."
     },
     {
-      "id": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी त्यानं गाठलं अन् पुण्यात धक्कादायक घडलं",
-      "title": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
-      "summary": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
-      "source": "News18 Marathi",
+      "id": "pimpri chinchwad police transfers पिंपरी चिंचवड पोलिस दलात मोठा फेरबदल १० निरीक्षकांच्या म",
+      "title": "Pimpri Chinchwad Police Transfers: पिंपरी-चिंचवड पोलिस दलात मोठा फेरबदल; १० निरीक्षकांच्या महत्त्वाच्या ठिकाणी नियुक्त्या",
+      "summary": "Pimpri Chinchwad Police Transfers: पिंपरी-चिंचवड पोलिस दलात मोठा फेरबदल; १० निरीक्षकांच्या महत्त्वाच्या ठिकाणी नियुक्त्या",
+      "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby1pdnpVTTFIQ1ZjbnROdmhaQXc2UU83dHVwUnRtc19xU1ljSUlMNjFlSjltNFVDXzFqVDJoaGVBaTZoWDE2MEdNMnV5dncxRWI0bkxBb1ZaeGQ3ZTNoUDIzV3hqXzhkNmZoU2UyYXJUOXMtR1dNWWpqWnB0bGpjamlaZFF4UkVtMEFFQ1lQX0RsR3Q2S1RyVzFiNW5nMi1DUFJKOENfSDI?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT",
-      "lastUpdated": "Sun, 23 Aug 2026 04:12:00 GMT",
-      "areas": [],
-      "region": "pune",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0FQcmRtVlNlS09jQVk2UHBaNzh6cURZVEsyLU5ZbUd5bWJQU2x3Q193dFU1eUlQb3NqUmN2SjBVUjYyck1haXo1N012ZzlMa1ZIYjhwMEtoZTVYN0Z1clh2LTgwR1VENk9EU2Rqck92dUZyTXZqTUpqMDdjcGZyNlp6dDRyZmZrVTllUUppYnFoNTJOR2tobFFZMmVTV2RiWkt2VXd4Z29GUjDSAbgBQVVfeXFMTmY5WG5Rb1FIS2VsQXVuVVctbnE4YmgyRThLN2Q0VTU4dmd6SXZrR1pyNUdmRm5wVUt2YlBrc2F1cDhOQlhBeHFYTEFUdmxyVzVJdEZmY0FxYjRlbEN3a1RpRTduUEZHVXF0RmlINURTc2tYNE5WUWE3R0l5UjR6Y0tKNk1wOWJxbW5nNUdFWFVLWFhmNjY2T3FCWVhCd0M5SlVsbFRzSjdYbzZ0RTlxRWJaTEVtbHpYMQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 05:56:54 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 05:56:54 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
       "sources": [
-        "News18 Marathi"
+        "Pudhari"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -256,14 +262,39 @@
       "action": "No immediate action required."
     },
     {
-      "id": "फोनवर आला तो एक मेसेज उघडताच पुरती हादरली पुण्यातील महिला घडलं धक्कादायक कांड",
-      "title": "फोनवर आला तो एक मेसेज; उघडताच पुरती हादरली पुण्यातील महिला, घडलं धक्कादायक कांड",
-      "summary": "फोनवर आला तो एक मेसेज; उघडताच पुरती हादरली पुण्यातील महिला, घडलं धक्कादायक कांड",
+      "id": "pimpri chinchwad stray cattle संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ अपघाताचा धोका वा",
+      "title": "Pimpri Chinchwad Stray Cattle: संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ; अपघाताचा धोका वाढला, महापालिकेचे दुर्लक्ष",
+      "summary": "Pimpri Chinchwad Stray Cattle: संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ; अपघाताचा धोका वाढला, महापालिकेचे दुर्लक्ष",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUxhZFlZWHYxX0tvRGVJMTZBUzlmdE94WWV0emtJbWdhMnpqc25FZFJkQ1Y2aXhZVW5CZDRTYUJqSnU5RkxET1lRRnQ5T3ZfNjh0LWc5ZmtTWEhCUE1DZWptelBnS3p6QllSSUxGcl9kdzZEZmZnMUExUDJTdlp1aWEwb0FOc0g2aFdPanhPUkdZVWkwNEtSaGtfb2ZlVDRlQlcyUTRWZUI0TkszMW5RSVRqRdIBswFBVV95cUxPbUxhZFlZWHYxX0tvRGVJMTZBUzlmdE94WWV0emtJbWdhMnpqc25FZFJkQ1Y2aXhZVW5CZDRTYUJqSnU5RkxET1lRRnQ5T3ZfNjh0LWc5ZmtTWEhCUE1DZWptelBnS3p6QllSSUxGcl9kdzZEZmZnMUExUDJTdlp1aWEwb0FOc0g2aFdPanhPUkdZVWkwNEtSaGtfb2ZlVDRlQlcyUTRWZUI0TkszMW5RSVRqRQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 05:36:11 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 05:36:11 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी त्यानं गाठलं अन् पुण्यात धक्कादायक घडलं",
+      "title": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
+      "summary": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR25Td3dlMHU1NzRkbjM0amZXNTZNalh1NHZCMXRzZ1NkdkRLYkN5WVFWUW85ekpqOXN1bTZwZGhWcGotZkQwMk9sZUhrY0R5b3NCa1dURjF5UldRMTFnOGpHZ3FXeHRLcVpZZkhJMnVLZXBhM3NNUFcyTE1iVTEzT0hfRXFPRy1mVWlmeWlJV21XVVJOSzI0TW5TQVpQVFNzSnpNZWdOR2J5aHlBT0xj?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 03:53:00 GMT",
-      "lastUpdated": "Sun, 23 Aug 2026 03:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby1pdnpVTTFIQ1ZjbnROdmhaQXc2UU83dHVwUnRtc19xU1ljSUlMNjFlSjltNFVDXzFqVDJoaGVBaTZoWDE2MEdNMnV5dncxRWI0bkxBb1ZaeGQ3ZTNoUDIzV3hqXzhkNmZoU2UyYXJUOXMtR1dNWWpqWnB0bGpjamlaZFF4UkVtMEFFQ1lQX0RsR3Q2S1RyVzFiNW5nMi1DUFJKOENfSDI?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 04:12:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -469,6 +500,28 @@
       "region": "pune",
       "sources": [
         "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "title": "Pune मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "summary": "Pune मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16V1I5WVVTQXBYbmwwUXpDbTFhOG9Ta2lTVzlaX3RWcml0MG9lUm5xRElhQzNfcXVxTkxsNWwyQkUzclNNMXRqTGZNeURLOF85MlNYZVZmQXFzUUprbHROanB0TW8taHZpNHU2VnVkcw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 17:10:08 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 17:10:08 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -968,53 +1021,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "नाशिक 22 ऑगस्ट 2026 ठळक बातम्या वीजपुरवठा",
-      "title": "नाशिक, 22 ऑगस्ट 2026 ठळक बातम्या: वीजपुरवठा",
-      "summary": "नाशिक, 22 ऑगस्ट 2026 ठळक बातम्या: वीजपुरवठा",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHJEZFdycWRUYS02U1NOY3BTN2NUMVJOMW9jd1p5UVpNWHBEcDh3U283ZFFXa0FrZzM5SjFHWng4VHNscVlvWXJmWHhORWNOVm9idXJwc1ExMkdVa0N4UnhvX0lrUXBKd0F4ckVkbC1KYTc5N3dPVkhlQmszYnJxVURkLTN3X284M2ZEVtIBkgFBVV95cUxQR1JKRW93RFpyWUFjVnFMZVloUlgtc0pzbUhXZzk2YTg5Uzdpdi1vR0ROMkdsZHROSnpYVTBobFVsVGdkYXRibXZhRFdHZE9xeTBEZHBlT0kwUmZWTmdTZjNtVW9yU3ZEZUFBbnp1dkFmSFdsMXBUWUpYVXkybnB3NS1kWlNSLTh5YVdhSDRIdXYtdw?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 06:09:19 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 06:09:19 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "braces for rain as monsoon activity returns",
-      "title": "Pune Braces For Rain As Monsoon Activity Returns.",
-      "summary": "Pune Braces For Rain As Monsoon Activity Returns.",
-      "source": "urbanacres.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOTNaYmlVOVJpYzkya1YtS3pUc2h6ZVJ0aU1lcHpNM24wSlJsbG1WMENCZ2N0Nmk1NlN5anNTTDk3Z1J3bUJvWGtteXpDTm1ZeUx3MnFhVVh0b0lhZTRMMEdVZ0xYR0stdW0yM1I5WVBzX3hxc3V5R1I0WQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:47:10 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 05:47:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "urbanacres.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     }
   ],
   "incidents": [
@@ -1046,34 +1052,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "wardha accident सेलूजवळ खासगी वाहनाचा अपघात १२ जण जखमी",
-      "title": "Wardha Accident |सेलूजवळ खासगी वाहनाचा अपघात; १२ जण जखमी!",
-      "summary": "Wardha Accident |सेलूजवळ खासगी वाहनाचा अपघात; १२ जण जखमी!",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXl5VTBOX1dZUm1lVzRkemplNVZyUVl2cF9zNy1vaGJpZmwyTmNwZ21TTVJESWtvZTNlRGZkT05uemJNR3lDTC10ZFY2MjRMZlpYaHFkS1YxQkl4a1Y5S0NTU05panYwOWpHdGU1T2Q0MHlRX3luM1VqRjBqdDN3Q2xmYURLY0ZibDVFX1Q2TmZNd0hydU40REVTWHdBamFQX0xBYS1VZXFKNkMzaS02dWFFb3d3bmVjOVlqekp4M2NHTHpuVDYyNU1RVdIBywFBVV95cUxOcXl5VTBOX1dZUm1lVzRkemplNVZyUVl2cF9zNy1vaGJpZmwyTmNwZ21TTVJESWtvZTNlRGZkT05uemJNR3lDTC10ZFY2MjRMZlpYaHFkS1YxQkl4a1Y5S0NTU05panYwOWpHdGU1T2Q0MHlRX3luM1VqRjBqdDN3Q2xmYURLY0ZibDVFX1Q2TmZNd0hydU40REVTWHdBamFQX0xBYS1VZXFKNkMzaS02dWFFb3d3bmVjOVlqekp4M2NHTHpuVDYyNU1RVQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 17:32:56 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 17:32:56 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
-    },
-    {
       "id": "a66 traffic fatal crash closes road in both directions near middlesbrough check affected r",
       "title": "A66 Traffic Latest Update: Fatal Crash Closes Road In Both Directions Near Middlesbrough; Check Affected Roads, Diversion Routes & More",
       "summary": "A66 Traffic Latest Update: Fatal Crash Closes Road In Both Directions Near Middlesbrough; Check Affected Roads, Diversion Routes & More",
@@ -1082,6 +1060,34 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1RXZU5SU3JJenZHVkNRYlBlRFhrb1VqTW9HLS05aFZCckNmV1hqcXNzMnZiV0YxTXhZNldJTDZpeXhBZmo2VFdKcURpbmJ2VUd4Tm1RZGwtRHZ3elowZkJmTDlVLXZVVVpZNjd1RnFVVlp6UlJYWDV5RkR6ZjI0TU9nX1hHZWJNdHdqMnVrdmFMdS1jSlNrRGxCcWxMOUI0azZvSWhZSWIwZ3N2aS1KTFRSMEN3OVNiek82QUpvMXpXQXJNcFVfU2g4LVA1eGkxZGp0cEh1NnVqajE5ZTR3OVZxSS1RUkg1UDNOdFl4Q193SVcteXQzRkcwTkg0ZE0waE9jcXpn0gGLAkFVX3lxTE4xMlU1c1BQczlnaUc3SEU1N09NYWlNSTJNR0J3X1dqN0tSek9hM3lXTVBMRkNwWnFRQ01KOWd2bkpPUWZlWHpHeWZhOTh1Mm1JdE1ramhNUXRvZ0ttTjFrVDFxeUlaX3VjVDNQZjBfdW1GbFhkdXVxT3U4OWRSOGcySUhWMUUtYlhRbmxUYWZfLUxzeENqazd3X0lpMUF0NW9FUkJJbzJoMW5GWVJ6LW1JOTVPRWVod3ZJMVQ0cmp0U0hIM056R2NrNDlsa3k3XzJzcDdjRUFuaWt0cE5GM3FEamtrT3VVaU9XdThFb2FMUnBJRE03VG0tR1NLdFVJYmE5ZllhSVdZa1JfNA?oc=5",
       "pubDate": "Sat, 22 Aug 2026 09:44:01 GMT",
       "lastUpdated": "Sat, 22 Aug 2026 09:44:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Sunday Guardian"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion."
+    },
+    {
+      "id": "a66 accident multiple dead after police vehicle crashes with vw passat in south bank road ",
+      "title": "A66 Accident Live Today: Multiple Dead After Police Vehicle Crashes With VW Passat in South Bank; Road Closed Both Ways – Check Affected Roads, Diversion Routes, Junction Disruption, Helpline Numbers",
+      "summary": "A66 Accident Live Today: Multiple Dead After Police Vehicle Crashes With VW Passat in South Bank; Road Closed Both Ways – Check Affected Roads, Diversion Routes, Junction Disruption, Helpline Numbers",
+      "source": "The Sunday Guardian",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOaGdTVWJnclFXbXZDb2M2T1ctLTF3R1ViSWxXblY3ZUFGSDZVLXNvUlFrdTlHY2YxNzF5T3BVeTBKby1yTlNxWVE4VkUwbFZSSW1TUjJrRnpkOHdORHlkZUtzc3NxNzdyVXJRWnBXVWZOZ3BybDJSanNpSXRpU1N6a0QyX1MyclNDY1lPUEg0emdsNHZnOFp1dEc5VlZaU0lPektjX0U2SFBZLUJfdW9hdVZ0bE1DVWZFNDMwRjVXN0FSbjdnc3NURU1WMTVBcXF3NFJCOF80Sl9PYjFLZFZweFRHaENpMWY5a09RSHNWM1B6Wllmd0h2dmRJdnpNMHh4MUZUZGVPeXQ1N1gyNFplVDBzUld1WlY4aDV1amowZE5PbENXLWhNalM3V2VwRTJRZlhwWXZPVkJ1YUV5dmZkWk9vWnA1Y1BUNFpWdVFETkhDQ1V0Y0xHetIB3gJBVV95cUxOdldYanZ2N2k1NjluZ3AyZUNIdVl6NF9GWS1RMHJmX25fVzhtUXlnbWhQeTZMZFphNk9idldJNjZsQVJCRFR5RWJQZmZmbDFFWm00azd1eXJRdWlYR0llQW1iSHMzUzJQbnlyV29BYVZ6X2JrdTRZWTlpUU9pb1BrTFMycmY2cFRYaVpXdG0yRnlKTjM0Tm1OUzJqZklNMVFoQ3V5b0RMRXZjQ2FpSHpxeHFPdzBjYzNkckdRZHFKak9UbDRjanZtdXZWd2lJanFTc3pnVDFHT2hUZ1NHZGZvcHZ3aE5FdXQtU2dwVVRBMzJ2UEQyMmpwZ2x0RlFmQ3ZGQUQ2Ujk4b1FxaTFLZ3pzSkttZ3dNY1NWRzR3V2JGWnBMTXVXUGU3R1pQcHo3QTBZNHhKTEttTGpKVEM2WXlzWWI5dE9iV0xYaE1FN0RSdnJaTU5MQV9McUlKamRGUQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 08:48:38 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 08:48:38 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1242,18 +1248,21 @@
       "action": "No immediate action required."
     },
     {
-      "id": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी त्यानं गाठलं अन् पुण्यात धक्कादायक घडलं",
-      "title": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
-      "summary": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
-      "source": "News18 Marathi",
+      "id": "pimpri chinchwad police transfers पिंपरी चिंचवड पोलिस दलात मोठा फेरबदल १० निरीक्षकांच्या म",
+      "title": "Pimpri Chinchwad Police Transfers: पिंपरी-चिंचवड पोलिस दलात मोठा फेरबदल; १० निरीक्षकांच्या महत्त्वाच्या ठिकाणी नियुक्त्या",
+      "summary": "Pimpri Chinchwad Police Transfers: पिंपरी-चिंचवड पोलिस दलात मोठा फेरबदल; १० निरीक्षकांच्या महत्त्वाच्या ठिकाणी नियुक्त्या",
+      "source": "Pudhari",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby1pdnpVTTFIQ1ZjbnROdmhaQXc2UU83dHVwUnRtc19xU1ljSUlMNjFlSjltNFVDXzFqVDJoaGVBaTZoWDE2MEdNMnV5dncxRWI0bkxBb1ZaeGQ3ZTNoUDIzV3hqXzhkNmZoU2UyYXJUOXMtR1dNWWpqWnB0bGpjamlaZFF4UkVtMEFFQ1lQX0RsR3Q2S1RyVzFiNW5nMi1DUFJKOENfSDI?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT",
-      "lastUpdated": "Sun, 23 Aug 2026 04:12:00 GMT",
-      "areas": [],
-      "region": "pune",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0FQcmRtVlNlS09jQVk2UHBaNzh6cURZVEsyLU5ZbUd5bWJQU2x3Q193dFU1eUlQb3NqUmN2SjBVUjYyck1haXo1N012ZzlMa1ZIYjhwMEtoZTVYN0Z1clh2LTgwR1VENk9EU2Rqck92dUZyTXZqTUpqMDdjcGZyNlp6dDRyZmZrVTllUUppYnFoNTJOR2tobFFZMmVTV2RiWkt2VXd4Z29GUjDSAbgBQVVfeXFMTmY5WG5Rb1FIS2VsQXVuVVctbnE4YmgyRThLN2Q0VTU4dmd6SXZrR1pyNUdmRm5wVUt2YlBrc2F1cDhOQlhBeHFYTEFUdmxyVzVJdEZmY0FxYjRlbEN3a1RpRTduUEZHVXF0RmlINURTc2tYNE5WUWE3R0l5UjR6Y0tKNk1wOWJxbW5nNUdFWFVLWFhmNjY2T3FCWVhCd0M5SlVsbFRzSjdYbzZ0RTlxRWJaTEVtbHpYMQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 05:56:54 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 05:56:54 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
       "sources": [
-        "News18 Marathi"
+        "Pudhari"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1264,14 +1273,39 @@
       "action": "No immediate action required."
     },
     {
-      "id": "फोनवर आला तो एक मेसेज उघडताच पुरती हादरली पुण्यातील महिला घडलं धक्कादायक कांड",
-      "title": "फोनवर आला तो एक मेसेज; उघडताच पुरती हादरली पुण्यातील महिला, घडलं धक्कादायक कांड",
-      "summary": "फोनवर आला तो एक मेसेज; उघडताच पुरती हादरली पुण्यातील महिला, घडलं धक्कादायक कांड",
+      "id": "pimpri chinchwad stray cattle संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ अपघाताचा धोका वा",
+      "title": "Pimpri Chinchwad Stray Cattle: संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ; अपघाताचा धोका वाढला, महापालिकेचे दुर्लक्ष",
+      "summary": "Pimpri Chinchwad Stray Cattle: संत तुकारामनगरमध्ये मोकाट जनावरांचा धुमाकूळ; अपघाताचा धोका वाढला, महापालिकेचे दुर्लक्ष",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUxhZFlZWHYxX0tvRGVJMTZBUzlmdE94WWV0emtJbWdhMnpqc25FZFJkQ1Y2aXhZVW5CZDRTYUJqSnU5RkxET1lRRnQ5T3ZfNjh0LWc5ZmtTWEhCUE1DZWptelBnS3p6QllSSUxGcl9kdzZEZmZnMUExUDJTdlp1aWEwb0FOc0g2aFdPanhPUkdZVWkwNEtSaGtfb2ZlVDRlQlcyUTRWZUI0TkszMW5RSVRqRdIBswFBVV95cUxPbUxhZFlZWHYxX0tvRGVJMTZBUzlmdE94WWV0emtJbWdhMnpqc25FZFJkQ1Y2aXhZVW5CZDRTYUJqSnU5RkxET1lRRnQ5T3ZfNjh0LWc5ZmtTWEhCUE1DZWptelBnS3p6QllSSUxGcl9kdzZEZmZnMUExUDJTdlp1aWEwb0FOc0g2aFdPanhPUkdZVWkwNEtSaGtfb2ZlVDRlQlcyUTRWZUI0TkszMW5RSVRqRQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 05:36:11 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 05:36:11 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी त्यानं गाठलं अन् पुण्यात धक्कादायक घडलं",
+      "title": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
+      "summary": "शेतात गाई चारण्यासाठी गेल्या 60 वर्षाच्या आजी; त्यानं गाठलं अन्..पुण्यात धक्कादायक घडलं",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR25Td3dlMHU1NzRkbjM0amZXNTZNalh1NHZCMXRzZ1NkdkRLYkN5WVFWUW85ekpqOXN1bTZwZGhWcGotZkQwMk9sZUhrY0R5b3NCa1dURjF5UldRMTFnOGpHZ3FXeHRLcVpZZkhJMnVLZXBhM3NNUFcyTE1iVTEzT0hfRXFPRy1mVWlmeWlJV21XVVJOSzI0TW5TQVpQVFNzSnpNZWdOR2J5aHlBT0xj?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 03:53:00 GMT",
-      "lastUpdated": "Sun, 23 Aug 2026 03:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby1pdnpVTTFIQ1ZjbnROdmhaQXc2UU83dHVwUnRtc19xU1ljSUlMNjFlSjltNFVDXzFqVDJoaGVBaTZoWDE2MEdNMnV5dncxRWI0bkxBb1ZaeGQ3ZTNoUDIzV3hqXzhkNmZoU2UyYXJUOXMtR1dNWWpqWnB0bGpjamlaZFF4UkVtMEFFQ1lQX0RsR3Q2S1RyVzFiNW5nMi1DUFJKOENfSDI?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT",
+      "lastUpdated": "Sun, 23 Aug 2026 04:12:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1474,6 +1508,28 @@
       "region": "pune",
       "sources": [
         "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "title": "Pune मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "summary": "Pune मधील मांजरीतील विद्यार्थ्यांच्या उपोषणाची राहुल गांधींकडून दखल",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16V1I5WVVTQXBYbmwwUXpDbTFhOG9Ta2lTVzlaX3RWcml0MG9lUm5xRElhQzNfcXVxTkxsNWwyQkUzclNNMXRqTGZNeURLOF85MlNYZVZmQXFzUUprbHROanB0TW8taHZpNHU2VnVkcw?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 17:10:08 GMT",
+      "lastUpdated": "Sat, 22 Aug 2026 17:10:08 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1970,56 +2026,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "नाशिक 22 ऑगस्ट 2026 ठळक बातम्या वीजपुरवठा",
-      "title": "नाशिक, 22 ऑगस्ट 2026 ठळक बातम्या: वीजपुरवठा",
-      "summary": "नाशिक, 22 ऑगस्ट 2026 ठळक बातम्या: वीजपुरवठा",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHJEZFdycWRUYS02U1NOY3BTN2NUMVJOMW9jd1p5UVpNWHBEcDh3U283ZFFXa0FrZzM5SjFHWng4VHNscVlvWXJmWHhORWNOVm9idXJwc1ExMkdVa0N4UnhvX0lrUXBKd0F4ckVkbC1KYTc5N3dPVkhlQmszYnJxVURkLTN3X284M2ZEVtIBkgFBVV95cUxQR1JKRW93RFpyWUFjVnFMZVloUlgtc0pzbUhXZzk2YTg5Uzdpdi1vR0ROMkdsZHROSnpYVTBobFVsVGdkYXRibXZhRFdHZE9xeTBEZHBlT0kwUmZWTmdTZjNtVW9yU3ZEZUFBbnp1dkFmSFdsMXBUWUpYVXkybnB3NS1kWlNSLTh5YVdhSDRIdXYtdw?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 06:09:19 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 06:09:19 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "braces for rain as monsoon activity returns",
-      "title": "Pune Braces For Rain As Monsoon Activity Returns.",
-      "summary": "Pune Braces For Rain As Monsoon Activity Returns.",
-      "source": "urbanacres.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOTNaYmlVOVJpYzkya1YtS3pUc2h6ZVJ0aU1lcHpNM24wSlJsbG1WMENCZ2N0Nmk1NlN5anNTTDk3Z1J3bUJvWGtteXpDTm1ZeUx3MnFhVVh0b0lhZTRMMEdVZ0xYR0stdW0yM1I5WVBzX3hxc3V5R1I0WQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:47:10 GMT",
-      "lastUpdated": "Sat, 22 Aug 2026 05:47:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "urbanacres.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 46,
-    "alerts": 7,
+    "total": 47,
+    "alerts": 8,
     "news": 39
   },
-  "cleanedAt": "2026-08-23T05:33:40.372Z"
+  "cleanedAt": "2026-08-23T06:28:11.845Z"
 }
