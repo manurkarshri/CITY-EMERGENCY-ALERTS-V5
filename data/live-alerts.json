@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:04:51.682Z",
+  "generatedAt": "2026-08-24T17:55:45.152Z",
   "status": "ok",
   "alerts": [
     {
@@ -123,40 +123,6 @@
   ],
   "news": [
     {
-      "id": "delhi rains 14 flights diverted 150 delayed as heavy rain triggers traffic chaos",
-      "title": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
-      "summary": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
-      "source": "ABP Live English + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGdHd3NvUmlZUGRRT2c3SEkyaU1QSTM5OEQ2d0ZiNW1Ra2NlcXpwRk9ZVmNrRnlJY0ZNME5id0ZOTjktNEpGWml6ZW9PWEQtbjdXSzUySEZNLWVsT3lRVTU1RDdIZUFqYkh6SlhHSGlDMXdVM1dHSVpSUFJzdEJza1c5SVhnMnZMTDdCYno1NjJnNW04Q3BkenNVaW5QS01IaUswMmVLLWdscmRnaUJsRUtPencyakxtY1JLdWxvci1Pc1hMWjdN0gHMAUFVX3lxTFBnVVlqWXFHbGdkWXg3VUFaMTF0OFdLS3VYb1dEeTVMWk1NaGdsQ3FfdVdNVFZtUDhlY2hzblk4Zk16elZzWWdjMnB5WWNIYjV4bzc5MTN5Z1ljMHRzVTVmQ0ZZN1p4cnNLQzBHMzF2Qko0ZFRWaTEzOHFhLXJJX0JObnFnNmYtbVR0a0VxMXlEWmZiQWFlcG93YnItNlBUc1M3RXZDa2JETFltODhDakRodThCR2oyUmtqbFlLd25EaWpfTGNuMUpDRDJjcQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 11:12:04 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 11:12:04 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "ABP Live English",
-        "Aviation Jeta"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Road delay or diversion possible."
-      ]
-    },
-    {
       "id": "crime files how a gang stealing tractors farm equipment was busted",
       "title": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
       "summary": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
@@ -217,6 +183,39 @@
       "action": "Be cautious in the affected area.",
       "correlation": [
         "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "delhi rains 14 flights diverted 150 delayed as heavy rain triggers traffic chaos",
+      "title": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
+      "summary": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
+      "source": "ABP Live English",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGdHd3NvUmlZUGRRT2c3SEkyaU1QSTM5OEQ2d0ZiNW1Ra2NlcXpwRk9ZVmNrRnlJY0ZNME5id0ZOTjktNEpGWml6ZW9PWEQtbjdXSzUySEZNLWVsT3lRVTU1RDdIZUFqYkh6SlhHSGlDMXdVM1dHSVpSUFJzdEJza1c5SVhnMnZMTDdCYno1NjJnNW04Q3BkenNVaW5QS01IaUswMmVLLWdscmRnaUJsRUtPencyakxtY1JLdWxvci1Pc1hMWjdN0gHMAUFVX3lxTFBnVVlqWXFHbGdkWXg3VUFaMTF0OFdLS3VYb1dEeTVMWk1NaGdsQ3FfdVdNVFZtUDhlY2hzblk4Zk16elZzWWdjMnB5WWNIYjV4bzc5MTN5Z1ljMHRzVTVmQ0ZZN1p4cnNLQzBHMzF2Qko0ZFRWaTEzOHFhLXJJX0JObnFnNmYtbVR0a0VxMXlEWmZiQWFlcG93YnItNlBUc1M3RXZDa2JETFltODhDakRodThCR2oyUmtqbFlLd25EaWpfTGNuMUpDRDJjcQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:12:04 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 11:12:04 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ABP Live English"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
       ]
     },
     {
@@ -353,19 +352,42 @@
       ]
     },
     {
-      "id": "rain alert शेतकऱ्यांसाठी दिलासादायक बातमी पुढील 72 तासांत पावसाचा जोर वाढणार 5 जिल्ह्यांना",
-      "title": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
-      "summary": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "मुंबई पुणे नाशिक रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट भारतातील 25 राज्यात हवामा",
+      "title": "मुंबई, पुणे, नाशिक, रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट; भारतातील 25 राज्यात हवामान बिघडणार",
+      "summary": "मुंबई, पुणे, नाशिक, रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट; भारतातील 25 राज्यात हवामान बिघडणार",
+      "source": "Zee News + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGVBTUVsVUZHUEkxYU5meUJMcENucmlhV2dYQXFQbjhWZ3JjUnpLYkRGZUpDbFN0WGFWbXFOVUhlVDlKcmNrbEFwTHFiZnpiSk1OaHpTeTdpNTIwWGJnMDVwSFpYYUR6VmFtTll4a2N4Z2E2c1BxMndRdjZxcjhwYm0tVHBlZkRhR0FuUFRfLVRoXzY3?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 16:21:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTWhZaGNaVzU5eUg5ZFo3LXM4WGw3Y3BZNkJ1UjF1QkFzaTQxLURuc3dUYmhQZWxONzJULTZOXzFQMVU0ZkRDcDR0OTVlV2dZR1VWaDFvaG5nbVIxNGRwTGZYWVFQdWxlR25wZjFfTTZ5N3ZWRjRXclZpeXdyRThDQUE5TXo4dW93UjV4Qi1rTFRxbnBoLUNfY0pJamxXaDdIcGJmdXVzdDVyZmZ0blREY2hsR1dJM2xnTjhBVkNybWpwdEZkakdyU3NRV1NVdkFGUDUyUGNwcEZ0eDFTWlJpcXFGcUhob1VlYU1mZGwwU3E1ZHh6bmRBakZLR21QLUg3VWRrSzlXUTcwbGtTZ2FCTWdTTjZEaUpZcnc40gGgAkFVX3lxTE04T2IzZmpsdldFZXgteE1Ga3dWbzFwMVhLbDRZVFU2UnNOWmFHV0FsS0hhUXJLZjZ0elB3UFRJRXB0NVBySlE0V2VSNndaNzd5R3NRcFhJdDZUWWtRRE83dnJ5QVR3UlFJZTBVZUV3VEdIWGFqSkFoWHlCa0dTXzBaS1I3YnoySW5HVzBNQkJyUVJLTjI2MDRmSW01YUNKMC11OGxfNzJmcW04UWtUTzh2TGxjZVlBTFFpV2NQRy1RMU81c201ZkhHZ0RZUUxIWDVDdWprTGRPeTBfTHBpSm9xYWhNdlBqU0Rmd1REZnphRnctQS1vTC10RjdmMEU3dWVST2NvYk5uOGllYUNyNnhrQ1Zldy1MYjZZeDVaTldhNw?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:30:34 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 17:30:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
+        "Zee News",
         "maharashtradesha.com"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "15 delhi bound flights diverted amid heavy rain several parts of city waterlogged",
+      "title": "15 Delhi-bound flights diverted amid heavy rain; several parts of city waterlogged",
+      "summary": "15 Delhi-bound flights diverted amid heavy rain; several parts of city waterlogged",
+      "source": "The New Indian Express + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUklHeXVNYU9fNTA1ZjN6aEFDUDNPZ0puVjY3UlRPdk8wYmI0bVhzRFJwWnFBcXB6SjN5cjNoMHJ3NUpwcjZONFVuQXJsUlR1V0htR0ViRTdfS3p5S2w3WHBwc3pjVnNaTFZlSk5DMXJJMUw3N29wZThCenQ2ZVFmLV9OeVZaYXhlNEMwcklTSU1JQ01jc0FQU2lEZ1BiQ3RmTVluUDNDWlRpdjNBb0EzOTFrY3JtNkZ4Nlh0UXdlZVVRUjRNNElhVV9sRElKMTRnR3Zpb9IB4gFBVV95cUxPSUM3OFhmU3hHR0ZOdVl5WDBFM0FhX0JVLWVnS1dVWjV5aW1VMFg3T1hCdFd6SElITlZ2UWcyb1QzQTF1ell4Um5EVnZBeV9KTzMzcURFX2xKa0FuR1RkOXFxVkJpRHFWdkdoM2stcTBUNm1RbF9iZ1phQ2VHak8xdjlEWEs0NFlXSmp2UjV4NmtLNTZUZ05oeldaalQ3Z2xSMG5PSWFSQmZocUNZNGxFaVNWRnBXdnNXeGdIV250WkNOQ3JLTUxjYVZja1FQZDV5MjJyNVFESF9VX1ZobXZ1VHhn?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:46:09 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 13:46:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The New Indian Express",
+        "Aviation Jeta"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -400,6 +422,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "rain alert शेतकऱ्यांसाठी दिलासादायक बातमी पुढील 72 तासांत पावसाचा जोर वाढणार 5 जिल्ह्यांना",
+      "title": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
+      "summary": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWV6NTI1eGRfUkRyOEliYUFGSnZrV0lQUVhrZExzaU80Z3dFRFJBaTVCeWhyWV9WTlNaR3dfNktUYWhaZGMzdkswdEUwTk5IWEI3U0FWczNZb0c1MGdNcXItbU1MNS1xRnJmd19ER3NyNFVhTXMyaFh4UTBtWFVsOG1hTTFkenFfMXRsMVlnWXlOeDJWWlE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "bade mudde भाजप विरुद्ध काँग्रेस प्रवक्ते चर्चेत काय सुनावलं rahul gandhi congress",
@@ -518,8 +565,8 @@
       "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUM1TDFIRHd2MkhCel9VQUlPY1M3MGZVYlhwUlA1MFlEVWc3OXpsdDNIU09zYWE1UXNGaHFDM2lsYzBFWFlmZkRPZE9kNHdINW43dHRLd1FiNEpGVkN5OFBHTklWcHVyOGVUN0lDUDVsSFJtYmN0NGNYYWY2UkdxLUk1ZmhBYVRNcjl4a1FaN1VFRUhzMHh3eTVRU1VhTWtYamo2SE9UcmludWg0RnNPdmdxS1Fzdw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:02:58 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 14:02:58 GMT",
+      "pubDate": "Mon, 24 Aug 2026 14:03:06 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 14:03:06 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -628,18 +675,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "अहिल्यानगर सांगली नाशिक नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट मंत्रिमंडळ बैठकीचे धडाकेबा",
-      "title": "अहिल्यानगर, सांगली, नाशिक, नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट, मंत्रिमंडळ बैठकीचे धडाकेबाज निर्णय",
-      "summary": "अहिल्यानगर, सांगली, नाशिक, नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट, मंत्रिमंडळ बैठकीचे धडाकेबाज निर्णय",
-      "source": "News18 Marathi",
+      "id": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं उपस्थित नर्सने घटनाक्रम सांगितला अमरावती अमरावतीतील रु",
+      "title": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं? उपस्थित नर्सने घटनाक्रम सांगितला अमरावती : अमरावतीतील रुग्णालयात आग लागल्याच्या घटनेनंतर त्या वेळी उपस्थित असलेल्या एका नर्सने आग लागल्यानंतर",
+      "summary": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं? उपस्थित नर्सने घटनाक्रम सांगितला अमरावती : अमरावतीतील रुग्णालयात आग लागल्याच्या घटनेनंतर त्या वेळी उपस्थित असलेल्या एका नर्सने आग लागल्यानंतर",
+      "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMTlMb3lKQ1JnS1EtbkJZTmliNzFXV3p2N0lPS1VaelFBc2JuZVpQZHUzWVc1Ymd4Z2xQOUNYNTZKSk13WU9ENDNMenV3X09xWHJJeGJOVlBQaldtX3FTcHp6RlEtTGp1Y3hZajc4RTZ2X212dlROaDFQQ1VsUTZFNlVtNUNucVhJTXZ0dVdlZUNfUHo3WEtTeVJURDRRS25qcEtoVThPWlZjbDl6d3NNUkVQVll0bGlKd2JxbF9icFhPR1Jwd0dYVndYb0UwbGl5MnR2WmxrZDZVczBxUjNZbGJUZHNlUXhqLXVxQXFUdFc1TUJPalVyWTBmZkQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 12:21:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 12:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rSVdKZmFBaVRWOERnOXNrbmpIY0txVTB6ZkkyOWtoalBFczlNN1VJODd0WGxwY0hzc0V0RDcyWlh0SW9JcDNZZzZ1R3JJX055NXBaNmFR?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:30:56 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 11:30:56 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -816,7 +863,7 @@
       "id": "rto number plate पुणेकरांसाठी mh 12 ऐवजी mh 61 पण किती दिवस",
       "title": "Pune RTO Number Plate : पुणेकरांसाठी MH 12 ऐवजी MH 61; पण किती दिवस ?",
       "summary": "Pune RTO Number Plate : पुणेकरांसाठी MH 12 ऐवजी MH 61; पण किती दिवस ?",
-      "source": "marathi.hindusthanpost.com",
+      "source": "HindusthanPost",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXBwVksyMjVCZHNjOGRZWnBfSHNJa3RCQl92NERmcElpcmRHdnR4N3ltOGU3R2t0NHhKcGotNGh2V3V5TUZUbnZibWVuejJzQUZVYmFhWmhOZS00dFg4U0tVNEpXTEZvNFhrdTY5eS1fZ1J2NXdtdFRuRVlHMzljNUVLcms3bERaLTdhVTRBUmRCOWoy?oc=5",
       "pubDate": "Mon, 24 Aug 2026 09:00:24 GMT",
@@ -824,29 +871,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.hindusthanpost.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पाकिस्तानचे आणखी तुकडे होणार बलुचिस्ताननंतर सिंधुदेश अस्तित्वात येणार संपूर्ण देश गृहयुद्ध",
-      "title": "पाकिस्तानचे आणखी तुकडे होणार, बलुचिस्ताननंतर ‘सिंधुदेश’ अस्तित्वात येणार? संपूर्ण देश गृहयुद्धाच्या उंबरठ्यावर",
-      "summary": "पाकिस्तानचे आणखी तुकडे होणार, बलुचिस्ताननंतर ‘सिंधुदेश’ अस्तित्वात येणार? संपूर्ण देश गृहयुद्धाच्या उंबरठ्यावर",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSHRwaWIwU3FDMHhqMU1SWFZSWlJuUy1TanU2SjB4NUNpSkprdHhURHljalBoaWRkaGlTRzlIUUhibS1EX3UzU3ZwUlBYOFAxRDAyS1RqaF9RMnQwLXZzZlNfUC05Z2hmcHNQVXFqYTZURnNlVm9Kb0pHRzk4U09KNDc3QTItQmVaUHltMlRtSWd2Ri1LZWxiMG14TVNpWXFldC0xTXJfd1didlBWVTgzd0VQeHNwaXdXVldnR1FoQ2docEs2bkU5bjNHRWozVTVPZWFUd2tZd3pRVmVaWnZ2STNjLTRWYS1NbzVRSTRMdnJtLTFZOERKR3FDMHdqcVVtSElvQW9sYWt1QTRzdUl4RVNXUjkwaHlJS1hkd0hZTWlJTHhCeV9n?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 08:58:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 08:58:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
+        "HindusthanPost"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -970,18 +995,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "manoj jarange patil press आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा maraha reserva",
-      "title": "Manoj Jarange Patil Press | आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा | Maraha Reservation",
-      "summary": "Manoj Jarange Patil Press | आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा | Maraha Reservation",
-      "source": "News18 Marathi",
+      "id": "priyanka chopra pays emotional tribute to late father on his birth anniversary",
+      "title": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
+      "summary": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
+      "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjFKWlpCLXh0OEtaQVFUMHFNMGZwSVdsMzJkZ3k1U0gxWTdCdFdmT2NNdHRPVXZnSnhVdThOeF91Si1vdUctWVc3amJ3NmsybVlBaVR6X2hJZ0piWWZwdDd4SzUtWkZYcTVoREJHNFJmRmsxdkMya0RPY2UwNXRMMkg0ei1VQ2l2TUFMTE1ZY1BySFlnb1haWTJUdzZJS0k3RjM0cQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 07:09:29 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 07:09:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN20tVzF3RE0welRCM2dZb1V1NkdLTjNKN2tfWE95LTduX2dIckdaU2Q0Nm9aY2ZGcEZJTnRtTWFGbXdCQU5kc2VUX0lRRFNya1BHZHdFaEVJVWlUT2x5Ukw1YS1DQkFkX2Q0clI5SEphakR1ZDlYamRROTdCLU5GNjRRQkJ3LXNBaW5UcFdwLUNzdlJGbmNMMzlKdHN2cmEwdVIyQ3kyMy0zWU5LaHY2czdKUG5uV3I4ZDY2Nlhn0gHDAUFVX3lxTE96T3RTWHZMYm5aU1d4dDkzazdId0hNSzd6ZFdlTHpRQTV1NXlySHQ5Mml5dmpxc3ZDTXFEVTFkLUZKZVVkaldRWTdXUHo2SmJMSDg5bWFNYlBhUWszUFhjbUV2RmQzRDk0WGwya1JCTVVEMDZNWEVTb3VtRnVadjVJV1ZGRm1kejNLUUtrWnRWRzYyZDBJWG1uZE5ENHpMeUZ3dFVtdDZvNTFGOUttb29yeFdtTFhhZXdQMmxDY2trRVJRQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 05:43:32 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 05:43:32 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1004,28 +1029,6 @@
       "region": "pune",
       "sources": [
         "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "kaziah liz mejo crowned miss universe india 2026",
-      "title": "Kaziah Liz Mejo crowned Miss Universe India 2026",
-      "summary": "Kaziah Liz Mejo crowned Miss Universe India 2026",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHNlUTRnSmllVS11Ym5DMWZLQUhVN1F1WmNHQUk1OEpHb0hEaXVoX3BHcGhYNmVTNE5pdU96ZjFyUGFfTjNkcFhFbTM2dkM4UVpNdnNiZ3lUYzI3bV9yWVNYcnhEcWFnOWRvRzdSbzVoLU5KRVI4QndET2pTR2dYM0RRV284RFpoNVZNNDZabnJ4QlI0LWfSAZsBQVVfeXFMTWhxc3JINXRWaTRRMzVFTTY1WVFEZlE1SlA5UzlGOFhmQ1VXQXdERGR5UmRpYTR1VzhET2dqa0Mzb0htZWhQQXdFd1FMYk9BbWwwUWtlQVVocE5LWHd0ZlFVMlhvLW1fVFFwRzlHVTc3RndndE9mX04wZlRoNzVfTTZ0czRYQ2Noc0x1bDIydmwwd3VHNl9Ebnp1X1E?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 05:28:26 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 05:28:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1274,28 +1277,6 @@
       "region": "pcmc",
       "sources": [
         "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "priyanka chopra wishes late father dr ashok chopra a heavenly birthday on his 76th birth a",
-      "title": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
-      "summary": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2ZSWWxvRE4yYjVjcnRSNWNpcnJUS05zSjhVeEdvMUZMUjVoajViNTlCLW9SVF9pLUtyYlJJN0hkeWZhajRvTGdSLWlRZFlMMXJMZUhkTWpQRmFCWUxrV2d6eXFoaWFjbkF4d2xyc0NjZGNnbUQwMVJOVk9zOEJvV2VzS3hXYVFLQ1NjVEdOdWdZbHJQUmxJNU40cHJwcVJtY2ZQeUhscU5tV25MdkRNTEFTRkd5R1dqSDdtY1pFdFA5ZzlYY0FaZlFhZFFHM0M0ZkJ5MUVoUzJYRk3SAeABQVVfeXFMTTl1aE1INFpfTmhYQl9oQ0J6eFdwcVoyQkpNMmp2UUJ2dGJoVWo1YnZfaHRfbFV4b1FXeFlOQ3JVSXNrSmtxbXJPeGlTTEZiVEJ4dXUzZlB4QzJJMlMtaThmb0dCUjZEOG1aaURGM3FJVHptQWtwRFdlNHhPdTYtVWtGVTJhc0FJMmdlRlpYZF9udkRqYXI5bXQ4WU9fWGVlTWNPbUt4cFRkTUJQb09yVzJJR0lSU0lsc1NabTNLc015cjJrMURhRjA4SVdpcFZHeHRTXzVPa0xCcDBhVXNDdks?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 03:08:21 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 03:08:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1616,36 +1597,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "delhi rains 14 flights diverted 150 delayed as heavy rain triggers traffic chaos",
-      "title": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
-      "summary": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
-      "source": "ABP Live English + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGdHd3NvUmlZUGRRT2c3SEkyaU1QSTM5OEQ2d0ZiNW1Ra2NlcXpwRk9ZVmNrRnlJY0ZNME5id0ZOTjktNEpGWml6ZW9PWEQtbjdXSzUySEZNLWVsT3lRVTU1RDdIZUFqYkh6SlhHSGlDMXdVM1dHSVpSUFJzdEJza1c5SVhnMnZMTDdCYno1NjJnNW04Q3BkenNVaW5QS01IaUswMmVLLWdscmRnaUJsRUtPencyakxtY1JLdWxvci1Pc1hMWjdN0gHMAUFVX3lxTFBnVVlqWXFHbGdkWXg3VUFaMTF0OFdLS3VYb1dEeTVMWk1NaGdsQ3FfdVdNVFZtUDhlY2hzblk4Zk16elZzWWdjMnB5WWNIYjV4bzc5MTN5Z1ljMHRzVTVmQ0ZZN1p4cnNLQzBHMzF2Qko0ZFRWaTEzOHFhLXJJX0JObnFnNmYtbVR0a0VxMXlEWmZiQWFlcG93YnItNlBUc1M3RXZDa2JETFltODhDakRodThCR2oyUmtqbFlLd25EaWpfTGNuMUpDRDJjcQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 11:12:04 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 11:12:04 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "ABP Live English",
-        "Aviation Jeta"
-      ],
-      "confidence": "Medium",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "crime files how a gang stealing tractors farm equipment was busted",
       "title": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
       "summary": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
@@ -1704,6 +1655,35 @@
       "icon": "⚠️",
       "critical": false,
       "action": "Be cautious in the affected area."
+    },
+    {
+      "id": "delhi rains 14 flights diverted 150 delayed as heavy rain triggers traffic chaos",
+      "title": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
+      "summary": "Delhi Rains: 14 Flights Diverted, 150 Delayed As Heavy Rain Triggers Traffic Chaos",
+      "source": "ABP Live English",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGdHd3NvUmlZUGRRT2c3SEkyaU1QSTM5OEQ2d0ZiNW1Ra2NlcXpwRk9ZVmNrRnlJY0ZNME5id0ZOTjktNEpGWml6ZW9PWEQtbjdXSzUySEZNLWVsT3lRVTU1RDdIZUFqYkh6SlhHSGlDMXdVM1dHSVpSUFJzdEJza1c5SVhnMnZMTDdCYno1NjJnNW04Q3BkenNVaW5QS01IaUswMmVLLWdscmRnaUJsRUtPencyakxtY1JLdWxvci1Pc1hMWjdN0gHMAUFVX3lxTFBnVVlqWXFHbGdkWXg3VUFaMTF0OFdLS3VYb1dEeTVMWk1NaGdsQ3FfdVdNVFZtUDhlY2hzblk4Zk16elZzWWdjMnB5WWNIYjV4bzc5MTN5Z1ljMHRzVTVmQ0ZZN1p4cnNLQzBHMzF2Qko0ZFRWaTEzOHFhLXJJX0JObnFnNmYtbVR0a0VxMXlEWmZiQWFlcG93YnItNlBUc1M3RXZDa2JETFltODhDakRodThCR2oyUmtqbFlLd25EaWpfTGNuMUpDRDJjcQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:12:04 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 11:12:04 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ABP Live English"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
     },
     {
       "id": "chhatrapati sambhajinagar msedcl stresses electricity safety in daily operations",
@@ -1854,19 +1834,42 @@
       "action": "No immediate action required."
     },
     {
-      "id": "rain alert शेतकऱ्यांसाठी दिलासादायक बातमी पुढील 72 तासांत पावसाचा जोर वाढणार 5 जिल्ह्यांना",
-      "title": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
-      "summary": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "मुंबई पुणे नाशिक रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट भारतातील 25 राज्यात हवामा",
+      "title": "मुंबई, पुणे, नाशिक, रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट; भारतातील 25 राज्यात हवामान बिघडणार",
+      "summary": "मुंबई, पुणे, नाशिक, रत्नागिरीसह महाराष्ट्रातील 14 जिल्ह्यांना अलर्ट; भारतातील 25 राज्यात हवामान बिघडणार",
+      "source": "Zee News + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGVBTUVsVUZHUEkxYU5meUJMcENucmlhV2dYQXFQbjhWZ3JjUnpLYkRGZUpDbFN0WGFWbXFOVUhlVDlKcmNrbEFwTHFiZnpiSk1OaHpTeTdpNTIwWGJnMDVwSFpYYUR6VmFtTll4a2N4Z2E2c1BxMndRdjZxcjhwYm0tVHBlZkRhR0FuUFRfLVRoXzY3?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 16:21:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTWhZaGNaVzU5eUg5ZFo3LXM4WGw3Y3BZNkJ1UjF1QkFzaTQxLURuc3dUYmhQZWxONzJULTZOXzFQMVU0ZkRDcDR0OTVlV2dZR1VWaDFvaG5nbVIxNGRwTGZYWVFQdWxlR25wZjFfTTZ5N3ZWRjRXclZpeXdyRThDQUE5TXo4dW93UjV4Qi1rTFRxbnBoLUNfY0pJamxXaDdIcGJmdXVzdDVyZmZ0blREY2hsR1dJM2xnTjhBVkNybWpwdEZkakdyU3NRV1NVdkFGUDUyUGNwcEZ0eDFTWlJpcXFGcUhob1VlYU1mZGwwU3E1ZHh6bmRBakZLR21QLUg3VWRrSzlXUTcwbGtTZ2FCTWdTTjZEaUpZcnc40gGgAkFVX3lxTE04T2IzZmpsdldFZXgteE1Ga3dWbzFwMVhLbDRZVFU2UnNOWmFHV0FsS0hhUXJLZjZ0elB3UFRJRXB0NVBySlE0V2VSNndaNzd5R3NRcFhJdDZUWWtRRE83dnJ5QVR3UlFJZTBVZUV3VEdIWGFqSkFoWHlCa0dTXzBaS1I3YnoySW5HVzBNQkJyUVJLTjI2MDRmSW01YUNKMC11OGxfNzJmcW04UWtUTzh2TGxjZVlBTFFpV2NQRy1RMU81c201ZkhHZ0RZUUxIWDVDdWprTGRPeTBfTHBpSm9xYWhNdlBqU0Rmd1REZnphRnctQS1vTC10RjdmMEU3dWVST2NvYk5uOGllYUNyNnhrQ1Zldy1MYjZZeDVaTldhNw?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:30:34 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 17:30:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
+        "Zee News",
         "maharashtradesha.com"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "15 delhi bound flights diverted amid heavy rain several parts of city waterlogged",
+      "title": "15 Delhi-bound flights diverted amid heavy rain; several parts of city waterlogged",
+      "summary": "15 Delhi-bound flights diverted amid heavy rain; several parts of city waterlogged",
+      "source": "The New Indian Express + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUklHeXVNYU9fNTA1ZjN6aEFDUDNPZ0puVjY3UlRPdk8wYmI0bVhzRFJwWnFBcXB6SjN5cjNoMHJ3NUpwcjZONFVuQXJsUlR1V0htR0ViRTdfS3p5S2w3WHBwc3pjVnNaTFZlSk5DMXJJMUw3N29wZThCenQ2ZVFmLV9OeVZaYXhlNEMwcklTSU1JQ01jc0FQU2lEZ1BiQ3RmTVluUDNDWlRpdjNBb0EzOTFrY3JtNkZ4Nlh0UXdlZVVRUjRNNElhVV9sRElKMTRnR3Zpb9IB4gFBVV95cUxPSUM3OFhmU3hHR0ZOdVl5WDBFM0FhX0JVLWVnS1dVWjV5aW1VMFg3T1hCdFd6SElITlZ2UWcyb1QzQTF1ell4Um5EVnZBeV9KTzMzcURFX2xKa0FuR1RkOXFxVkJpRHFWdkdoM2stcTBUNm1RbF9iZ1phQ2VHak8xdjlEWEs0NFlXSmp2UjV4NmtLNTZUZ05oeldaalQ3Z2xSMG5PSWFSQmZocUNZNGxFaVNWRnBXdnNXeGdIV250WkNOQ3JLTUxjYVZja1FQZDV5MjJyNVFESF9VX1ZobXZ1VHhn?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:46:09 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 13:46:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The New Indian Express",
+        "Aviation Jeta"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -1892,6 +1895,28 @@
         "Mumbai Tak"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain alert शेतकऱ्यांसाठी दिलासादायक बातमी पुढील 72 तासांत पावसाचा जोर वाढणार 5 जिल्ह्यांना",
+      "title": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
+      "summary": "Rain Alert : शेतकऱ्यांसाठी दिलासादायक बातमी! पुढील 72 तासांत पावसाचा जोर वाढणार; 5 जिल्ह्यांना यलो अलर्ट",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWV6NTI1eGRfUkRyOEliYUFGSnZrV0lQUVhrZExzaU80Z3dFRFJBaTVCeWhyWV9WTlNaR3dfNktUYWhaZGMzdkswdEUwTk5IWEI3U0FWczNZb0c1MGdNcXItbU1MNS1xRnJmd19ER3NyNFVhTXMyaFh4UTBtWFVsOG1hTTFkenFfMXRsMVlnWXlOeDJWWlE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 16:21:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -2016,8 +2041,8 @@
       "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUM1TDFIRHd2MkhCel9VQUlPY1M3MGZVYlhwUlA1MFlEVWc3OXpsdDNIU09zYWE1UXNGaHFDM2lsYzBFWFlmZkRPZE9kNHdINW43dHRLd1FiNEpGVkN5OFBHTklWcHVyOGVUN0lDUDVsSFJtYmN0NGNYYWY2UkdxLUk1ZmhBYVRNcjl4a1FaN1VFRUhzMHh3eTVRU1VhTWtYamo2SE9UcmludWg0RnNPdmdxS1Fzdw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:02:58 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 14:02:58 GMT",
+      "pubDate": "Mon, 24 Aug 2026 14:03:06 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 14:03:06 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2120,18 +2145,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "अहिल्यानगर सांगली नाशिक नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट मंत्रिमंडळ बैठकीचे धडाकेबा",
-      "title": "अहिल्यानगर, सांगली, नाशिक, नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट, मंत्रिमंडळ बैठकीचे धडाकेबाज निर्णय",
-      "summary": "अहिल्यानगर, सांगली, नाशिक, नागपूरसाठी मंत्रिमंडळ बैठकीत मोठं गिफ्ट, मंत्रिमंडळ बैठकीचे धडाकेबाज निर्णय",
-      "source": "News18 Marathi",
+      "id": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं उपस्थित नर्सने घटनाक्रम सांगितला अमरावती अमरावतीतील रु",
+      "title": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं? उपस्थित नर्सने घटनाक्रम सांगितला अमरावती : अमरावतीतील रुग्णालयात आग लागल्याच्या घटनेनंतर त्या वेळी उपस्थित असलेल्या एका नर्सने आग लागल्यानंतर",
+      "summary": "हॉस्पिटलमध्ये आग लागल्यावर काय घडलं? उपस्थित नर्सने घटनाक्रम सांगितला अमरावती : अमरावतीतील रुग्णालयात आग लागल्याच्या घटनेनंतर त्या वेळी उपस्थित असलेल्या एका नर्सने आग लागल्यानंतर",
+      "source": "instagram.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMTlMb3lKQ1JnS1EtbkJZTmliNzFXV3p2N0lPS1VaelFBc2JuZVpQZHUzWVc1Ymd4Z2xQOUNYNTZKSk13WU9ENDNMenV3X09xWHJJeGJOVlBQaldtX3FTcHp6RlEtTGp1Y3hZajc4RTZ2X212dlROaDFQQ1VsUTZFNlVtNUNucVhJTXZ0dVdlZUNfUHo3WEtTeVJURDRRS25qcEtoVThPWlZjbDl6d3NNUkVQVll0bGlKd2JxbF9icFhPR1Jwd0dYVndYb0UwbGl5MnR2WmxrZDZVczBxUjNZbGJUZHNlUXhqLXVxQXFUdFc1TUJPalVyWTBmZkQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 12:21:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 12:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rSVdKZmFBaVRWOERnOXNrbmpIY0txVTB6ZkkyOWtoalBFczlNN1VJODd0WGxwY0hzc0V0RDcyWlh0SW9JcDNZZzZ1R3JJX055NXBaNmFR?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 11:30:56 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 11:30:56 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2299,7 +2324,7 @@
       "id": "rto number plate पुणेकरांसाठी mh 12 ऐवजी mh 61 पण किती दिवस",
       "title": "Pune RTO Number Plate : पुणेकरांसाठी MH 12 ऐवजी MH 61; पण किती दिवस ?",
       "summary": "Pune RTO Number Plate : पुणेकरांसाठी MH 12 ऐवजी MH 61; पण किती दिवस ?",
-      "source": "marathi.hindusthanpost.com",
+      "source": "HindusthanPost",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXBwVksyMjVCZHNjOGRZWnBfSHNJa3RCQl92NERmcElpcmRHdnR4N3ltOGU3R2t0NHhKcGotNGh2V3V5TUZUbnZibWVuejJzQUZVYmFhWmhOZS00dFg4U0tVNEpXTEZvNFhrdTY5eS1fZ1J2NXdtdFRuRVlHMzljNUVLcms3bERaLTdhVTRBUmRCOWoy?oc=5",
       "pubDate": "Mon, 24 Aug 2026 09:00:24 GMT",
@@ -2307,29 +2332,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "marathi.hindusthanpost.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पाकिस्तानचे आणखी तुकडे होणार बलुचिस्ताननंतर सिंधुदेश अस्तित्वात येणार संपूर्ण देश गृहयुद्ध",
-      "title": "पाकिस्तानचे आणखी तुकडे होणार, बलुचिस्ताननंतर ‘सिंधुदेश’ अस्तित्वात येणार? संपूर्ण देश गृहयुद्धाच्या उंबरठ्यावर",
-      "summary": "पाकिस्तानचे आणखी तुकडे होणार, बलुचिस्ताननंतर ‘सिंधुदेश’ अस्तित्वात येणार? संपूर्ण देश गृहयुद्धाच्या उंबरठ्यावर",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSHRwaWIwU3FDMHhqMU1SWFZSWlJuUy1TanU2SjB4NUNpSkprdHhURHljalBoaWRkaGlTRzlIUUhibS1EX3UzU3ZwUlBYOFAxRDAyS1RqaF9RMnQwLXZzZlNfUC05Z2hmcHNQVXFqYTZURnNlVm9Kb0pHRzk4U09KNDc3QTItQmVaUHltMlRtSWd2Ri1LZWxiMG14TVNpWXFldC0xTXJfd1didlBWVTgzd0VQeHNwaXdXVldnR1FoQ2docEs2bkU5bjNHRWozVTVPZWFUd2tZd3pRVmVaWnZ2STNjLTRWYS1NbzVRSTRMdnJtLTFZOERKR3FDMHdqcVVtSElvQW9sYWt1QTRzdUl4RVNXUjkwaHlJS1hkd0hZTWlJTHhCeV9n?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 08:58:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 08:58:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
+        "HindusthanPost"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2450,18 +2453,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "manoj jarange patil press आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा maraha reserva",
-      "title": "Manoj Jarange Patil Press | आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा | Maraha Reservation",
-      "summary": "Manoj Jarange Patil Press | आमरण उपोषण करण्यापूर्वी मनोज जरांगेंची मोठी घोषणा | Maraha Reservation",
-      "source": "News18 Marathi",
+      "id": "priyanka chopra pays emotional tribute to late father on his birth anniversary",
+      "title": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
+      "summary": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
+      "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjFKWlpCLXh0OEtaQVFUMHFNMGZwSVdsMzJkZ3k1U0gxWTdCdFdmT2NNdHRPVXZnSnhVdThOeF91Si1vdUctWVc3amJ3NmsybVlBaVR6X2hJZ0piWWZwdDd4SzUtWkZYcTVoREJHNFJmRmsxdkMya0RPY2UwNXRMMkg0ei1VQ2l2TUFMTE1ZY1BySFlnb1haWTJUdzZJS0k3RjM0cQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 07:09:29 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 07:09:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN20tVzF3RE0welRCM2dZb1V1NkdLTjNKN2tfWE95LTduX2dIckdaU2Q0Nm9aY2ZGcEZJTnRtTWFGbXdCQU5kc2VUX0lRRFNya1BHZHdFaEVJVWlUT2x5Ukw1YS1DQkFkX2Q0clI5SEphakR1ZDlYamRROTdCLU5GNjRRQkJ3LXNBaW5UcFdwLUNzdlJGbmNMMzlKdHN2cmEwdVIyQ3kyMy0zWU5LaHY2czdKUG5uV3I4ZDY2Nlhn0gHDAUFVX3lxTE96T3RTWHZMYm5aU1d4dDkzazdId0hNSzd6ZFdlTHpRQTV1NXlySHQ5Mml5dmpxc3ZDTXFEVTFkLUZKZVVkaldRWTdXUHo2SmJMSDg5bWFNYlBhUWszUFhjbUV2RmQzRDk0WGwya1JCTVVEMDZNWEVTb3VtRnVadjVJV1ZGRm1kejNLUUtrWnRWRzYyZDBJWG1uZE5ENHpMeUZ3dFVtdDZvNTFGOUttb29yeFdtTFhhZXdQMmxDY2trRVJRQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 05:43:32 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 05:43:32 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2484,28 +2487,6 @@
       "region": "pune",
       "sources": [
         "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "kaziah liz mejo crowned miss universe india 2026",
-      "title": "Kaziah Liz Mejo crowned Miss Universe India 2026",
-      "summary": "Kaziah Liz Mejo crowned Miss Universe India 2026",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHNlUTRnSmllVS11Ym5DMWZLQUhVN1F1WmNHQUk1OEpHb0hEaXVoX3BHcGhYNmVTNE5pdU96ZjFyUGFfTjNkcFhFbTM2dkM4UVpNdnNiZ3lUYzI3bV9yWVNYcnhEcWFnOWRvRzdSbzVoLU5KRVI4QndET2pTR2dYM0RRV284RFpoNVZNNDZabnJ4QlI0LWfSAZsBQVVfeXFMTWhxc3JINXRWaTRRMzVFTTY1WVFEZlE1SlA5UzlGOFhmQ1VXQXdERGR5UmRpYTR1VzhET2dqa0Mzb0htZWhQQXdFd1FMYk9BbWwwUWtlQVVocE5LWHd0ZlFVMlhvLW1fVFFwRzlHVTc3RndndE9mX04wZlRoNzVfTTZ0czRYQ2Noc0x1bDIydmwwd3VHNl9Ebnp1X1E?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 05:28:26 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 05:28:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2761,28 +2742,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "priyanka chopra wishes late father dr ashok chopra a heavenly birthday on his 76th birth a",
-      "title": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
-      "summary": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2ZSWWxvRE4yYjVjcnRSNWNpcnJUS05zSjhVeEdvMUZMUjVoajViNTlCLW9SVF9pLUtyYlJJN0hkeWZhajRvTGdSLWlRZFlMMXJMZUhkTWpQRmFCWUxrV2d6eXFoaWFjbkF4d2xyc0NjZGNnbUQwMVJOVk9zOEJvV2VzS3hXYVFLQ1NjVEdOdWdZbHJQUmxJNU40cHJwcVJtY2ZQeUhscU5tV25MdkRNTEFTRkd5R1dqSDdtY1pFdFA5ZzlYY0FaZlFhZFFHM0M0ZkJ5MUVoUzJYRk3SAeABQVVfeXFMTTl1aE1INFpfTmhYQl9oQ0J6eFdwcVoyQkpNMmp2UUJ2dGJoVWo1YnZfaHRfbFV4b1FXeFlOQ3JVSXNrSmtxbXJPeGlTTEZiVEJ4dXUzZlB4QzJJMlMtaThmb0dCUjZEOG1aaURGM3FJVHptQWtwRFdlNHhPdTYtVWtGVTJhc0FJMmdlRlpYZF9udkRqYXI5bXQ4WU9fWGVlTWNPbUt4cFRkTUJQb09yVzJJR0lSU0lsc1NabTNLc015cjJrMURhRjA4SVdpcFZHeHRTXzVPa0xCcDBhVXNDdks?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 03:08:21 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 03:08:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "maharashtra weather आजचे हवामान 24 ऑगस्ट राज्यातील वातावरणात अचानक बदल सोमवारी या जिल्ह्या",
       "title": "Maharashtra Weather Today (आजचे हवामान, 24 ऑगस्ट): राज्यातील वातावरणात अचानक बदल; सोमवारी 'या' जिल्ह्यांमध्ये",
       "summary": "Maharashtra Weather Today (आजचे हवामान, 24 ऑगस्ट): राज्यातील वातावरणात अचानक बदल; सोमवारी 'या' जिल्ह्यांमध्ये",
@@ -3007,8 +2966,8 @@
   ],
   "summary": {
     "total": 68,
-    "alerts": 9,
-    "news": 59
+    "alerts": 10,
+    "news": 58
   },
-  "cleanedAt": "2026-08-24T17:04:51.692Z"
+  "cleanedAt": "2026-08-24T17:55:45.165Z"
 }
