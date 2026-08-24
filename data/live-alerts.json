@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:24:54.166Z",
+  "generatedAt": "2026-08-24T21:51:56.373Z",
   "status": "ok",
   "alerts": [
     {
@@ -18,6 +18,39 @@
         "NativePlanet"
       ],
       "confidence": "Medium",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
+    },
+    {
+      "id": "delhi ncr braces for more rain in next 1 3 hours as imd red alert traffic chaos grip city",
+      "title": "Delhi-NCR Braces For More Rain In Next 1-3 Hours As IMD Red Alert, Traffic Chaos Grip City",
+      "summary": "Delhi-NCR Braces For More Rain In Next 1-3 Hours As IMD Red Alert, Traffic Chaos Grip City",
+      "source": "News18",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkN5N09JV0JOWmtRN05KLWc5clQxVkRlSjZoMUF6ak4zUjZoUkdLRi1kd29nR2RYMVRham5LaU5ycmFtRXlmZ2hjQWh6RUR1Q0t0ZDhNWF9xVVBVNmRKZ0JOWUlJRjdZX09LYWtTNW1fM3Vha3ZYUFpET2c3ZnpjMzVRNEVzaXRKTHBac2VmbkJsbFVESHBIZ1NNVk9nQW5nanpFQWFrVUlEM2VvY1BmQThBUENjUlhoYU0tVE11Q0l6SEItX2FlM3AyM0hjRHlzLVZmNW43bjBxUmlnUUVfQ3lB0gHnAUFVX3lxTE11bFJUX1R2cFoyX2paN2dGQTFfMHFkWTFkeENhWFNhaW1fT2VlRkR1SktGTi1SQnpzNm0zYm9meDlMQzJkalJWQ2t5bWF3UGhWX2wxNHNCUlFtT093eVRmeDcyU3dXdmV6aVo3MUpKYnFXMlBFdUg0VjEtVHk3T3lObkVfeUp4cXg3NVhSVW9QSzYyZmYyVGZWTlUxUFhUeFhyazI5dFVLZXJpeUJGOFpuOWJoSkZvQkhLd0M1SGRpN251akdfNGFzd3VUcXBXLXZOZVJBVFAyOU50MUtpdGZXUHRNTXBjNA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 06:50:19 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 06:50:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18"
+      ],
+      "confidence": "Single source",
       "w": [
         "red alert",
         "school closed",
@@ -367,6 +400,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुणे गर्दीच्या pmpml बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू मागून आलेल्या स्कूल बसच्या चाकाख",
+      "title": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
+      "summary": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeTNRcDNQcmJQTmVUN1hNNHF0cWV2aXFIMHlReU9PZGxCTU5aYzVTMXdVbjJNbVZsVy1aTG9qbFVPUWZjZ2hwTVRqU2VpSHRkQVE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:08:40 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 21:08:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "राज्यात पुन्हा पावसाचा जोर वाढणार पुणे रायगडमध्ये ऑरेंज अलर्ट सिंधुदुर्गात पूरस्थिती तर वि",
       "title": "राज्यात पुन्हा पावसाचा जोर वाढणार: पुणे, रायगडमध्ये ऑरेंज अलर्ट; सिंधुदुर्गात पूरस्थिती, तर विदर्भासह अनेक ...",
       "summary": "राज्यात पुन्हा पावसाचा जोर वाढणार: पुणे, रायगडमध्ये ऑरेंज अलर्ट; सिंधुदुर्गात पूरस्थिती, तर विदर्भासह अनेक ...",
@@ -495,28 +550,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे गर्दीच्या pmpml बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू मागून आलेल्या स्कूल बसच्या चाकाख",
-      "title": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
-      "summary": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeTNRcDNQcmJQTmVUN1hNNHF0cWV2aXFIMHlReU9PZGxCTU5aYzVTMXdVbjJNbVZsVy1aTG9qbFVPUWZjZ2hwTVRqU2VpSHRkQVE?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 15:21:23 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 15:21:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -919,10 +952,32 @@
       ]
     },
     {
+      "id": "बायको म्हणाली स्वतःला गोळी मार नवऱ्याने खरंच ट्रिगर दाबला कसब्यातील गोळीबारामागचं गूढ वाढल",
+      "title": "Pune News: बायको म्हणाली, स्वतःला गोळी मार, नवऱ्याने खरंच ट्रिगर दाबला? कसब्यातील गोळीबारामागचं गूढ वाढलं",
+      "summary": "Pune News: बायको म्हणाली, स्वतःला गोळी मार, नवऱ्याने खरंच ट्रिगर दाबला? कसब्यातील गोळीबारामागचं गूढ वाढलं",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ3l1cVZhaV9yUXk3T3lzbUpYNVBWYkh5cmVqYUQ4VHBYRHdHSHlvTXRENDlYQW50LWlnMl9mU1hsWUlBSWI5aVRIdFZhUGhoUzdpNmduZWVnVl9xVUxfVXc0QTg5QXdYVVQ0dlNPMzJ1a0REdkYzMWFwTmZoWVIzNUZTSTFaZ1hjZ0ZnT3luMlV2MkoxUlkwZzA5U3RNTjZsSEZ6bkRnT3B6eDV6Q2pvMGFlQ2xKODJ6b1p5NmU4MzJSR3FRZ0g1YzlDdmlCRGJTSGtUQUZwV0NSR3NSRzdnSk1QTjgtVVR4a0lONGpaejAxZDF5b3dsTy1sUXgwVkpqNW9mRGFPdEFid3VRUzdlTW5NNzd1dw?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 09:30:56 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 09:30:56 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rto number plate new mh 12 1a series",
       "title": "Pune RTO Number Plate: New MH-12 1A Series Update",
       "summary": "Pune RTO Number Plate: New MH-12 1A Series Update",
-      "source": "HindusthanPost",
+      "source": "marathi.hindusthanpost.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXBwVksyMjVCZHNjOGRZWnBfSHNJa3RCQl92NERmcElpcmRHdnR4N3ltOGU3R2t0NHhKcGotNGh2V3V5TUZUbnZibWVuejJzQUZVYmFhWmhOZS00dFg4U0tVNEpXTEZvNFhrdTY5eS1fZ1J2NXdtdFRuRVlHMzljNUVLcms3bERaLTdhVTRBUmRCOWoy?oc=5",
       "pubDate": "Mon, 24 Aug 2026 09:00:24 GMT",
@@ -930,7 +985,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "HindusthanPost"
+        "marathi.hindusthanpost.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1077,28 +1132,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "priyanka chopra pays emotional tribute to late father on his birth anniversary",
-      "title": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
-      "summary": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN20tVzF3RE0welRCM2dZb1V1NkdLTjNKN2tfWE95LTduX2dIckdaU2Q0Nm9aY2ZGcEZJTnRtTWFGbXdCQU5kc2VUX0lRRFNya1BHZHdFaEVJVWlUT2x5Ukw1YS1DQkFkX2Q0clI5SEphakR1ZDlYamRROTdCLU5GNjRRQkJ3LXNBaW5UcFdwLUNzdlJGbmNMMzlKdHN2cmEwdVIyQ3kyMy0zWU5LaHY2czdKUG5uV3I4ZDY2Nlhn0gHDAUFVX3lxTE96T3RTWHZMYm5aU1d4dDkzazdId0hNSzd6ZFdlTHpRQTV1NXlySHQ5Mml5dmpxc3ZDTXFEVTFkLUZKZVVkaldRWTdXUHo2SmJMSDg5bWFNYlBhUWszUFhjbUV2RmQzRDk0WGwya1JCTVVEMDZNWEVTb3VtRnVadjVJV1ZGRm1kejNLUUtrWnRWRzYyZDBJWG1uZE5ENHpMeUZ3dFVtdDZvNTFGOUttb29yeFdtTFhhZXdQMmxDY2trRVJRQQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 05:43:32 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 05:43:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     },
     {
       "id": "पुणे बंगळुरू महामार्गाच्या उजव्या लेनमधून ओव्हरलोड ट्रकचा धोकादायक प्रवास वाहनचालकांकडून क",
@@ -1255,6 +1288,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "shaan remembers kk on his 58th birth anniversary during nepal concert",
+      "title": "Shaan remembers KK on his 58th birth anniversary during Nepal live concert",
+      "summary": "Shaan remembers KK on his 58th birth anniversary during Nepal live concert",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnI1X2JCZ3NWd0tUdU5CYmxjdXdnbWVxbUpjZmhPTTNVTHBxckxDaW5LVzhXTXNlU3NCNDJhYUJmbktpd0VybjNLc3FfeF80R2VTYXFSRHpVdXFsVG9xbkxIWEZjai1HVHFpcmVTZEhzbHdVdTNXb0QyWEdwT1J3bS1ZNHE4dy1ueXhQTHFTOS1Uc0xsS2FBcGE1TjZXa2dldmNXNHJXaDZNb1BCLUZqVllWandReDll0gG-AUFVX3lxTE16cHZtanpfSUFZQlBONlB2X2FRalozOXJiMFk4YVBEb1ZtREtrWUFwa0pfNzU0ZE1rU20xTlpOQjFRNm8xVWI0bzU5VEdNaEtldi0zZmRJb3NubVl1WEwwSUdBZlVNekNIX3VkN2U2djJqcWJVeVk5ZzQ3OTItSjVyMzNKa0dFZkZmU19IRkQ0SlYwLVRyS01sX2lZZGhQWXdkSkdYTGhBbkE2NnBPLXgyeXJGbGEyX2ZUa0NGMFE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 04:13:33 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 04:13:33 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "paris hilton celebrates 20 years of her debut album this album will always be so personal",
       "title": "Paris Hilton celebrates 20 years of her debut album: This album will always be so personal",
       "summary": "Paris Hilton celebrates 20 years of her debut album: This album will always be so personal",
@@ -1383,6 +1438,28 @@
       "region": "pcmc",
       "sources": [
         "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "priyanka chopra wishes late father dr ashok chopra a heavenly birthday on his 76th birth a",
+      "title": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
+      "summary": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2ZSWWxvRE4yYjVjcnRSNWNpcnJUS05zSjhVeEdvMUZMUjVoajViNTlCLW9SVF9pLUtyYlJJN0hkeWZhajRvTGdSLWlRZFlMMXJMZUhkTWpQRmFCWUxrV2d6eXFoaWFjbkF4d2xyc0NjZGNnbUQwMVJOVk9zOEJvV2VzS3hXYVFLQ1NjVEdOdWdZbHJQUmxJNU40cHJwcVJtY2ZQeUhscU5tV25MdkRNTEFTRkd5R1dqSDdtY1pFdFA5ZzlYY0FaZlFhZFFHM0M0ZkJ5MUVoUzJYRk3SAeABQVVfeXFMTTl1aE1INFpfTmhYQl9oQ0J6eFdwcVoyQkpNMmp2UUJ2dGJoVWo1YnZfaHRfbFV4b1FXeFlOQ3JVSXNrSmtxbXJPeGlTTEZiVEJ4dXUzZlB4QzJJMlMtaThmb0dCUjZEOG1aaURGM3FJVHptQWtwRFdlNHhPdTYtVWtGVTJhc0FJMmdlRlpYZF9udkRqYXI5bXQ4WU9fWGVlTWNPbUt4cFRkTUJQb09yVzJJR0lSU0lsc1NabTNLc015cjJrMURhRjA4SVdpcFZHeHRTXzVPa0xCcDBhVXNDdks?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 03:08:21 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 03:08:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1660,6 +1737,35 @@
         "NativePlanet"
       ],
       "confidence": "Medium",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "delhi ncr braces for more rain in next 1 3 hours as imd red alert traffic chaos grip city",
+      "title": "Delhi-NCR Braces For More Rain In Next 1-3 Hours As IMD Red Alert, Traffic Chaos Grip City",
+      "summary": "Delhi-NCR Braces For More Rain In Next 1-3 Hours As IMD Red Alert, Traffic Chaos Grip City",
+      "source": "News18",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkN5N09JV0JOWmtRN05KLWc5clQxVkRlSjZoMUF6ak4zUjZoUkdLRi1kd29nR2RYMVRham5LaU5ycmFtRXlmZ2hjQWh6RUR1Q0t0ZDhNWF9xVVBVNmRKZ0JOWUlJRjdZX09LYWtTNW1fM3Vha3ZYUFpET2c3ZnpjMzVRNEVzaXRKTHBac2VmbkJsbFVESHBIZ1NNVk9nQW5nanpFQWFrVUlEM2VvY1BmQThBUENjUlhoYU0tVE11Q0l6SEItX2FlM3AyM0hjRHlzLVZmNW43bjBxUmlnUUVfQ3lB0gHnAUFVX3lxTE11bFJUX1R2cFoyX2paN2dGQTFfMHFkWTFkeENhWFNhaW1fT2VlRkR1SktGTi1SQnpzNm0zYm9meDlMQzJkalJWQ2t5bWF3UGhWX2wxNHNCUlFtT093eVRmeDcyU3dXdmV6aVo3MUpKYnFXMlBFdUg0VjEtVHk3T3lObkVfeUp4cXg3NVhSVW9QSzYyZmYyVGZWTlUxUFhUeFhyazI5dFVLZXJpeUJGOFpuOWJoSkZvQkhLd0M1SGRpN251akdfNGFzd3VUcXBXLXZOZVJBVFAyOU50MUtpdGZXUHRNTXBjNA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 06:50:19 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 06:50:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18"
+      ],
+      "confidence": "Single source",
       "w": [
         "red alert",
         "school closed",
@@ -1983,6 +2089,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुणे गर्दीच्या pmpml बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू मागून आलेल्या स्कूल बसच्या चाकाख",
+      "title": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
+      "summary": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeTNRcDNQcmJQTmVUN1hNNHF0cWV2aXFIMHlReU9PZGxCTU5aYzVTMXdVbjJNbVZsVy1aTG9qbFVPUWZjZ2hwTVRqU2VpSHRkQVE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:08:40 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 21:08:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "राज्यात पुन्हा पावसाचा जोर वाढणार पुणे रायगडमध्ये ऑरेंज अलर्ट सिंधुदुर्गात पूरस्थिती तर वि",
       "title": "राज्यात पुन्हा पावसाचा जोर वाढणार: पुणे, रायगडमध्ये ऑरेंज अलर्ट; सिंधुदुर्गात पूरस्थिती, तर विदर्भासह अनेक ...",
       "summary": "राज्यात पुन्हा पावसाचा जोर वाढणार: पुणे, रायगडमध्ये ऑरेंज अलर्ट; सिंधुदुर्गात पूरस्थिती, तर विदर्भासह अनेक ...",
@@ -2105,28 +2233,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे गर्दीच्या pmpml बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू मागून आलेल्या स्कूल बसच्या चाकाख",
-      "title": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
-      "summary": "पुणे : गर्दीच्या PMPML बसमधून पडून 25 वर्षीय तरुणीचा मृत्यू; मागून आलेल्या स्कूल बसच्या चाकाखाली सापडली पुणे : : सिंहगड रोडवर प्रवाशांनी खचून भरलेल्या बसमधून खाली पडल्याने मागून आलेल्य",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeTNRcDNQcmJQTmVUN1hNNHF0cWV2aXFIMHlReU9PZGxCTU5aYzVTMXdVbjJNbVZsVy1aTG9qbFVPUWZjZ2hwTVRqU2VpSHRkQVE?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 15:21:23 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 15:21:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2511,10 +2617,32 @@
       "action": "No immediate action required."
     },
     {
+      "id": "बायको म्हणाली स्वतःला गोळी मार नवऱ्याने खरंच ट्रिगर दाबला कसब्यातील गोळीबारामागचं गूढ वाढल",
+      "title": "Pune News: बायको म्हणाली, स्वतःला गोळी मार, नवऱ्याने खरंच ट्रिगर दाबला? कसब्यातील गोळीबारामागचं गूढ वाढलं",
+      "summary": "Pune News: बायको म्हणाली, स्वतःला गोळी मार, नवऱ्याने खरंच ट्रिगर दाबला? कसब्यातील गोळीबारामागचं गूढ वाढलं",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ3l1cVZhaV9yUXk3T3lzbUpYNVBWYkh5cmVqYUQ4VHBYRHdHSHlvTXRENDlYQW50LWlnMl9mU1hsWUlBSWI5aVRIdFZhUGhoUzdpNmduZWVnVl9xVUxfVXc0QTg5QXdYVVQ0dlNPMzJ1a0REdkYzMWFwTmZoWVIzNUZTSTFaZ1hjZ0ZnT3luMlV2MkoxUlkwZzA5U3RNTjZsSEZ6bkRnT3B6eDV6Q2pvMGFlQ2xKODJ6b1p5NmU4MzJSR3FRZ0g1YzlDdmlCRGJTSGtUQUZwV0NSR3NSRzdnSk1QTjgtVVR4a0lONGpaejAxZDF5b3dsTy1sUXgwVkpqNW9mRGFPdEFid3VRUzdlTW5NNzd1dw?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 09:30:56 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 09:30:56 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rto number plate new mh 12 1a series",
       "title": "Pune RTO Number Plate: New MH-12 1A Series Update",
       "summary": "Pune RTO Number Plate: New MH-12 1A Series Update",
-      "source": "HindusthanPost",
+      "source": "marathi.hindusthanpost.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXBwVksyMjVCZHNjOGRZWnBfSHNJa3RCQl92NERmcElpcmRHdnR4N3ltOGU3R2t0NHhKcGotNGh2V3V5TUZUbnZibWVuejJzQUZVYmFhWmhOZS00dFg4U0tVNEpXTEZvNFhrdTY5eS1fZ1J2NXdtdFRuRVlHMzljNUVLcms3bERaLTdhVTRBUmRCOWoy?oc=5",
       "pubDate": "Mon, 24 Aug 2026 09:00:24 GMT",
@@ -2522,7 +2650,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "HindusthanPost"
+        "marathi.hindusthanpost.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2655,28 +2783,6 @@
       "region": "pune",
       "sources": [
         "PUNE PULSE"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "priyanka chopra pays emotional tribute to late father on his birth anniversary",
-      "title": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
-      "summary": "Priyanka Chopra pays emotional tribute to late father on his birth anniversary",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN20tVzF3RE0welRCM2dZb1V1NkdLTjNKN2tfWE95LTduX2dIckdaU2Q0Nm9aY2ZGcEZJTnRtTWFGbXdCQU5kc2VUX0lRRFNya1BHZHdFaEVJVWlUT2x5Ukw1YS1DQkFkX2Q0clI5SEphakR1ZDlYamRROTdCLU5GNjRRQkJ3LXNBaW5UcFdwLUNzdlJGbmNMMzlKdHN2cmEwdVIyQ3kyMy0zWU5LaHY2czdKUG5uV3I4ZDY2Nlhn0gHDAUFVX3lxTE96T3RTWHZMYm5aU1d4dDkzazdId0hNSzd6ZFdlTHpRQTV1NXlySHQ5Mml5dmpxc3ZDTXFEVTFkLUZKZVVkaldRWTdXUHo2SmJMSDg5bWFNYlBhUWszUFhjbUV2RmQzRDk0WGwya1JCTVVEMDZNWEVTb3VtRnVadjVJV1ZGRm1kejNLUUtrWnRWRzYyZDBJWG1uZE5ENHpMeUZ3dFVtdDZvNTFGOUttb29yeFdtTFhhZXdQMmxDY2trRVJRQQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 05:43:32 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 05:43:32 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2841,6 +2947,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "shaan remembers kk on his 58th birth anniversary during nepal concert",
+      "title": "Shaan remembers KK on his 58th birth anniversary during Nepal live concert",
+      "summary": "Shaan remembers KK on his 58th birth anniversary during Nepal live concert",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnI1X2JCZ3NWd0tUdU5CYmxjdXdnbWVxbUpjZmhPTTNVTHBxckxDaW5LVzhXTXNlU3NCNDJhYUJmbktpd0VybjNLc3FfeF80R2VTYXFSRHpVdXFsVG9xbkxIWEZjai1HVHFpcmVTZEhzbHdVdTNXb0QyWEdwT1J3bS1ZNHE4dy1ueXhQTHFTOS1Uc0xsS2FBcGE1TjZXa2dldmNXNHJXaDZNb1BCLUZqVllWandReDll0gG-AUFVX3lxTE16cHZtanpfSUFZQlBONlB2X2FRalozOXJiMFk4YVBEb1ZtREtrWUFwa0pfNzU0ZE1rU20xTlpOQjFRNm8xVWI0bzU5VEdNaEtldi0zZmRJb3NubVl1WEwwSUdBZlVNekNIX3VkN2U2djJqcWJVeVk5ZzQ3OTItSjVyMzNKa0dFZkZmU19IRkQ0SlYwLVRyS01sX2lZZGhQWXdkSkdYTGhBbkE2NnBPLXgyeXJGbGEyX2ZUa0NGMFE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 04:13:33 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 04:13:33 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "paris hilton celebrates 20 years of her debut album this album will always be so personal",
       "title": "Paris Hilton celebrates 20 years of her debut album: This album will always be so personal",
       "summary": "Paris Hilton celebrates 20 years of her debut album: This album will always be so personal",
@@ -2966,6 +3094,28 @@
       "region": "pcmc",
       "sources": [
         "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "priyanka chopra wishes late father dr ashok chopra a heavenly birthday on his 76th birth a",
+      "title": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
+      "summary": "Priyanka Chopra wishes late father Dr. Ashok Chopra a ‘heavenly birthday’ on his 76th birth anniversary",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2ZSWWxvRE4yYjVjcnRSNWNpcnJUS05zSjhVeEdvMUZMUjVoajViNTlCLW9SVF9pLUtyYlJJN0hkeWZhajRvTGdSLWlRZFlMMXJMZUhkTWpQRmFCWUxrV2d6eXFoaWFjbkF4d2xyc0NjZGNnbUQwMVJOVk9zOEJvV2VzS3hXYVFLQ1NjVEdOdWdZbHJQUmxJNU40cHJwcVJtY2ZQeUhscU5tV25MdkRNTEFTRkd5R1dqSDdtY1pFdFA5ZzlYY0FaZlFhZFFHM0M0ZkJ5MUVoUzJYRk3SAeABQVVfeXFMTTl1aE1INFpfTmhYQl9oQ0J6eFdwcVoyQkpNMmp2UUJ2dGJoVWo1YnZfaHRfbFV4b1FXeFlOQ3JVSXNrSmtxbXJPeGlTTEZiVEJ4dXUzZlB4QzJJMlMtaThmb0dCUjZEOG1aaURGM3FJVHptQWtwRFdlNHhPdTYtVWtGVTJhc0FJMmdlRlpYZF9udkRqYXI5bXQ4WU9fWGVlTWNPbUt4cFRkTUJQb09yVzJJR0lSU0lsc1NabTNLc015cjJrMURhRjA4SVdpcFZHeHRTXzVPa0xCcDBhVXNDdks?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 03:08:21 GMT",
+      "lastUpdated": "Mon, 24 Aug 2026 03:08:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -3221,9 +3371,9 @@
     }
   ],
   "summary": {
-    "total": 74,
-    "alerts": 10,
-    "news": 64
+    "total": 77,
+    "alerts": 11,
+    "news": 66
   },
-  "cleanedAt": "2026-08-24T21:24:54.182Z"
+  "cleanedAt": "2026-08-24T21:51:56.387Z"
 }
