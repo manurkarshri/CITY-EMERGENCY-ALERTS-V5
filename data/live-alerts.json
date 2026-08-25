@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:33:44.178Z",
+  "generatedAt": "2026-08-25T13:42:27.875Z",
   "status": "ok",
   "alerts": [
     {
@@ -186,6 +186,40 @@
       ]
     },
     {
+      "id": "eid e milad check traffic curbs diversions in and pimpri chinchwad",
+      "title": "Eid-e-Milad: Check traffic curbs, diversions in Pune and Pimpri-Chinchwad",
+      "summary": "Eid-e-Milad: Check traffic curbs, diversions in Pune and Pimpri-Chinchwad",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTMtYmhHcUZIblVLbFo4U1hrZ3Zydk9nc1lQRWpNaUhpamdRYlJmMi0tWnpLTnQ3bjBLZzliNl9TWEppSDNHRWpTMzJDd1pHOHgzSmlPanZ0ZTdGMnBka1ltaHZsbEY3M1NHVFM0S19FbWJMc2ZHaXl2RnFHeEFvLTRfQlpDRVBReW1JX3A5Q1U0dXpiejR1ZV81OFFqMDZMX21xQUhIRjhIZWhZLVEtUjVJVTFzeWfSAbcBQVVfeXFMUHkzLWJoR3FGSG5VS2xaOFNYa2d2cnZPZ3NZUEVqTWlIaWpnUWJSZjItLVp6S050N24wS2c5YjZfU1hKaUgzR0VqUzMyQ3daRzh4M0ppT2p2dGU3RjJwZGtZbWh2bGxGNzNTR1RTNEtfRW1iTHNmR2l5dkZxR3hBby00X0JaQ0VQUXltSV9wOUNVNHV6Yno0dWVfNThRajA2TF9tcUFISEY4SGVoWS1RLVI1SVUxc3ln?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 10:58:38 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 10:58:38 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "The Indian Express"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "pimple gurav kasarwadi road accident पिंपळे गुरव कासारवाडी रस्ता चिखलाने निसरडा १३ ते १४ व",
       "title": "Pimple Gurav Kasarwadi Road Accident: पिंपळे गुरव-कासारवाडी रस्ता चिखलाने निसरडा; १३ ते १४ वाहनांचे अपघात, नागरिकांचा संताप",
       "summary": "Pimple Gurav Kasarwadi Road Accident: पिंपळे गुरव-कासारवाडी रस्ता चिखलाने निसरडा; १३ ते १४ वाहनांचे अपघात, नागरिकांचा संताप",
@@ -316,12 +350,44 @@
       ]
     },
     {
+      "id": "traffic पुण्यात ईद ए मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल अनेक रस्ते बंद पर्यायी मार्गांच",
+      "title": "Pune Traffic Update : पुण्यात ईद-ए-मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल; अनेक रस्ते बंद, पर्यायी मार्गांचा वापर करण्याचे आवाहन",
+      "summary": "Pune Traffic Update : पुण्यात ईद-ए-मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल; अनेक रस्ते बंद, पर्यायी मार्गांचा वापर करण्याचे आवाहन",
+      "source": "civicmirror.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGdCSWg2aUJEcHJOcWFYb0piX05ycmdSeTEwSFdiMzZUdXREaWNOeDRTU0FvLTFDTWxKdl94UHdIaDRxTVlzTEVqbDVHcXRkLU9BMnlpdU1MWEpJX04wbjlITUp1cUhjdDBmd3BBdFdnazdMN3JmNE1ERk1KOVI3NFpZNlktcGcxWjlSQlRvV1BPeXB5bW4zSmtHa2d3UzAxakZZX2NZR3NkWFpLMFlraEphZ3dsVGRhNWZfZDBJOGhlSVNNYXRPZDZuQWw0eUpFeHBfdDhhSWwzUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:15:29 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:15:29 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "civicmirror.in"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "school holiday in gurugram on august 26 due to rains imd issues warning amid heavy rainfal",
       "title": "School Holiday in Gurugram on August 26 Due to Rains? IMD Issues Warning Amid Heavy Rainfall and Waterlogging",
       "summary": "School Holiday in Gurugram on August 26 Due to Rains? IMD Issues Warning Amid Heavy Rainfall and Waterlogging",
       "source": "Jagran Josh",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXptX1RmNGxVNDFMdndseGtsRlRGTTVFeTV1alpHTjVVR0lxbUhLYjQ2em94RHdqV1RPY0dQMXowemczM3E0Tk8xOTlYYzRIOHhlbDExbXJrQlNwd3RmdVZ0VkRqOVRBYjh0VTVCTnBtY1FaSncwSXFia3A4QjBBc2xiOTZFNDdtQ0ZfX2lzYWxzdGZ4NmdZb2xsVzZpRlE1dlVFRUxKb1ZuazliMnk4b0ZCZUJwZTTSAb4BQVVfeXFMTTgwRWxkdGhTX3h0TGJuU0xWRk1qWFJfcmFfTWhaVWNjQmJyTHVja1hoaUdNM0ZiX29BckVhUzEwUzhFNVB1TUdaaWtsX3VuYjFkMWJoVFNrMWkzR0NQNklIY1UyQXU2MThXVmdPTUJONVdHUm5NV2xjQXp6bUdfek9RMm80bzBHTWxFc2o4SWxhcTQ3ZHBsMlhkY0x6NlZfSkF0VVVyTkVBYWl5Q3JCd0lRNElHeU1CU3NYcE53UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODBFbGR0aFNfeHRMYm5TTFZGTWpYUl9yYV9NaFpVY2NCYnJMdWNrWGhpR00zRmJfb0FyRWFTMTBTOEU1UHVNR1ppa2xfdW5iMWQxYmhUU2sxaTNHQ1A2SUhjVTJBdTYxOFdWZ09NQk41V0dSbk1XbGNBenptR196T1EybzRvMEdNbEVzajhJbGFxNDdkcGwyWGRjTHo2Vl9KQXRVVXJORUFhaXlDckJ3SVE0SUd5TUJTc1hwTndR0gG-AUFVX3lxTE04MEVsZHRoU194dExiblNMVkZNalhSX3JhX01oWlVjY0Jickx1Y2tYaGlHTTNGYl9vQXJFYVMxMFM4RTVQdU1HWmlrbF91bmIxZDFiaFRTazFpM0dDUDZJSGNVMkF1NjE4V1ZnT01CTjVXR1JuTVdsY0F6em1HX3pPUTJvNG8wR01sRXNqOElsYXE0N2RwbDJYZGNMejZWX0pBdFVVck5FQWFpeUNyQndJUTRJR3lNQlNzWHBOd1E?oc=5",
       "pubDate": "Tue, 25 Aug 2026 11:32:11 GMT",
       "lastUpdated": "Tue, 25 Aug 2026 11:32:11 GMT",
       "areas": [],
@@ -351,32 +417,39 @@
       ]
     },
     {
-      "id": "railway station robbery 150 cctv cameras help police nab 3 men from dombivli",
-      "title": "Pune Railway Station Robbery: 150 CCTV Cameras Help Police Nab 3 Men From Dombivli",
-      "summary": "Pune Railway Station Robbery: 150 CCTV Cameras Help Police Nab 3 Men From Dombivli",
-      "source": "Free Press Journal",
+      "id": "waterlogging major issue cm rekha gupta says delhi govt working to tackle rain crisis",
+      "title": "‘Waterlogging Major Issue’: CM Rekha Gupta Says Delhi Govt Working To Tackle Rain Crisis",
+      "summary": "‘Waterlogging Major Issue’: CM Rekha Gupta Says Delhi Govt Working To Tackle Rain Crisis",
+      "source": "News18",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmY0ZXV5cDRyTXF2OUJybDJuY0l4N0wzWFZKVHNsZk5QR09OTVFLb3Z1aVYwT1BLRVlJMkxyZ2sySm5oR3R0T00ycVpCdmVqZzhIbjIwZ01xT3k5TG1pNURrUTNRdl9sNEFwR0NReXlhZGdFTDEzUXZlM2xZdXN4d1hTSjdDSkNOdU04REVHUDZfdE5qMkZFSWNZVUNqYjhYTWJIeEdYVkkxWUowU2k3bEhYejV1SzNSRVHSAb8BQVVfeXFMTm5XVEpyWl9oYkgya3hVREI0emdtQzhBdi12bm5IODhtSks1QUlnTVRVeFU5a29HUG9raDYyUUxKX1lyYUtOd1h4ZGE5TlBxemFzbWdVNTRfU0tSaWJBR2VkSHBteUhfdjBlX2NPb0ZIUmJaMnAzUndJazUxY3pnXzVldktSTEp1TERheW5UYUlKeDR6bE1NR0lvQXNOelVXa1dyeEF6ek5fN09xQXhhQm93SDFhcm5KcjhQTkZzV0k?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 10:00:31 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 10:00:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOXlYRmpuVlgwZ3p6alp6bzZ2OFNUR19YZlBycnZYTFJuYVIyQVBURmZzSGRROUZhMWVnRU5oUV9ZQzJmcGcwbFlCb2lBYjFRQUxRVm14YW50SVY4NW5GV3ZHN2FWTTZGcm5mM0dPc3hCek5EaUd3MXNiR3NGWDRvZ2NWcTh6VHFRa3NaUjJ4S1BQU0xBM1ZlLUJlOVVHaUcxam9Kc0JTYk9CeXNpU3MtZ2RoM3Z6Y3F4aGpZY1NwaXp3Nkw4cDd1MVNUcVhUcUJlSjRwQ1pHaWkwU19U?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 10:46:28 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 10:46:28 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Free Press Journal"
+        "News18"
       ],
       "confidence": "Single source",
       "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
       ],
       "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "crime अश्लील व्हिडीओ दाखवले अन् पुण्याच्या भोरमध्ये अल्पवयीन मुलीचा विनयभंग pocso अंतर्गत ",
@@ -413,8 +486,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnJuUU5taEhnNC1aUVloRnFYMGtiRFJ4c0l3M1h1VXdUV3lOWHZlRTNJeHJyQzFPd3VNaXBvZjUzUEVMR01KMVBDRlRQdFBpRE1hTlVHdXJKemVFWDVVWkZ6WC1vc1FPZjExckc0M3k1UGk0SkFRMGd1UE5vdzhPelAxdFIyRzRiV3IyRmxZb1FGcDlrRU5PMVMyeDdEU1NjNXNIbThfVEpVU25zM2ROWUVLOTR0UEM2ZHZLX2NlNA?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 07:25:36 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 07:25:36 GMT",
+      "pubDate": "Tue, 25 Aug 2026 07:25:00 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 07:25:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -572,38 +645,6 @@
       ]
     },
     {
-      "id": "nashik traffic changes नाशिकमध्ये ईद ए मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल हे मार्ग राहणार ",
-      "title": "Nashik Traffic Changes | नाशिकमध्ये ईद-ए-मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल; 'हे' मार्ग राहणार बंद!",
-      "summary": "Nashik Traffic Changes | नाशिकमध्ये ईद-ए-मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल; 'हे' मार्ग राहणार बंद!",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUZXZG5ZVkRfMkNCa1pUQk44cWN5QVVLZUlzRV85ak1pX2VjdHBFZFh4dEs4a21QaFN3Yk9BUnpWbVFBc0JXYXZ3NmxJT3FObUJtZkJKMDZ0eUJyTFNwZ1VLZnIxbEZNNmYwUG4zREthWXF1alBfRnQ5OTRDTG9CSEEyVktfZ3B3aXBVOVdtNGJFTUNaVkpIOVFEcVowTU9GeVBLVG9zSU9ISDJJaVFKU25mTUszZE00d0h3eGNpLXlOVm54RXVOUXZtY9IBywFBVV95cUxOdUZXZG5ZVkRfMkNCa1pUQk44cWN5QVVLZUlzRV85ak1pX2VjdHBFZFh4dEs4a21QaFN3Yk9BUnpWbVFBc0JXYXZ3NmxJT3FObUJtZkJKMDZ0eUJyTFNwZ1VLZnIxbEZNNmYwUG4zREthWXF1alBfRnQ5OTRDTG9CSEEyVktfZ3B3aXBVOVdtNGJFTUNaVkpIOVFEcVowTU9GeVBLVG9zSU9ISDJJaVFKU25mTUszZE00d0h3eGNpLXlOVm54RXVOUXZtYw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:21:57 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:21:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
       "id": "noida on august 25th 2026 new flyover underpass delays swine flu crime updates",
       "title": "Noida Latest News Today on August 25th, 2026: New Flyover, Underpass Delays, Swine Flu & Crime Updates",
       "summary": "Noida Latest News Today on August 25th, 2026: New Flyover, Underpass Delays, Swine Flu & Crime Updates",
@@ -695,32 +736,30 @@
       ]
     },
     {
-      "id": "crime files how a gang stealing tractors farm equipment was busted",
-      "title": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
-      "summary": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
-      "source": "The Indian Express",
+      "id": "maharashtra rain पुढील ४८ तास महत्त्वाचे या जिल्ह्यांना मुसळधारेचा इशारा हवामान विभागाचा अ",
+      "title": "Maharashtra Rain: पुढील ४८ तास महत्त्वाचे! 'या' जिल्ह्यांना मुसळधारेचा इशारा, हवामान विभागाचा अलर्ट",
+      "summary": "Maharashtra Rain: पुढील ४८ तास महत्त्वाचे! 'या' जिल्ह्यांना मुसळधारेचा इशारा, हवामान विभागाचा अलर्ट",
+      "source": "Esakal + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamJEM2FiM1g4TGI0NzNKOFExWE83Z2Z2LWlVTTJDWFVsWXNEQUhCc2FJS0w4bDVxTVBfdzIxQnlBOW43c3JINFRmTllJQ3lzZGdJbUJQdFB6WXZMbEN5U0diTEc2eDBIdGpPeEJIakFfb1hocGk4WWpORGlqVEQ5emxXRWE0aWNxdjgya0t5WThKNGdXeUtuMjhxNUZaUWpsUlRxWkdHN05jOVVIVHExMktKSHlnTUhuNk5TOEpRTjFOQWZUM3fSAcwBQVVfeXFMUHBVVVJNUXRlajYxRUxSODNyVVdYN282VkdrVlk3YjVWUkVHeUZuR2NGZ1RkOGJjU0ZLLVR4eGlMQWJocFNWaS10WmZXc1ZENk1JaHFjS201OUhwLXhONWNwcHItUzZNeXUzQ0RLNVJ4RFhrcFNDR2k3WUJ0a0lxX1RmUUM4eS1NOThBdEM1clAycUU2RVRGY0FpYy10YnZiRDMxZ3B3UUxERDlEU1JfQXRMeVktcmZXWjdvb1dndG1kX3pQZEYwX0l0amd6?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:05:45 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:05:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFhlWGJuSUhrTnJMZWRlSFk0MVR4enZNTVpGNlVRczd3dUNGZHZ6cldFcDRjNEFxNEVMb3FMU1A2RFUySjdfZjdNNHlZbWVGRmd3Rk95anFDdmV5ejNLb3c3aHJqd2thQmdXdF9wZVNfdTdMWGFIalEtdkFvd0hMTFJTQ1YxYkxQbkZJR3l6dkU3cjQ5MnhMMWhOTkZ3TzhBNm52UE9zWV9BRXpvMUxkM3RvZzZSUG5LY0dsX0ZjT1ZCaU9iY29FcTd5ZjhHb053WFF4SThONVc5bXR0cGEya21lOG1pSmZoOTNzMw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:08:33 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:08:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express"
+        "Esakal",
+        "maharashtradesha.com"
       ],
-      "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra weather tomorrow उद्याचे हवामान वरुणराजा धुमाकूळ घालणार पुढील 48 तास महत्त्वाच",
@@ -744,32 +783,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra rain alert राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट दोन दिवस पावसाचा अंदाज",
-      "title": "Maharashtra Rain Alert: राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट; दोन दिवस पावसाचा अंदाज",
-      "summary": "Maharashtra Rain Alert: राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट; दोन दिवस पावसाचा अंदाज",
-      "source": "Agrowon + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXBuZThnZ3dOdFd3eEhTS0k1QUtiLVR6OHF2dVRodnFpTkM5cGd4Vk1lTEpydjJsU3hjQTFXUU1XYVBZYTFORXJadDdTNi1qY2lDMm9YVmJpQldyaEF3X3BGYk9IZUxiZTFhZXZXbnVHOEZyVTU3c2JsVEdYMUpRSHlfWWd2SjU3RHBZX2N2U1dObFV6cERFVS1lbVJTRHBRanhTMHI3d25lNmZHSVBxajBIY2lwbEk0cm1NSmlHUDc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 09:40:18 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 09:40:18 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Agrowon",
-        "maharashtradesha.com"
-      ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार पुणे साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट घाटमाथ्या",
@@ -822,6 +835,75 @@
       ]
     },
     {
+      "id": "रोहित पवारांच्या pa ची लेक नको ते पाऊल उचललं बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "title": "रोहित पवारांच्या PA ची लेक, नको ते पाऊल उचललं; बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "summary": "रोहित पवारांच्या PA ची लेक, नको ते पाऊल उचललं; बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ25BaFFES2F6WHl1UWpsbmk2RHdXMl9uYS01REJJdWg2U0JOWk1IMUF6dktuaGxFU0g5ZVRwenZKaDd3cUx6emo5WFdHdUYxUXNycFRfZGpMRXhFN3EtQnp6c0hpV0RjYWVZRzF5a3RYU1FCSHJtSU1xN0txVzFRR3daZ1lvMGFZNUNaU2hLYTRoQ3FlRTh1RmgzN3JwNVhDaVphYzJ1elpSVEVTNG5DWF9GYlBHRlg3QmJWbWJpRE1fT1k?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:15:02 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:15:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "six held for allegedly kidnapping robbing zepto delivery worker in pimpri chinchwad",
+      "title": "Pune: Six Held For Allegedly Kidnapping, Robbing Zepto Delivery Worker In Pimpri-Chinchwad",
+      "summary": "Pune: Six Held For Allegedly Kidnapping, Robbing Zepto Delivery Worker In Pimpri-Chinchwad",
+      "source": "PUNE PULSE",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGVmSDhlUG41VnliLW1KaFNtYVA5YlBJbmd0OVlidTVXei1jUFpwWGRVM0VFaTBWdVlHMjdkaENtMjNzZ3F5UHlmSWJVSUtYakczdDRoZmNHd0lRbUJkVUkwZFp3NjFfRlFTcGFQZjdFWU5qWVlzbEtWWnhsTzYtQ0ppcGJMVVg2QU9Dd2hfaVQyR3k0el9mTERJUE4zZDF3SkQxWlU2eldTcF9BV2hHWFFxODZVMVZH?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:02:44 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:02:44 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "PUNE PULSE"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे ईद ए मिलाद मिरवणुकीसाठी मध्यवर्ती शहर कॅम्प नाना पेठ भवानी पेठ आणि खडकी परिसरातील वाह",
+      "title": "पुणे : ईद-ए-मिलाद मिरवणुकीसाठी मध्यवर्ती शहर, कॅम्प, नाना पेठ, भवानी पेठ आणि खडकी परिसरातील वाहतुकीत महत्त्वाचे बदल जाहीर; 26 ऑगस्टला अनेक रस्ते बंद, पर्यायी मार्ग जाहीर पुणे : मुहम्मद पैगं",
+      "summary": "पुणे : ईद-ए-मिलाद मिरवणुकीसाठी मध्यवर्ती शहर, कॅम्प, नाना पेठ, भवानी पेठ आणि खडकी परिसरातील वाहतुकीत महत्त्वाचे बदल जाहीर; 26 ऑगस्टला अनेक रस्ते बंद, पर्यायी मार्ग जाहीर पुणे : मुहम्मद पैगं",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YlByUHRZY3BEeVBqSVo2R21jTG9JSUJoOVBVWktvclc1YmhfM1p2NkRrdzMtbExETlhDdmVpeVZ6N3FzSWJSY3JKeXQzLVlSZFE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:55:53 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 12:55:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुण्यात स्मार्ट रस्त्यांची पोलखोल पाषाण सुतारवाडीत कार खड्ड्यात नागरिक संतप्त",
       "title": "पुण्यात ‘स्मार्ट’ रस्त्यांची पोलखोल..! पाषाण-सुतारवाडीत कार खड्ड्यात, नागरिक संतप्त",
       "summary": "पुण्यात ‘स्मार्ट’ रस्त्यांची पोलखोल..! पाषाण-सुतारवाडीत कार खड्ड्यात, नागरिक संतप्त",
@@ -856,6 +938,28 @@
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "worm allegedly found in paul bakery food in customer shares online",
+      "title": "Worm Allegedly Found In PAUL Bakery Food In Pune, Customer Shares Video Online",
+      "summary": "Worm Allegedly Found In PAUL Bakery Food In Pune, Customer Shares Video Online",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNDltMS1FVEx2OU1LQ1d4Vk1nWUhqUzRNNTVDNms3UlJiLW14dFlKbzV0RjE3d0N3amFCeEtQeTV1emZ2TVNMajYzR2pXdTRDNjkzbDJLSVlEeVB2aDJDazF4elptMFhyTGFPVlFLUlBpcE5YTW9Ba0l3bHBsUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 09:20:01 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 09:20:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1028,6 +1132,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुण्यात ईदच्या मिरवणुकीसाठी वाहतुकीत मोठे बदल नानापेठ ते शुक्रवार पेठ मार्गावर नो पार्किंग",
+      "title": "पुण्यात-ईदच्या-मिरवणुकीसाठी-वाहतुकीत-मोठे-बदल-नानापेठ-ते-शुक्रवार-पेठ-मार्गावर-नो-पार्किंग-पर्यायी-मार्ग-जाहीर",
+      "summary": "पुण्यात-ईदच्या-मिरवणुकीसाठी-वाहतुकीत-मोठे-बदल-नानापेठ-ते-शुक्रवार-पेठ-मार्गावर-नो-पार्किंग-पर्यायी-मार्ग-जाहीर",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYak90WWRyUGx0clRYdE1IX0Y5RlJzRTJja1VRRWV4Q1h1bEFrTllxSS1BWm1ubWNyMXdPXzlENk9JaDdTNEVHUzdRRTMyeFY0cDE4anlQQnpLOE9zWnpsTXpXLVZJekhRYkxIWWw2VnVuRGtDVUE40gGSAUFVX3lxTFBBazBFc1BlQll3OE5ZbVNMYmdsRnNqdExleEdmTm44dkU1SnZVMDU1U3ZzM3ZnYkoxdjZtaWZyRE5vLVYxN0ZlMWVveG8zaXpMMFl0V181dDI2R1RBSDZzOTNDMUN1UkJad0FnMGFyNEVTWmFyQ3dSdmFjX0lOTDdPZmp1UTI0MndteldTeXBDNGVB?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 06:22:51 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 06:22:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे अ ॅल्युमिनियमच्या तारांसह अडीच ला",
       "title": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे- अ‍ॅल्युमिनियमच्या तारांसह अडीच लाखांचा ऐवज लंपास; उरुळी कांचन पोलिसांत गुन्हा दाखल",
       "summary": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे- अ‍ॅल्युमिनियमच्या तारांसह अडीच लाखांचा ऐवज लंपास; उरुळी कांचन पोलिसांत गुन्हा दाखल",
@@ -1040,6 +1166,28 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पावसाचा जोर वाढणार राज्यातील या जिल्ह्यांना येलो अलर्ट जाणून घ्या हवामानाचा अंदाज",
+      "title": "पावसाचा-जोर-वाढणार-राज्यातील-या-जिल्ह्यांना-येलो-अलर्ट-जाणून-घ्या-हवामानाचा-अंदाज",
+      "summary": "पावसाचा-जोर-वाढणार-राज्यातील-या-जिल्ह्यांना-येलो-अलर्ट-जाणून-घ्या-हवामानाचा-अंदाज",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GcGg5RFhoaGZGbmdKVlE1YTZRNkYyXzdidUNmenYyQTNhZnJPdTBKNzl5SWJ1TlgyNVJXQjY2QTgzRXJuOEVhZ0hoT29MU0RleUpzcThQT0NHSzlxalFuazl5R2Vtci1kUDdOak9FTzFPZ9IBjAFBVV95cUxQeUpKM2s4YzR0ZzFsdzRET1ZrZ0p3MENJaE9FSlF1YUlKbkRpcGNiNy1ISzRQNERnb09HbFVLeno5aTNCNVVwLURVU0kxemRxRnp3dThCNEJQWW5iaGxOVGhSLUVMSXJXZE1sYkdqQ1BMeG5QNjNwLTh5U01XanlJS2R2Rk9jMmlQRm1kbQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 05:29:01 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 05:29:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1391,28 +1539,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "ev suv मुंबई पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल आली 919 किमी रेंजची लक्झरी suv लूक तर",
-      "title": "EV SUV: मुंबई-पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल! आली 919 किमी रेंजची लक्झरी SUV, लूक तर पाहाच!",
-      "summary": "EV SUV: मुंबई-पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल! आली 919 किमी रेंजची लक्झरी SUV, लूक तर पाहाच!",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmpXSGpzUXpPRHpfb1lJV2ZuZU1BQ0F6ejVYWTB2eWsyXzlkbk5ES09iNzJQNzExYWpycEZ6VmZUZkRGWnJxXzZUVG5ONHVfQmd6V1J2ZzU1WHN4UVY2TFV2OGJWc21oWVJSeWxmbURsdEV1TlZGQURpUDJwNDRrZHE4VThSNGE2c053VjVxcTh2bzFoSnNRQ0lsbzJuZ2dXWHdvc1Ewa09TUHk3ejNSOWxjWXkwV0oyNnIxcg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:25:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 14:25:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "uttarakhand school holiday tomorrow august 25 will schools be closed due to heavy rain che",
       "title": "Uttarakhand School Holiday Tomorrow (August 25): Will Schools Be Closed Due to Heavy Rain? Check Latest Update",
       "summary": "Uttarakhand School Holiday Tomorrow (August 25): Will Schools Be Closed Due to Heavy Rain? Check Latest Update",
@@ -1450,75 +1576,6 @@
       "region": "pune",
       "sources": [
         "PUNE PULSE"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "पुणे rto चा मोठा बदल गाड्यांच्या नंबर प्लेटवर आता mh 12 1a पाहा नेमका काय आहे नवा नियम",
-      "title": "पुणे RTO चा मोठा बदल! गाड्यांच्या नंबर प्लेटवर आता 'MH-12 1A'; पाहा नेमका काय आहे नवा नियम",
-      "summary": "पुणे RTO चा मोठा बदल! गाड्यांच्या नंबर प्लेटवर आता 'MH-12 1A'; पाहा नेमका काय आहे नवा नियम",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkxzNWREaDQ2NWhWVV9aS19lXzlqTkZ1TGo1a0p6VldSRE9fTlU4dzAwaFh2eFVhbzYxa2RVSDMtMlpIU21QTnFKN1FDZTVnRGRXTjgtTVItb0w1Uk9SR0JIWWJ0dkM3eVZVNF9sMk04NVpLanY3RFRfNUU4bUdWdXNBd1pYblhJRUQyWS00dUdUbU44dGpJYm91bU9zSzNqQ3pQNU05RHkxYkNVcHpDTndXbXY3TVdDQUVpNkZNVy1KWGhkajZyc3N6UG5RUS1tVlHSAdcBQVVfeXFMTlNRM0VsbzdwZ2QwRkNneUZ3YTEyZ3p3VXhGNEVjT0ZDb1JUWE96RkR5LXlOdDVEd1ZwSU9uSG00QUNDeTd5SjVsZVMyUW1xN3JQZ1h1TEFMSm1pRWp3OEVxMExuQXlnbl9CaThQRUpOTU50ZFFiT2NxVlVrYWdoZE8tSzlwZnc3Q25TUGVpWU5XZEdFMGYtb1EtalhqQmQ0Y0R2RGdzX3pUZko3T0xiNml4anF5ZjI3WXpvZW9STHdWQUtGRnF4X1pySDhDQm9XQk1rck1vTk0?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:07:44 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:07:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "amravati ventilator blast अमरावतीमध्ये तीन नवजातांचा मृत्यू व्हेंटिलेटरमध्ये स्फोटानंतर आग",
-      "title": "Amravati Ventilator Blast : अमरावतीमध्ये तीन नवजातांचा मृत्यू; व्हेंटिलेटरमध्ये स्फोटानंतर आग लागल्याची प्राथमिक माहिती",
-      "summary": "Amravati Ventilator Blast : अमरावतीमध्ये तीन नवजातांचा मृत्यू; व्हेंटिलेटरमध्ये स्फोटानंतर आग लागल्याची प्राथमिक माहिती",
-      "source": "civicmirror.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbW9mZVVFY1VsRm1FcFhiVllkNmpFSzFxLVFNM1ZuUU1XYzNXN3JURVczY3JtZmJRdl8zUllDR2trRmh0U0tCV2JMdjNna1AzV0pRSWU3NUQzUG9zZGkyUF94cjlhZ2hCcUFWc05HLW15WXYzNFg1aHdfYk94R1FCTmhuNjVNV2JvYUp1cEZhanc1ZzhyZlpRZ2JSeHpVLTFfaklHb2w2SEpvMzlNc2hfc3dvZHBwV3hKYmtFaTZCRU5DTUh0M0czWHZ3U3pGaE85NnJUUVlOczI5SF9ZT1hxRTVSOVhoZw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:05:26 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:05:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "civicmirror.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "imd rain alert शेतकऱ्यांसाठी आनंदाची बातमी पुढील 72 तासात पाऊस बरसणार कुठे सरी कठे कडक ऊन ",
-      "title": "IMD Rain Alert : शेतकऱ्यांसाठी आनंदाची बातमी! पुढील 72 तासात पाऊस बरसणार; कुठे सरी, कठे कडक ऊन? ताजा...",
-      "summary": "IMD Rain Alert : शेतकऱ्यांसाठी आनंदाची बातमी! पुढील 72 तासात पाऊस बरसणार; कुठे सरी, कठे कडक ऊन? ताजा...",
-      "source": "TV9 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGlMeTN2dS1yZG9DSkRvVEFVUndaNXk2MlFwMkJwYmlUMkFwdVh4eFF1ZlE5SW9sS2NlVjhHRWRleXVtcGlrUXYtazFqQ1kxQXA1OFJKZ2RMMFBWQ2VHZm5yRDA4ZVFIcGtJWVhzTEhDUXFhUS1BZm82dEx1RGNJR3doRGVuVFZaRF9SV1pQb3dkcUdFSk1laDlpY203WEhGQmNjQUpHTXhlMHJiOXdyRDlZR0hQeVZVcEZTTFlpS19pQW8wc1dydm5MV2JsVmRY0gHQAUFVX3lxTE94aUx5M3Z1LXJkb0NKRG9UQVVSd1o1eTYyUXAyQnBiaVQyQXB1WHh4UXVmUTlJb2xLY2VWOEdFZGV5dW1waWtRdi1rMWpDWTFBcDU4UkpnZEwwUFZDZUdmbnJEMDhlUUhwa0lZWHNMSENRcWFRLUFmbzZ0THVEY0lHd2hEZW5UVlpEX1JXWlBvd2RxR0VKTWVoOWljbTdYSEZCY2NBSkdNeGUwcmI5d3JEOVlHSFB5VlVwRlNMWWlLX2lBbzBzV3J2bkxXYmxWZFg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:02:21 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:02:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "TV9 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1705,6 +1762,37 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
+      "id": "eid e milad check traffic curbs diversions in and pimpri chinchwad",
+      "title": "Eid-e-Milad: Check traffic curbs, diversions in Pune and Pimpri-Chinchwad",
+      "summary": "Eid-e-Milad: Check traffic curbs, diversions in Pune and Pimpri-Chinchwad",
+      "source": "The Indian Express",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTMtYmhHcUZIblVLbFo4U1hrZ3Zydk9nc1lQRWpNaUhpamdRYlJmMi0tWnpLTnQ3bjBLZzliNl9TWEppSDNHRWpTMzJDd1pHOHgzSmlPanZ0ZTdGMnBka1ltaHZsbEY3M1NHVFM0S19FbWJMc2ZHaXl2RnFHeEFvLTRfQlpDRVBReW1JX3A5Q1U0dXpiejR1ZV81OFFqMDZMX21xQUhIRjhIZWhZLVEtUjVJVTFzeWfSAbcBQVVfeXFMUHkzLWJoR3FGSG5VS2xaOFNYa2d2cnZPZ3NZUEVqTWlIaWpnUWJSZjItLVp6S050N24wS2c5YjZfU1hKaUgzR0VqUzMyQ3daRzh4M0ppT2p2dGU3RjJwZGtZbWh2bGxGNzNTR1RTNEtfRW1iTHNmR2l5dkZxR3hBby00X0JaQ0VQUXltSV9wOUNVNHV6Yno0dWVfNThRajA2TF9tcUFISEY4SGVoWS1RLVI1SVUxc3ln?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 10:58:38 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 10:58:38 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "The Indian Express"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion."
+    },
+    {
       "id": "pimple gurav kasarwadi road accident पिंपळे गुरव कासारवाडी रस्ता चिखलाने निसरडा १३ ते १४ व",
       "title": "Pimple Gurav Kasarwadi Road Accident: पिंपळे गुरव-कासारवाडी रस्ता चिखलाने निसरडा; १३ ते १४ वाहनांचे अपघात, नागरिकांचा संताप",
       "summary": "Pimple Gurav Kasarwadi Road Accident: पिंपळे गुरव-कासारवाडी रस्ता चिखलाने निसरडा; १३ ते १४ वाहनांचे अपघात, नागरिकांचा संताप",
@@ -1824,12 +1912,41 @@
       "action": "Check route before starting travel."
     },
     {
+      "id": "traffic पुण्यात ईद ए मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल अनेक रस्ते बंद पर्यायी मार्गांच",
+      "title": "Pune Traffic Update : पुण्यात ईद-ए-मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल; अनेक रस्ते बंद, पर्यायी मार्गांचा वापर करण्याचे आवाहन",
+      "summary": "Pune Traffic Update : पुण्यात ईद-ए-मिलाद निमित्त वाहतुकीत महत्त्वाचे बदल; अनेक रस्ते बंद, पर्यायी मार्गांचा वापर करण्याचे आवाहन",
+      "source": "civicmirror.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGdCSWg2aUJEcHJOcWFYb0piX05ycmdSeTEwSFdiMzZUdXREaWNOeDRTU0FvLTFDTWxKdl94UHdIaDRxTVlzTEVqbDVHcXRkLU9BMnlpdU1MWEpJX04wbjlITUp1cUhjdDBmd3BBdFdnazdMN3JmNE1ERk1KOVI3NFpZNlktcGcxWjlSQlRvV1BPeXB5bW4zSmtHa2d3UzAxakZZX2NZR3NkWFpLMFlraEphZ3dsVGRhNWZfZDBJOGhlSVNNYXRPZDZuQWw0eUpFeHBfdDhhSWwzUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:15:29 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:15:29 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "civicmirror.in"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "school holiday in gurugram on august 26 due to rains imd issues warning amid heavy rainfal",
       "title": "School Holiday in Gurugram on August 26 Due to Rains? IMD Issues Warning Amid Heavy Rainfall and Waterlogging",
       "summary": "School Holiday in Gurugram on August 26 Due to Rains? IMD Issues Warning Amid Heavy Rainfall and Waterlogging",
       "source": "Jagran Josh",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXptX1RmNGxVNDFMdndseGtsRlRGTTVFeTV1alpHTjVVR0lxbUhLYjQ2em94RHdqV1RPY0dQMXowemczM3E0Tk8xOTlYYzRIOHhlbDExbXJrQlNwd3RmdVZ0VkRqOVRBYjh0VTVCTnBtY1FaSncwSXFia3A4QjBBc2xiOTZFNDdtQ0ZfX2lzYWxzdGZ4NmdZb2xsVzZpRlE1dlVFRUxKb1ZuazliMnk4b0ZCZUJwZTTSAb4BQVVfeXFMTTgwRWxkdGhTX3h0TGJuU0xWRk1qWFJfcmFfTWhaVWNjQmJyTHVja1hoaUdNM0ZiX29BckVhUzEwUzhFNVB1TUdaaWtsX3VuYjFkMWJoVFNrMWkzR0NQNklIY1UyQXU2MThXVmdPTUJONVdHUm5NV2xjQXp6bUdfek9RMm80bzBHTWxFc2o4SWxhcTQ3ZHBsMlhkY0x6NlZfSkF0VVVyTkVBYWl5Q3JCd0lRNElHeU1CU3NYcE53UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODBFbGR0aFNfeHRMYm5TTFZGTWpYUl9yYV9NaFpVY2NCYnJMdWNrWGhpR00zRmJfb0FyRWFTMTBTOEU1UHVNR1ppa2xfdW5iMWQxYmhUU2sxaTNHQ1A2SUhjVTJBdTYxOFdWZ09NQk41V0dSbk1XbGNBenptR196T1EybzRvMEdNbEVzajhJbGFxNDdkcGwyWGRjTHo2Vl9KQXRVVXJORUFhaXlDckJ3SVE0SUd5TUJTc1hwTndR0gG-AUFVX3lxTE04MEVsZHRoU194dExiblNMVkZNalhSX3JhX01oWlVjY0Jickx1Y2tYaGlHTTNGYl9vQXJFYVMxMFM4RTVQdU1HWmlrbF91bmIxZDFiaFRTazFpM0dDUDZJSGNVMkF1NjE4V1ZnT01CTjVXR1JuTVdsY0F6em1HX3pPUTJvNG8wR01sRXNqOElsYXE0N2RwbDJYZGNMejZWX0pBdFVVck5FQWFpeUNyQndJUTRJR3lNQlNzWHBOd1E?oc=5",
       "pubDate": "Tue, 25 Aug 2026 11:32:11 GMT",
       "lastUpdated": "Tue, 25 Aug 2026 11:32:11 GMT",
       "areas": [],
@@ -1856,32 +1973,36 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "railway station robbery 150 cctv cameras help police nab 3 men from dombivli",
-      "title": "Pune Railway Station Robbery: 150 CCTV Cameras Help Police Nab 3 Men From Dombivli",
-      "summary": "Pune Railway Station Robbery: 150 CCTV Cameras Help Police Nab 3 Men From Dombivli",
-      "source": "Free Press Journal",
+      "id": "waterlogging major issue cm rekha gupta says delhi govt working to tackle rain crisis",
+      "title": "‘Waterlogging Major Issue’: CM Rekha Gupta Says Delhi Govt Working To Tackle Rain Crisis",
+      "summary": "‘Waterlogging Major Issue’: CM Rekha Gupta Says Delhi Govt Working To Tackle Rain Crisis",
+      "source": "News18",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmY0ZXV5cDRyTXF2OUJybDJuY0l4N0wzWFZKVHNsZk5QR09OTVFLb3Z1aVYwT1BLRVlJMkxyZ2sySm5oR3R0T00ycVpCdmVqZzhIbjIwZ01xT3k5TG1pNURrUTNRdl9sNEFwR0NReXlhZGdFTDEzUXZlM2xZdXN4d1hTSjdDSkNOdU04REVHUDZfdE5qMkZFSWNZVUNqYjhYTWJIeEdYVkkxWUowU2k3bEhYejV1SzNSRVHSAb8BQVVfeXFMTm5XVEpyWl9oYkgya3hVREI0emdtQzhBdi12bm5IODhtSks1QUlnTVRVeFU5a29HUG9raDYyUUxKX1lyYUtOd1h4ZGE5TlBxemFzbWdVNTRfU0tSaWJBR2VkSHBteUhfdjBlX2NPb0ZIUmJaMnAzUndJazUxY3pnXzVldktSTEp1TERheW5UYUlKeDR6bE1NR0lvQXNOelVXa1dyeEF6ek5fN09xQXhhQm93SDFhcm5KcjhQTkZzV0k?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 10:00:31 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 10:00:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOXlYRmpuVlgwZ3p6alp6bzZ2OFNUR19YZlBycnZYTFJuYVIyQVBURmZzSGRROUZhMWVnRU5oUV9ZQzJmcGcwbFlCb2lBYjFRQUxRVm14YW50SVY4NW5GV3ZHN2FWTTZGcm5mM0dPc3hCek5EaUd3MXNiR3NGWDRvZ2NWcTh6VHFRa3NaUjJ4S1BQU0xBM1ZlLUJlOVVHaUcxam9Kc0JTYk9CeXNpU3MtZ2RoM3Z6Y3F4aGpZY1NwaXp3Nkw4cDd1MVNUcVhUcUJlSjRwQ1pHaWkwU19U?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 10:46:28 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 10:46:28 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Free Press Journal"
+        "News18"
       ],
       "confidence": "Single source",
       "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
       ],
       "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "Be cautious in the affected area."
     },
     {
       "id": "crime अश्लील व्हिडीओ दाखवले अन् पुण्याच्या भोरमध्ये अल्पवयीन मुलीचा विनयभंग pocso अंतर्गत ",
@@ -1918,8 +2039,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnJuUU5taEhnNC1aUVloRnFYMGtiRFJ4c0l3M1h1VXdUV3lOWHZlRTNJeHJyQzFPd3VNaXBvZjUzUEVMR01KMVBDRlRQdFBpRE1hTlVHdXJKemVFWDVVWkZ6WC1vc1FPZjExckc0M3k1UGk0SkFRMGd1UE5vdzhPelAxdFIyRzRiV3IyRmxZb1FGcDlrRU5PMVMyeDdEU1NjNXNIbThfVEpVU25zM2ROWUVLOTR0UEM2ZHZLX2NlNA?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 07:25:36 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 07:25:36 GMT",
+      "pubDate": "Tue, 25 Aug 2026 07:25:00 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 07:25:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2062,35 +2183,6 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "nashik traffic changes नाशिकमध्ये ईद ए मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल हे मार्ग राहणार ",
-      "title": "Nashik Traffic Changes | नाशिकमध्ये ईद-ए-मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल; 'हे' मार्ग राहणार बंद!",
-      "summary": "Nashik Traffic Changes | नाशिकमध्ये ईद-ए-मिलाद मिरवणुकीनिमित्त वाहतुकीत बदल; 'हे' मार्ग राहणार बंद!",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUZXZG5ZVkRfMkNCa1pUQk44cWN5QVVLZUlzRV85ak1pX2VjdHBFZFh4dEs4a21QaFN3Yk9BUnpWbVFBc0JXYXZ3NmxJT3FObUJtZkJKMDZ0eUJyTFNwZ1VLZnIxbEZNNmYwUG4zREthWXF1alBfRnQ5OTRDTG9CSEEyVktfZ3B3aXBVOVdtNGJFTUNaVkpIOVFEcVowTU9GeVBLVG9zSU9ISDJJaVFKU25mTUszZE00d0h3eGNpLXlOVm54RXVOUXZtY9IBywFBVV95cUxOdUZXZG5ZVkRfMkNCa1pUQk44cWN5QVVLZUlzRV85ak1pX2VjdHBFZFh4dEs4a21QaFN3Yk9BUnpWbVFBc0JXYXZ3NmxJT3FObUJtZkJKMDZ0eUJyTFNwZ1VLZnIxbEZNNmYwUG4zREthWXF1alBfRnQ5OTRDTG9CSEEyVktfZ3B3aXBVOVdtNGJFTUNaVkpIOVFEcVowTU9GeVBLVG9zSU9ISDJJaVFKU25mTUszZE00d0h3eGNpLXlOVm54RXVOUXZtYw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:21:57 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:21:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
       "id": "noida on august 25th 2026 new flyover underpass delays swine flu crime updates",
       "title": "Noida Latest News Today on August 25th, 2026: New Flyover, Underpass Delays, Swine Flu & Crime Updates",
       "summary": "Noida Latest News Today on August 25th, 2026: New Flyover, Underpass Delays, Swine Flu & Crime Updates",
@@ -2179,32 +2271,27 @@
       "action": "Be cautious in the affected area."
     },
     {
-      "id": "crime files how a gang stealing tractors farm equipment was busted",
-      "title": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
-      "summary": "Pune Crime Files | How a gang stealing tractors, farm equipment was busted",
-      "source": "The Indian Express",
+      "id": "maharashtra rain पुढील ४८ तास महत्त्वाचे या जिल्ह्यांना मुसळधारेचा इशारा हवामान विभागाचा अ",
+      "title": "Maharashtra Rain: पुढील ४८ तास महत्त्वाचे! 'या' जिल्ह्यांना मुसळधारेचा इशारा, हवामान विभागाचा अलर्ट",
+      "summary": "Maharashtra Rain: पुढील ४८ तास महत्त्वाचे! 'या' जिल्ह्यांना मुसळधारेचा इशारा, हवामान विभागाचा अलर्ट",
+      "source": "Esakal + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamJEM2FiM1g4TGI0NzNKOFExWE83Z2Z2LWlVTTJDWFVsWXNEQUhCc2FJS0w4bDVxTVBfdzIxQnlBOW43c3JINFRmTllJQ3lzZGdJbUJQdFB6WXZMbEN5U0diTEc2eDBIdGpPeEJIakFfb1hocGk4WWpORGlqVEQ5emxXRWE0aWNxdjgya0t5WThKNGdXeUtuMjhxNUZaUWpsUlRxWkdHN05jOVVIVHExMktKSHlnTUhuNk5TOEpRTjFOQWZUM3fSAcwBQVVfeXFMUHBVVVJNUXRlajYxRUxSODNyVVdYN282VkdrVlk3YjVWUkVHeUZuR2NGZ1RkOGJjU0ZLLVR4eGlMQWJocFNWaS10WmZXc1ZENk1JaHFjS201OUhwLXhONWNwcHItUzZNeXUzQ0RLNVJ4RFhrcFNDR2k3WUJ0a0lxX1RmUUM4eS1NOThBdEM1clAycUU2RVRGY0FpYy10YnZiRDMxZ3B3UUxERDlEU1JfQXRMeVktcmZXWjdvb1dndG1kX3pQZEYwX0l0amd6?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:05:45 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:05:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFhlWGJuSUhrTnJMZWRlSFk0MVR4enZNTVpGNlVRczd3dUNGZHZ6cldFcDRjNEFxNEVMb3FMU1A2RFUySjdfZjdNNHlZbWVGRmd3Rk95anFDdmV5ejNLb3c3aHJqd2thQmdXdF9wZVNfdTdMWGFIalEtdkFvd0hMTFJTQ1YxYkxQbkZJR3l6dkU3cjQ5MnhMMWhOTkZ3TzhBNm52UE9zWV9BRXpvMUxkM3RvZzZSUG5LY0dsX0ZjT1ZCaU9iY29FcTd5ZjhHb053WFF4SThONVc5bXR0cGEya21lOG1pSmZoOTNzMw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:08:33 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:08:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express"
+        "Esakal",
+        "maharashtradesha.com"
       ],
-      "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required."
     },
     {
       "id": "maharashtra weather tomorrow उद्याचे हवामान वरुणराजा धुमाकूळ घालणार पुढील 48 तास महत्त्वाच",
@@ -2220,29 +2307,6 @@
       "sources": [
         "Times Now Marathi",
         "LatestLY"
-      ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra rain alert राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट दोन दिवस पावसाचा अंदाज",
-      "title": "Maharashtra Rain Alert: राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट; दोन दिवस पावसाचा अंदाज",
-      "summary": "Maharashtra Rain Alert: राज्यात १० जिल्ह्यांना पावसाचा येलो अलर्ट; दोन दिवस पावसाचा अंदाज",
-      "source": "Agrowon + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXBuZThnZ3dOdFd3eEhTS0k1QUtiLVR6OHF2dVRodnFpTkM5cGd4Vk1lTEpydjJsU3hjQTFXUU1XYVBZYTFORXJadDdTNi1qY2lDMm9YVmJpQldyaEF3X3BGYk9IZUxiZTFhZXZXbnVHOEZyVTU3c2JsVEdYMUpRSHlfWWd2SjU3RHBZX2N2U1dObFV6cERFVS1lbVJTRHBRanhTMHI3d25lNmZHSVBxajBIY2lwbEk0cm1NSmlHUDc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 09:40:18 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 09:40:18 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Agrowon",
-        "maharashtradesha.com"
       ],
       "confidence": "Medium",
       "severity": "advisory",
@@ -2299,6 +2363,75 @@
       "action": "No immediate action required."
     },
     {
+      "id": "रोहित पवारांच्या pa ची लेक नको ते पाऊल उचललं बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "title": "रोहित पवारांच्या PA ची लेक, नको ते पाऊल उचललं; बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "summary": "रोहित पवारांच्या PA ची लेक, नको ते पाऊल उचललं; बारामती पोलिसांनी सांगितलं धक्कादायक कारण",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ25BaFFES2F6WHl1UWpsbmk2RHdXMl9uYS01REJJdWg2U0JOWk1IMUF6dktuaGxFU0g5ZVRwenZKaDd3cUx6emo5WFdHdUYxUXNycFRfZGpMRXhFN3EtQnp6c0hpV0RjYWVZRzF5a3RYU1FCSHJtSU1xN0txVzFRR3daZ1lvMGFZNUNaU2hLYTRoQ3FlRTh1RmgzN3JwNVhDaVphYzJ1elpSVEVTNG5DWF9GYlBHRlg3QmJWbWJpRE1fT1k?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:15:02 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:15:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "six held for allegedly kidnapping robbing zepto delivery worker in pimpri chinchwad",
+      "title": "Pune: Six Held For Allegedly Kidnapping, Robbing Zepto Delivery Worker In Pimpri-Chinchwad",
+      "summary": "Pune: Six Held For Allegedly Kidnapping, Robbing Zepto Delivery Worker In Pimpri-Chinchwad",
+      "source": "PUNE PULSE",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGVmSDhlUG41VnliLW1KaFNtYVA5YlBJbmd0OVlidTVXei1jUFpwWGRVM0VFaTBWdVlHMjdkaENtMjNzZ3F5UHlmSWJVSUtYakczdDRoZmNHd0lRbUJkVUkwZFp3NjFfRlFTcGFQZjdFWU5qWVlzbEtWWnhsTzYtQ0ppcGJMVVg2QU9Dd2hfaVQyR3k0el9mTERJUE4zZDF3SkQxWlU2eldTcF9BV2hHWFFxODZVMVZH?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:02:44 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:02:44 GMT",
+      "areas": [
+        "Pimpri",
+        "Chinchwad"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "PUNE PULSE"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे ईद ए मिलाद मिरवणुकीसाठी मध्यवर्ती शहर कॅम्प नाना पेठ भवानी पेठ आणि खडकी परिसरातील वाह",
+      "title": "पुणे : ईद-ए-मिलाद मिरवणुकीसाठी मध्यवर्ती शहर, कॅम्प, नाना पेठ, भवानी पेठ आणि खडकी परिसरातील वाहतुकीत महत्त्वाचे बदल जाहीर; 26 ऑगस्टला अनेक रस्ते बंद, पर्यायी मार्ग जाहीर पुणे : मुहम्मद पैगं",
+      "summary": "पुणे : ईद-ए-मिलाद मिरवणुकीसाठी मध्यवर्ती शहर, कॅम्प, नाना पेठ, भवानी पेठ आणि खडकी परिसरातील वाहतुकीत महत्त्वाचे बदल जाहीर; 26 ऑगस्टला अनेक रस्ते बंद, पर्यायी मार्ग जाहीर पुणे : मुहम्मद पैगं",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YlByUHRZY3BEeVBqSVo2R21jTG9JSUJoOVBVWktvclc1YmhfM1p2NkRrdzMtbExETlhDdmVpeVZ6N3FzSWJSY3JKeXQzLVlSZFE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:55:53 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 12:55:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुण्यात स्मार्ट रस्त्यांची पोलखोल पाषाण सुतारवाडीत कार खड्ड्यात नागरिक संतप्त",
       "title": "पुण्यात ‘स्मार्ट’ रस्त्यांची पोलखोल..! पाषाण-सुतारवाडीत कार खड्ड्यात, नागरिक संतप्त",
       "summary": "पुण्यात ‘स्मार्ट’ रस्त्यांची पोलखोल..! पाषाण-सुतारवाडीत कार खड्ड्यात, नागरिक संतप्त",
@@ -2333,6 +2466,28 @@
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "worm allegedly found in paul bakery food in customer shares online",
+      "title": "Worm Allegedly Found In PAUL Bakery Food In Pune, Customer Shares Video Online",
+      "summary": "Worm Allegedly Found In PAUL Bakery Food In Pune, Customer Shares Video Online",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNDltMS1FVEx2OU1LQ1d4Vk1nWUhqUzRNNTVDNms3UlJiLW14dFlKbzV0RjE3d0N3amFCeEtQeTV1emZ2TVNMajYzR2pXdTRDNjkzbDJLSVlEeVB2aDJDazF4elptMFhyTGFPVlFLUlBpcE5YTW9Ba0l3bHBsUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 09:20:01 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 09:20:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2499,6 +2654,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुण्यात ईदच्या मिरवणुकीसाठी वाहतुकीत मोठे बदल नानापेठ ते शुक्रवार पेठ मार्गावर नो पार्किंग",
+      "title": "पुण्यात-ईदच्या-मिरवणुकीसाठी-वाहतुकीत-मोठे-बदल-नानापेठ-ते-शुक्रवार-पेठ-मार्गावर-नो-पार्किंग-पर्यायी-मार्ग-जाहीर",
+      "summary": "पुण्यात-ईदच्या-मिरवणुकीसाठी-वाहतुकीत-मोठे-बदल-नानापेठ-ते-शुक्रवार-पेठ-मार्गावर-नो-पार्किंग-पर्यायी-मार्ग-जाहीर",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYak90WWRyUGx0clRYdE1IX0Y5RlJzRTJja1VRRWV4Q1h1bEFrTllxSS1BWm1ubWNyMXdPXzlENk9JaDdTNEVHUzdRRTMyeFY0cDE4anlQQnpLOE9zWnpsTXpXLVZJekhRYkxIWWw2VnVuRGtDVUE40gGSAUFVX3lxTFBBazBFc1BlQll3OE5ZbVNMYmdsRnNqdExleEdmTm44dkU1SnZVMDU1U3ZzM3ZnYkoxdjZtaWZyRE5vLVYxN0ZlMWVveG8zaXpMMFl0V181dDI2R1RBSDZzOTNDMUN1UkJad0FnMGFyNEVTWmFyQ3dSdmFjX0lOTDdPZmp1UTI0MndteldTeXBDNGVB?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 06:22:51 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 06:22:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे अ ॅल्युमिनियमच्या तारांसह अडीच ला",
       "title": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे- अ‍ॅल्युमिनियमच्या तारांसह अडीच लाखांचा ऐवज लंपास; उरुळी कांचन पोलिसांत गुन्हा दाखल",
       "summary": "नायगाव व प्रयागधाम येथील दोन विद्युत रोहित्र फोडून तांबे- अ‍ॅल्युमिनियमच्या तारांसह अडीच लाखांचा ऐवज लंपास; उरुळी कांचन पोलिसांत गुन्हा दाखल",
@@ -2511,6 +2688,28 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पावसाचा जोर वाढणार राज्यातील या जिल्ह्यांना येलो अलर्ट जाणून घ्या हवामानाचा अंदाज",
+      "title": "पावसाचा-जोर-वाढणार-राज्यातील-या-जिल्ह्यांना-येलो-अलर्ट-जाणून-घ्या-हवामानाचा-अंदाज",
+      "summary": "पावसाचा-जोर-वाढणार-राज्यातील-या-जिल्ह्यांना-येलो-अलर्ट-जाणून-घ्या-हवामानाचा-अंदाज",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GcGg5RFhoaGZGbmdKVlE1YTZRNkYyXzdidUNmenYyQTNhZnJPdTBKNzl5SWJ1TlgyNVJXQjY2QTgzRXJuOEVhZ0hoT29MU0RleUpzcThQT0NHSzlxalFuazl5R2Vtci1kUDdOak9FTzFPZ9IBjAFBVV95cUxQeUpKM2s4YzR0ZzFsdzRET1ZrZ0p3MENJaE9FSlF1YUlKbkRpcGNiNy1ISzRQNERnb09HbFVLeno5aTNCNVVwLURVU0kxemRxRnp3dThCNEJQWW5iaGxOVGhSLUVMSXJXZE1sYkdqQ1BMeG5QNjNwLTh5U01XanlJS2R2Rk9jMmlQRm1kbQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 05:29:01 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 05:29:01 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2853,28 +3052,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "ev suv मुंबई पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल आली 919 किमी रेंजची लक्झरी suv लूक तर",
-      "title": "EV SUV: मुंबई-पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल! आली 919 किमी रेंजची लक्झरी SUV, लूक तर पाहाच!",
-      "summary": "EV SUV: मुंबई-पुणे शुन्य रुपये खर्चात 6 वेळा जाऊन याल! आली 919 किमी रेंजची लक्झरी SUV, लूक तर पाहाच!",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmpXSGpzUXpPRHpfb1lJV2ZuZU1BQ0F6ejVYWTB2eWsyXzlkbk5ES09iNzJQNzExYWpycEZ6VmZUZkRGWnJxXzZUVG5ONHVfQmd6V1J2ZzU1WHN4UVY2TFV2OGJWc21oWVJSeWxmbURsdEV1TlZGQURpUDJwNDRrZHE4VThSNGE2c053VjVxcTh2bzFoSnNRQ0lsbzJuZ2dXWHdvc1Ewa09TUHk3ejNSOWxjWXkwV0oyNnIxcg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:25:00 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 14:25:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "uttarakhand school holiday tomorrow august 25 will schools be closed due to heavy rain che",
       "title": "Uttarakhand School Holiday Tomorrow (August 25): Will Schools Be Closed Due to Heavy Rain? Check Latest Update",
       "summary": "Uttarakhand School Holiday Tomorrow (August 25): Will Schools Be Closed Due to Heavy Rain? Check Latest Update",
@@ -2917,78 +3094,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे rto चा मोठा बदल गाड्यांच्या नंबर प्लेटवर आता mh 12 1a पाहा नेमका काय आहे नवा नियम",
-      "title": "पुणे RTO चा मोठा बदल! गाड्यांच्या नंबर प्लेटवर आता 'MH-12 1A'; पाहा नेमका काय आहे नवा नियम",
-      "summary": "पुणे RTO चा मोठा बदल! गाड्यांच्या नंबर प्लेटवर आता 'MH-12 1A'; पाहा नेमका काय आहे नवा नियम",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkxzNWREaDQ2NWhWVV9aS19lXzlqTkZ1TGo1a0p6VldSRE9fTlU4dzAwaFh2eFVhbzYxa2RVSDMtMlpIU21QTnFKN1FDZTVnRGRXTjgtTVItb0w1Uk9SR0JIWWJ0dkM3eVZVNF9sMk04NVpLanY3RFRfNUU4bUdWdXNBd1pYblhJRUQyWS00dUdUbU44dGpJYm91bU9zSzNqQ3pQNU05RHkxYkNVcHpDTndXbXY3TVdDQUVpNkZNVy1KWGhkajZyc3N6UG5RUS1tVlHSAdcBQVVfeXFMTlNRM0VsbzdwZ2QwRkNneUZ3YTEyZ3p3VXhGNEVjT0ZDb1JUWE96RkR5LXlOdDVEd1ZwSU9uSG00QUNDeTd5SjVsZVMyUW1xN3JQZ1h1TEFMSm1pRWp3OEVxMExuQXlnbl9CaThQRUpOTU50ZFFiT2NxVlVrYWdoZE8tSzlwZnc3Q25TUGVpWU5XZEdFMGYtb1EtalhqQmQ0Y0R2RGdzX3pUZko3T0xiNml4anF5ZjI3WXpvZW9STHdWQUtGRnF4X1pySDhDQm9XQk1rck1vTk0?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:07:44 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:07:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "amravati ventilator blast अमरावतीमध्ये तीन नवजातांचा मृत्यू व्हेंटिलेटरमध्ये स्फोटानंतर आग",
-      "title": "Amravati Ventilator Blast : अमरावतीमध्ये तीन नवजातांचा मृत्यू; व्हेंटिलेटरमध्ये स्फोटानंतर आग लागल्याची प्राथमिक माहिती",
-      "summary": "Amravati Ventilator Blast : अमरावतीमध्ये तीन नवजातांचा मृत्यू; व्हेंटिलेटरमध्ये स्फोटानंतर आग लागल्याची प्राथमिक माहिती",
-      "source": "civicmirror.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbW9mZVVFY1VsRm1FcFhiVllkNmpFSzFxLVFNM1ZuUU1XYzNXN3JURVczY3JtZmJRdl8zUllDR2trRmh0U0tCV2JMdjNna1AzV0pRSWU3NUQzUG9zZGkyUF94cjlhZ2hCcUFWc05HLW15WXYzNFg1aHdfYk94R1FCTmhuNjVNV2JvYUp1cEZhanc1ZzhyZlpRZ2JSeHpVLTFfaklHb2w2SEpvMzlNc2hfc3dvZHBwV3hKYmtFaTZCRU5DTUh0M0czWHZ3U3pGaE85NnJUUVlOczI5SF9ZT1hxRTVSOVhoZw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:05:26 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:05:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "civicmirror.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "imd rain alert शेतकऱ्यांसाठी आनंदाची बातमी पुढील 72 तासात पाऊस बरसणार कुठे सरी कठे कडक ऊन ",
-      "title": "IMD Rain Alert : शेतकऱ्यांसाठी आनंदाची बातमी! पुढील 72 तासात पाऊस बरसणार; कुठे सरी, कठे कडक ऊन? ताजा...",
-      "summary": "IMD Rain Alert : शेतकऱ्यांसाठी आनंदाची बातमी! पुढील 72 तासात पाऊस बरसणार; कुठे सरी, कठे कडक ऊन? ताजा...",
-      "source": "TV9 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGlMeTN2dS1yZG9DSkRvVEFVUndaNXk2MlFwMkJwYmlUMkFwdVh4eFF1ZlE5SW9sS2NlVjhHRWRleXVtcGlrUXYtazFqQ1kxQXA1OFJKZ2RMMFBWQ2VHZm5yRDA4ZVFIcGtJWVhzTEhDUXFhUS1BZm82dEx1RGNJR3doRGVuVFZaRF9SV1pQb3dkcUdFSk1laDlpY203WEhGQmNjQUpHTXhlMHJiOXdyRDlZR0hQeVZVcEZTTFlpS19pQW8wc1dydm5MV2JsVmRY0gHQAUFVX3lxTE94aUx5M3Z1LXJkb0NKRG9UQVVSd1o1eTYyUXAyQnBiaVQyQXB1WHh4UXVmUTlJb2xLY2VWOEdFZGV5dW1waWtRdi1rMWpDWTFBcDU4UkpnZEwwUFZDZUdmbnJEMDhlUUhwa0lZWHNMSENRcWFRLUFmbzZ0THVEY0lHd2hEZW5UVlpEX1JXWlBvd2RxR0VKTWVoOWljbTdYSEZCY2NBSkdNeGUwcmI5d3JEOVlHSFB5VlVwRlNMWWlLX2lBbzBzV3J2bkxXYmxWZFg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:02:21 GMT",
-      "lastUpdated": "Mon, 24 Aug 2026 13:02:21 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "TV9 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 64,
-    "alerts": 15,
-    "news": 49
+    "total": 66,
+    "alerts": 16,
+    "news": 50
   },
-  "cleanedAt": "2026-08-25T12:33:44.190Z"
+  "cleanedAt": "2026-08-25T13:42:27.889Z"
 }
