@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:53:00.115Z",
+  "generatedAt": "2026-08-26T02:21:14.357Z",
   "status": "ok",
   "alerts": [
     {
@@ -134,38 +134,6 @@
       "region": "pune",
       "sources": [
         "Zee News"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "delhi weather 25 aug 2026 heavy rain lashes capital red alert issued check forecast",
-      "title": "Delhi Weather Today 25-Aug-2026: Heavy Rain Lashes Capital, Red Alert Issued; Check Forecast",
-      "summary": "Delhi Weather Today 25-Aug-2026: Heavy Rain Lashes Capital, Red Alert Issued; Check Forecast",
-      "source": "NewsX",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHF4T0U4Szd4alpJdTFOa0VNV3VURFVoaTNqUVRSNWJBODlVZTJjbnRlaWI5ZlB4ZHpybGI3eWhucnVXMm5LLURNbW1wTmV1YVp2ZGNMZmtMdkM2M2pTUV9oVDhZaWt2d25iNnlkRE1kVVE2NEtoMWhxNjd2UEI2eElzeG5XQlNWdUVkYUZ3ZW1KTEFiSkV4cEpHZ1Zad25kaENqemx6dEpYb0d3aU55RFdDQjZhLS1OMlgyZ3kybnF1dDROeUtqVk1Hd3RnUllmVmNZM0FvRTAzUlM20gHiAUFVX3lxTFAzcGxQUzZnQW96c0R2NS1SZkU2MzZRU1N6SGpfQzl0S1ZLSi1zcG5KdGtOcENKYmRHcnNid0pWdmRiYnpmVkpVckh0Z3FqOVI2VDRVWFBqWG45TjFzWGtEZlpWYmpHNHpNOGlWN3Q1bjVNVDhPbTJaejlVNGpJeUljaHJwbllQbldlTmxXMUxqMWhXLWlNSDZIeXpiWk9fMnVTMVYyVUhXTmE1ZHV4SUZEMEp1Q1U1ZjVuWDJic3EtUWZaUE9FZzQ3N0lZS1hVMU5XRVdMZXVOR3YwSmxuQk5ILVE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:18:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 02:18:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "NewsX"
       ],
       "confidence": "Single source",
       "w": [
@@ -382,6 +350,41 @@
       "action": "Be cautious in the affected area."
     },
     {
+      "id": "heavy rains snarl delhi travel with flight delays waterlogging",
+      "title": "Heavy Rains Snarl Delhi Travel With Flight Delays, Waterlogging",
+      "summary": "Heavy Rains Snarl Delhi Travel With Flight Delays, Waterlogging",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUNxbnRpNEZ2Z0pmdFNZUkNMazhTUEN5RnpkNmtuM29xUDRnQnRkUmFiaDBKNnFkUnlnTFcwRHlyQTBiLXNhejJWSVdjME9kc1ppQ29naDIyQ2NmR0ZrN1p4Skh4T1M2SjZsSUNnd00zN1htbmpmNDdGMkhrNzR0MDFhYnpURC1OM3AtUEpNZ1RYYkpjR3c?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 20:14:54 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 20:14:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "congress protests waterlogging demands action by civic body",
       "title": "Congress protests waterlogging, demands action by civic body",
       "summary": "Congress protests waterlogging, demands action by civic body",
@@ -666,14 +669,14 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "weather alert महाराष्ट्रात आता पावसाचं जोरदार कमबॅक 24 तास महत्त्वाचे 4 जिल्ह्यांना अलर्ट",
-      "title": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "id": "weather alert 24 तासांत वारं फिरलं महाराष्ट्रात पावसाचा पुन्हा ब्रेक पण या जिल्ह्यांत धो ध",
+      "title": "Weather Alert: 24 तासांत वारं फिरलं, महाराष्ट्रात पावसाचा पुन्हा ब्रेक, पण ‘या’ जिल्ह्यांत धो धो कोसळणार",
+      "summary": "Weather Alert: 24 तासांत वारं फिरलं, महाराष्ट्रात पावसाचा पुन्हा ब्रेक, पण ‘या’ जिल्ह्यांत धो धो कोसळणार",
       "source": "News18 Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSTBFckVVSV9Vd0NiZmJOVjVZcUUtR3poRzFtcWdrWGUzWTBmbGtNVG4wdkVZY2Z0LWFWZzlfeEtJblV1VnB3dW1BcldIdFg5cGZxNVJudkVmZ19XSFpuT01qMEZxMWlyU3dWOU1SM2NiTUoxWmNxUWxFVlFUUE0wT2VYeFhnVXpnSjlEZU9UX09EaHJHdWlIbVlsUXZoQVVFR3Vlb2kzOEpoNmN2WXlRNjE2UDl2QV9GTjY0ZHctaHNlMXItSmRBUHBwUWhpbTJhT25XYTlkRG4xVDBIN2FoYy1EMkNvQmVJZWxfV1YzZUJ6azJ0YmE5V1hjN3NBSGZwZnBxV2h2LUZmZw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 14:01:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRzZ2cE02anlocW9YcXpHQmNPVi1zaWhxOWRkNm5VeXBBb1RoZFptdFBCd0MzVER1R0NlRFFhZXcxRHROYXBrTjRNZWQybUdlbGJhc2N1RWs1Q2F6U0p5SUVZeXVzTjBWcGdMSVFYWUs4ank2ZmdMekZjdG1KVzEzWlljR3NqQl9zUk9Ual9HVDBpMTdqa2NPWDFTZXd0OEZHRHZsWTlmUTFYNTJ1OEdFNXpSNEtEZFI4U1NvdEJzenJ5SmJnaUhadmpXOWtILWpoZlIzdExZc18tNmRfZkRuNHFPcXVJYWRYVjZHR2ZfcWozdVNBT0YyMG9JaDFlOGNuM2xfN0REYWVHWHFUMGkyOA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:59:00 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:59:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -689,21 +692,20 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार पुणे साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट घाटमाथ्या",
-      "title": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
-      "summary": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
-      "source": "Divya Marathi + 1 more",
+      "id": "राज्याच्या हवामानात बदल उपसागरात चक्राकार वाऱ्यांची स्थिती 10 जिल्ह्यांना अलर्ट",
+      "title": "राज्याच्या हवामानात बदल; उपसागरात चक्राकार वाऱ्यांची स्थिती, 10 जिल्ह्यांना अलर्ट",
+      "summary": "राज्याच्या हवामानात बदल; उपसागरात चक्राकार वाऱ्यांची स्थिती, 10 जिल्ह्यांना अलर्ट",
+      "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOd9IB2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOdw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:39:18 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUlBOW5HZmQxWVZra0k3Wks4Y0N0b3FkN0RWSjk2Q0dIbFBvMm5vLW9RR1JtY1pEazFnTGtnS2taVUxYS2pPLTNJUTVwR05xQ3NNMXNXcXR0WnRRWm5lei13M1pSMG9HOExfSUNySG9uaGJTOGpyRlkwekJ6UEtQNmkxX3Q1SkcwR2ZNQ3JWU2t0a0ZtNkIwYjdQYkh0aENJV0tlQUJEVm9COGV0dVpYU3hSdGFCVklhaFlMS2JtY0hzeTAzX0tIRVVmRXIzT013VlJFbmNR?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:53:15 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:53:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi",
-        "Saam Tv"
+        "Zee News"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -712,31 +714,26 @@
       "action": "No immediate action required."
     },
     {
-      "id": "heavy rain disrupts delhi ncr transport 15 flights diverted gurugram roads waterlogged",
-      "title": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
-      "summary": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
-      "source": "urbanacres.in + 1 more",
+      "id": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार हवामान विभागाच्या या इशाऱ्यामुळे चार जिल्ह्यांत वाढ",
+      "title": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार! हवामान विभागाच्या 'या' इशाऱ्यामुळे चार जिल्ह्यांत वाढली धाकधूक",
+      "summary": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार! हवामान विभागाच्या 'या' इशाऱ्यामुळे चार जिल्ह्यांत वाढली धाकधूक",
+      "source": "Pune Prime News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcW5Uc1oxVm5kaEJCLUxRQUlGU3dHMTNqeHo3YXBEa3Q0WC1zcTRFdVBiQldQMnFNbHNDY1JEWFBDMVlpN28xWi1wdW9BQkdIVVBraDdyZjBXYm12ejlkSVhPbnJ3bjZIam5MVnlqN2tXbkxqQTk4SXdpZlg0a084MjF5TmgxeVBjNTRINlhMZlU1dDFPMnZrTWEtbEhvWXhBdzUtT01nQUhkWW1aNVE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:06:38 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQW1QS2FYS0pxb0I2SlNvRnBuQmtWMU4yelc1UlJrWUxiM29aWTRRekhIV3Q0cFZfd20wMnVQbUxPQXJmV0lUQk82aXJhR2M2ZVVFZE4xcmRFZ0VyLXQyeGpwRllTMmN1bzJmQ1VYV3dCTUVXdHFUQjB4a2NITkdEN3ZVWTI0Y3BEek1kZ1RocHh6cTJGYjVFMERtcEYzdmFRYkt6dEVhUGFkb3R3T0pma0JvMDR4cEJSZ195UHJXOEpvell0Vmt0MHpKU3BVX0J6bXduZjYyLWhMcVktZVh5cjN2YzhHbklxck5GSGJJZWFXNTVpTHEtbklRSHNaUEZCMzlUYURBQTNQOE1P?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:50:34 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:50:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in",
-        "India Today"
+        "Pune Prime News"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Road delay or diversion possible."
-      ]
+      "action": "No immediate action required."
     },
     {
       "id": "maharashtra monsoon alert मध्य महाराष्ट्र मराठवाड्यात पावसाचा अंदाज",
@@ -751,6 +748,28 @@
       "region": "pune",
       "sources": [
         "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "lvia sets july passenger record as summer demand climbs",
+      "title": "LVIA Sets July Passenger Record as Summer Demand Climbs",
+      "summary": "LVIA Sets July Passenger Record as Summer Demand Climbs",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUzV4SlRnaUIxUmVGUzcyT2RuQkFGVWczQ3pqSU0wZ1hnOVFMQmpMYllMZDFveDUtSEk0bVpiVGZJSTJfR0hTR2J0aUM4OVdJekhtbzllWVFfSDhscHBkdXU2VlNIdTJEWlVGMzBhcWRyay03dkFwa29ac1VJV2pqbjRVN005cDNUYWVNTA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:54:54 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 19:54:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -849,6 +868,31 @@
       "action": "No immediate action required."
     },
     {
+      "id": "seven low pressure systems but little rain relief for andhra pradesh",
+      "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "summary": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "source": "The Hindu",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLTVaVDgyWUxLZnRqU1dOcXlZTFpNcFVjQzdpelJtazJCS3JGaVRvRG5uZ2J2d3N5VnBYQ2I1VFB3YzJBcVJKa2xxSEFMMXoxMWo5T3N6US1MQ0JkcnNlZVk5WV91dFo2WUlrVElJOEttLWwzTFBBbF91NFdSVHRqalpFUkw2YjlNbUl4Rlg4QTBKc3hkZnJzVXFaQnZ6ZDlPR0FuREhrOXVlNXNSUURieFFPN0hPVV9UZmhyeHNLdTNrRVFlN09uZm5QaVBXZ2xtNW05cXVlRkh0UdIB4AFBVV95cUxQazBIaURCUXlrOWtNX1BfVVNhSjNRaHZ5WFRsZE9jVnZNVHFVYlJBN2tYek9CS2dMc1BqeTIwSlF1MTRDdENCdC1mZ1Q4WjB6dE8xd2thSlA2eThqUThQUUM5LVJ0MDlIcXRlOU5tYjJkT2UxTmczMnFaQzMzSkNGdWNTT0lYRG5lbDY2RXc4UElQRnVsMmVvOXpwMnZRSDltdkxiRHlGVEpKT3RDZWNBLTEtbVprUENWbzdYSWxUeXp3R3NjTzNodV96czI3MlQ5YU1wRUtyVzNBVFFudFRHbQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:42:40 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 14:42:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Hindu"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "पुणे शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे शिक्षक नगर",
       "title": "पुणे : शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे : शिक्षक नगर परिसरात रस्ते अपघातानंतर नॅनो कार चालक आणि दुचाकीस्वारामध्ये जोरदार वाद झाल्याची घटना",
       "summary": "पुणे : शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे : शिक्षक नगर परिसरात रस्ते अपघातानंतर नॅनो कार चालक आणि दुचाकीस्वारामध्ये जोरदार वाद झाल्याची घटना",
@@ -861,6 +905,50 @@
       "region": "pune",
       "sources": [
         "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रात आता पावसाचं जोरदार कमबॅक 24 तास महत्त्वाचे 4 जिल्ह्यांना अलर्ट",
+      "title": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSTBFckVVSV9Vd0NiZmJOVjVZcUUtR3poRzFtcWdrWGUzWTBmbGtNVG4wdkVZY2Z0LWFWZzlfeEtJblV1VnB3dW1BcldIdFg5cGZxNVJudkVmZ19XSFpuT01qMEZxMWlyU3dWOU1SM2NiTUoxWmNxUWxFVlFUUE0wT2VYeFhnVXpnSjlEZU9UX09EaHJHdWlIbVlsUXZoQVVFR3Vlb2kzOEpoNmN2WXlRNjE2UDl2QV9GTjY0ZHctaHNlMXItSmRBUHBwUWhpbTJhT25XYTlkRG4xVDBIN2FoYy1EMkNvQmVJZWxfV1YzZUJ6azJ0YmE5V1hjN3NBSGZwZnBxV2h2LUZmZw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "met office thunderstorm warnings raise risk of uk travel chaos",
+      "title": "Met Office thunderstorm warnings raise risk of UK travel chaos",
+      "summary": "Met Office thunderstorm warnings raise risk of UK travel chaos",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3hTOXVVMW9SaV9SeG1UV29qTTkwc3N6Smx6dGR1WlprVnNKMFBIOExINTB1b19RSkRzTkdxUXlhTzkzcHBvUTJwQWlFRS12Sldzc1pNdGhVWEtFcmM4ZlAwTTJhQXNDNG9EUXlISS04dFJrVXQ3dUZqQlNFb3dtNEZwV0NWblpYZ2JyQVdRNkQ1ckszcnc?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:41:56 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:41:56 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -973,6 +1061,28 @@
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQU3VHMnhPU0c1dFVVNmYyV1hOdFZNWllVWDNZeFhVNWc2eHp4SGR3T0lyWFJPTzhVZDc5MG1FaGhCcmVOTGs1eFMxTER3RUdPYjJNTV9JZldQZ3pkLVBTUjlPWWEwcENQR2hwUk53ZVdDUHVHalJOTXZmZmFIbjM3UkdZU2I4WFNsOTlxak1mT21XWGc3Q3NsOW0tZEJkRlJSMFViWkRIclNHTk5QMkpJc0gza01xY1FaZHVkaWdSYzJ2cUVwS2NxV1k0bXpZeU5TWEFaR0NCcFJ1RkJGbE95MTA4NVFiM2w2aXZxSWlKMXk4YUl4LWUzUTF6emxJYy1oZmxWbmNTV19tdkV0OWxHVFJWSUVocUpmODl0WEJsdmt5Ml9IeXBsNC02SVpoZW5FdjMxaFg4c3BxaTJRSUp1S3J0S1VzRzJj?oc=5",
       "pubDate": "Tue, 25 Aug 2026 12:42:57 GMT",
       "lastUpdated": "Tue, 25 Aug 2026 12:42:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "civicmirror.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मैं शुक्राचार्य हूँ",
+      "title": "मैं शुक्राचार्य हूँ!",
+      "summary": "मैं शुक्राचार्य हूँ!",
+      "source": "civicmirror.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPZzZURUVZZ3dtWGktRnlyZHp3aW1adVJqQllIX2JtbnJjbDc1U1lNQW0td0psblBabXExem9iMEdNSGp1OW5IdkYyZkVWZ0ItTkZaU0dvSDRTaFE3RGh5N2hScnhPUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:24:57 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 12:24:57 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1328,6 +1438,54 @@
       "action": "No immediate action required."
     },
     {
+      "id": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार पुणे साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट घाटमाथ्या",
+      "title": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
+      "summary": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOd9IB2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOdw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "heavy rain disrupts delhi ncr transport 15 flights diverted gurugram roads waterlogged",
+      "title": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
+      "summary": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
+      "source": "urbanacres.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcW5Uc1oxVm5kaEJCLUxRQUlGU3dHMTNqeHo3YXBEa3Q0WC1zcTRFdVBiQldQMnFNbHNDY1JEWFBDMVlpN28xWi1wdW9BQkdIVVBraDdyZjBXYm12ejlkSVhPbnJ3bjZIam5MVnlqN2tXbkxqQTk4SXdpZlg0a084MjF5TmgxeVBjNTRINlhMZlU1dDFPMnZrTWEtbEhvWXhBdzUtT01nQUhkWW1aNVE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "maharashtra weather alert yellow alert issued for 11 districts as rain intensifies",
       "title": "Maharashtra Weather Alert: Yellow Alert Issued For 11 Districts As Rain Intensifies",
       "summary": "Maharashtra Weather Alert: Yellow Alert Issued For 11 Districts As Rain Intensifies",
@@ -1409,50 +1567,6 @@
       "region": "pune",
       "sources": [
         "Saam Tv"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather alert राज्यात पुन्हा पावसाचा जोर वाढणार या ११ जिल्ह्यांना यलो अलर्ट कु",
-      "title": "Maharashtra Weather Alert : राज्यात पुन्हा पावसाचा जोर वाढणार; या ११ जिल्ह्यांना यलो अलर्ट, कुठे बरसणार मुसळधार?",
-      "summary": "Maharashtra Weather Alert : राज्यात पुन्हा पावसाचा जोर वाढणार; या ११ जिल्ह्यांना यलो अलर्ट, कुठे बरसणार मुसळधार?",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTdETndXUGJ4MGJNWkFUY1EzZ1JNaFpqU2NEV2ZSUHRyQU9TY2RGc2JXMFdRazZSZjBlUi1lN2kxQWo1U01qT2ZGUmtiWEE1Tl9KNC1wdVNfLUNEbVZPX3B2UEhmS3lfVG1OZGFFSU5ILTNUb2FydHJURzlIdDZTSmNRM1I1cTlqdFJNN0c2M3NSSzhtb2hGWXk5eDRMRG1UWlQ2T0tqZmxJU0xzampHOTZZVTlKWlY2LXV0WW1JdHB0YTNFbWVyVjFBQk9jam1yYnhBUG9oSGlRZVdwb0EtQUZoQ1oyRkFXZmxMODRnMmJ5VHFKWldlUGREQmNBQQ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:05:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 02:05:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert वारं फिरलं महाराष्ट्रावर पावसाचे ढग पण कुठं कोसळणार आजचं हवामान अपडेट",
-      "title": "Weather Alert: वारं फिरलं! महाराष्ट्रावर पावसाचे ढग, पण कुठं कोसळणार? आजचं हवामान अपडेट",
-      "summary": "Weather Alert: वारं फिरलं! महाराष्ट्रावर पावसाचे ढग, पण कुठं कोसळणार? आजचं हवामान अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcjA0SnI2cmstNXNXYlQ1YXFMcWxQVVJsMnhURE5tZjg2UGZ5MmZaY3JfYVphcVZhYWR6WU9MQWF5RG1hOEdzdTIyOU82Q3dObDBzZ2wwTmdQYUVBVXpzd3o5MXdibVVKT3ppWXhOejluamwtVGQ1STN5SnBCZWlfbTNwY2JCTTh3QXVFMnctSkhQWm01Z2JNYzRYamhiMG1UbThFYW43MWtxMXZTUUdjaE9hV3dhSTlqXy03WVRTLUtuTHdWbmFwc0hOaWMzZjFKTXh1LTNvWTRwRU1kbEh0SFBMaDh5VF9NaWc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 01:45:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 01:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1590,35 +1704,6 @@
       "region": "pune",
       "sources": [
         "Zee News"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
-      "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
-    },
-    {
-      "id": "delhi weather 25 aug 2026 heavy rain lashes capital red alert issued check forecast",
-      "title": "Delhi Weather Today 25-Aug-2026: Heavy Rain Lashes Capital, Red Alert Issued; Check Forecast",
-      "summary": "Delhi Weather Today 25-Aug-2026: Heavy Rain Lashes Capital, Red Alert Issued; Check Forecast",
-      "source": "NewsX",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHF4T0U4Szd4alpJdTFOa0VNV3VURFVoaTNqUVRSNWJBODlVZTJjbnRlaWI5ZlB4ZHpybGI3eWhucnVXMm5LLURNbW1wTmV1YVp2ZGNMZmtMdkM2M2pTUV9oVDhZaWt2d25iNnlkRE1kVVE2NEtoMWhxNjd2UEI2eElzeG5XQlNWdUVkYUZ3ZW1KTEFiSkV4cEpHZ1Zad25kaENqemx6dEpYb0d3aU55RFdDQjZhLS1OMlgyZ3kybnF1dDROeUtqVk1Hd3RnUllmVmNZM0FvRTAzUlM20gHiAUFVX3lxTFAzcGxQUzZnQW96c0R2NS1SZkU2MzZRU1N6SGpfQzl0S1ZLSi1zcG5KdGtOcENKYmRHcnNid0pWdmRiYnpmVkpVckh0Z3FqOVI2VDRVWFBqWG45TjFzWGtEZlpWYmpHNHpNOGlWN3Q1bjVNVDhPbTJaejlVNGpJeUljaHJwbllQbldlTmxXMUxqMWhXLWlNSDZIeXpiWk9fMnVTMVYyVUhXTmE1ZHV4SUZEMEp1Q1U1ZjVuWDJic3EtUWZaUE9FZzQ3N0lZS1hVMU5XRVdMZXVOR3YwSmxuQk5ILVE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:18:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 02:18:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "NewsX"
       ],
       "confidence": "Single source",
       "w": [
@@ -1794,6 +1879,38 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnY3b1AzbWtnTlF2M3RhNFp1d2VOalpzd1lfTHdiand2SGppSXNmelZBeTVVXy1BQUdZajQ0aTQ5WVhuajFDQ3VlSTBTM29OSjJqTXJ1X2w0THJtU2JsaTZieDZHSlktbVZCSW56eW9qcDJwdjZtc2dpM3lvSmNjY0EzbXJfZFl6TmVCUVB4Skw0WEVFT3c?oc=5",
       "pubDate": "Tue, 25 Aug 2026 23:14:54 GMT",
       "lastUpdated": "Tue, 25 Aug 2026 23:14:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
+    },
+    {
+      "id": "heavy rains snarl delhi travel with flight delays waterlogging",
+      "title": "Heavy Rains Snarl Delhi Travel With Flight Delays, Waterlogging",
+      "summary": "Heavy Rains Snarl Delhi Travel With Flight Delays, Waterlogging",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUNxbnRpNEZ2Z0pmdFNZUkNMazhTUEN5RnpkNmtuM29xUDRnQnRkUmFiaDBKNnFkUnlnTFcwRHlyQTBiLXNhejJWSVdjME9kc1ppQ29naDIyQ2NmR0ZrN1p4Skh4T1M2SjZsSUNnd00zN1htbmpmNDdGMkhrNzR0MDFhYnpURC1OM3AtUEpNZ1RYYkpjR3c?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 20:14:54 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 20:14:54 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2084,14 +2201,14 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "weather alert महाराष्ट्रात आता पावसाचं जोरदार कमबॅक 24 तास महत्त्वाचे 4 जिल्ह्यांना अलर्ट",
-      "title": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "id": "weather alert 24 तासांत वारं फिरलं महाराष्ट्रात पावसाचा पुन्हा ब्रेक पण या जिल्ह्यांत धो ध",
+      "title": "Weather Alert: 24 तासांत वारं फिरलं, महाराष्ट्रात पावसाचा पुन्हा ब्रेक, पण ‘या’ जिल्ह्यांत धो धो कोसळणार",
+      "summary": "Weather Alert: 24 तासांत वारं फिरलं, महाराष्ट्रात पावसाचा पुन्हा ब्रेक, पण ‘या’ जिल्ह्यांत धो धो कोसळणार",
       "source": "News18 Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSTBFckVVSV9Vd0NiZmJOVjVZcUUtR3poRzFtcWdrWGUzWTBmbGtNVG4wdkVZY2Z0LWFWZzlfeEtJblV1VnB3dW1BcldIdFg5cGZxNVJudkVmZ19XSFpuT01qMEZxMWlyU3dWOU1SM2NiTUoxWmNxUWxFVlFUUE0wT2VYeFhnVXpnSjlEZU9UX09EaHJHdWlIbVlsUXZoQVVFR3Vlb2kzOEpoNmN2WXlRNjE2UDl2QV9GTjY0ZHctaHNlMXItSmRBUHBwUWhpbTJhT25XYTlkRG4xVDBIN2FoYy1EMkNvQmVJZWxfV1YzZUJ6azJ0YmE5V1hjN3NBSGZwZnBxV2h2LUZmZw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 14:01:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRzZ2cE02anlocW9YcXpHQmNPVi1zaWhxOWRkNm5VeXBBb1RoZFptdFBCd0MzVER1R0NlRFFhZXcxRHROYXBrTjRNZWQybUdlbGJhc2N1RWs1Q2F6U0p5SUVZeXVzTjBWcGdMSVFYWUs4ank2ZmdMekZjdG1KVzEzWlljR3NqQl9zUk9Ual9HVDBpMTdqa2NPWDFTZXd0OEZHRHZsWTlmUTFYNTJ1OEdFNXpSNEtEZFI4U1NvdEJzenJ5SmJnaUhadmpXOWtILWpoZlIzdExZc18tNmRfZkRuNHFPcXVJYWRYVjZHR2ZfcWozdVNBT0YyMG9JaDFlOGNuM2xfN0REYWVHWHFUMGkyOA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:59:00 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:59:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2107,21 +2224,20 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार पुणे साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट घाटमाथ्या",
-      "title": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
-      "summary": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
-      "source": "Divya Marathi + 1 more",
+      "id": "राज्याच्या हवामानात बदल उपसागरात चक्राकार वाऱ्यांची स्थिती 10 जिल्ह्यांना अलर्ट",
+      "title": "राज्याच्या हवामानात बदल; उपसागरात चक्राकार वाऱ्यांची स्थिती, 10 जिल्ह्यांना अलर्ट",
+      "summary": "राज्याच्या हवामानात बदल; उपसागरात चक्राकार वाऱ्यांची स्थिती, 10 जिल्ह्यांना अलर्ट",
+      "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOd9IB2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOdw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:39:18 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUlBOW5HZmQxWVZra0k3Wks4Y0N0b3FkN0RWSjk2Q0dIbFBvMm5vLW9RR1JtY1pEazFnTGtnS2taVUxYS2pPLTNJUTVwR05xQ3NNMXNXcXR0WnRRWm5lei13M1pSMG9HOExfSUNySG9uaGJTOGpyRlkwekJ6UEtQNmkxX3Q1SkcwR2ZNQ3JWU2t0a0ZtNkIwYjdQYkh0aENJV0tlQUJEVm9COGV0dVpYU3hSdGFCVklhaFlMS2JtY0hzeTAzX0tIRVVmRXIzT013VlJFbmNR?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:53:15 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:53:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi",
-        "Saam Tv"
+        "Zee News"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -2130,21 +2246,20 @@
       "action": "No immediate action required."
     },
     {
-      "id": "heavy rain disrupts delhi ncr transport 15 flights diverted gurugram roads waterlogged",
-      "title": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
-      "summary": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
-      "source": "urbanacres.in + 1 more",
+      "id": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार हवामान विभागाच्या या इशाऱ्यामुळे चार जिल्ह्यांत वाढ",
+      "title": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार! हवामान विभागाच्या 'या' इशाऱ्यामुळे चार जिल्ह्यांत वाढली धाकधूक",
+      "summary": "महाराष्ट्रात पावसाचा जोर पुन्हा वाढणार! हवामान विभागाच्या 'या' इशाऱ्यामुळे चार जिल्ह्यांत वाढली धाकधूक",
+      "source": "Pune Prime News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcW5Uc1oxVm5kaEJCLUxRQUlGU3dHMTNqeHo3YXBEa3Q0WC1zcTRFdVBiQldQMnFNbHNDY1JEWFBDMVlpN28xWi1wdW9BQkdIVVBraDdyZjBXYm12ejlkSVhPbnJ3bjZIam5MVnlqN2tXbkxqQTk4SXdpZlg0a084MjF5TmgxeVBjNTRINlhMZlU1dDFPMnZrTWEtbEhvWXhBdzUtT01nQUhkWW1aNVE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:06:38 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQW1QS2FYS0pxb0I2SlNvRnBuQmtWMU4yelc1UlJrWUxiM29aWTRRekhIV3Q0cFZfd20wMnVQbUxPQXJmV0lUQk82aXJhR2M2ZVVFZE4xcmRFZ0VyLXQyeGpwRllTMmN1bzJmQ1VYV3dCTUVXdHFUQjB4a2NITkdEN3ZVWTI0Y3BEek1kZ1RocHh6cTJGYjVFMERtcEYzdmFRYkt6dEVhUGFkb3R3T0pma0JvMDR4cEJSZ195UHJXOEpvell0Vmt0MHpKU3BVX0J6bXduZjYyLWhMcVktZVh5cjN2YzhHbklxck5GSGJJZWFXNTVpTHEtbklRSHNaUEZCMzlUYURBQTNQOE1P?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 01:50:34 GMT",
+      "lastUpdated": "Wed, 26 Aug 2026 01:50:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in",
-        "India Today"
+        "Pune Prime News"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -2165,6 +2280,28 @@
       "region": "pune",
       "sources": [
         "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "lvia sets july passenger record as summer demand climbs",
+      "title": "LVIA Sets July Passenger Record as Summer Demand Climbs",
+      "summary": "LVIA Sets July Passenger Record as Summer Demand Climbs",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUzV4SlRnaUIxUmVGUzcyT2RuQkFGVWczQ3pqSU0wZ1hnOVFMQmpMYllMZDFveDUtSEk0bVpiVGZJSTJfR0hTR2J0aUM4OVdJekhtbzllWVFfSDhscHBkdXU2VlNIdTJEWlVGMzBhcWRyay03dkFwa29ac1VJV2pqbjRVN005cDNUYWVNTA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:54:54 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 19:54:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2263,6 +2400,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "seven low pressure systems but little rain relief for andhra pradesh",
+      "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "summary": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "source": "The Hindu",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLTVaVDgyWUxLZnRqU1dOcXlZTFpNcFVjQzdpelJtazJCS3JGaVRvRG5uZ2J2d3N5VnBYQ2I1VFB3YzJBcVJKa2xxSEFMMXoxMWo5T3N6US1MQ0JkcnNlZVk5WV91dFo2WUlrVElJOEttLWwzTFBBbF91NFdSVHRqalpFUkw2YjlNbUl4Rlg4QTBKc3hkZnJzVXFaQnZ6ZDlPR0FuREhrOXVlNXNSUURieFFPN0hPVV9UZmhyeHNLdTNrRVFlN09uZm5QaVBXZ2xtNW05cXVlRkh0UdIB4AFBVV95cUxQazBIaURCUXlrOWtNX1BfVVNhSjNRaHZ5WFRsZE9jVnZNVHFVYlJBN2tYek9CS2dMc1BqeTIwSlF1MTRDdENCdC1mZ1Q4WjB6dE8xd2thSlA2eThqUThQUUM5LVJ0MDlIcXRlOU5tYjJkT2UxTmczMnFaQzMzSkNGdWNTT0lYRG5lbDY2RXc4UElQRnVsMmVvOXpwMnZRSDltdkxiRHlGVEpKT3RDZWNBLTEtbVprUENWbzdYSWxUeXp3R3NjTzNodV96czI3MlQ5YU1wRUtyVzNBVFFudFRHbQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:42:40 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 14:42:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Hindu"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुणे शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे शिक्षक नगर",
       "title": "पुणे : शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे : शिक्षक नगर परिसरात रस्ते अपघातानंतर नॅनो कार चालक आणि दुचाकीस्वारामध्ये जोरदार वाद झाल्याची घटना",
       "summary": "पुणे : शिक्षक नगरमध्ये अपघातानंतर नॅनो चालक आणि दुचाकीस्वारामध्ये जोरदार वाद पुणे : शिक्षक नगर परिसरात रस्ते अपघातानंतर नॅनो कार चालक आणि दुचाकीस्वारामध्ये जोरदार वाद झाल्याची घटना",
@@ -2275,6 +2434,50 @@
       "region": "pune",
       "sources": [
         "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रात आता पावसाचं जोरदार कमबॅक 24 तास महत्त्वाचे 4 जिल्ह्यांना अलर्ट",
+      "title": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रात आता पावसाचं जोरदार कमबॅक, 24 तास महत्त्वाचे, 4 जिल्ह्यांना अलर्ट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSTBFckVVSV9Vd0NiZmJOVjVZcUUtR3poRzFtcWdrWGUzWTBmbGtNVG4wdkVZY2Z0LWFWZzlfeEtJblV1VnB3dW1BcldIdFg5cGZxNVJudkVmZ19XSFpuT01qMEZxMWlyU3dWOU1SM2NiTUoxWmNxUWxFVlFUUE0wT2VYeFhnVXpnSjlEZU9UX09EaHJHdWlIbVlsUXZoQVVFR3Vlb2kzOEpoNmN2WXlRNjE2UDl2QV9GTjY0ZHctaHNlMXItSmRBUHBwUWhpbTJhT25XYTlkRG4xVDBIN2FoYy1EMkNvQmVJZWxfV1YzZUJ6azJ0YmE5V1hjN3NBSGZwZnBxV2h2LUZmZw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 14:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "met office thunderstorm warnings raise risk of uk travel chaos",
+      "title": "Met Office thunderstorm warnings raise risk of UK travel chaos",
+      "summary": "Met Office thunderstorm warnings raise risk of UK travel chaos",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3hTOXVVMW9SaV9SeG1UV29qTTkwc3N6Smx6dGR1WlprVnNKMFBIOExINTB1b19RSkRzTkdxUXlhTzkzcHBvUTJwQWlFRS12Sldzc1pNdGhVWEtFcmM4ZlAwTTJhQXNDNG9EUXlISS04dFJrVXQ3dUZqQlNFb3dtNEZwV0NWblpYZ2JyQVdRNkQ1ckszcnc?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:41:56 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 13:41:56 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2384,6 +2587,28 @@
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQU3VHMnhPU0c1dFVVNmYyV1hOdFZNWllVWDNZeFhVNWc2eHp4SGR3T0lyWFJPTzhVZDc5MG1FaGhCcmVOTGs1eFMxTER3RUdPYjJNTV9JZldQZ3pkLVBTUjlPWWEwcENQR2hwUk53ZVdDUHVHalJOTXZmZmFIbjM3UkdZU2I4WFNsOTlxak1mT21XWGc3Q3NsOW0tZEJkRlJSMFViWkRIclNHTk5QMkpJc0gza01xY1FaZHVkaWdSYzJ2cUVwS2NxV1k0bXpZeU5TWEFaR0NCcFJ1RkJGbE95MTA4NVFiM2w2aXZxSWlKMXk4YUl4LWUzUTF6emxJYy1oZmxWbmNTV19tdkV0OWxHVFJWSUVocUpmODl0WEJsdmt5Ml9IeXBsNC02SVpoZW5FdjMxaFg4c3BxaTJRSUp1S3J0S1VzRzJj?oc=5",
       "pubDate": "Tue, 25 Aug 2026 12:42:57 GMT",
       "lastUpdated": "Tue, 25 Aug 2026 12:42:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "civicmirror.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मैं शुक्राचार्य हूँ",
+      "title": "मैं शुक्राचार्य हूँ!",
+      "summary": "मैं शुक्राचार्य हूँ!",
+      "source": "civicmirror.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPZzZURUVZZ3dtWGktRnlyZHp3aW1adVJqQllIX2JtbnJjbDc1U1lNQW0td0psblBabXExem9iMEdNSGp1OW5IdkYyZkVWZ0ItTkZaU0dvSDRTaFE3RGh5N2hScnhPUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:24:57 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 12:24:57 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2730,6 +2955,50 @@
       "action": "No immediate action required."
     },
     {
+      "id": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार पुणे साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट घाटमाथ्या",
+      "title": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
+      "summary": "महाराष्ट्रात पुन्हा पावसाचा जोर वाढणार!: पुणे-साताऱ्यासह 11 जिल्ह्यांना येलो अलर्ट, घाटमाथ्यावर जोरदार सरीं...",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOd9IB2gFBVV95cUxPaTZPVWFEXzVOY28zMWpnVW51RUtZdkJnQzlzWTZvQjZnME1PUXhQT1R6ajRkYjdpNnZ1ejVFY19nS0tJY3ZRMnBWT0x5cTJBVmlvMkh2eHgtU1p6NDdnNGNnWFRyRmJzRzhXQWNHZzc2cnUtQWx5Tk5obmI5N25pcEhFZDJ1b29nbHBKQXFqUUZLZE9fUjMycFEtV1NhdDVTYVdpcUVxWmVJdHFZODhZT2MxMlExS0VvRzJYM3YyTWhUV1VoUlcxVERSTGE1SHdKWXp2ajhqZWJOdw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 04:39:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "heavy rain disrupts delhi ncr transport 15 flights diverted gurugram roads waterlogged",
+      "title": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
+      "summary": "Heavy Rain Disrupts Delhi-NCR Transport; 15 Flights Diverted, Gurugram Roads Waterlogged",
+      "source": "urbanacres.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcW5Uc1oxVm5kaEJCLUxRQUlGU3dHMTNqeHo3YXBEa3Q0WC1zcTRFdVBiQldQMnFNbHNDY1JEWFBDMVlpN28xWi1wdW9BQkdIVVBraDdyZjBXYm12ejlkSVhPbnJ3bjZIam5MVnlqN2tXbkxqQTk4SXdpZlg0a084MjF5TmgxeVBjNTRINlhMZlU1dDFPMnZrTWEtbEhvWXhBdzUtT01nQUhkWW1aNVE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "lastUpdated": "Tue, 25 Aug 2026 04:06:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "maharashtra weather alert yellow alert issued for 11 districts as rain intensifies",
       "title": "Maharashtra Weather Alert: Yellow Alert Issued For 11 Districts As Rain Intensifies",
       "summary": "Maharashtra Weather Alert: Yellow Alert Issued For 11 Districts As Rain Intensifies",
@@ -2816,56 +3085,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather alert राज्यात पुन्हा पावसाचा जोर वाढणार या ११ जिल्ह्यांना यलो अलर्ट कु",
-      "title": "Maharashtra Weather Alert : राज्यात पुन्हा पावसाचा जोर वाढणार; या ११ जिल्ह्यांना यलो अलर्ट, कुठे बरसणार मुसळधार?",
-      "summary": "Maharashtra Weather Alert : राज्यात पुन्हा पावसाचा जोर वाढणार; या ११ जिल्ह्यांना यलो अलर्ट, कुठे बरसणार मुसळधार?",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTdETndXUGJ4MGJNWkFUY1EzZ1JNaFpqU2NEV2ZSUHRyQU9TY2RGc2JXMFdRazZSZjBlUi1lN2kxQWo1U01qT2ZGUmtiWEE1Tl9KNC1wdVNfLUNEbVZPX3B2UEhmS3lfVG1OZGFFSU5ILTNUb2FydHJURzlIdDZTSmNRM1I1cTlqdFJNN0c2M3NSSzhtb2hGWXk5eDRMRG1UWlQ2T0tqZmxJU0xzampHOTZZVTlKWlY2LXV0WW1JdHB0YTNFbWVyVjFBQk9jam1yYnhBUG9oSGlRZVdwb0EtQUZoQ1oyRkFXZmxMODRnMmJ5VHFKWldlUGREQmNBQQ?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:05:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 02:05:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert वारं फिरलं महाराष्ट्रावर पावसाचे ढग पण कुठं कोसळणार आजचं हवामान अपडेट",
-      "title": "Weather Alert: वारं फिरलं! महाराष्ट्रावर पावसाचे ढग, पण कुठं कोसळणार? आजचं हवामान अपडेट",
-      "summary": "Weather Alert: वारं फिरलं! महाराष्ट्रावर पावसाचे ढग, पण कुठं कोसळणार? आजचं हवामान अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcjA0SnI2cmstNXNXYlQ1YXFMcWxQVVJsMnhURE5tZjg2UGZ5MmZaY3JfYVphcVZhYWR6WU9MQWF5RG1hOEdzdTIyOU82Q3dObDBzZ2wwTmdQYUVBVXpzd3o5MXdibVVKT3ppWXhOejluamwtVGQ1STN5SnBCZWlfbTNwY2JCTTh3QXVFMnctSkhQWm01Z2JNYzRYamhiMG1UbThFYW43MWtxMXZTUUdjaE9hV3dhSTlqXy03WVRTLUtuTHdWbmFwc0hOaWMzZjFKTXh1LTNvWTRwRU1kbEh0SFBMaDh5VF9NaWc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 01:45:00 GMT",
-      "lastUpdated": "Tue, 25 Aug 2026 01:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 62,
-    "alerts": 16,
-    "news": 46
+    "total": 67,
+    "alerts": 15,
+    "news": 52
   },
-  "cleanedAt": "2026-08-26T00:53:00.128Z"
+  "cleanedAt": "2026-08-26T02:21:14.371Z"
 }
