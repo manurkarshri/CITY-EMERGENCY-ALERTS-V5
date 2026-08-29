@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:51:56.408Z",
+  "generatedAt": "2026-08-29T23:47:54.991Z",
   "status": "ok",
   "alerts": [
     {
@@ -62,38 +62,6 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "nepal flood नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "title": "Nepal Flood News | नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "summary": "Nepal Flood News | नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZTFRTnZoMG5NbzN2bjRlZmZyTkZwWHFuam9tamdxODNjTEhoVXkzU3diTkJSWDI3U0g4VzlsaHJBc3l1aUlHWWt0a2FQSkR1RS1EVVZPZ211LURWcl9hLWxxN09YdnF1OHJ5OVZteGthdnFPZGVwXzJsZHVwcEU?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 16:33:44 GMT",
-      "lastUpdated": "Sat, 29 Aug 2026 16:33:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "dharur ghat truck accident धारूर घाटात सरकी वाहतूक करणारा ट्रक पलटी",
@@ -311,36 +279,48 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "concrete road to link monkey hill station with expressway",
-      "title": "Concrete Road to Link Monkey Hill Station With Expressway",
-      "summary": "Concrete Road to Link Monkey Hill Station With Expressway",
-      "source": "thetraveler.org",
+      "id": "पर्वरी महामार्गावर बसची कारला धडक भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "title": "पर्वरी महामार्गावर बसची कारला धडक; भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "summary": "पर्वरी महामार्गावर बसची कारला धडक; भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "source": "Lokmat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlZrU3dOVkNWRmJIaUkzTnBrbDJJb3ZWYjd1ejBIc2FSLS1hbmhscTg3MjJ3VVlVbUZpSHNCcjNQMnZPSUpBY3hwcXQ4ZWNmbWZiVlEydHZZV3F6TUJBSDh1ZnVEcE5wTTZTVGlEOFQzdWJabkh0R3ZoYkRUVXc2LUQ0LWdBbDJlVGZWSzlITQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 22:06:55 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 22:06:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52dnhRbTFPSGcxOFRGeVFpMFNqbHBZMjJBd0VwOHJnZjdMbFFreVc1Q0ZaYTBXM2FsbkFhLTNiWUdzSmExOFlPWTBGR25RRWxheElmRWp5VWdHRzc4bzdJRFVrUdIBaEFVX3lxTE5jMUJ3WEN1cndiRXpYcXcxWUExcUJJTnJQSHd4QXA3TndWN1d4dWhrdUJQWkxfRHdFSFBBLVlTVlllaHNXMnJCRFRvektTZVhSbEhqVzJ2TDFLc19nUGVqU3hPWU4tdF81?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 21:46:46 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 21:46:46 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "thetraveler.org"
+        "Lokmat.com"
       ],
       "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
+      "action": "No immediate action required."
+    },
+    {
+      "id": "chandoli dam चांदोली धरण १०० टक्के भरले",
+      "title": "Chandoli Dam | चांदोली धरण १०० टक्के भरले",
+      "summary": "Chandoli Dam | चांदोली धरण १०० टक्के भरले",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWFEVWE4UC0ydE1kWGVxZkNlWkZONUpoNjA2Y0tBMnVyLUhwTzNhYVNqNjFjb040SURtajBRZGJiZ3I1bVZFRDdwVkh2UWk2dE5uNW9WWUVOTXhaWnh3OGtjbFk1alpXeFJhQnRuU2ZlSXd1SDVjWk9aczBNVlpXUkpaNkFCeDNFcnpDZFdlQnFFaTI10gGUAUFVX3lxTE45YURVYThQLTJ0TWRYZXFmQ2VaRk41Smg2MDZjS0EydXItSHBPM2FhU2o2MWNvTjRJRG1qMFFkYmJncjVtVkVEN3BWSHZRaTZ0Tm41b1ZZRU5NeFpaeHc4a2NsWTVqWld4UmFCdG5TZmVJd3VINWNaT1pzME1WWldSSlo2QUJ4M0VyekNkV2VCcUVpMjU?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 20:56:10 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 20:56:10 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "रविवार घेऊन आलाय शुभ योग या राशींवर जोतिबाची अथांग कृपा पैशांची तंगी मिटणार वाचा आजचे राशि",
@@ -921,35 +901,6 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "nepal flood नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "title": "Nepal Flood News | नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "summary": "Nepal Flood News | नेपाळच्या बेस कॅम्पमधून पर्यटक श्वेता जोशींनी सांगितला थरार",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZTFRTnZoMG5NbzN2bjRlZmZyTkZwWHFuam9tamdxODNjTEhoVXkzU3diTkJSWDI3U0g4VzlsaHJBc3l1aUlHWWt0a2FQSkR1RS1EVVZPZ211LURWcl9hLWxxN09YdnF1OHJ5OVZteGthdnFPZGVwXzJsZHVwcEU?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 16:33:44 GMT",
-      "lastUpdated": "Sat, 29 Aug 2026 16:33:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
       "id": "dharur ghat truck accident धारूर घाटात सरकी वाहतूक करणारा ट्रक पलटी",
       "title": "Dharur Ghat truck accident : धारूर घाटात सरकी वाहतूक करणारा ट्रक पलटी",
       "summary": "Dharur Ghat truck accident : धारूर घाटात सरकी वाहतूक करणारा ट्रक पलटी",
@@ -1154,33 +1105,48 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "concrete road to link monkey hill station with expressway",
-      "title": "Concrete Road to Link Monkey Hill Station With Expressway",
-      "summary": "Concrete Road to Link Monkey Hill Station With Expressway",
-      "source": "thetraveler.org",
+      "id": "पर्वरी महामार्गावर बसची कारला धडक भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "title": "पर्वरी महामार्गावर बसची कारला धडक; भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "summary": "पर्वरी महामार्गावर बसची कारला धडक; भीषण अपघातानंतर तासभर वाहतूक कोंडी",
+      "source": "Lokmat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlZrU3dOVkNWRmJIaUkzTnBrbDJJb3ZWYjd1ejBIc2FSLS1hbmhscTg3MjJ3VVlVbUZpSHNCcjNQMnZPSUpBY3hwcXQ4ZWNmbWZiVlEydHZZV3F6TUJBSDh1ZnVEcE5wTTZTVGlEOFQzdWJabkh0R3ZoYkRUVXc2LUQ0LWdBbDJlVGZWSzlITQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 22:06:55 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 22:06:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52dnhRbTFPSGcxOFRGeVFpMFNqbHBZMjJBd0VwOHJnZjdMbFFreVc1Q0ZaYTBXM2FsbkFhLTNiWUdzSmExOFlPWTBGR25RRWxheElmRWp5VWdHRzc4bzdJRFVrUdIBaEFVX3lxTE5jMUJ3WEN1cndiRXpYcXcxWUExcUJJTnJQSHd4QXA3TndWN1d4dWhrdUJQWkxfRHdFSFBBLVlTVlllaHNXMnJCRFRvektTZVhSbEhqVzJ2TDFLc19nUGVqU3hPWU4tdF81?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 21:46:46 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 21:46:46 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "thetraveler.org"
+        "Lokmat.com"
       ],
       "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel."
+      "action": "No immediate action required."
+    },
+    {
+      "id": "chandoli dam चांदोली धरण १०० टक्के भरले",
+      "title": "Chandoli Dam | चांदोली धरण १०० टक्के भरले",
+      "summary": "Chandoli Dam | चांदोली धरण १०० टक्के भरले",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWFEVWE4UC0ydE1kWGVxZkNlWkZONUpoNjA2Y0tBMnVyLUhwTzNhYVNqNjFjb040SURtajBRZGJiZ3I1bVZFRDdwVkh2UWk2dE5uNW9WWUVOTXhaWnh3OGtjbFk1alpXeFJhQnRuU2ZlSXd1SDVjWk9aczBNVlpXUkpaNkFCeDNFcnpDZFdlQnFFaTI10gGUAUFVX3lxTE45YURVYThQLTJ0TWRYZXFmQ2VaRk41Smg2MDZjS0EydXItSHBPM2FhU2o2MWNvTjRJRG1qMFFkYmJncjVtVkVEN3BWSHZRaTZ0Tm41b1ZZRU5NeFpaeHc4a2NsWTVqWld4UmFCdG5TZmVJd3VINWNaT1pzME1WWldSSlo2QUJ4M0VyekNkV2VCcUVpMjU?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 20:56:10 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 20:56:10 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "रविवार घेऊन आलाय शुभ योग या राशींवर जोतिबाची अथांग कृपा पैशांची तंगी मिटणार वाचा आजचे राशि",
@@ -1691,8 +1657,8 @@
   ],
   "summary": {
     "total": 42,
-    "alerts": 15,
-    "news": 27
+    "alerts": 14,
+    "news": 28
   },
-  "cleanedAt": "2026-08-29T21:51:56.414Z"
+  "cleanedAt": "2026-08-29T23:47:55.002Z"
 }
