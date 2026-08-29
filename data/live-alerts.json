@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T23:37:06.778Z",
+  "generatedAt": "2026-08-29T05:04:45.953Z",
   "status": "ok",
   "alerts": [
     {
@@ -30,6 +30,70 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "yellow thunderstorm warning threatens uk travel and flooding",
+      "title": "Yellow thunderstorm warning threatens UK travel and flooding",
+      "summary": "Yellow thunderstorm warning threatens UK travel and flooding",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFN1c1hwWWlpeXBQY0hjLTJPSjhfWEJpTGhfdnljU0dFRkNxWjdIY2l0Y1FUYlE4MG1tVUItMTJVWjE4eXM2TnM5UkUxbjN5cUV6Mml5djNZVktfcDZWMWU4dXF4LUhOUWZrbm9acmFHWExoUThFUndTWjlsZm5CLWVGV01CMzhIczhDMGg4U1Naa3M?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 21:51:55 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 21:51:55 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "red alert in orange alert in mumbai schools shut as maharashtra braces for heavy rain",
+      "title": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain",
+      "summary": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlotTXdHSHRaSzVVNjNTWmJvYWJySkFuN01fTmlKQnJPd3paNzN1dXpqaDJ6ang4aFZBN0ZDcHhOZm5ra01GbE1ZNmZaeUhLbURJYnBhRTdwdGItZUJLZ3hsT184LUREVGV3eEhvT0FibGJuejEyV1k3ekVELTdQai04ZnRtRnk2TnFMX3BpTjlzdldfYlpUUDdNWlZpeWdwcHUzQW8xa19GTW9LdXplWXYtdk5kYlducUsyUkJoUQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 19:13:18 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 19:13:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
@@ -213,6 +277,35 @@
   ],
   "news": [
     {
+      "id": "solapur highway potholes रवीदर्शन कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात अजून किती अपघात झ",
+      "title": "Pune Solapur Highway Potholes: रवीदर्शन-कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात; ‘अजून किती अपघात झाल्यावर रस्ता दुरुस्त होणार?’",
+      "summary": "Pune Solapur Highway Potholes: रवीदर्शन-कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात; ‘अजून किती अपघात झाल्यावर रस्ता दुरुस्त होणार?’",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFozcnl5NjVqNzBHQTJmSEdtSkhyR0lxd01rM2Jfc3JGXzgzVmtSZlZaeno3NjlfcDR3QjUxelBvei1nYmY2NHhNbnUzVDAxZ3hwZThWbWkzVmhDbVZIcGFrVXJxSS14UHdyYm5YSVhPYks2VEl5ZDFJaXUxTDRULWU2TlVqXzBRQXBhemtxdkhwWG84VmpKWmJ5OE5qR1lyX29uSUdQVnI5cGZGSmfSAbsBQVVfeXFMT2Q2SmY3X1N1M0hwdFVfV0R6WlRxUXJPTjNLN213RVh5MnlIenF1Y3NPbXcxdDRpdmczRmxZZVAzTHpzUWNaMGpSR0l1WkZkV1ctakkwNFRoUkQ1eHFCYnlBS0wtMjM0ZDh2TVVraElNR0JOZ3dtUWt6WkVBUklQcjFDSnROYUZtT0Z5VnlVSUR6VTRRd3ZYMVdEdTJOZG1fT01TRUZRS044WHZVZFFIc0paclJ5SUpaUmRlUQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:39:08 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 03:39:08 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "concrete road to link monkey hill station with expressway",
       "title": "Concrete Road to Link Monkey Hill Station With Expressway",
       "summary": "Concrete Road to Link Monkey Hill Station With Expressway",
@@ -334,6 +427,169 @@
       "action": "Check route before starting travel.",
       "correlation": [
         "Road delay or diversion possible."
+      ]
+    },
+    {
+      "id": "school holiday 28 august 2026 will schools remain closed due to heavy rain check state wis",
+      "title": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
+      "summary": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
+      "source": "Jagran Josh",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlV6OVp5N1dIblNhWmJlaWpHWDNoRWxDWkdGNW1TbklpeGtpSkhDNUVQRnEyRmotTWZxeVpUWG1qSXVBSEFfQ0F5SlozVW42R0NJa2hzTWVyZVNUSDdodGFDSXhHTzVPOTVVWUk0bWNoNm5hUW9jaGRjYll2eGsxdnNFN0JGZVRaNHg3SGxOZkQ1Q1BFbm5MYnlOeVptUlZCS0tFNkJwLXV4NVZlVFNyZE9KVXlKVDhiQ0c0eVo4ZXctdm96SFBjbllsal9qQdIB1AFBVV95cUxNWDVSY0l4Qmxhb0RLMlpmYWNHSl9DcHpnSTloYmpFM3ZiWmsyRnJSemRUTlhGVGtrcjVJREdGWkstZEI2QmY4N0ppUTNjalNOY0FNUzZ2cWtzWjZ6S2o2SjNEWk1FdGxuNDRYT1dfTVdJRnNLWTIzeUxDVGtHaWt0VWFURUFQdjJGeVdjYlhNT2RnMmRtdTM0YzVlbHpNbWlKQ3pabjFldmJwaTVYaDVPRVdkZVV0aG0waEhFY2dfNTFCeVR5eFhNeTAySVctTUgtcUQzMg?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:59:36 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 03:59:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jagran Josh"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "maharashtra weather alert ऑगस्टअखेर पावसाची उघडीप मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज ",
+      "title": "Maharashtra Weather Alert : ऑगस्टअखेर पावसाची उघडीप; मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज, २४ तासांसाठी यलो अलर्ट",
+      "summary": "Maharashtra Weather Alert : ऑगस्टअखेर पावसाची उघडीप; मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज, २४ तासांसाठी यलो अलर्ट",
+      "source": "Prahaar.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT1ozWjhJcXNNQURIOF9KQlZzclpLQUNMRnA3MjItOU1TS2xQVjIyUjM0dk9CYUpUMmhkNVVGYXdZbW9BelZ6R1N1aHVfNk9HTXMxNVdCZ295M3JIY2NCTzdVYUNXaUhKeDlqWm5PUTZRMzJFeWNUNFltdmt0Q2x1VjRhd0EwZlliT2czRm8tcjBLcEo0X1ViVTY3dHBzb1Y0aFQxa1hWZHJCcFBnaEp5cEVpTXJzZzBLTEV3QzB1ZW1NaXVNdElicS1OaTJXQkRWVkxZd01uMkRWVzdENkJsSThVRmFUQ1NWdFpLaGhkLVJDLUVIR0M4bmFEY2lPaks3b2NQdV93TGQ1ODlqUVVv?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:54:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:54:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Prahaar.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain महाराष्ट्रात पावसाचा लपंडाव नागपूरसह या जिल्ह्यांना येलो अलर्ट जाणून घ्या हवामानाचा अ",
+      "title": "Rain Update : महाराष्ट्रात पावसाचा लपंडाव! नागपूरसह 'या' जिल्ह्यांना येलो अलर्ट, जाणून घ्या हवामानाचा अंदाज",
+      "summary": "Rain Update : महाराष्ट्रात पावसाचा लपंडाव! नागपूरसह 'या' जिल्ह्यांना येलो अलर्ट, जाणून घ्या हवामानाचा अंदाज",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNcW9Qa1M3M1NoT2VWR3pDTDI3SkxlVzZ5eDlUTVN4SjBucEVJSlltNFItT0Y2QmxtMXFMS0Vzb0d2T2NlRWhqWU5kbTVjRjAzZkR1MmtsSE1CYWdIZkgwS3pQOUhTNWFpZF9jQm9nbkZZeXM3c2VJOTF5VVR4WVYtbC1ScHU2NkdlOXlFVjBzUWc1N1pMdzI5UmhZX2dUWGtpMVhoaVRNcjhHeVBtV2JkUkxhajAxbTFPYXZaeGt5NzNDMHJWRFBjMkpDNWlGZkZsanhISHNZMWw4ZVM2Z2pyZTd4MWpZTWo3TUkwd1pYTTl0ckpCeTR1cjJvTi1ZdHZzRE5mTWhWdVRNWmpmY0VDWGlhV0dQUng3VW16d3lxX2RiS1lubVHSAbMCQVVfeXFMTTM0OUJGaXdoV1pTQkpGWGt6dkRfSlJ5czU0MEFLdGdvNzcxNzdRTllxTGZjcnRwR1FzSEFHZl9QZGd3blJJZ0ZJaEhlNC05empfeVhrUVctdFZKbjJvWGJGeE52bTZJU05ONGZmbzBQUHlpSWJoYnRqbE91Y0V2TWZMRHdmTlpZZnFsbkRxcmxfNnNoRzFzckZ5Tng5VFVPLUZtZnJyNVJZQlBZWDFCRl9CbGlubV9RRVA3dFZ0Y21UUGNwZWRvcWVLaVFBekpGVVRoS18wWTdRdlFIeEMyMnMyTjE1Y1hVTWtmT2QtWlNMckN1ZXhnMXJ1RG9OVkVuWGdnS3FVRnZWdWlhd3Z1VlZoRDlyc2ZZTlEtdlJDdk5SSHQ3ak1QRmkwdFdYQTN0alZEVQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:31:50 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:31:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "weather alert महाराष्ट्रातील हवामानात मोठे उलटफेर ऑगस्टअखेर धो धो कोसळणार पण कुठं आजचं अपड",
+      "title": "Weather Alert: महाराष्ट्रातील हवामानात मोठे उलटफेर, ऑगस्टअखेर धो धो कोसळणार, पण कुठं? आजचं अपडेट",
+      "summary": "Weather Alert: महाराष्ट्रातील हवामानात मोठे उलटफेर, ऑगस्टअखेर धो धो कोसळणार, पण कुठं? आजचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONmxvMGwzVW81YW52SUl1UGl2UFFOdUcteTdzeTFaUEx4dllEbEtocjRaajhza003MmtKUnZCdjRCMlhQODdJcGIxeVBKMkNLeDE0UlhtODJ1S0FxMW1CQUxBVlR6ZWdpTFl5dnVZOXh0dVM1YmRQUGoyeURVZDhzX0hfRmFzdGJEejNuV1ZLb2VQLVBDSlo2SGVrbW9ibHNYWHVtU2pLbEF2U2RmQld1Nl93NXhzY0ljLWszWWY2ZnRMQi1pRkJ3ZXdNYjQ1MzVIWjdqZ1NZRXJCUTNZMlVWMnB5M1VlUi1fY0VnSEFPLUZsUnBKX09ndkloNlY?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:10:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:10:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "disha salian case hearing दिशा सालियन प्रकरण दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "title": "Disha Salian Case Hearing News | दिशा सालियन प्रकरण, दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "summary": "Disha Salian Case Hearing News | दिशा सालियन प्रकरण, दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3VOWHZjVGE1aGVPQ3BIRmROV2lUbk9ZQ1B2aXA2LTh4Y0lJNWsyN0x4dzhGMEZlNURBcnhiaHZSQlVMdUJBS1g2V3pHUFdQOS1ncTllTTJsTzFncC1pRmwxYS1abEZ6NGV5TFRIUWhVbnBDcnZaZ2FBeE9PYldIdXlsblNxS2xMQ045QWpkZmVXZw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:08:32 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:08:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "hokkaido muroran line halted until sept 2 after derailment",
+      "title": "Hokkaido Muroran Line Halted Until Sept. 2 After Derailment",
+      "summary": "Hokkaido Muroran Line Halted Until Sept. 2 After Derailment",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlZOdWdob0tFT3BndGtIOWwzbGtlZWM2bUZ4cjBDWE8tcy1LRFoyc1J0MmRpcE5vaWJjQjhUWXBVYWl1RHhNM2N5bEk2cTZ3UmpHeEZXblkycWVEWlNDYXFpTWZrdk9LTU5NQTNfbl92VEl1bl83QkZvZVhiVkRUdTdkOUJHLUMwc1FFZ2Z2aFY?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 01:02:53 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 01:02:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain forecast पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "title": "Rain Forecast: पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "summary": "Rain Forecast: पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWZBOXozRE1MQ0hiRFBRUzJpNE1DOTByMTRGNWpmR0N6aXVPM0dKTVZ2Z1owWGhRdng5c3V0dkthSGc4NmY3OEpoVVlaLThZZExJdVo2a0h0MFd6eHAxd2txLWVkLXFjYmF1V3hwVTBieFVoS1k5eVEzLXZsUzc4Z0Z5bHNmeVRHQ1RZWlA4YVZJUWpt?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
       ]
     },
     {
@@ -516,6 +772,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "severe storms force zurich flight cancellations and delays",
+      "title": "Severe Storms Force Zurich Flight Cancellations and Delays",
+      "summary": "Severe Storms Force Zurich Flight Cancellations and Delays",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWRNMkFaOGVlZzktODRpaV9XSTNUaTZjOGRxTlFUUGxkSzN6bENmQXAyV0FMUGEtd01xRVQ3b2NvZzM4Zmw0dG5HWHVrbGVJMUJlbElVeWRQbDdkWEd5MHV5d0pSLW9vWjlsNkQ1cXVDaE5Xb0VPREJfYnNCSWxIalpBR3NTbkVxNGI4UDl6OEY?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 13:31:36 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 13:31:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "road widening कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण अतिरिक्त आयुक्तांकडून पाहण",
       "title": "Road Widening : कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण; अतिरिक्त आयुक्तांकडून पाहणी",
       "summary": "Road Widening : कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण; अतिरिक्त आयुक्तांकडून पाहणी",
@@ -538,31 +816,6 @@
       "action": "No immediate action required.",
       "correlation": [
         "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "maharashtra weather alert rain break continues imd forecasts mostly dry and humid conditio",
-      "title": "Maharashtra Weather Alert: Rain Break Continues, IMD Forecasts Mostly Dry and Humid Conditions",
-      "summary": "Maharashtra Weather Alert: Rain Break Continues, IMD Forecasts Mostly Dry and Humid Conditions",
-      "source": "PUNE PULSE",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUpXZTNXNG9ZbHVtZE5tMFBZeGI1T0MxdURNWXZmSGNSYzhfV2hhaVFfYUpWX0h3cEUySE1Wb25BRlNyX3M1RGowS3BIdW92SG44THFubUJOeHVTeHhhQjgyQjVLZ2ZpWU1zWmRVQTFvaWNSdVpQNGtKT2JWaUtwWXZpQ2RKUlpObllJN3ptMDhZT2NIVDJwS3pRMEpnVE1udnpyS09DNXJlb0t3N2VoTlNfYVNfRG0tT1RtUjln?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 12:18:03 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 12:18:03 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "PUNE PULSE"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
       ]
     },
     {
@@ -720,119 +973,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी 3 दिवस वाहतुक बदल पर्यायी मार्ग कोणते",
-      "title": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी, 3 दिवस वाहतुक बदल, पर्यायी मार्ग कोणते?",
-      "summary": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी, 3 दिवस वाहतुक बदल, पर्यायी मार्ग कोणते?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMllwZWYyYmtDZ1AzSFppMXh5OG01OXpHZlFCeXowVWtQSXB0Y0FSaS1VSnhYaUR5SC1QWkFoZ1AzSllEamRrYmh1Tmh0NWYxVlVyNDlXdmd0N28zOXNyVGhFVGM1UWl3MF9FOU1FUGZ0YjVWMk5WTVd2N2VUZEpEY0VoVUVMR3NqOVQ3UWtKZndIXzd6VFZFRF8waGlFUEhsV1NwdzJtLWVZZnVxS0ZMZkhpVDd4Vk9FX1hzTUZaaXBoWHo1M2JPSGwzclgweUhDVnJCX0UtYlBEdmtzOTQ4ajQzbVQ3MmY2TG84cWJUY2Q4eTl5dlE?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 04:29:00 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 04:29:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "school holiday 28 august 2026 will schools remain closed due to heavy rain check state wis",
-      "title": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "summary": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "source": "Jagran Josh",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlV6OVp5N1dIblNhWmJlaWpHWDNoRWxDWkdGNW1TbklpeGtpSkhDNUVQRnEyRmotTWZxeVpUWG1qSXVBSEFfQ0F5SlozVW42R0NJa2hzTWVyZVNUSDdodGFDSXhHTzVPOTVVWUk0bWNoNm5hUW9jaGRjYll2eGsxdnNFN0JGZVRaNHg3SGxOZkQ1Q1BFbm5MYnlOeVptUlZCS0tFNkJwLXV4NVZlVFNyZE9KVXlKVDhiQ0c0eVo4ZXctdm96SFBjbllsal9qQdIB1AFBVV95cUxNWDVSY0l4Qmxhb0RLMlpmYWNHSl9DcHpnSTloYmpFM3ZiWmsyRnJSemRUTlhGVGtrcjVJREdGWkstZEI2QmY4N0ppUTNjalNOY0FNUzZ2cWtzWjZ6S2o2SjNEWk1FdGxuNDRYT1dfTVdJRnNLWTIzeUxDVGtHaWt0VWFURUFQdjJGeVdjYlhNT2RnMmRtdTM0YzVlbHpNbWlKQ3pabjFldmJwaTVYaDVPRVdkZVV0aG0waEhFY2dfNTFCeVR5eFhNeTAySVctTUgtcUQzMg?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 04:23:01 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 04:23:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Jagran Josh"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "आज पाऊस पडणार की कडाका वाढणार हवामान विभागाने दिला इशारा शेतकऱ्यांची धाकधूक वाढली वाचा आजच",
-      "title": "आज पाऊस पडणार की कडाका वाढणार! हवामान विभागाने दिला इशारा; शेतकऱ्यांची धाकधूक वाढली, वाचा आजच्या हवामानाची ताजी अपडेट",
-      "summary": "आज पाऊस पडणार की कडाका वाढणार! हवामान विभागाने दिला इशारा; शेतकऱ्यांची धाकधूक वाढली, वाचा आजच्या हवामानाची ताजी अपडेट",
-      "source": "Pune Prime News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORUpVbDhLYjdHaHRodllOeWhNd2ZEdWVQM0lCdF9VanJiTlh2SUlTNVQybnBHVmxqU0FjTURMWmRab1dWZEtjT0h3ZnYzTjN2a0l2VGNseWFsSGRkVUIyeUNCUlRmLTZPSC1tZm00VmdXOWJNRFcwT2s2RVZYT1hCU2l2d3pDWnVGTmpRalRpNE5BSlZmaE9COGU2dEVMendPWllTdmQ4MWdrbElidnNaMDVZMUpCdlJIbm9ubEs4bFlKZ0h5TUdJNkxjX0tmTDZZcUQtVW1kMTEwMnNwMEp2ZGQ1bUwxMVNfWWxPLUl3X1FmRUdoaWIyMWsyOUQzdkVGVUdQemhyZXRHeEFZYkg4cA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:46:55 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:46:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "metro line 3 हिंजवडी शिवाजीनगर मेट्रो सेवेला",
-      "title": "Pune Metro Line 3: हिंजवडी-शिवाजीनगर मेट्रो सेवेला",
-      "summary": "Pune Metro Line 3: हिंजवडी-शिवाजीनगर मेट्रो सेवेला",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM01wRVpCa3h3dE9ONi1BMThVZjNUa3lJdnFWRzRvM0dUTzN1V1VwaUkyeGpWaGxVVFNOSzRhX1E3cldVeVVHR2hHbXUxSVQtQkpHUUVkSFJWWUxMSnZReXBiellBd0Q2V3dfVC1BRGlsMTh3cmxGWmxCaVUwV0xRTTJsZXpBa0dCM195WW94VGVsS1o5OE5pWk43dTNLVUlRMS1ZbVFJemdOaUpMbEdJVU9B0gGyAUFVX3lxTFAzTXBFWkJreHd0T042LUExOFVmM1RreUl2cVZHNG8zR1RPM3VXVXBpSTJ4alZobFVUU05LNGFfUTdyV1V5VUdHaEdtdTFJVC1CSkdRRWRIUlZZTExKdlF5cGJ6WUF3RDZXd19ULUFEaWwxOHdybEZabEJpVTBXTFFNMmxlekFrR0IzX3lZb3hUZWxLWjk4TmlaTjd1M0tVSVExLVltUUl6Z05pSkxsR0lVT0E?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:37:24 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:37:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रात पावसाचा ब्रेक आता नवं संकट येणार पाहा हवामान विभागाचा अंदाज",
-      "title": "Weather Alert : महाराष्ट्रात पावसाचा ब्रेक, आता नवं संकट येणार? पाहा हवामान विभागाचा अंदाज",
-      "summary": "Weather Alert : महाराष्ट्रात पावसाचा ब्रेक, आता नवं संकट येणार? पाहा हवामान विभागाचा अंदाज",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOamVVeXJsQzY4d2pnZFE4ZTVLaFVTMVEycUVvWVh0OTdMdGpvLTBOT2pQenIxeXRVS2RhaUF2Q2t5cVJ1X1JiSkMtMVRsSC10bmRpRTRyVUpWZlNSYi15NWNlMzJ0cTV0X2dMMzh6OHp3aUgydGlHSzJURGxsQ1VoeERIYXVuN3BrbGllbTV2RHdVR0pYeklVcE5wYm5YeGd5UG5tWGxPUEM0Z2hTdGV3dFh6VFJmRG9Rdk92bjR3XzlvSmVCcHlkaExkSzBIQmw1LXpPaGlFMWdCaXQ1cFQxTlphcW1wNXN0REFJ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:03:00 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:03:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -864,6 +1004,64 @@
       "icon": "🌊",
       "critical": true,
       "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "yellow thunderstorm warning threatens uk travel and flooding",
+      "title": "Yellow thunderstorm warning threatens UK travel and flooding",
+      "summary": "Yellow thunderstorm warning threatens UK travel and flooding",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFN1c1hwWWlpeXBQY0hjLTJPSjhfWEJpTGhfdnljU0dFRkNxWjdIY2l0Y1FUYlE4MG1tVUItMTJVWjE4eXM2TnM5UkUxbjN5cUV6Mml5djNZVktfcDZWMWU4dXF4LUhOUWZrbm9acmFHWExoUThFUndTWjlsZm5CLWVGV01CMzhIczhDMGg4U1Naa3M?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 21:51:55 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 21:51:55 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "red alert in orange alert in mumbai schools shut as maharashtra braces for heavy rain",
+      "title": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain",
+      "summary": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlotTXdHSHRaSzVVNjNTWmJvYWJySkFuN01fTmlKQnJPd3paNzN1dXpqaDJ6ang4aFZBN0ZDcHhOZm5ra01GbE1ZNmZaeUhLbURJYnBhRTdwdGItZUJLZ3hsT184LUREVGV3eEhvT0FibGJuejEyV1k3ekVELTdQai04ZnRtRnk2TnFMX3BpTjlzdldfYlpUUDdNWlZpeWdwcHUzQW8xa19GTW9LdXplWXYtdk5kYlducUsyUkJoUQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 19:13:18 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 19:13:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
       "id": "mumbai rains imd issues red alert schools colleges holiday on july 7 250 flights delayed c",
@@ -1033,6 +1231,35 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
+      "id": "solapur highway potholes रवीदर्शन कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात अजून किती अपघात झ",
+      "title": "Pune Solapur Highway Potholes: रवीदर्शन-कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात; ‘अजून किती अपघात झाल्यावर रस्ता दुरुस्त होणार?’",
+      "summary": "Pune Solapur Highway Potholes: रवीदर्शन-कवडीपाट महामार्ग खड्ड्यांच्या विळख्यात; ‘अजून किती अपघात झाल्यावर रस्ता दुरुस्त होणार?’",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFozcnl5NjVqNzBHQTJmSEdtSkhyR0lxd01rM2Jfc3JGXzgzVmtSZlZaeno3NjlfcDR3QjUxelBvei1nYmY2NHhNbnUzVDAxZ3hwZThWbWkzVmhDbVZIcGFrVXJxSS14UHdyYm5YSVhPYks2VEl5ZDFJaXUxTDRULWU2TlVqXzBRQXBhemtxdkhwWG84VmpKWmJ5OE5qR1lyX29uSUdQVnI5cGZGSmfSAbsBQVVfeXFMT2Q2SmY3X1N1M0hwdFVfV0R6WlRxUXJPTjNLN213RVh5MnlIenF1Y3NPbXcxdDRpdmczRmxZZVAzTHpzUWNaMGpSR0l1WkZkV1ctakkwNFRoUkQ1eHFCYnlBS0wtMjM0ZDh2TVVraElNR0JOZ3dtUWt6WkVBUklQcjFDSnROYUZtT0Z5VnlVSUR6VTRRd3ZYMVdEdTJOZG1fT01TRUZRS044WHZVZFFIc0paclJ5SUpaUmRlUQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:39:08 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 03:39:08 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pudhari"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "concrete road to link monkey hill station with expressway",
       "title": "Concrete Road to Link Monkey Hill Station With Expressway",
       "summary": "Concrete Road to Link Monkey Hill Station With Expressway",
@@ -1146,6 +1373,160 @@
       "icon": "🚦",
       "critical": false,
       "action": "Check route before starting travel."
+    },
+    {
+      "id": "school holiday 28 august 2026 will schools remain closed due to heavy rain check state wis",
+      "title": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
+      "summary": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
+      "source": "Jagran Josh",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlV6OVp5N1dIblNhWmJlaWpHWDNoRWxDWkdGNW1TbklpeGtpSkhDNUVQRnEyRmotTWZxeVpUWG1qSXVBSEFfQ0F5SlozVW42R0NJa2hzTWVyZVNUSDdodGFDSXhHTzVPOTVVWUk0bWNoNm5hUW9jaGRjYll2eGsxdnNFN0JGZVRaNHg3SGxOZkQ1Q1BFbm5MYnlOeVptUlZCS0tFNkJwLXV4NVZlVFNyZE9KVXlKVDhiQ0c0eVo4ZXctdm96SFBjbllsal9qQdIB1AFBVV95cUxNWDVSY0l4Qmxhb0RLMlpmYWNHSl9DcHpnSTloYmpFM3ZiWmsyRnJSemRUTlhGVGtrcjVJREdGWkstZEI2QmY4N0ppUTNjalNOY0FNUzZ2cWtzWjZ6S2o2SjNEWk1FdGxuNDRYT1dfTVdJRnNLWTIzeUxDVGtHaWt0VWFURUFQdjJGeVdjYlhNT2RnMmRtdTM0YzVlbHpNbWlKQ3pabjFldmJwaTVYaDVPRVdkZVV0aG0waEhFY2dfNTFCeVR5eFhNeTAySVctTUgtcUQzMg?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:59:36 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 03:59:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jagran Josh"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather alert ऑगस्टअखेर पावसाची उघडीप मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज ",
+      "title": "Maharashtra Weather Alert : ऑगस्टअखेर पावसाची उघडीप; मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज, २४ तासांसाठी यलो अलर्ट",
+      "summary": "Maharashtra Weather Alert : ऑगस्टअखेर पावसाची उघडीप; मात्र या जिल्ह्यांत जोरदार सरींचा अंदाज, २४ तासांसाठी यलो अलर्ट",
+      "source": "Prahaar.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT1ozWjhJcXNNQURIOF9KQlZzclpLQUNMRnA3MjItOU1TS2xQVjIyUjM0dk9CYUpUMmhkNVVGYXdZbW9BelZ6R1N1aHVfNk9HTXMxNVdCZ295M3JIY2NCTzdVYUNXaUhKeDlqWm5PUTZRMzJFeWNUNFltdmt0Q2x1VjRhd0EwZlliT2czRm8tcjBLcEo0X1ViVTY3dHBzb1Y0aFQxa1hWZHJCcFBnaEp5cEVpTXJzZzBLTEV3QzB1ZW1NaXVNdElicS1OaTJXQkRWVkxZd01uMkRWVzdENkJsSThVRmFUQ1NWdFpLaGhkLVJDLUVIR0M4bmFEY2lPaks3b2NQdV93TGQ1ODlqUVVv?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:54:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:54:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Prahaar.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain महाराष्ट्रात पावसाचा लपंडाव नागपूरसह या जिल्ह्यांना येलो अलर्ट जाणून घ्या हवामानाचा अ",
+      "title": "Rain Update : महाराष्ट्रात पावसाचा लपंडाव! नागपूरसह 'या' जिल्ह्यांना येलो अलर्ट, जाणून घ्या हवामानाचा अंदाज",
+      "summary": "Rain Update : महाराष्ट्रात पावसाचा लपंडाव! नागपूरसह 'या' जिल्ह्यांना येलो अलर्ट, जाणून घ्या हवामानाचा अंदाज",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNcW9Qa1M3M1NoT2VWR3pDTDI3SkxlVzZ5eDlUTVN4SjBucEVJSlltNFItT0Y2QmxtMXFMS0Vzb0d2T2NlRWhqWU5kbTVjRjAzZkR1MmtsSE1CYWdIZkgwS3pQOUhTNWFpZF9jQm9nbkZZeXM3c2VJOTF5VVR4WVYtbC1ScHU2NkdlOXlFVjBzUWc1N1pMdzI5UmhZX2dUWGtpMVhoaVRNcjhHeVBtV2JkUkxhajAxbTFPYXZaeGt5NzNDMHJWRFBjMkpDNWlGZkZsanhISHNZMWw4ZVM2Z2pyZTd4MWpZTWo3TUkwd1pYTTl0ckpCeTR1cjJvTi1ZdHZzRE5mTWhWdVRNWmpmY0VDWGlhV0dQUng3VW16d3lxX2RiS1lubVHSAbMCQVVfeXFMTTM0OUJGaXdoV1pTQkpGWGt6dkRfSlJ5czU0MEFLdGdvNzcxNzdRTllxTGZjcnRwR1FzSEFHZl9QZGd3blJJZ0ZJaEhlNC05empfeVhrUVctdFZKbjJvWGJGeE52bTZJU05ONGZmbzBQUHlpSWJoYnRqbE91Y0V2TWZMRHdmTlpZZnFsbkRxcmxfNnNoRzFzckZ5Tng5VFVPLUZtZnJyNVJZQlBZWDFCRl9CbGlubV9RRVA3dFZ0Y21UUGNwZWRvcWVLaVFBekpGVVRoS18wWTdRdlFIeEMyMnMyTjE1Y1hVTWtmT2QtWlNMckN1ZXhnMXJ1RG9OVkVuWGdnS3FVRnZWdWlhd3Z1VlZoRDlyc2ZZTlEtdlJDdk5SSHQ3ak1QRmkwdFdYQTN0alZEVQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:31:50 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:31:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert महाराष्ट्रातील हवामानात मोठे उलटफेर ऑगस्टअखेर धो धो कोसळणार पण कुठं आजचं अपड",
+      "title": "Weather Alert: महाराष्ट्रातील हवामानात मोठे उलटफेर, ऑगस्टअखेर धो धो कोसळणार, पण कुठं? आजचं अपडेट",
+      "summary": "Weather Alert: महाराष्ट्रातील हवामानात मोठे उलटफेर, ऑगस्टअखेर धो धो कोसळणार, पण कुठं? आजचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONmxvMGwzVW81YW52SUl1UGl2UFFOdUcteTdzeTFaUEx4dllEbEtocjRaajhza003MmtKUnZCdjRCMlhQODdJcGIxeVBKMkNLeDE0UlhtODJ1S0FxMW1CQUxBVlR6ZWdpTFl5dnVZOXh0dVM1YmRQUGoyeURVZDhzX0hfRmFzdGJEejNuV1ZLb2VQLVBDSlo2SGVrbW9ibHNYWHVtU2pLbEF2U2RmQld1Nl93NXhzY0ljLWszWWY2ZnRMQi1pRkJ3ZXdNYjQ1MzVIWjdqZ1NZRXJCUTNZMlVWMnB5M1VlUi1fY0VnSEFPLUZsUnBKX09ndkloNlY?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:10:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:10:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "disha salian case hearing दिशा सालियन प्रकरण दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "title": "Disha Salian Case Hearing News | दिशा सालियन प्रकरण, दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "summary": "Disha Salian Case Hearing News | दिशा सालियन प्रकरण, दोन्ही बाजूंचा युक्तिवाद पूर्ण",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3VOWHZjVGE1aGVPQ3BIRmROV2lUbk9ZQ1B2aXA2LTh4Y0lJNWsyN0x4dzhGMEZlNURBcnhiaHZSQlVMdUJBS1g2V3pHUFdQOS1ncTllTTJsTzFncC1pRmwxYS1abEZ6NGV5TFRIUWhVbnBDcnZaZ2FBeE9PYldIdXlsblNxS2xMQ045QWpkZmVXZw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 02:08:32 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 02:08:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "hokkaido muroran line halted until sept 2 after derailment",
+      "title": "Hokkaido Muroran Line Halted Until Sept. 2 After Derailment",
+      "summary": "Hokkaido Muroran Line Halted Until Sept. 2 After Derailment",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlZOdWdob0tFT3BndGtIOWwzbGtlZWM2bUZ4cjBDWE8tcy1LRFoyc1J0MmRpcE5vaWJjQjhUWXBVYWl1RHhNM2N5bEk2cTZ3UmpHeEZXblkycWVEWlNDYXFpTWZrdk9LTU5NQTNfbl92VEl1bl83QkZvZVhiVkRUdTdkOUJHLUMwc1FFZ2Z2aFY?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 01:02:53 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 01:02:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain forecast पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "title": "Rain Forecast: पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "summary": "Rain Forecast: पूर्व विदर्भात जोरदार सरींची शक्यता",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWZBOXozRE1MQ0hiRFBRUzJpNE1DOTByMTRGNWpmR0N6aXVPM0dKTVZ2Z1owWGhRdng5c3V0dkthSGc4NmY3OEpoVVlaLThZZExJdVo2a0h0MFd6eHAxd2txLWVkLXFjYmF1V3hwVTBieFVoS1k5eVEzLXZsUzc4Z0Z5bHNmeVRHQ1RZWlA4YVZJUWpt?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 29 Aug 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "आंदोलन केलं तरी घाम फुटेना भोरमध्ये महावितरणचा मनमानी कारभार पुन्हा आंदोलनाचा इशारा",
@@ -1327,6 +1708,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "severe storms force zurich flight cancellations and delays",
+      "title": "Severe Storms Force Zurich Flight Cancellations and Delays",
+      "summary": "Severe Storms Force Zurich Flight Cancellations and Delays",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWRNMkFaOGVlZzktODRpaV9XSTNUaTZjOGRxTlFUUGxkSzN6bENmQXAyV0FMUGEtd01xRVQ3b2NvZzM4Zmw0dG5HWHVrbGVJMUJlbElVeWRQbDdkWEd5MHV5d0pSLW9vWjlsNkQ1cXVDaE5Xb0VPREJfYnNCSWxIalpBR3NTbkVxNGI4UDl6OEY?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 13:31:36 GMT",
+      "lastUpdated": "Fri, 28 Aug 2026 13:31:36 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "road widening कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण अतिरिक्त आयुक्तांकडून पाहण",
       "title": "Road Widening : कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण; अतिरिक्त आयुक्तांकडून पाहणी",
       "summary": "Road Widening : कात्रज चौक ते भिलारेवाडी रस्त्याचे होणार रुंदीकरण; अतिरिक्त आयुक्तांकडून पाहणी",
@@ -1339,28 +1742,6 @@
       "region": "pune",
       "sources": [
         "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather alert rain break continues imd forecasts mostly dry and humid conditio",
-      "title": "Maharashtra Weather Alert: Rain Break Continues, IMD Forecasts Mostly Dry and Humid Conditions",
-      "summary": "Maharashtra Weather Alert: Rain Break Continues, IMD Forecasts Mostly Dry and Humid Conditions",
-      "source": "PUNE PULSE",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUpXZTNXNG9ZbHVtZE5tMFBZeGI1T0MxdURNWXZmSGNSYzhfV2hhaVFfYUpWX0h3cEUySE1Wb25BRlNyX3M1RGowS3BIdW92SG44THFubUJOeHVTeHhhQjgyQjVLZ2ZpWU1zWmRVQTFvaWNSdVpQNGtKT2JWaUtwWXZpQ2RKUlpObllJN3ptMDhZT2NIVDJwS3pRMEpnVE1udnpyS09DNXJlb0t3N2VoTlNfYVNfRG0tT1RtUjln?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 12:18:03 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 12:18:03 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "PUNE PULSE"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1525,122 +1906,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी 3 दिवस वाहतुक बदल पर्यायी मार्ग कोणते",
-      "title": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी, 3 दिवस वाहतुक बदल, पर्यायी मार्ग कोणते?",
-      "summary": "छत्रपती संभाजीनगरकरांसाठी महत्त्वाची बातमी, 3 दिवस वाहतुक बदल, पर्यायी मार्ग कोणते?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMllwZWYyYmtDZ1AzSFppMXh5OG01OXpHZlFCeXowVWtQSXB0Y0FSaS1VSnhYaUR5SC1QWkFoZ1AzSllEamRrYmh1Tmh0NWYxVlVyNDlXdmd0N28zOXNyVGhFVGM1UWl3MF9FOU1FUGZ0YjVWMk5WTVd2N2VUZEpEY0VoVUVMR3NqOVQ3UWtKZndIXzd6VFZFRF8waGlFUEhsV1NwdzJtLWVZZnVxS0ZMZkhpVDd4Vk9FX1hzTUZaaXBoWHo1M2JPSGwzclgweUhDVnJCX0UtYlBEdmtzOTQ4ajQzbVQ3MmY2TG84cWJUY2Q4eTl5dlE?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 04:29:00 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 04:29:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "school holiday 28 august 2026 will schools remain closed due to heavy rain check state wis",
-      "title": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "summary": "School Holiday Today (28 August 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "source": "Jagran Josh",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlV6OVp5N1dIblNhWmJlaWpHWDNoRWxDWkdGNW1TbklpeGtpSkhDNUVQRnEyRmotTWZxeVpUWG1qSXVBSEFfQ0F5SlozVW42R0NJa2hzTWVyZVNUSDdodGFDSXhHTzVPOTVVWUk0bWNoNm5hUW9jaGRjYll2eGsxdnNFN0JGZVRaNHg3SGxOZkQ1Q1BFbm5MYnlOeVptUlZCS0tFNkJwLXV4NVZlVFNyZE9KVXlKVDhiQ0c0eVo4ZXctdm96SFBjbllsal9qQdIB1AFBVV95cUxNWDVSY0l4Qmxhb0RLMlpmYWNHSl9DcHpnSTloYmpFM3ZiWmsyRnJSemRUTlhGVGtrcjVJREdGWkstZEI2QmY4N0ppUTNjalNOY0FNUzZ2cWtzWjZ6S2o2SjNEWk1FdGxuNDRYT1dfTVdJRnNLWTIzeUxDVGtHaWt0VWFURUFQdjJGeVdjYlhNT2RnMmRtdTM0YzVlbHpNbWlKQ3pabjFldmJwaTVYaDVPRVdkZVV0aG0waEhFY2dfNTFCeVR5eFhNeTAySVctTUgtcUQzMg?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 04:23:01 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 04:23:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Jagran Josh"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "आज पाऊस पडणार की कडाका वाढणार हवामान विभागाने दिला इशारा शेतकऱ्यांची धाकधूक वाढली वाचा आजच",
-      "title": "आज पाऊस पडणार की कडाका वाढणार! हवामान विभागाने दिला इशारा; शेतकऱ्यांची धाकधूक वाढली, वाचा आजच्या हवामानाची ताजी अपडेट",
-      "summary": "आज पाऊस पडणार की कडाका वाढणार! हवामान विभागाने दिला इशारा; शेतकऱ्यांची धाकधूक वाढली, वाचा आजच्या हवामानाची ताजी अपडेट",
-      "source": "Pune Prime News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORUpVbDhLYjdHaHRodllOeWhNd2ZEdWVQM0lCdF9VanJiTlh2SUlTNVQybnBHVmxqU0FjTURMWmRab1dWZEtjT0h3ZnYzTjN2a0l2VGNseWFsSGRkVUIyeUNCUlRmLTZPSC1tZm00VmdXOWJNRFcwT2s2RVZYT1hCU2l2d3pDWnVGTmpRalRpNE5BSlZmaE9COGU2dEVMendPWllTdmQ4MWdrbElidnNaMDVZMUpCdlJIbm9ubEs4bFlKZ0h5TUdJNkxjX0tmTDZZcUQtVW1kMTEwMnNwMEp2ZGQ1bUwxMVNfWWxPLUl3X1FmRUdoaWIyMWsyOUQzdkVGVUdQemhyZXRHeEFZYkg4cA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:46:55 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:46:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "metro line 3 हिंजवडी शिवाजीनगर मेट्रो सेवेला",
-      "title": "Pune Metro Line 3: हिंजवडी-शिवाजीनगर मेट्रो सेवेला",
-      "summary": "Pune Metro Line 3: हिंजवडी-शिवाजीनगर मेट्रो सेवेला",
-      "source": "LatestLY",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM01wRVpCa3h3dE9ONi1BMThVZjNUa3lJdnFWRzRvM0dUTzN1V1VwaUkyeGpWaGxVVFNOSzRhX1E3cldVeVVHR2hHbXUxSVQtQkpHUUVkSFJWWUxMSnZReXBiellBd0Q2V3dfVC1BRGlsMTh3cmxGWmxCaVUwV0xRTTJsZXpBa0dCM195WW94VGVsS1o5OE5pWk43dTNLVUlRMS1ZbVFJemdOaUpMbEdJVU9B0gGyAUFVX3lxTFAzTXBFWkJreHd0T042LUExOFVmM1RreUl2cVZHNG8zR1RPM3VXVXBpSTJ4alZobFVUU05LNGFfUTdyV1V5VUdHaEdtdTFJVC1CSkdRRWRIUlZZTExKdlF5cGJ6WUF3RDZXd19ULUFEaWwxOHdybEZabEJpVTBXTFFNMmxlekFrR0IzX3lZb3hUZWxLWjk4TmlaTjd1M0tVSVExLVltUUl6Z05pSkxsR0lVT0E?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:37:24 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:37:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "LatestLY"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रात पावसाचा ब्रेक आता नवं संकट येणार पाहा हवामान विभागाचा अंदाज",
-      "title": "Weather Alert : महाराष्ट्रात पावसाचा ब्रेक, आता नवं संकट येणार? पाहा हवामान विभागाचा अंदाज",
-      "summary": "Weather Alert : महाराष्ट्रात पावसाचा ब्रेक, आता नवं संकट येणार? पाहा हवामान विभागाचा अंदाज",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOamVVeXJsQzY4d2pnZFE4ZTVLaFVTMVEycUVvWVh0OTdMdGpvLTBOT2pQenIxeXRVS2RhaUF2Q2t5cVJ1X1JiSkMtMVRsSC10bmRpRTRyVUpWZlNSYi15NWNlMzJ0cTV0X2dMMzh6OHp3aUgydGlHSzJURGxsQ1VoeERIYXVuN3BrbGllbTV2RHdVR0pYeklVcE5wYm5YeGd5UG5tWGxPUEM0Z2hTdGV3dFh6VFJmRG9Rdk92bjR3XzlvSmVCcHlkaExkSzBIQmw1LXpPaGlFMWdCaXQ1cFQxTlphcW1wNXN0REFJ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:03:00 GMT",
-      "lastUpdated": "Fri, 28 Aug 2026 01:03:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 40,
-    "alerts": 14,
-    "news": 26
+    "total": 47,
+    "alerts": 18,
+    "news": 29
   },
-  "cleanedAt": "2026-08-28T23:37:06.787Z"
+  "cleanedAt": "2026-08-29T05:04:45.964Z"
 }
