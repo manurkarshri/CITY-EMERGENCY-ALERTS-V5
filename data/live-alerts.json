@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:26:50.001Z",
+  "generatedAt": "2026-09-04T00:15:03.601Z",
   "status": "ok",
   "alerts": [
     {
@@ -15,6 +15,38 @@
       "region": "pune",
       "sources": [
         "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "uttarakhand school holiday september 3 nainital bhimtal dehradun schools closed due to hea",
+      "title": "Uttarakhand School Holiday Today (September 3): Nainital, Bhimtal, Dehradun Schools Closed Due to Heavy Rain? Check Official Advisory & Latest Update",
+      "summary": "Uttarakhand School Holiday Today (September 3): Nainital, Bhimtal, Dehradun Schools Closed Due to Heavy Rain? Check Official Advisory & Latest Update",
+      "source": "sundayguardianlive.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUW9BaDFGdFpTT0RDb3dIQnJXamY1Tzh0aF8zODR2bUgyRTlUZmE2cnhxUU5IMHlpUWhfYnA4ZnNtb0g4WUIxYzZZWVRwejVobEJHNUtkQVlrNFVyZnJNWHBESU94RFZqQ0tRUVVJcTF1akNMWGZfaWNaYlNLRnJyRjBxS080eUhFeE1HaS1XQWd6LXl4OW9JeVlfZGZRcDVNQ0tMNVJyallsX21WUXdhWVRPVnVWU0FrNmhMdl8tMUxmaFBGeWMxemZUeG5fQ1FFdEVWcmJZMUtwVmtDNG1Sa0pOY1VKRlJJb3ZxaHhHWjgxWGhVMFVEVndCOHkwWkItZE55S2tVZ0NIR243VmVRMzQ4QU_SAZoCQVVfeXFMTnZtNU9pSDREQkVSNTBTNXlHMGh2WThNLUU0NGNGTURDYURSZlB4REFNNzhIN25ab1RRMGM3c1dDdWdUanJhbnRkbXJ0Y21YZlhvdVB2Q0NmRDZDYlhxdXZMZTVKWGRsUk1KNVdrQ1huSVY3dmdDd3kta1AxRmR0dEU3ZklXUmcxeXBLelhWSGoxZjVjN2YwS1hNYXlzUTR6c3IzeGNxUV9oVk9yOXdUN3ZWMklHbFZ3WEhGaDk0NFhRZE02TVU3ajBWOExnYkFvR2Q1RDkzTDdlbDRBbGZ5VmRhOFpLV1dEU1Z5cHUyYWNlQ2ozMDRLdnNyVkpJaDBNUkxWWUUtNXRlQVE4ZTBmcHJBXzg4aC1FeW93?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 01:13:37 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 01:13:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -66,41 +98,10 @@
       ]
     },
     {
-      "id": "traffic diversions श्रीकृष्ण जयंती दहीहंडीनिमित्त वाहतुकीत बदल",
-      "title": "Pune Traffic Diversions : श्रीकृष्ण जयंती, दहीहंडीनिमित्त वाहतुकीत बदल",
-      "summary": "Pune Traffic Diversions : श्रीकृष्ण जयंती, दहीहंडीनिमित्त वाहतुकीत बदल",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVgwVEdyTnJNLUQybHB4R0k4aFNacmVMU19xLXdDYlpLbV9vQmVSYzVvNnpoZUcwRXlTOEczeXBtM3RGQjBSNnU0X1hVQ3ZZUlRuaUI0UUhxZ2VtMXhaQ01ROUlRNVRMUTFmdkVfRi12MFFPa3lLUFdJRVhNYnVVdHZ2dzhtdDRCY3BQb01Ubk1uTEx5aTMzMVA0eUFtNkNVVk5PbVo2WnByVWRIQzFfS0tydm9HQQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 16:02:51 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 16:02:51 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "road closure",
-        "route closure",
-        "blocked",
-        "diversion"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Route Closure",
-      "icon": "🚧",
-      "critical": true,
-      "action": "Use alternate route and follow police diversion.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
       "id": "m25 traffic j27 closed after two lorries car crash as diesel spill triggers 2 5 hour delay",
       "title": "M25 Traffic Latest Update Today: J27 Closed After Two Lorries & Car Crash as Diesel Spill Triggers 2.5-Hour Delays – Check Closed Roads, Diversion Routes, Reopening Status & More",
       "summary": "M25 Traffic Latest Update Today: J27 Closed After Two Lorries & Car Crash as Diesel Spill Triggers 2.5-Hour Delays – Check Closed Roads, Diversion Routes, Reopening Status & More",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNX3ZJM2VhZDBwVm5Ga3daU28xSjg2RWstcy1OWGtXSDN0ZXhiVUJnckpabVlvTUt4aUxrdklBWVpiUXdpTU1VZ1ZHT2tQR0g1VzdfbjVFQzRhQXpBM1hLT2xlYnlmLTl6MTRieUNpWnQ5cDF0d09XcEpoUUdqZDNDR1FSVUpHcHpadW5SMndmM0RLLWVET3VNQzhwRFNGd3VvRVE1TmxiMWMwVGRCbnlySGFyektsb2pPR0V1YjhkbWxzbm9NbzM1bTZod2RuMGdHSGVtaU96SG9XN2RDMFNTQzBiVWhIMl9TdlloTjhXb2FCUkZEMy0wNWtpcmJEMHE5dnVLTDhPZGUwX2xGcUpta1NPTVd1ODFtdUNmZEpwWVc1VkNfVzk2YVJlbXpPUVp5cEpLSnd4ZDXSAb4CQVVfeXFMTUtvRUl6NzdpVlFpMmhmMVFiQ21XM2h2eWJ3bkZGSW13QjBzcW5zcHBBWWpiM0JEQ1FxTWxISTRKQUZzdHR2a3BTUndQdUdhTk9XSU9qTUZJMEJfZG1mNlJnenpqWjJkbmNkajFXclJlZDBMMGVhN2tjbUtkYWRDT3FYVWRGQ2VwY2FzMWRzSzAyNzJDRmVRWnpJU3IxRGtwTWNHdmtZdEZJLTcyNWktQjhYemx4RWRnVkZ6SGZSVV9iT1BGMkRtUVBHZXpxT0ZsTmV4NjQxZm8wMXFDX05nd2dyTzhpSEw1bFJRcXhyajJVdFJ2Z2JrUUxSN0J1NllBSUFobVNJWnR2ZTFMVDJlQlc0SlBTLS1uTHhpWC1hM0d6QkhiNEpLRV9JODJLX25HT2x3MjBaRGZ5Nmx0dlBB?oc=5",
       "pubDate": "Thu, 03 Sep 2026 09:57:13 GMT",
@@ -108,7 +109,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -195,18 +196,18 @@
       ]
     },
     {
-      "id": "check traffic changes for janmashtami dahi handi on friday saturday",
-      "title": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
-      "summary": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
-      "source": "The Indian Express",
+      "id": "traffic दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल या मार्गांवर निर्बंध पर्यायी रस्ते पा",
+      "title": "Pune Traffic : दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल; ‘या’ मार्गांवर निर्बंध, पर्यायी रस्ते पाहा",
+      "summary": "Pune Traffic : दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल; ‘या’ मार्गांवर निर्बंध, पर्यायी रस्ते पाहा",
+      "source": "dainikprabhat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSElTN281RjQ4U2Izc2NMdlIzMGYwUm9lWEVtYm8xVnFXTWZpU1dmc1hnXzRZcDYxcnBMMzRHZ0dhMUxDeHpmalRVNGFMM0I3TEE4MnVZTXRQUl9Oa3paa3VFS3QzdzhBRW5sQjlDbHpoTm9XUWhMUTJsNWVLSzlReHdxQUppeXB3dU81ZlNEMWx1eEJpU2NVTWhPX0xsUTFPZ1hCUXBRZDFWYjYyakJDTjhEcWtFNWVMTGc00gHCAUFVX3lxTE9jVjFYUmQ2OWFuTG1XWU9zMnZ3Zm9EWlNNSVV1T2VvdkNrMVFCMWp3V0FOQ2JVX1F2OHJnOEo2YTRhcjdlell4WktPb3BDZWNZZFpMRzczOE5wWFk2UFlrRUk0bHItU28wVUNVNV92YjFJX0JVSjVCUU1oWTV1SXMzaXdOcGw5aWYyMGY0YlgyVDU5c0hZcG9MNHFoX0xsU2tLZzNtd2huZTRsSlBGaDlhUWZkdVdybVVwNXg0ZS1oY3Jn?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 11:56:15 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 11:56:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHM1dHltaGgtZnN3YmUzNDVyaFplMjhSWVhEZ1B1ZGREVkdZUU8zc3JrRkFmRHpHWmw3Y2dDSUxvdXN2NWRsLWlDV1MyYmw5LVhzSW9jYkRVclNRdVB6S2tuYjBpYzRpdEYxVVRtYmk1amFEWE1hMVRORnpOOTY2Z2V3?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 15:40:00 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 15:40:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express"
+        "dainikprabhat.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -227,18 +228,18 @@
       ]
     },
     {
-      "id": "traffic दहीहंडी निमित्त वाहतूक निर्बंध लागू पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल जा",
-      "title": "Pune Traffic : दहीहंडी निमित्त वाहतूक निर्बंध लागू, पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल, जाणून घ्या पर्यायी मार्ग",
-      "summary": "Pune Traffic : दहीहंडी निमित्त वाहतूक निर्बंध लागू, पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल, जाणून घ्या पर्यायी मार्ग",
-      "source": "civicmirror.in",
+      "id": "check traffic changes for janmashtami dahi handi on friday saturday",
+      "title": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
+      "summary": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
+      "source": "indianexpress.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVFFsSlF5UENZRm82a0lPWnJvZXdmdVlKMXZOLXA2cl9wLTQ4bFJZT181TERMQVJGSE85ZTZBMkpPakM5SW56OHU5blZJMnMwdkwxRkJIbzdtUGZSSFVXY2hYendIeXZ0T2VRV19KUlF5OUZFUm05WmMtV0h2OTJjUmNYOHpwMllGcjFpQS1qWGVzZ09vSF9zNjdMM0ZxYml2ODlYbGhHdUctZVM2Q2Y3WXdBb2F3VnhGWElZQWlBeVZCUF9hLXRqWmJpVjJFUnRYRk9lR3FHR25xc2xtRUY4cThPQXFTSXkyLVVOV0d5dUtJZzB0ZkRadTk3TUM2ZXo3aXplTTVZemxMeUctUkVwMG5LZkR3dw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 10:50:55 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 10:50:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSElTN281RjQ4U2Izc2NMdlIzMGYwUm9lWEVtYm8xVnFXTWZpU1dmc1hnXzRZcDYxcnBMMzRHZ0dhMUxDeHpmalRVNGFMM0I3TEE4MnVZTXRQUl9Oa3paa3VFS3QzdzhBRW5sQjlDbHpoTm9XUWhMUTJsNWVLSzlReHdxQUppeXB3dU81ZlNEMWx1eEJpU2NVTWhPX0xsUTFPZ1hCUXBRZDFWYjYyakJDTjhEcWtFNWVMTGc00gHCAUFVX3lxTE9jVjFYUmQ2OWFuTG1XWU9zMnZ3Zm9EWlNNSVV1T2VvdkNrMVFCMWp3V0FOQ2JVX1F2OHJnOEo2YTRhcjdlell4WktPb3BDZWNZZFpMRzczOE5wWFk2UFlrRUk0bHItU28wVUNVNV92YjFJX0JVSjVCUU1oWTV1SXMzaXdOcGw5aWYyMGY0YlgyVDU5c0hZcG9MNHFoX0xsU2tLZzNtd2huZTRsSlBGaDlhUWZkdVdybVVwNXg0ZS1oY3Jn?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 11:56:15 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 11:56:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "civicmirror.in"
+        "indianexpress.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -321,33 +322,42 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "पुणेकरांनो बसने प्रवास करणार असाल तर ही बातमी वाचा दहीहंडीमुळे pmpmlचे मार्ग बदलले",
-      "title": "पुणेकरांनो, बसने प्रवास करणार असाल तर ही बातमी वाचा! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
-      "summary": "पुणेकरांनो, बसने प्रवास करणार असाल तर ही बातमी वाचा! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
-      "source": "Pune Prime News + 1 more",
+      "id": "traffic पुणेकरांनो बसने प्रवास करत असाल तर लक्ष द्या दहीहंडीमुळे pmpmlचे मार्ग बदलले",
+      "title": "Pune Traffic : पुणेकरांनो, बसने प्रवास करत असाल तर लक्ष द्या! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
+      "summary": "Pune Traffic : पुणेकरांनो, बसने प्रवास करत असाल तर लक्ष द्या! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
+      "source": "Prahaar.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLW5iakxYUzVmV0J6Z1N1MHREQ1F0NlV0WE15N2JqSEZ5QUtTSVM2cVp4a0dVS1A1MnJXS0liY3F4d3dUc3FTNDlydTEwcjBHVmRDUnBTNEx1M2VUZDRxQnJhZ2pXYTUxM0hwR2o4UUNmVGxDcGtRdW1mdGRDOGE2ZkpRU1RRaGp4Yk9iTDltN1dWMjRnQVlMaHJmSWd5aHdHNlJGRzBtbkxJR1g3emtoZkdFakdPb0VFSmZJc1hsNWx3UVZWZ2JlYi13ano5NzVBVzBuRFYtcFhnblRod2Q5dWFxWkdtU2ZSX0wtRWtLNExvdkU?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:37:54 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 05:37:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZm0tZXNvM0NmWlF2Z3dvaVowQi1FRHZXVExibjY0Nzk4SHk4YjZlN0dxRVl1X1ptZEhHZmJudUtSRDBzOGhZeEJmSzhQTXp2RUZoWEQxNzdFSnlNMEtCbjlJVnRDNXN3dER1M3VXRS1rYmoxeHNsNkRfUGNydXhOSWR2NFBQSUNoelkwTWswMmhQN3lpTUVoc3NQWUdYYTRKVVhMSXZlak9MdGtBSXhLX2swVklycGxQR1cyb2VsQWxNWmUwX09uTjZBVFNMdExuczd3SQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 05:05:00 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 05:05:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News",
         "Prahaar.in"
       ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
       "critical": false,
-      "action": "No immediate action required."
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "महाराष्ट्रात पावसाची उघडीप नाशिक जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
       "title": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
       "summary": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2NXWXVFZ19xOHd2bjhtZHNFLUx5Z05LSWdqNUREMmV1bE5ZZTAxMDdvcXNPRXlja3JVT2d6ZU9pSDNwZU41Nk9YQ1BUTnZQOFcyQU8wY21QN19xbUVaMEZSaHFSc2lQdGZhTTlzcmVMcmtLNFAzcnBYSmk4R3dGdlNMTENPUXdMRUlKak1WSXhIcVF1ckVTUjFxY2ZfRVRVYWI1S2tEVXRYakRPYlhEQ0pTamFVelp6dVFaV0R4aDdpY3BlNmswQ21VLWV1YnktUmx2dW1uRdIB3AFBVV95cUxQS0ZJUGZkUFZvTnMzUTctT1QybGpGMVZJRGFQbDZGS2lVVWUtY0x1WUpvQllHWDIyWWprS2hwZzFGT09mTGJHbk5WVUZqeGRFcHFpaHcwTWJ2MDdMalJTbGJLbEpldnNPelN3eXVWX1FKeWRzUU4yOTR3ejBvTzNZaWZiWXQ4cl9DdFBESHRJQ3BTNmd3bFRmRkNEN0dqcjVMQzM4TjlkMHhlRnJIeEFwbG9iT2RPTk5SeFNlcE1kODFnWG1PVXREMlNTcFA4UUVpZmZyOEhVdmRBTDJr?oc=5",
       "pubDate": "Thu, 03 Sep 2026 19:51:53 GMT",
@@ -355,7 +365,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -413,7 +423,7 @@
       "id": "weather alert महाराष्ट्रात पावसाचा जोर कायम शुक्रवारी वादळी वाऱ्यासह कोसळणार 5 जिल्ह्यांना",
       "title": "Weather Alert : महाराष्ट्रात पावसाचा जोर कायम, शुक्रवारी वादळी वाऱ्यासह कोसळणार, 5 जिल्ह्यांना अलर्ट",
       "summary": "Weather Alert : महाराष्ट्रात पावसाचा जोर कायम, शुक्रवारी वादळी वाऱ्यासह कोसळणार, 5 जिल्ह्यांना अलर्ट",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdUw0c01wQWZqclZfczJZNnFFbHRqcVU5eUk1SS1VZGFucmZRZ3lTZF9IeVd4TVlSVmxueFV4WXpZbjhBSWVDWi1XT0twc2FXMnF5ZGtZX0dOMVlIT1ZLZE1JQ09zb2FNcUtkUEtwQ1dycHhiQmZfbEpKNnh6RkFjdzJSc0hVYTlFYzZvYV81cEpraTNmQVExTDdkTzdWMWtzblhVRjk3a0RQZ1Z5eGdxb2txWGpQYnZJVHkxWFN3UVV0eVN0eC03OEZPR3lESm9JdGp5aDMwYUZicUFiNElKNmZqSmExRFpIcjBwZDNMQlhFOGM?oc=5",
       "pubDate": "Thu, 03 Sep 2026 13:34:00 GMT",
@@ -421,7 +431,51 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "दहीहंडीमुळे पुण्यात ४ ५ सप्टेंबरला वाहतूक बदल या मार्गांवर जाण्यापूर्वी पर्यायी रस्ते जाणू",
+      "title": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
+      "summary": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1pabHJQNlgtZ1hhekdoVDZaQ0ZpdVBCa0JVNmlHN2ZvQlF5dHZyUHVPRGhPdjJ2R1dCOERHbVJ2bFdkNHhsN1Z0NEpRaGdGaGlWYTdLUDRzQUxCdEpRdlVOdDJZUHlNeXYtaXRSdTltaVVjTS1JbURmRXBPOEg4d3UzcXhWMWIwTEM2MzIyOEnSAZABQVVfeXFMTl9aWmxyUDZYLWdYYXpHaFQ2WkNGaXVQQmtCVTZpRzdmb0JReXR2clB1T0RoT3YydkdXQjhER21SdmxXZDR4bDdWdDRKUWhnRmhpVmE3S1A0c0FMQnRKUXZVTnQyWVB5TXl2LWl0UnU5bWlVY00tSW1EZkVwTzhIOHd1M3F4VjFiMExDNjMyMjhJ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:55:05 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 12:55:05 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ नेमकं चाललंय काय",
+      "title": "Pune News | विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ, नेमकं चाललंय काय?",
+      "summary": "Pune News | विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ, नेमकं चाललंय काय?",
+      "source": "news18marathi.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UkpTb0tzQll2Y1BjSEtLRlhvUmxPMWRVczlxNk1DT3dGMkdHNnBTOVQ3NnFJZ2Yyd21DQVZlYXZ0SUlyN2hVaEp5VHVtYkN2QWFMZ2JGdk8yTXFqSkR0Y0hteXpHSHdYMDZvWTRLTm0waUdRQ1E?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:31:30 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 12:31:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -573,28 +627,6 @@
       ]
     },
     {
-      "id": "दहीहंडीमुळे पुण्यात ४ ५ सप्टेंबरला वाहतूक बदल या मार्गांवर जाण्यापूर्वी पर्यायी रस्ते जाणू",
-      "title": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
-      "summary": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
-      "source": "deshonnati.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZTDlJaDl6djNpM2FEeW9wZ2luUEdQcldNYkVnU0xfaGJGZDgtaU4taHdWSUhISC1oYU1udzZVZ1czcV9SZlUtc0ZkbTJCblViVjRtUjk5bFZSaW5KT1BFRFdqYVJqMHhOaWNMNmhVTXU3QWd5U3fSAZABQVVfeXFMTl9aWmxyUDZYLWdYYXpHaFQ2WkNGaXVQQmtCVTZpRzdmb0JReXR2clB1T0RoT3YydkdXQjhER21SdmxXZDR4bDdWdDRKUWhnRmhpVmE3S1A0c0FMQnRKUXZVTnQyWVB5TXl2LWl0UnU5bWlVY00tSW1EZkVwTzhIOHd1M3F4VjFiMExDNjMyMjhJ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 08:34:20 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 08:34:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "deshonnati.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "चर्चमध्ये पुराचे पाणी तरीही थाटात लग्न पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन",
       "title": "चर्चमध्ये पुराचे पाणी, तरीही थाटात लग्न! पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन्समधील लियान गालंग आणि गिल्बर्ट ‘गिबो’ चिको या जोडप्याने प्रेमापुढे कोणतेही संकट मोठे न",
       "summary": "चर्चमध्ये पुराचे पाणी, तरीही थाटात लग्न! पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन्समधील लियान गालंग आणि गिल्बर्ट ‘गिबो’ चिको या जोडप्याने प्रेमापुढे कोणतेही संकट मोठे न",
@@ -620,7 +652,7 @@
       "id": "कमी दाबाचा पट्टा उत्तरेकडे सरकला हवामान विभागानं दिलेला अंदाज बदलला ऑरेंज",
       "title": "कमी दाबाचा पट्टा उत्तरेकडे सरकला, हवामान विभागानं दिलेला अंदाज बदलला, ऑरेंज",
       "summary": "कमी दाबाचा पट्टा उत्तरेकडे सरकला, हवामान विभागानं दिलेला अंदाज बदलला, ऑरेंज",
-      "source": "ABP Majha",
+      "source": "marathi.abplive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTGpQNWZxRVc5NldqVHNReEJRUG1veTdCTkdleG1fXzNtUzZ6QUNvejJJcHNVYTB0V0VPWTBEblJ4NElWRlh2U3NMU1BVdWQ4bmxmd2xoX3hpOTB4ejBYSUpFUTFTdk4weTlCV3lBajJ1c1lCa2dQbTRrUTJ0Z2Y1X2VkVFNqa3BaaFRXaEhKeEx1Z1d0VHdwd1g3bmxOZHk4c0poSEtfakJxd3RwQ3dSYWVWY3AwSlBQNkhTMzVwTldmLWFLQ3MzeldkdG5MTnAwWXl6eGNyR2FoS210RG9KekkzQ3NaVEVxQV93dE5HWnJjZ9IB9wFBVV95cUxQRGpGd2FBNVJoUnhVbGV1cmpRcEF5MlR1TWpFSFZEZ1I3X2p6Tmk2MVJhZjAtX0Rlb1FNdW44ejZHNTlhaURGWEZISWZQWk1HRUUwTkJpRW1KWTRLcGhLVGNLN2V0Yy1lTnIyVHRKRGlPcklWaXJneFZaVXU4UWRHbmVjZVRaX0FsM1JNLTBlaDdEZUhRZFNLM0dmYU9OVE9DX2ZCUzJVaWJMc04zYkZMYkp5eUJQbmpnUzdMQVhKT1otUS1kdlZjOUVLaUZKRGhvSFozWWNibjZqX2FfSmtmTlluMlo3MFc5dDlDSXRxNnJ1Ylg1Q3pv?oc=5",
       "pubDate": "Thu, 03 Sep 2026 07:29:45 GMT",
@@ -628,7 +660,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "ABP Majha"
+        "marathi.abplive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -664,7 +696,7 @@
       "id": "पुणेकरांसाठी महत्त्वाची बातमी 5 सप्टेंबरला pmp बसच्या मार्गांत बदल दहीहंडीसाठी हे रस्ते बं",
       "title": "पुणेकरांसाठी महत्त्वाची बातमी! 5 सप्टेंबरला PMP बसच्या मार्गांत बदल, दहीहंडीसाठी हे रस्ते बंद, पर्याय मार्ग कोणते?",
       "summary": "पुणेकरांसाठी महत्त्वाची बातमी! 5 सप्टेंबरला PMP बसच्या मार्गांत बदल, दहीहंडीसाठी हे रस्ते बंद, पर्याय मार्ग कोणते?",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVJ2ZURpQTk5ZnFsY3o5dVBKWF9MOThHMDVRbzhiWEk3U2NhbkxWWjR6MUVMSlVFV3BLRHgyOW9kTkdyeVFHMl91eVBweDBIYVRqRW5sS2JIMXVYZWIwRUEzbjEtTTgxODAwT2p1WXZ2WEM1V0xOWFZsWl9hRUk0UWFNR2hNNEtSc0NaQUdCc2JfV1ExYTZjNHNYcGRDa2tRMVlxSThEQktxU2xlQ2hQQ1BSX1gzWDJ4UEFUb09tcjJfOW1oaEJIYVBWUQ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 04:30:00 GMT",
@@ -672,7 +704,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -705,35 +737,10 @@
       "action": "No immediate action required."
     },
     {
-      "id": "rain alert in maharashtra महाराष्ट्रात पावसाचा कहर",
-      "title": "Rain Alert In Maharashtra : महाराष्ट्रात पावसाचा कहर?",
-      "summary": "Rain Alert In Maharashtra : महाराष्ट्रात पावसाचा कहर?",
-      "source": "maharashtradesha.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4OWtNZ25ZUGFtVnhkZHp2ckFWYWRKcl9rZVhWQWo1c1hveDJJQ2xFZXJTT2xDWWxwVkt4NzA3bjRHckFTdHRSYk5lQXJWLW1tREZGTXNlRmIwcmlSWlJZRDZnVmhpdw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 03:24:11 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 03:24:11 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "maharashtradesha.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "weather alert महाराष्ट्रात वारं फिरलं आता या जिल्ह्यांना ढगांनी घेरलं धो धो कोसळणार",
       "title": "Weather Alert: महाराष्ट्रात वारं फिरलं, आता या जिल्ह्यांना ढगांनी घेरलं, धो धो कोसळणार!",
       "summary": "Weather Alert: महाराष्ट्रात वारं फिरलं, आता या जिल्ह्यांना ढगांनी घेरलं, धो धो कोसळणार!",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcW1BaVVZdUdaRGxoNGM5SFRBQVFaMlEzVDN6MmNlSWRlSVhFTS1rX2tScGJXeTBDeHlRZ3Nlam9hZWZoLUp3cVl6RUlmbW5XeWJsVEZIRkdFWFV1X3JxX2ZGcllYU1g1aFVKMGZhRndoMTBjOFdBMFF1TE9aYlNQQ1kwdEZjSnNrUGszb1pJd0JRbzlSNUhib2Z6Z09ETjlFVTBkcDd0ajZSVnVfMFZiNFlPcUdyMnJXZDQwdnowZ0ViaU0yZ3BmcmJ2TURqTzU1Mkg2OVVXcTZUZ3pzUW1ZeF9BOWJTZGd1eTlReThWeVdxV2JuVnlGOGNZUEY3M1dOMEZSX1R3aWM?oc=5",
       "pubDate": "Thu, 03 Sep 2026 03:06:00 GMT",
@@ -741,7 +748,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -755,7 +762,7 @@
       "id": "dahi handi 2026 पुणेकरांसाठी महत्त्वाचे 5 सप्टेंबरला दहीहंडीनिमित्त pmplच्या मार्गांत बदल ",
       "title": "Dahi Handi 2026: पुणेकरांसाठी महत्त्वाचे! 5 सप्टेंबरला दहीहंडीनिमित्त PMPLच्या मार्गांत बदल; कोणते रस्ते बंद? जाणून घ्या पर्यायी मार्ग",
       "summary": "Dahi Handi 2026: पुणेकरांसाठी महत्त्वाचे! 5 सप्टेंबरला दहीहंडीनिमित्त PMPLच्या मार्गांत बदल; कोणते रस्ते बंद? जाणून घ्या पर्यायी मार्ग",
-      "source": "Maharashtra Times",
+      "source": "maharashtratimes.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTUFyUTlVbU8tQ0VES0lSS1FJSHRkRlFmeEQySmFDLTVkUkY1Zi16U0JWOGpWNTRHRl83dVJsQlFsREFrbHlxd0EyOHFQQzlCenZmY2NkSHYySzVTSC1yaWdoalhpZDg4enNKQmhncmNfeDV3WjVHNW04WVBZZDd4bDh4cmdOdUVVWFpvbjlOeXZyS25hNFZsdVY4Y1NIaU4wZDZVMGZDVlI1cTlNd3ZSbTB1eG9UbU9XaVkwNUw2TTNWUld5NWVQT1F3VnYyTGNkdDNlVlJiSWRuUGR6ZUhqMVIwOTEzUEhfcUJFUllwb2pzOTNuZFBIYVlSOXZpVGpIcktSOUQ1cHJkb0hXNlFLV1ZNMGpVUdIBmwJBVV95cUxQTGwyZm1jM3lNd2FPekdXT09oZThuRi11bEc1MjN5OW1FeHlkMjNodEtYWWJyUzJYbDNEVHk3QTZYSnhCejJQR3d5d2owWVc1T18yTzNwTmxYZTgzUkc1c0Zpd0otWkJ5SEJROVNZTmRoWVBNeVlEZ21zaWdDYWNublV5NWJVNHNnTkF0TVQ0aE1KZFM4Sm9haEllU3hBTHJmbmhLRTlMRHM4RkhabWR4SjNCaHFCM1ZNQ2VyOHRZbjhNbEliVUJycEx5LW9zOXlBWl9KblBlbHM3dFphR2lzUDZXa3p0b3lrVnh1a0ktdHhFMEpWVjQzVUF0RHVTbzljWFA2bmFUTVRYMlFrZ2d4cFV1ZklhclpWa2lr?oc=5",
       "pubDate": "Thu, 03 Sep 2026 03:01:18 GMT",
@@ -763,7 +770,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Times"
+        "maharashtratimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -868,7 +875,7 @@
       "id": "madhya pradesh school holiday september 3 will school remain closed or open check official",
       "title": "Madhya Pradesh School Holiday Today (September 3): Will School Remain Closed or Open Today? Check Official Advisory & Latest Update",
       "summary": "Madhya Pradesh School Holiday Today (September 3): Will School Remain Closed or Open Today? Check Official Advisory & Latest Update",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS1o1Y0dtTmg5SjhBYjJXa0Jqdzd3SEVySzg1M3A4SmdScXcxSTNNLXNkakp5YUpMQWFDZFg1MllybEoyNFVyQnpFVjFxTUI3V01xeGx3bnpNNHM4V093aUFPOEZkemxPMXg2WEZ5TUNucnAtNHlqTFphTHVVci1QS0xoUndvSlRZSnJVT0ZGR0lHSi1XcnR4N3kwcnhLUnlJRm5jejMzYm1RbG44Z19pdGJIQmFHMXZzS0taWWFaNFVvekFtdjRGU0Nud3h0eDFmY2FrRlB4LVVXOVY5Wnl5bm02NVBoRnFQOTE3ZE94NkVRYW0zZnZvLWRRbkdNa3fSAYQCQVVfeXFMTktSSXA1RXpBMFRuWmItUGhrMUdSd3NzZTZxZkdNQ1J0eHAzZ01UTXpDLTFUUHZVOTR0YUFDX0VuT2l3SXUzV3BLakd5XzZHTEVpaFFZRkVfRFVOUWRZVnJBVWR1dGtiNnBwdndNY3YxYndRakRjTHZEZ0l4aHRSV3ZKS2xBN0REcUFaSlBScTYxYkZMTG05MWdyeUZydVJ6azdnTjVfNk1janQyM3N1ZTRQbktObTNnOC1FY1lpRjVZRDdIeHVrR0ROLUpCdllUU3JEaDNlTmJ1RzBLTUQ2cno3Nll3WkRWbXJfNWtJODdmN2RVNHdWUVE3REk2eTVpSmUxQ1Y?oc=5",
       "pubDate": "Thu, 03 Sep 2026 01:51:46 GMT",
@@ -876,7 +883,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -915,7 +922,7 @@
       "id": "school holiday september 3 imd predicts heavy rainfall across several states check state w",
       "title": "School Holiday Today (September 3): IMD Predicts Heavy Rainfall Across Several States – Check State-Wise Forecast & Latest Update",
       "summary": "School Holiday Today (September 3): IMD Predicts Heavy Rainfall Across Several States – Check State-Wise Forecast & Latest Update",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaEpVZmd4eVFVcFVLekJKQmZTbDFqWVR3SWcxeEx4cnI3bGMtNFF5RURBOWxHbkRjaG5LcE1ZbUdHRjA4aXZXWlBVaTdOZllQRjJMRGJqREdoa3JQNjFBVTB5eEZUOC1HUW9idy11U0Z3UjZlM0IxZFZ2eFVVVUxWWUlZUFhnTXMyQkFmTmFfQkpuS0RObXR3OHFKZXg0eHYxYXQtY09OcHVEaWhsQmV2TUNMUHoxYVNvdTZPQW9YWmtBdjF5SDlEcFFCdWRyRjhYLWhrMHBzU2Fqa3lQY0IwbjVwMFBKOXZpMHdLS0s3NXZseW4xQVpzbWxBMNIBgAJBVV95cUxQVkdwVjZLd1F1aVJwOUVJR1ZnNlRtSWhoUEhLQ3VaSE52MjRXRVhXVTdrMHdHNWVRdHB5Nm1iVDVjQjR2TEVpY3NiOEhHeFZqcHVINWoxalNnbWNkVjE1WFNPUmRsTnhJUDZ2MEp2LXlzWDNTMndyQUNQWi1sLW9hQUJnREVhbS16MV95bjdfMlJpZi1GZkxBSGdoUjV3ZzVhMl9oS2I2MzZ1U2RIRWR3ejJaeW9rX3BlZEQxN1N4NlNYcVNleDU5NjVHeFk4b1ZvdnVzVnE4YmlHVGE0SHc0WVVqckVWLUFWdTN0ODBvcEM3a05qWms5RnpYYjBXYWVJ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 00:43:12 GMT",
@@ -923,7 +930,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -960,28 +967,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "sindhudurg वीजपुरवठा रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "title": "Sindhudurg News| वीजपुरवठा, रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "summary": "Sindhudurg News| वीजपुरवठा, रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXREYjc5eHF0VmhDQUUweVhhZzRrWXB4Y3JuQUdwQXJfakFFVElaOWZaMDZPX054VEZIRU1rbG5uQlduV1FxS2RsNkhLa3lDMFdpR1E3RnJqQzFOb3JUaDVnbGt4ZFBoQzJCSVlENzAzWHBLR1hab1J4Z1loanpsZ3FPV1dTV2VmTGRURzZnNU02X1F6Q2k3eGJrYV8tRDdMa1JJYVlwSXdvM3ZyYVROaVk4SUlDQm5XNVVwMGpkaUxMczNwUFNFelJZZ3BmQdIB2wFBVV95cUxOY0JOTVFaeEdKQ2plblROcWNySHJ0NXd5c2J4YjZiNXBxc2lMOE96N01ZR0hpcEUwNlRhOFQzdk9NS2hmd29jaU1nbkVlOEV1aXVqc1VLaHhDemk1NlZFRl9iejQwVUs3cVhMdG8yWDdac05WTXRVSGhGMElQUU41LUV4dWc5MmszZ2ZsZEczNmVEVUxrbzd5VG9nWUozdDd4YjhSenp6WkJaN2w1NkUyQXFUZk1NaERuMFBKSkRrU2NFSVF1RlF2N1hjMHI2Rlp4MWdoa25YSHk4YzA?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 00:06:00 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 00:06:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -998,6 +983,35 @@
       "region": "pune",
       "sources": [
         "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "uttarakhand school holiday september 3 nainital bhimtal dehradun schools closed due to hea",
+      "title": "Uttarakhand School Holiday Today (September 3): Nainital, Bhimtal, Dehradun Schools Closed Due to Heavy Rain? Check Official Advisory & Latest Update",
+      "summary": "Uttarakhand School Holiday Today (September 3): Nainital, Bhimtal, Dehradun Schools Closed Due to Heavy Rain? Check Official Advisory & Latest Update",
+      "source": "sundayguardianlive.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUW9BaDFGdFpTT0RDb3dIQnJXamY1Tzh0aF8zODR2bUgyRTlUZmE2cnhxUU5IMHlpUWhfYnA4ZnNtb0g4WUIxYzZZWVRwejVobEJHNUtkQVlrNFVyZnJNWHBESU94RFZqQ0tRUVVJcTF1akNMWGZfaWNaYlNLRnJyRjBxS080eUhFeE1HaS1XQWd6LXl4OW9JeVlfZGZRcDVNQ0tMNVJyallsX21WUXdhWVRPVnVWU0FrNmhMdl8tMUxmaFBGeWMxemZUeG5fQ1FFdEVWcmJZMUtwVmtDNG1Sa0pOY1VKRlJJb3ZxaHhHWjgxWGhVMFVEVndCOHkwWkItZE55S2tVZ0NIR243VmVRMzQ4QU_SAZoCQVVfeXFMTnZtNU9pSDREQkVSNTBTNXlHMGh2WThNLUU0NGNGTURDYURSZlB4REFNNzhIN25ab1RRMGM3c1dDdWdUanJhbnRkbXJ0Y21YZlhvdVB2Q0NmRDZDYlhxdXZMZTVKWGRsUk1KNVdrQ1huSVY3dmdDd3kta1AxRmR0dEU3ZklXUmcxeXBLelhWSGoxZjVjN2YwS1hNYXlzUTR6c3IzeGNxUV9oVk9yOXdUN3ZWMklHbFZ3WEhGaDk0NFhRZE02TVU3ajBWOExnYkFvR2Q1RDkzTDdlbDRBbGZ5VmRhOFpLV1dEU1Z5cHUyYWNlQ2ozMDRLdnNyVkpJaDBNUkxWWUUtNXRlQVE4ZTBmcHJBXzg4aC1FeW93?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 01:13:37 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 01:13:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -1043,38 +1057,10 @@
       "action": "Use alternate route and follow police diversion."
     },
     {
-      "id": "traffic diversions श्रीकृष्ण जयंती दहीहंडीनिमित्त वाहतुकीत बदल",
-      "title": "Pune Traffic Diversions : श्रीकृष्ण जयंती, दहीहंडीनिमित्त वाहतुकीत बदल",
-      "summary": "Pune Traffic Diversions : श्रीकृष्ण जयंती, दहीहंडीनिमित्त वाहतुकीत बदल",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVgwVEdyTnJNLUQybHB4R0k4aFNacmVMU19xLXdDYlpLbV9vQmVSYzVvNnpoZUcwRXlTOEczeXBtM3RGQjBSNnU0X1hVQ3ZZUlRuaUI0UUhxZ2VtMXhaQ01ROUlRNVRMUTFmdkVfRi12MFFPa3lLUFdJRVhNYnVVdHZ2dzhtdDRCY3BQb01Ubk1uTEx5aTMzMVA0eUFtNkNVVk5PbVo2WnByVWRIQzFfS0tydm9HQQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 16:02:51 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 16:02:51 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "road closure",
-        "route closure",
-        "blocked",
-        "diversion"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Route Closure",
-      "icon": "🚧",
-      "critical": true,
-      "action": "Use alternate route and follow police diversion."
-    },
-    {
       "id": "m25 traffic j27 closed after two lorries car crash as diesel spill triggers 2 5 hour delay",
       "title": "M25 Traffic Latest Update Today: J27 Closed After Two Lorries & Car Crash as Diesel Spill Triggers 2.5-Hour Delays – Check Closed Roads, Diversion Routes, Reopening Status & More",
       "summary": "M25 Traffic Latest Update Today: J27 Closed After Two Lorries & Car Crash as Diesel Spill Triggers 2.5-Hour Delays – Check Closed Roads, Diversion Routes, Reopening Status & More",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNX3ZJM2VhZDBwVm5Ga3daU28xSjg2RWstcy1OWGtXSDN0ZXhiVUJnckpabVlvTUt4aUxrdklBWVpiUXdpTU1VZ1ZHT2tQR0g1VzdfbjVFQzRhQXpBM1hLT2xlYnlmLTl6MTRieUNpWnQ5cDF0d09XcEpoUUdqZDNDR1FSVUpHcHpadW5SMndmM0RLLWVET3VNQzhwRFNGd3VvRVE1TmxiMWMwVGRCbnlySGFyektsb2pPR0V1YjhkbWxzbm9NbzM1bTZod2RuMGdHSGVtaU96SG9XN2RDMFNTQzBiVWhIMl9TdlloTjhXb2FCUkZEMy0wNWtpcmJEMHE5dnVLTDhPZGUwX2xGcUpta1NPTVd1ODFtdUNmZEpwWVc1VkNfVzk2YVJlbXpPUVp5cEpLSnd4ZDXSAb4CQVVfeXFMTUtvRUl6NzdpVlFpMmhmMVFiQ21XM2h2eWJ3bkZGSW13QjBzcW5zcHBBWWpiM0JEQ1FxTWxISTRKQUZzdHR2a3BTUndQdUdhTk9XSU9qTUZJMEJfZG1mNlJnenpqWjJkbmNkajFXclJlZDBMMGVhN2tjbUtkYWRDT3FYVWRGQ2VwY2FzMWRzSzAyNzJDRmVRWnpJU3IxRGtwTWNHdmtZdEZJLTcyNWktQjhYemx4RWRnVkZ6SGZSVV9iT1BGMkRtUVBHZXpxT0ZsTmV4NjQxZm8wMXFDX05nd2dyTzhpSEw1bFJRcXhyajJVdFJ2Z2JrUUxSN0J1NllBSUFobVNJWnR2ZTFMVDJlQlc0SlBTLS1uTHhpWC1hM0d6QkhiNEpLRV9JODJLX25HT2x3MjBaRGZ5Nmx0dlBB?oc=5",
       "pubDate": "Thu, 03 Sep 2026 09:57:13 GMT",
@@ -1082,7 +1068,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -1158,18 +1144,18 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "check traffic changes for janmashtami dahi handi on friday saturday",
-      "title": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
-      "summary": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
-      "source": "The Indian Express",
+      "id": "traffic दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल या मार्गांवर निर्बंध पर्यायी रस्ते पा",
+      "title": "Pune Traffic : दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल; ‘या’ मार्गांवर निर्बंध, पर्यायी रस्ते पाहा",
+      "summary": "Pune Traffic : दहीहंडीच्या दिवशी पुण्यात वाहतुकीचा मोठा बदल; ‘या’ मार्गांवर निर्बंध, पर्यायी रस्ते पाहा",
+      "source": "dainikprabhat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSElTN281RjQ4U2Izc2NMdlIzMGYwUm9lWEVtYm8xVnFXTWZpU1dmc1hnXzRZcDYxcnBMMzRHZ0dhMUxDeHpmalRVNGFMM0I3TEE4MnVZTXRQUl9Oa3paa3VFS3QzdzhBRW5sQjlDbHpoTm9XUWhMUTJsNWVLSzlReHdxQUppeXB3dU81ZlNEMWx1eEJpU2NVTWhPX0xsUTFPZ1hCUXBRZDFWYjYyakJDTjhEcWtFNWVMTGc00gHCAUFVX3lxTE9jVjFYUmQ2OWFuTG1XWU9zMnZ3Zm9EWlNNSVV1T2VvdkNrMVFCMWp3V0FOQ2JVX1F2OHJnOEo2YTRhcjdlell4WktPb3BDZWNZZFpMRzczOE5wWFk2UFlrRUk0bHItU28wVUNVNV92YjFJX0JVSjVCUU1oWTV1SXMzaXdOcGw5aWYyMGY0YlgyVDU5c0hZcG9MNHFoX0xsU2tLZzNtd2huZTRsSlBGaDlhUWZkdVdybVVwNXg0ZS1oY3Jn?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 11:56:15 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 11:56:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHM1dHltaGgtZnN3YmUzNDVyaFplMjhSWVhEZ1B1ZGREVkdZUU8zc3JrRkFmRHpHWmw3Y2dDSUxvdXN2NWRsLWlDV1MyYmw5LVhzSW9jYkRVclNRdVB6S2tuYjBpYzRpdEYxVVRtYmk1amFEWE1hMVRORnpOOTY2Z2V3?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 15:40:00 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 15:40:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Indian Express"
+        "dainikprabhat.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -1187,18 +1173,18 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "traffic दहीहंडी निमित्त वाहतूक निर्बंध लागू पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल जा",
-      "title": "Pune Traffic : दहीहंडी निमित्त वाहतूक निर्बंध लागू, पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल, जाणून घ्या पर्यायी मार्ग",
-      "summary": "Pune Traffic : दहीहंडी निमित्त वाहतूक निर्बंध लागू, पुणे शहरात ४ व ५ सप्टेंबर रोजी वाहतुकीत बदल, जाणून घ्या पर्यायी मार्ग",
-      "source": "civicmirror.in",
+      "id": "check traffic changes for janmashtami dahi handi on friday saturday",
+      "title": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
+      "summary": "Pune: Check traffic changes for Janmashtami, Dahi Handi on Friday, Saturday",
+      "source": "indianexpress.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVFFsSlF5UENZRm82a0lPWnJvZXdmdVlKMXZOLXA2cl9wLTQ4bFJZT181TERMQVJGSE85ZTZBMkpPakM5SW56OHU5blZJMnMwdkwxRkJIbzdtUGZSSFVXY2hYendIeXZ0T2VRV19KUlF5OUZFUm05WmMtV0h2OTJjUmNYOHpwMllGcjFpQS1qWGVzZ09vSF9zNjdMM0ZxYml2ODlYbGhHdUctZVM2Q2Y3WXdBb2F3VnhGWElZQWlBeVZCUF9hLXRqWmJpVjJFUnRYRk9lR3FHR25xc2xtRUY4cThPQXFTSXkyLVVOV0d5dUtJZzB0ZkRadTk3TUM2ZXo3aXplTTVZemxMeUctUkVwMG5LZkR3dw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 10:50:55 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 10:50:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSElTN281RjQ4U2Izc2NMdlIzMGYwUm9lWEVtYm8xVnFXTWZpU1dmc1hnXzRZcDYxcnBMMzRHZ0dhMUxDeHpmalRVNGFMM0I3TEE4MnVZTXRQUl9Oa3paa3VFS3QzdzhBRW5sQjlDbHpoTm9XUWhMUTJsNWVLSzlReHdxQUppeXB3dU81ZlNEMWx1eEJpU2NVTWhPX0xsUTFPZ1hCUXBRZDFWYjYyakJDTjhEcWtFNWVMTGc00gHCAUFVX3lxTE9jVjFYUmQ2OWFuTG1XWU9zMnZ3Zm9EWlNNSVV1T2VvdkNrMVFCMWp3V0FOQ2JVX1F2OHJnOEo2YTRhcjdlell4WktPb3BDZWNZZFpMRzczOE5wWFk2UFlrRUk0bHItU28wVUNVNV92YjFJX0JVSjVCUU1oWTV1SXMzaXdOcGw5aWYyMGY0YlgyVDU5c0hZcG9MNHFoX0xsU2tLZzNtd2huZTRsSlBGaDlhUWZkdVdybVVwNXg0ZS1oY3Jn?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 11:56:15 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 11:56:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "civicmirror.in"
+        "indianexpress.com"
       ],
       "confidence": "Single source",
       "w": [
@@ -1275,33 +1261,39 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "पुणेकरांनो बसने प्रवास करणार असाल तर ही बातमी वाचा दहीहंडीमुळे pmpmlचे मार्ग बदलले",
-      "title": "पुणेकरांनो, बसने प्रवास करणार असाल तर ही बातमी वाचा! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
-      "summary": "पुणेकरांनो, बसने प्रवास करणार असाल तर ही बातमी वाचा! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
-      "source": "Pune Prime News + 1 more",
+      "id": "traffic पुणेकरांनो बसने प्रवास करत असाल तर लक्ष द्या दहीहंडीमुळे pmpmlचे मार्ग बदलले",
+      "title": "Pune Traffic : पुणेकरांनो, बसने प्रवास करत असाल तर लक्ष द्या! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
+      "summary": "Pune Traffic : पुणेकरांनो, बसने प्रवास करत असाल तर लक्ष द्या! दहीहंडीमुळे PMPMLचे मार्ग बदलले",
+      "source": "Prahaar.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLW5iakxYUzVmV0J6Z1N1MHREQ1F0NlV0WE15N2JqSEZ5QUtTSVM2cVp4a0dVS1A1MnJXS0liY3F4d3dUc3FTNDlydTEwcjBHVmRDUnBTNEx1M2VUZDRxQnJhZ2pXYTUxM0hwR2o4UUNmVGxDcGtRdW1mdGRDOGE2ZkpRU1RRaGp4Yk9iTDltN1dWMjRnQVlMaHJmSWd5aHdHNlJGRzBtbkxJR1g3emtoZkdFakdPb0VFSmZJc1hsNWx3UVZWZ2JlYi13ano5NzVBVzBuRFYtcFhnblRod2Q5dWFxWkdtU2ZSX0wtRWtLNExvdkU?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:37:54 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 05:37:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZm0tZXNvM0NmWlF2Z3dvaVowQi1FRHZXVExibjY0Nzk4SHk4YjZlN0dxRVl1X1ptZEhHZmJudUtSRDBzOGhZeEJmSzhQTXp2RUZoWEQxNzdFSnlNMEtCbjlJVnRDNXN3dER1M3VXRS1rYmoxeHNsNkRfUGNydXhOSWR2NFBQSUNoelkwTWswMmhQN3lpTUVoc3NQWUdYYTRKVVhMSXZlak9MdGtBSXhLX2swVklycGxQR1cyb2VsQWxNWmUwX09uTjZBVFNMdExuczd3SQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 05:05:00 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 05:05:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Prime News",
         "Prahaar.in"
       ],
-      "confidence": "Medium",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
       "critical": false,
-      "action": "No immediate action required."
+      "action": "Check route before starting travel."
     },
     {
       "id": "महाराष्ट्रात पावसाची उघडीप नाशिक जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
       "title": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
       "summary": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "source": "Divya Marathi",
+      "source": "divyamarathi.bhaskar.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2NXWXVFZ19xOHd2bjhtZHNFLUx5Z05LSWdqNUREMmV1bE5ZZTAxMDdvcXNPRXlja3JVT2d6ZU9pSDNwZU41Nk9YQ1BUTnZQOFcyQU8wY21QN19xbUVaMEZSaHFSc2lQdGZhTTlzcmVMcmtLNFAzcnBYSmk4R3dGdlNMTENPUXdMRUlKak1WSXhIcVF1ckVTUjFxY2ZfRVRVYWI1S2tEVXRYakRPYlhEQ0pTamFVelp6dVFaV0R4aDdpY3BlNmswQ21VLWV1YnktUmx2dW1uRdIB3AFBVV95cUxQS0ZJUGZkUFZvTnMzUTctT1QybGpGMVZJRGFQbDZGS2lVVWUtY0x1WUpvQllHWDIyWWprS2hwZzFGT09mTGJHbk5WVUZqeGRFcHFpaHcwTWJ2MDdMalJTbGJLbEpldnNPelN3eXVWX1FKeWRzUU4yOTR3ejBvTzNZaWZiWXQ4cl9DdFBESHRJQ3BTNmd3bFRmRkNEN0dqcjVMQzM4TjlkMHhlRnJIeEFwbG9iT2RPTk5SeFNlcE1kODFnWG1PVXREMlNTcFA4UUVpZmZyOEhVdmRBTDJr?oc=5",
       "pubDate": "Thu, 03 Sep 2026 19:51:53 GMT",
@@ -1309,7 +1301,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Divya Marathi"
+        "divyamarathi.bhaskar.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1367,7 +1359,7 @@
       "id": "weather alert महाराष्ट्रात पावसाचा जोर कायम शुक्रवारी वादळी वाऱ्यासह कोसळणार 5 जिल्ह्यांना",
       "title": "Weather Alert : महाराष्ट्रात पावसाचा जोर कायम, शुक्रवारी वादळी वाऱ्यासह कोसळणार, 5 जिल्ह्यांना अलर्ट",
       "summary": "Weather Alert : महाराष्ट्रात पावसाचा जोर कायम, शुक्रवारी वादळी वाऱ्यासह कोसळणार, 5 जिल्ह्यांना अलर्ट",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdUw0c01wQWZqclZfczJZNnFFbHRqcVU5eUk1SS1VZGFucmZRZ3lTZF9IeVd4TVlSVmxueFV4WXpZbjhBSWVDWi1XT0twc2FXMnF5ZGtZX0dOMVlIT1ZLZE1JQ09zb2FNcUtkUEtwQ1dycHhiQmZfbEpKNnh6RkFjdzJSc0hVYTlFYzZvYV81cEpraTNmQVExTDdkTzdWMWtzblhVRjk3a0RQZ1Z5eGdxb2txWGpQYnZJVHkxWFN3UVV0eVN0eC03OEZPR3lESm9JdGp5aDMwYUZicUFiNElKNmZqSmExRFpIcjBwZDNMQlhFOGM?oc=5",
       "pubDate": "Thu, 03 Sep 2026 13:34:00 GMT",
@@ -1375,7 +1367,51 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "दहीहंडीमुळे पुण्यात ४ ५ सप्टेंबरला वाहतूक बदल या मार्गांवर जाण्यापूर्वी पर्यायी रस्ते जाणू",
+      "title": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
+      "summary": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
+      "source": "deshonnati.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1pabHJQNlgtZ1hhekdoVDZaQ0ZpdVBCa0JVNmlHN2ZvQlF5dHZyUHVPRGhPdjJ2R1dCOERHbVJ2bFdkNHhsN1Z0NEpRaGdGaGlWYTdLUDRzQUxCdEpRdlVOdDJZUHlNeXYtaXRSdTltaVVjTS1JbURmRXBPOEg4d3UzcXhWMWIwTEM2MzIyOEnSAZABQVVfeXFMTl9aWmxyUDZYLWdYYXpHaFQ2WkNGaXVQQmtCVTZpRzdmb0JReXR2clB1T0RoT3YydkdXQjhER21SdmxXZDR4bDdWdDRKUWhnRmhpVmE3S1A0c0FMQnRKUXZVTnQyWVB5TXl2LWl0UnU5bWlVY00tSW1EZkVwTzhIOHd1M3F4VjFiMExDNjMyMjhJ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:55:05 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 12:55:05 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "deshonnati.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ नेमकं चाललंय काय",
+      "title": "Pune News | विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ, नेमकं चाललंय काय?",
+      "summary": "Pune News | विद्यानंद बापट यांच्यावर झालेल्या हल्ल्यानंतर पुण्यात खळबळ, नेमकं चाललंय काय?",
+      "source": "news18marathi.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UkpTb0tzQll2Y1BjSEtLRlhvUmxPMWRVczlxNk1DT3dGMkdHNnBTOVQ3NnFJZ2Yyd21DQVZlYXZ0SUlyN2hVaEp5VHVtYkN2QWFMZ2JGdk8yTXFqSkR0Y0hteXpHSHdYMDZvWTRLTm0waUdRQ1E?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:31:30 GMT",
+      "lastUpdated": "Thu, 03 Sep 2026 12:31:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1518,28 +1554,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "दहीहंडीमुळे पुण्यात ४ ५ सप्टेंबरला वाहतूक बदल या मार्गांवर जाण्यापूर्वी पर्यायी रस्ते जाणू",
-      "title": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
-      "summary": "दहीहंडीमुळे-पुण्यात-४-५-सप्टेंबरला-वाहतूक-बदल-या-मार्गांवर-जाण्यापूर्वी-पर्यायी-रस्ते-जाणून-घ्या",
-      "source": "deshonnati.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZTDlJaDl6djNpM2FEeW9wZ2luUEdQcldNYkVnU0xfaGJGZDgtaU4taHdWSUhISC1oYU1udzZVZ1czcV9SZlUtc0ZkbTJCblViVjRtUjk5bFZSaW5KT1BFRFdqYVJqMHhOaWNMNmhVTXU3QWd5U3fSAZABQVVfeXFMTl9aWmxyUDZYLWdYYXpHaFQ2WkNGaXVQQmtCVTZpRzdmb0JReXR2clB1T0RoT3YydkdXQjhER21SdmxXZDR4bDdWdDRKUWhnRmhpVmE3S1A0c0FMQnRKUXZVTnQyWVB5TXl2LWl0UnU5bWlVY00tSW1EZkVwTzhIOHd1M3F4VjFiMExDNjMyMjhJ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 08:34:20 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 08:34:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "deshonnati.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "चर्चमध्ये पुराचे पाणी तरीही थाटात लग्न पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन",
       "title": "चर्चमध्ये पुराचे पाणी, तरीही थाटात लग्न! पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन्समधील लियान गालंग आणि गिल्बर्ट ‘गिबो’ चिको या जोडप्याने प्रेमापुढे कोणतेही संकट मोठे न",
       "summary": "चर्चमध्ये पुराचे पाणी, तरीही थाटात लग्न! पाण्यातून वाट काढत जोडप्याने बांधली लग्नगाठ फिलिपिन्समधील लियान गालंग आणि गिल्बर्ट ‘गिबो’ चिको या जोडप्याने प्रेमापुढे कोणतेही संकट मोठे न",
@@ -1565,7 +1579,7 @@
       "id": "कमी दाबाचा पट्टा उत्तरेकडे सरकला हवामान विभागानं दिलेला अंदाज बदलला ऑरेंज",
       "title": "कमी दाबाचा पट्टा उत्तरेकडे सरकला, हवामान विभागानं दिलेला अंदाज बदलला, ऑरेंज",
       "summary": "कमी दाबाचा पट्टा उत्तरेकडे सरकला, हवामान विभागानं दिलेला अंदाज बदलला, ऑरेंज",
-      "source": "ABP Majha",
+      "source": "marathi.abplive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTGpQNWZxRVc5NldqVHNReEJRUG1veTdCTkdleG1fXzNtUzZ6QUNvejJJcHNVYTB0V0VPWTBEblJ4NElWRlh2U3NMU1BVdWQ4bmxmd2xoX3hpOTB4ejBYSUpFUTFTdk4weTlCV3lBajJ1c1lCa2dQbTRrUTJ0Z2Y1X2VkVFNqa3BaaFRXaEhKeEx1Z1d0VHdwd1g3bmxOZHk4c0poSEtfakJxd3RwQ3dSYWVWY3AwSlBQNkhTMzVwTldmLWFLQ3MzeldkdG5MTnAwWXl6eGNyR2FoS210RG9KekkzQ3NaVEVxQV93dE5HWnJjZ9IB9wFBVV95cUxQRGpGd2FBNVJoUnhVbGV1cmpRcEF5MlR1TWpFSFZEZ1I3X2p6Tmk2MVJhZjAtX0Rlb1FNdW44ejZHNTlhaURGWEZISWZQWk1HRUUwTkJpRW1KWTRLcGhLVGNLN2V0Yy1lTnIyVHRKRGlPcklWaXJneFZaVXU4UWRHbmVjZVRaX0FsM1JNLTBlaDdEZUhRZFNLM0dmYU9OVE9DX2ZCUzJVaWJMc04zYkZMYkp5eUJQbmpnUzdMQVhKT1otUS1kdlZjOUVLaUZKRGhvSFozWWNibjZqX2FfSmtmTlluMlo3MFc5dDlDSXRxNnJ1Ylg1Q3pv?oc=5",
       "pubDate": "Thu, 03 Sep 2026 07:29:45 GMT",
@@ -1573,7 +1587,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "ABP Majha"
+        "marathi.abplive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1609,7 +1623,7 @@
       "id": "पुणेकरांसाठी महत्त्वाची बातमी 5 सप्टेंबरला pmp बसच्या मार्गांत बदल दहीहंडीसाठी हे रस्ते बं",
       "title": "पुणेकरांसाठी महत्त्वाची बातमी! 5 सप्टेंबरला PMP बसच्या मार्गांत बदल, दहीहंडीसाठी हे रस्ते बंद, पर्याय मार्ग कोणते?",
       "summary": "पुणेकरांसाठी महत्त्वाची बातमी! 5 सप्टेंबरला PMP बसच्या मार्गांत बदल, दहीहंडीसाठी हे रस्ते बंद, पर्याय मार्ग कोणते?",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVJ2ZURpQTk5ZnFsY3o5dVBKWF9MOThHMDVRbzhiWEk3U2NhbkxWWjR6MUVMSlVFV3BLRHgyOW9kTkdyeVFHMl91eVBweDBIYVRqRW5sS2JIMXVYZWIwRUEzbjEtTTgxODAwT2p1WXZ2WEM1V0xOWFZsWl9hRUk0UWFNR2hNNEtSc0NaQUdCc2JfV1ExYTZjNHNYcGRDa2tRMVlxSThEQktxU2xlQ2hQQ1BSX1gzWDJ4UEFUb09tcjJfOW1oaEJIYVBWUQ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 04:30:00 GMT",
@@ -1617,7 +1631,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1650,32 +1664,10 @@
       "action": "No immediate action required."
     },
     {
-      "id": "rain alert in maharashtra महाराष्ट्रात पावसाचा कहर",
-      "title": "Rain Alert In Maharashtra : महाराष्ट्रात पावसाचा कहर?",
-      "summary": "Rain Alert In Maharashtra : महाराष्ट्रात पावसाचा कहर?",
-      "source": "maharashtradesha.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4OWtNZ25ZUGFtVnhkZHp2ckFWYWRKcl9rZVhWQWo1c1hveDJJQ2xFZXJTT2xDWWxwVkt4NzA3bjRHckFTdHRSYk5lQXJWLW1tREZGTXNlRmIwcmlSWlJZRDZnVmhpdw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 03:24:11 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 03:24:11 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "maharashtradesha.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "weather alert महाराष्ट्रात वारं फिरलं आता या जिल्ह्यांना ढगांनी घेरलं धो धो कोसळणार",
       "title": "Weather Alert: महाराष्ट्रात वारं फिरलं, आता या जिल्ह्यांना ढगांनी घेरलं, धो धो कोसळणार!",
       "summary": "Weather Alert: महाराष्ट्रात वारं फिरलं, आता या जिल्ह्यांना ढगांनी घेरलं, धो धो कोसळणार!",
-      "source": "News18 Marathi",
+      "source": "news18marathi.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcW1BaVVZdUdaRGxoNGM5SFRBQVFaMlEzVDN6MmNlSWRlSVhFTS1rX2tScGJXeTBDeHlRZ3Nlam9hZWZoLUp3cVl6RUlmbW5XeWJsVEZIRkdFWFV1X3JxX2ZGcllYU1g1aFVKMGZhRndoMTBjOFdBMFF1TE9aYlNQQ1kwdEZjSnNrUGszb1pJd0JRbzlSNUhib2Z6Z09ETjlFVTBkcDd0ajZSVnVfMFZiNFlPcUdyMnJXZDQwdnowZ0ViaU0yZ3BmcmJ2TURqTzU1Mkg2OVVXcTZUZ3pzUW1ZeF9BOWJTZGd1eTlReThWeVdxV2JuVnlGOGNZUEY3M1dOMEZSX1R3aWM?oc=5",
       "pubDate": "Thu, 03 Sep 2026 03:06:00 GMT",
@@ -1683,7 +1675,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "news18marathi.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1697,7 +1689,7 @@
       "id": "dahi handi 2026 पुणेकरांसाठी महत्त्वाचे 5 सप्टेंबरला दहीहंडीनिमित्त pmplच्या मार्गांत बदल ",
       "title": "Dahi Handi 2026: पुणेकरांसाठी महत्त्वाचे! 5 सप्टेंबरला दहीहंडीनिमित्त PMPLच्या मार्गांत बदल; कोणते रस्ते बंद? जाणून घ्या पर्यायी मार्ग",
       "summary": "Dahi Handi 2026: पुणेकरांसाठी महत्त्वाचे! 5 सप्टेंबरला दहीहंडीनिमित्त PMPLच्या मार्गांत बदल; कोणते रस्ते बंद? जाणून घ्या पर्यायी मार्ग",
-      "source": "Maharashtra Times",
+      "source": "maharashtratimes.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTUFyUTlVbU8tQ0VES0lSS1FJSHRkRlFmeEQySmFDLTVkUkY1Zi16U0JWOGpWNTRHRl83dVJsQlFsREFrbHlxd0EyOHFQQzlCenZmY2NkSHYySzVTSC1yaWdoalhpZDg4enNKQmhncmNfeDV3WjVHNW04WVBZZDd4bDh4cmdOdUVVWFpvbjlOeXZyS25hNFZsdVY4Y1NIaU4wZDZVMGZDVlI1cTlNd3ZSbTB1eG9UbU9XaVkwNUw2TTNWUld5NWVQT1F3VnYyTGNkdDNlVlJiSWRuUGR6ZUhqMVIwOTEzUEhfcUJFUllwb2pzOTNuZFBIYVlSOXZpVGpIcktSOUQ1cHJkb0hXNlFLV1ZNMGpVUdIBmwJBVV95cUxQTGwyZm1jM3lNd2FPekdXT09oZThuRi11bEc1MjN5OW1FeHlkMjNodEtYWWJyUzJYbDNEVHk3QTZYSnhCejJQR3d5d2owWVc1T18yTzNwTmxYZTgzUkc1c0Zpd0otWkJ5SEJROVNZTmRoWVBNeVlEZ21zaWdDYWNublV5NWJVNHNnTkF0TVQ0aE1KZFM4Sm9haEllU3hBTHJmbmhLRTlMRHM4RkhabWR4SjNCaHFCM1ZNQ2VyOHRZbjhNbEliVUJycEx5LW9zOXlBWl9KblBlbHM3dFphR2lzUDZXa3p0b3lrVnh1a0ktdHhFMEpWVjQzVUF0RHVTbzljWFA2bmFUTVRYMlFrZ2d4cFV1ZklhclpWa2lr?oc=5",
       "pubDate": "Thu, 03 Sep 2026 03:01:18 GMT",
@@ -1705,7 +1697,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Times"
+        "maharashtratimes.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1807,7 +1799,7 @@
       "id": "madhya pradesh school holiday september 3 will school remain closed or open check official",
       "title": "Madhya Pradesh School Holiday Today (September 3): Will School Remain Closed or Open Today? Check Official Advisory & Latest Update",
       "summary": "Madhya Pradesh School Holiday Today (September 3): Will School Remain Closed or Open Today? Check Official Advisory & Latest Update",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS1o1Y0dtTmg5SjhBYjJXa0Jqdzd3SEVySzg1M3A4SmdScXcxSTNNLXNkakp5YUpMQWFDZFg1MllybEoyNFVyQnpFVjFxTUI3V01xeGx3bnpNNHM4V093aUFPOEZkemxPMXg2WEZ5TUNucnAtNHlqTFphTHVVci1QS0xoUndvSlRZSnJVT0ZGR0lHSi1XcnR4N3kwcnhLUnlJRm5jejMzYm1RbG44Z19pdGJIQmFHMXZzS0taWWFaNFVvekFtdjRGU0Nud3h0eDFmY2FrRlB4LVVXOVY5Wnl5bm02NVBoRnFQOTE3ZE94NkVRYW0zZnZvLWRRbkdNa3fSAYQCQVVfeXFMTktSSXA1RXpBMFRuWmItUGhrMUdSd3NzZTZxZkdNQ1J0eHAzZ01UTXpDLTFUUHZVOTR0YUFDX0VuT2l3SXUzV3BLakd5XzZHTEVpaFFZRkVfRFVOUWRZVnJBVWR1dGtiNnBwdndNY3YxYndRakRjTHZEZ0l4aHRSV3ZKS2xBN0REcUFaSlBScTYxYkZMTG05MWdyeUZydVJ6azdnTjVfNk1janQyM3N1ZTRQbktObTNnOC1FY1lpRjVZRDdIeHVrR0ROLUpCdllUU3JEaDNlTmJ1RzBLTUQ2cno3Nll3WkRWbXJfNWtJODdmN2RVNHdWUVE3REk2eTVpSmUxQ1Y?oc=5",
       "pubDate": "Thu, 03 Sep 2026 01:51:46 GMT",
@@ -1815,7 +1807,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1851,7 +1843,7 @@
       "id": "school holiday september 3 imd predicts heavy rainfall across several states check state w",
       "title": "School Holiday Today (September 3): IMD Predicts Heavy Rainfall Across Several States – Check State-Wise Forecast & Latest Update",
       "summary": "School Holiday Today (September 3): IMD Predicts Heavy Rainfall Across Several States – Check State-Wise Forecast & Latest Update",
-      "source": "The Sunday Guardian",
+      "source": "sundayguardianlive.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaEpVZmd4eVFVcFVLekJKQmZTbDFqWVR3SWcxeEx4cnI3bGMtNFF5RURBOWxHbkRjaG5LcE1ZbUdHRjA4aXZXWlBVaTdOZllQRjJMRGJqREdoa3JQNjFBVTB5eEZUOC1HUW9idy11U0Z3UjZlM0IxZFZ2eFVVVUxWWUlZUFhnTXMyQkFmTmFfQkpuS0RObXR3OHFKZXg0eHYxYXQtY09OcHVEaWhsQmV2TUNMUHoxYVNvdTZPQW9YWmtBdjF5SDlEcFFCdWRyRjhYLWhrMHBzU2Fqa3lQY0IwbjVwMFBKOXZpMHdLS0s3NXZseW4xQVpzbWxBMNIBgAJBVV95cUxQVkdwVjZLd1F1aVJwOUVJR1ZnNlRtSWhoUEhLQ3VaSE52MjRXRVhXVTdrMHdHNWVRdHB5Nm1iVDVjQjR2TEVpY3NiOEhHeFZqcHVINWoxalNnbWNkVjE1WFNPUmRsTnhJUDZ2MEp2LXlzWDNTMndyQUNQWi1sLW9hQUJnREVhbS16MV95bjdfMlJpZi1GZkxBSGdoUjV3ZzVhMl9oS2I2MzZ1U2RIRWR3ejJaeW9rX3BlZEQxN1N4NlNYcVNleDU5NjVHeFk4b1ZvdnVzVnE4YmlHVGE0SHc0WVVqckVWLUFWdTN0ODBvcEM3a05qWms5RnpYYjBXYWVJ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 00:43:12 GMT",
@@ -1859,7 +1851,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Sunday Guardian"
+        "sundayguardianlive.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1890,34 +1882,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "sindhudurg वीजपुरवठा रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "title": "Sindhudurg News| वीजपुरवठा, रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "summary": "Sindhudurg News| वीजपुरवठा, रस्ते आणि एसटी वाहतुकीचे नियोजन करा",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXREYjc5eHF0VmhDQUUweVhhZzRrWXB4Y3JuQUdwQXJfakFFVElaOWZaMDZPX054VEZIRU1rbG5uQlduV1FxS2RsNkhLa3lDMFdpR1E3RnJqQzFOb3JUaDVnbGt4ZFBoQzJCSVlENzAzWHBLR1hab1J4Z1loanpsZ3FPV1dTV2VmTGRURzZnNU02X1F6Q2k3eGJrYV8tRDdMa1JJYVlwSXdvM3ZyYVROaVk4SUlDQm5XNVVwMGpkaUxMczNwUFNFelJZZ3BmQdIB2wFBVV95cUxOY0JOTVFaeEdKQ2plblROcWNySHJ0NXd5c2J4YjZiNXBxc2lMOE96N01ZR0hpcEUwNlRhOFQzdk9NS2hmd29jaU1nbkVlOEV1aXVqc1VLaHhDemk1NlZFRl9iejQwVUs3cVhMdG8yWDdac05WTXRVSGhGMElQUU41LUV4dWc5MmszZ2ZsZEczNmVEVUxrbzd5VG9nWUozdDd4YjhSenp6WkJaN2w1NkUyQXFUZk1NaERuMFBKSkRrU2NFSVF1RlF2N1hjMHI2Rlp4MWdoa25YSHk4YzA?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 00:06:00 GMT",
-      "lastUpdated": "Thu, 03 Sep 2026 00:06:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 44,
+    "total": 43,
     "alerts": 9,
-    "news": 35
+    "news": 34
   },
-  "cleanedAt": "2026-09-03T22:26:50.011Z"
+  "cleanedAt": "2026-09-04T00:15:03.613Z"
 }
