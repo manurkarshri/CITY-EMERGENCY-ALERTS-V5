@@ -1,42 +1,7 @@
 {
-  "generatedAt": "2026-09-05T11:20:22.268Z",
+  "generatedAt": "2026-09-05T13:56:55.823Z",
   "status": "ok",
   "alerts": [
-    {
-      "id": "heavy rain floods delhi airport 11 flights diverted as traffic chaos grips capital",
-      "title": "Heavy rain floods Delhi airport, 11 flights diverted as traffic chaos grips capital",
-      "summary": "Heavy rain floods Delhi airport, 11 flights diverted as traffic chaos grips capital",
-      "source": "Daijiworld + 2 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZWWx1bFNBRktReTN4WE9Uak8xaTkxX0l4cHlsWElHTFJkeVE0Y0ZiWF9zVGhmR2p0VlRVYkRjNHgtdGpVcl9RWkd3MW85b2R3LUxrczBQbm1uZG83d1hEYjJtZENGXzZfdjNfUnAzS3pLX0xYN1M4?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 03:18:24 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 03:18:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Daijiworld",
-        "thetraveler.org",
-        "Rediff MoneyWiz"
-      ],
-      "confidence": "High",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads.",
-      "correlation": [
-        "Rain / waterlogging may affect travel.",
-        "Road delay or diversion possible."
-      ]
-    },
     {
       "id": "mumbai rains imd issues red alert schools colleges holiday on july 7 250 flights delayed c",
       "title": "Mumbai Rains: IMD Issues Red Alert; Schools & Colleges Holiday On July 7; 250 Flights Delayed & Cancelled",
@@ -167,6 +132,38 @@
       ]
     },
     {
+      "id": "heavy rain floods delhi airport strands passengers at igi",
+      "title": "Heavy Rain Floods Delhi Airport, Strands Passengers at IGI",
+      "summary": "Heavy Rain Floods Delhi Airport, Strands Passengers at IGI",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXNLcFNtSjBKa2JFUE5NSFZtbHM1NzNvRmxsS2t6d0wzSHE4TTRXV1IzT1dkY1Y1NDNOZUlucXFJTEp2WElZT3pMZVA3NDRDZ25pYzJFYzYtTTFnaEtxeFFJMVVrZDU5Z0FKTDhiRlliRmdEZk9BUVBxakktdmJHRzExRjR5cnpZMTNCR01Gbw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 14:26:38 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 14:26:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
       "id": "more rain forecast in up as floods affect 3 5 lakh people in 26 districts",
       "title": "More rain forecast in UP as floods affect 3.5 lakh people in 26 districts",
       "summary": "More rain forecast in UP as floods affect 3.5 lakh people in 26 districts",
@@ -199,35 +196,33 @@
       ]
     },
     {
-      "id": "delhi rains red alert issued after heavy rain waterlogging at igi airport traffic hit",
-      "title": "Delhi Rains: Red Alert Issued After Heavy Rain, Waterlogging At IGI Airport, Traffic Hit",
-      "summary": "Delhi Rains: Red Alert Issued After Heavy Rain, Waterlogging At IGI Airport, Traffic Hit",
-      "source": "India Today - India Today",
+      "id": "mumbai traffic alert worli diversions announced for parivartan dahi handi 2026 check alter",
+      "title": "Mumbai Traffic Alert: Worli Diversions Announced For Parivartan Dahi Handi 2026, Check Alternate Routes",
+      "summary": "Mumbai Traffic Alert: Worli Diversions Announced For Parivartan Dahi Handi 2026, Check Alternate Routes",
+      "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0NIX2FwNFZlVzg3UTFwMVNpQUEzazE5VzY1ZnRiWVBGaFc1MFFiSEVZWWFnQ21KamJ5NG03dDlQcFBQeDFocjJ2bW84ci1CMzZGUGNLU0w1TjRwWFI2RElyRDR4bC0xdVV0TVB5Z25LYndCOGNFcUxmRGNFSDFEckhsUG9mVTc5VjM1V1RjaXdyUTViVnFZckMzdDcwcXp2REM4UW1zVGpXS0xET0MxenVqZ3h1NnVOeENKbEpNVEE0U0JubDJ2X0ZCUXnSAcwBQVVfeXFMUDNDSF9hcDRWZVc4N1ExcDFTaUFBM2sxOVc2NWZ0YllQRmhXNTBRYkhFWVlhZ0NtSmpieTRtN3Q5UHBQUHgxaHIydm1vOHItQjM2RlBjS1NMNU40cFhSNkRJckQ0eGwtMXVVdE1QeWduS2J3QjhjRXFMZkRjRUgxRHJIbFBvZlU3OVYzNVdUY2l3clE1YlZxWXJDM3Q3MHF6dkRDOFFtc1RqV0tMRE9DMXp1amd4dTZ1TnhDSmxKTVRBNFNCbmwydl9GQlF5?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:07:51 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:07:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHFVeWg1a2ZqTjZBVE5BWEZUU2NDRDFXMkFHUTgtWWlUandRcmd6SXVLUzFfNlNBc2UxTkZ1eWpqYnpYYWRTeHV2MEQ1YnFUdHN6NHFubXZVbVg4a2pXZE1jc2x5cVZoUTF0eEpyNG9jX1I2aVR4WVk2WUNBbVJRdFdVRFNWVkwzd19mdmx1Rk5fZ05tODFySHZPcEtZSks2bUVVODk3by0zOWkwck41TnRNQm56QnhHaVJscG8tWk93MmtfeGl4WG1YVlZyTElVT3YtRE1kNURMUdIB3wFBVV95cUxQWURqbXJvS1ZGYl9YdFk1TExrSFlKb3FXRktrczI1eEw3bHktc3l2U0h6SFJ1czlIZWVyYWdIZ0Y4X2Q2SC0zb0xVSlVuRnNOQ2RGSE8zVHd5WEE3aWNhVEpvdndtcldsalpqR190MXJGbDVaekNPZFJxQjRubEZidzdUS1VMNEQ1Z1JOczEtemRtQzN5X3NLTFZfWXpiQ0J3akNCdjVwMUhkZUpYVW5fVWFOZFU5dV9QdmVTWHVnOGswY1ZiVEJWVllnbVY1TmlNYzl4R0U2SW1FRHduSW1B?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 17:43:25 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 17:43:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Today - India Today"
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
       ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
       "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel.",
+      "action": "Use alternate route and follow police diversion.",
       "correlation": [
-        "Rain / waterlogging may affect travel.",
         "Road delay or diversion possible."
       ]
     },
@@ -235,7 +230,7 @@
       "id": "regional daily weather report based on 0830 hours ist observations",
       "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
       "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
-      "source": "IMD",
+      "source": "mausam.imd.gov.in",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
       "pubDate": "Sat, 05 Sep 2026 04:37:34 GMT",
@@ -243,7 +238,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "IMD"
+        "mausam.imd.gov.in"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -256,20 +251,21 @@
   ],
   "news": [
     {
-      "id": "heavy rain causes waterlogging at delhi airport 11 flights diverted hundreds delayed",
-      "title": "Heavy rain causes waterlogging at Delhi airport; 11 flights diverted, hundreds delayed",
-      "summary": "Heavy rain causes waterlogging at Delhi airport; 11 flights diverted, hundreds delayed",
-      "source": "The New Indian Express + 2 more",
+      "id": "delhi airport heavy rain causes waterlogging 11 flights diverted",
+      "title": "Delhi Airport News: Heavy Rain Causes Waterlogging, 11 Flights Diverted",
+      "summary": "Delhi Airport News: Heavy Rain Causes Waterlogging, 11 Flights Diverted",
+      "source": "Aviation Jeta + 3 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0tLVEVIb252TTRleXU3eWpoUTk5VDFmSGVSc2tYM21SNXd6N2ZaNlNhRVFPSWhhS2dveV9yaHNTcnhmRVItNVJXUDlDdzhUTndiMmpmQjZZV1FyWnRUbFZzTXdBNlNJdTJPNkZ6MUxnS3lVWU40SXBXRzdVVGtEUXZPWkwyS2VoUk9OZXlsMDhMMkRFOVRSbEphb3BqNWJXR19JYnlqcUlzQVgwRjRZR29PV2QzVmpyRkJPZXNOdXFDQnN3Z1V3NFQyai14aVVicXFDTWNuZnJVYlUtczNyV3N4OHhwT1HSAecBQVVfeXFMUF9LS1RFSG9udk00ZXl1N3lqaFE5OVQxZkhlUnNrWDNtUjV3ejdmWjZTYUVRT0loYUtnb3lfcmhzU3J4ZkVSLTVSV1A5Q3c4VE53YjJqZkI2WVdRclp0VGxWc013QTZTSXUyTzZGejFMZ0t5VVlONElwV0c3VVRrRFF2T1pMMktlaFJPTmV5bDA4TDJERTlUUmxKYW9wajViV0dfSWJ5anFJc0FYMEY0WUdvT1dkM1ZqckZCT2VzTnVxQ0Jzd2dVdzRUMmoteGlVYnFxQ01jbmZyVWJVLXMzcldzeDh4cE9R?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:10:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 19:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1BuYUhyaWliclpiSG9TX2Jvdm14TnlJejVITWo3Tl9NWDJFT09XY1ZiY3JkUmYtNWlvVFJwWWhjb2hFN0tvUTI2cHktVzJlXzgyeEd2NDliTmw5Q1lkaVRuWFVKM2c2UDVfMWI1M3Jhek9LUldjZG1abDRyRTEtdExxb3ZSQlNrMDliR3Uzc0tmZHNodzR3SjVfZw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:15:05 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:15:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
+        "Aviation Jeta",
+        "Daijiworld",
         "The New Indian Express",
-        "lokmattimes.com",
-        "India Today - India Today"
+        "thetraveler.org"
       ],
       "confidence": "High",
       "w": [
@@ -418,6 +414,38 @@
       ]
     },
     {
+      "id": "delhi downpour several flights diverted hundreds delayed",
+      "title": "Delhi downpour: Several flights diverted, hundreds delayed",
+      "summary": "Delhi downpour: Several flights diverted, hundreds delayed",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUFOZ2x5Z1ZLcFdPZVVSLUdlTkJfRFpETFdIOXVYYXEzc1FtUzQ4TzJrWC1GalVyUW9kbEQyU3laMkVPOElJZGdGTEN1ZU1Yb0JpVEJkbTBZb3RydGtoV05adGVSaDFwNFA1bThFcHBhUnE1d19raF9IRVZKYmtfcUR5ZjF6VlpuMl9GcnRNejFqdW5zUE5GQUQ2X0fSAaIBQVVfeXFMUGhQTkdHNVlFd3NMcUlBeHBvM2NPdkcyRllhcEFiOUtSLVFPMXlsajJwT0NrR2pNMmtGVEc0VlZQXzR4LUozS0x0WE5YclZCSkVVaVFvem5NNVBEV3lTRS1MYkFaTy13Q2FVQjBzRUFIWjNCSWZucks1SW1ONHVVTTdqV1dNMzNULW1jelh5TmFFYnFza0Z6MEZYb1pkZ09KNnd3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 15:56:16 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 15:56:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
+    },
+    {
       "id": "mumbai traffic मुंबई ठाण्यात दहीहंडीचा थरार रंगणार वाहतुकीत मोठे बदल पर्यायी मार्ग कोणते",
       "title": "Mumbai Traffic: मुंबई-ठाण्यात दहीहंडीचा थरार रंगणार, वाहतुकीत मोठे बदल; पर्यायी मार्ग कोणते?",
       "summary": "Mumbai Traffic: मुंबई-ठाण्यात दहीहंडीचा थरार रंगणार, वाहतुकीत मोठे बदल; पर्यायी मार्ग कोणते?",
@@ -483,118 +511,86 @@
       ]
     },
     {
-      "id": "swatantra row nishu azad exclusive demands arrest section 307 added in father s assault fi",
-      "title": "Swatantra Video Row: Nishu Azad Exclusive, Demands Arrest; Section 307 Added In Father’s Assault FIR",
-      "summary": "Swatantra Video Row: Nishu Azad Exclusive, Demands Arrest; Section 307 Added In Father’s Assault FIR",
-      "source": "India Today - India Today",
+      "id": "weather alert महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल रविवारी येणार दुहेरी संकट हवामान खा",
+      "title": "Weather Alert : महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल, रविवारी येणार दुहेरी संकट, हवामान खात्याचा अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल, रविवारी येणार दुहेरी संकट, हवामान खात्याचा अलर्ट",
+      "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdUxGS29UdTR4Ri1keUpvbGhBaXlPSmNTNUNrNUtUQTY3SmNHNHpQRVNkcmgzRnZiZlNNNnlkMHA1RHpmYTZsS2NSS2xDVDhGLWZiYjhuSlJNLVQzRmh0WjllcGhDNktDcWNLOEZZMzJBVU1id0VTOHdvbnU3Y0NncTVpSEdqTTFTeVFWNzhCZWwwX0ZtMWhaeG80VTRrWm9fVVFsbDFnUlYxeW1BR1duZEx5UVVjdGtpcnZfc0dOZF9LYmNYOXNzYWswdG1mMHdlTnFIeDZMWXRSelJ60gHiAUFVX3lxTE4yc21mbWhlOFprdlc1NkkwM3BLQ00tYzlrdmV6NEdDNEdmQ0pyak9RR2U2VjNRUEhlOVpHWWdxbTZkb3dKQ0drdnV4MnZQc3JZZDZMcHhTRkF0RHFWc2lsUjR6OGFlekdQcG42NUE5TW02Yy16ZU52Um9RbVY4eklZRDlwakRtMDRpMjNHLV9MUzFJYlFDVTNaZW5iMFJjZTZwQkV1OS1qZ3BjSW1KNFB2OXVLU01GOU1oeWhBeHRnaHBWc21jQWFRQjdEbkdoWU5INUxUZFNPTlhpcFVyLVZzV1E?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:22:52 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:22:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGpuVGtza0lxU0hjd0hUTFhLR2EzOEpteWZpRVhkRWtWQ2I0aktiaGxCc1RFd0JrbFFvcWtUbTRqLWZpS0FHVmk0Y0k3RDBYQ1lENTNDUHdPeWFNajhLejBEOUxTVUlEdGdqZzRNRlpUVzBmWFI1Nk54YW5rN0RKeWZvWHJCc0RFdklyVWFGMlEtZ2xQYVBERWVUR2VFellIc19jc2pFa2diZEhFaTVYOFdGcjNPdVZFUWduS29uLWpRdnNPclhNZHBqd0tXNHBOaUR0akViTThUV1YzZmx5YUxHZjdLZw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 13:38:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 13:38:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Today - India Today"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required."
     },
     {
-      "id": "dahi handi traffic दहीहंडीमुळे pmpml बसचे मार्ग बदलले प्रवासाला निघण्यापूर्वी ही पर्यायी म",
-      "title": "Dahi Handi Pune Traffic: दहीहंडीमुळे PMPML बसचे मार्ग बदलले! प्रवासाला निघण्यापूर्वी 'ही' पर्यायी मार्गांची या",
-      "summary": "Dahi Handi Pune Traffic: दहीहंडीमुळे PMPML बसचे मार्ग बदलले! प्रवासाला निघण्यापूर्वी 'ही' पर्यायी मार्गांची या",
-      "source": "Times Now Marathi",
+      "id": "jalgaon स्मार्ट मीटरने वीज बंद झाली तरी चोरीने वापर सुरूच जळगावात 28 जणांवर गुन्हे",
+      "title": "Jalgaon : स्मार्ट मीटरने वीज बंद झाली, तरी चोरीने वापर सुरूच ! जळगावात 28 जणांवर गुन्हे",
+      "summary": "Jalgaon : स्मार्ट मीटरने वीज बंद झाली, तरी चोरीने वापर सुरूच ! जळगावात 28 जणांवर गुन्हे",
+      "source": "Prahaar.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNks5YTAxaGtWbnZ6VzdDcmpGd0pKQzh3N2pCdzBXendQeTlGSlJleEg2RkprUWFsa1ptWGlpTlh2ZGpIdkV4NTZ1WTlzN3N4cmhZUzJrRkhfaUZFdUZWRUZjZk0yR01mRERjR2R6Z0h3NnRPSFBfWFRNMlEtTGFfTk15RlBCYVBMVkZhREE2d09wN1JtLXMyWmV1cWV6TzNYVjd3V25VOENBZHM3LVh5QmxJMmZIZ3JudldYMU9IcWlwaDBfSkNTbHFUNWtPcUl1REZ1MFNoN2szRklfNHQ5MUROdmRHaHdZ0gHuAUFVX3lxTE5keUtqT2xrTXRBLVJsTjVvR0E1Y1dhUXk0WllWbDBCWWdMeXJkaWRRRjRXYXdHVF9WdlllYjBlVmpleHdqVl9UQk1qMFZJVHVZR0Q1SFZ0TEpGLUdhZV9oODlENG9GNzNScm44bFdLWkM2RkY3Q1VRUmhTZlRqdTFGbnlBUWhnQ3BTbGhqcmtsbl9DTnpFSDExV0dnOGxFbEdzZjduOThaem9IOHp6X3NKX3RoTlVsRHA1NGhTV3ZlZ05HSVpEQmlueW14RVVlOXNfUHRzRVRDUjVpNS1LbDhoRHNpbUg1UGRlc0lGMEE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:18:45 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:18:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS3ZIcFQzSUpnQXp5Z0w3UnNyN2JVRHVER25USmdnTG9mdGozUHh2YzVOM0E1emowbndUTTB2SzdtdUZsbHgwbHRmaWN4RmxJamtGRHhiTnh1NTFQbzJpV3NCa3A1RS04dFZFeUNqeTNDbTFSbGZKRXNyVnBMNHNwbXNOTUotT1lMbl8yaWRQc0xVNXBRdXVmOU4zMWpYeTdWeGwyRDE5c1dITnhrdTE2S05OMUFSemtXTHVtTk9LdUVlb0o5OS02Y3Q1YnM0QksxNEtZLW12VHpYY290bzhYRVF3X1Jad1d2QjliSTBqak1QREE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:35:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:35:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Times Now Marathi"
+        "Prahaar.in"
       ],
       "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
+      "action": "No immediate action required."
     },
     {
-      "id": "never seen anything like this delhi airport waterlogged after heavy rain flights delayed",
-      "title": "‘Never seen anything like this’: Delhi airport waterlogged after heavy rain, flights delayed",
-      "summary": "‘Never seen anything like this’: Delhi airport waterlogged after heavy rain, flights delayed",
-      "source": "The Economic Times",
+      "id": "maharashtra weather पुढील ३ दिवस कुठे कुठे बरसणार पाऊस या जिल्ह्यांना अलर्ट जारी",
+      "title": "Maharashtra Weather Update | पुढील ३ दिवस कुठे-कुठे बरसणार पाऊस? 'या' जिल्ह्यांना अलर्ट जारी",
+      "summary": "Maharashtra Weather Update | पुढील ३ दिवस कुठे-कुठे बरसणार पाऊस? 'या' जिल्ह्यांना अलर्ट जारी",
+      "source": "Thodkyaat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRnBDT0RwU1JXb1Z3cGxuQnNCc2t2NEhOYko3dlZ3SnZEajNOSFJ5dDFhbGdTa1ZPMXgtLVZYZlJ1WFpYTDZsem9UMmxqbkR0T2tiREthQ1M4YjBwQ0pTUTl5NG81eWk3N2l3bHRMMDNYMzNWME1valVRM2s4VklxTXk3TmpnZjVQc3Y4d1h4dkR6cTlOdUMwVzk0eFR2VnZxeFN3TWdHTFNfRTVUaGpscFJtYUVtZlNFSWpXd3FQakdMQjZkN0hZczlIeUtreHpBd2xiR2JaLU9ZQVpKUGNqalBuVEN2bXpDdmhsQTBHR2hhSmE4dTNlQ3JWMNIB9AFBVV95cUxNUE5odS1LSWtjcmRyV0UteHFLbHdLOFN0eXVGT2NOZE4xSXR5cWJJeTl5U2FIbFhhNW9JeDJJLThnWFQ3MEJJbVBHd3R5S3Qwdk14V0RfbkdYQTRDQ2xjQ3dha2JVZW1LYWtvbXQzWkxnb0ZHcEZnZ29WR2U5SVU0dnJ4NXRxNGJsMGhFS0wtYjE1VWFCb1JFQ2M1WmRhQXhHWnBSS2RLeGIwaVE5aGpVd292VGhIdFRxS2FRQ1B3SGpWN1NUaThiR0VUazh0ODRxclFZQ2FTbHJRN0lMZTlPQXZqNHBrN25STElLM3B1b3VkeGJZ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:02:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSzBkdTE1Yk5TYUhfcFNfVmFzUE9URkdTdUpfNVhNVmdYRHdfbllSZUM1NERvcUhFeEpHNmtaSWZ3X0VQOVFnWTh6TFZJZ3d2Nlk2Rmp5dHB3NkV3bkppNGJKN0ZHYVpXdGZ6eHA3b0QtbXRaa2x2elBvd1IyOXBsNEVvRTM3UVU?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:01:29 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:01:29 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Economic Times"
+        "Thodkyaat"
       ],
       "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
+      "action": "No immediate action required."
     },
     {
-      "id": "india woman dies after iron structure collapses during dismantling after dahi handi celebr",
-      "title": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
-      "summary": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
-      "source": "LatestLY + 1 more",
+      "id": "dahi handi celebrations turn tragic as woman dies 42 govindas injured",
+      "title": "Dahi Handi celebrations turn tragic as Pune woman dies, 42 Govindas injured",
+      "summary": "Dahi Handi celebrations turn tragic as Pune woman dies, 42 Govindas injured",
+      "source": "Business Upturn",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTC0xdm0xTXZSX3VOdE1wVVRCMWVuVHB6Yi1qY1pQclE3WHVqUzVPRjQ2RG93UWNUYnlfSDl6aVA4R0pCMzVuZzhzaVNCek1jTHpfMzV3d1VzNk1QUmtjZjU1Uzk4NjBUTFVGa1FRQ3ctRkZpb001bnlEcndra0x0UnZRajE2eEM5d1d6bGVKbURyTUVwZHBsYmJoSk1TZjg2TFMyQ0hHeFc4eUR4S0JLSUg0b1ZoQWdDX0xRTTF1WmhWT2xhTEFXalhSSklKSEttV0JVWlFRN0pGTmJCdGtGVVpSc3JHbklkaDM40gHwAUFVX3lxTE96NDd4dnIzd0hFOUI5RGM5V3lYX0xKZ0Z5bmxtM0k1azRnYkx1dUppY1ZjUmRpOWYxSVA4VUNrTXNRX2wzRmQyZzNUVlU3U1pBM3dDT09OSVZXY1lLN2l0TnkwQkt5NDdMMVo2NDVjRUVGbGJUN0QwT2tWZ194eld4dG42TG5mcEl2eXBRUE9sYTJBbWJIZEt2SlhqX1Y3YUN6cGRGTmVTblFFNHFWaG1FdUZfNmZwN0QwbC1jTDhyMXFUMzZsVURfZjNRN0JEZ0t4YkpIb0FGWmdUb2pLbmJzV0xjajNTOFNkZ3JEWTJNMA?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 09:28:23 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 09:28:23 GMT",
-      "areas": [
-        "Sangvi"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUlxZWNNODA2ZUJJTURQd0FGQy10dTQwalhEM1BQai1SUTlzdkNaeDF3YlhGUlFJblNpbEpyTi1WVTE0Yk5OdHlDTWtlN0hGVGQ0U1FSekE4bGJ1cXZneVhuczRwQVVVSGJsVlF4aUF5SHBnOTNyYnI0RGNCS2szOG5fSWpfZzVDbzB4MFdMalFzN19DYnJfSW5Pam1VWlR5c094RTd5bjJ5Zl91dlE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 11:35:55 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 11:35:55 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "LatestLY",
-        "Pune Mirror"
+        "Business Upturn"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -606,7 +602,7 @@
       "id": "weather 24 राज्यांना अतिमुसळधार पावसाचा इशारा आयएमडीचा हाय अलर्ट महाराष्ट्राबाबत मोठी बातम",
       "title": "weather update : 24 राज्यांना अतिमुसळधार पावसाचा इशारा, आयएमडीचा हाय अलर्ट, महाराष्ट्राबाबत मोठी बातमी",
       "summary": "weather update : 24 राज्यांना अतिमुसळधार पावसाचा इशारा, आयएमडीचा हाय अलर्ट, महाराष्ट्राबाबत मोठी बातमी",
-      "source": "tv9marathi.com",
+      "source": "TV9 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQU1N6bWRQSGZjSHRVN3JCT0xuOE1mYnp6UVpQYzZGYXFNc2U1V1pxV0RyUVBReWd5X2MtTnlzdllPSkRVWDJ0dXFJYlFUUTJDQ0ZtU0JXZHlFaUc2TnMzb3Exa1NoSDNxTlROUmRuN3VCeXdkTFEwU1p5d0lpejBldHRQcU1lQWZwYktnd0tnbVRwcG1SU1NOcUZqRHdIdkxMSzhvMUpIaklJdXlsQ2pETmpyLXlUQVdTY01iUjB5ZFRCNE9SX3MtSnhGWEpBa25LOE5xY3N6T0QwZnh3bFBTd2FrOUN5alNqNFFGSmZ3SHBaUkZ3dFJOd0dwTTh3QdIBgwJBVV95cUxQUU1xelJtMDN1YXBNU0ljdHlxY1A2Rk5mNV9GRVZzWDJ3N2xWQmdzcndHenhCX1R1aXhsX055ZXpSTEdKaXZsUDRFdGRtb2JiNllfN0V6N3YySzZhTkx5UUYyVkdPcVBnXzdtcXBNNDBQZVRuWG5xMGI3UzduUjhXMVNjeVY0MHRhSlFDbVdXOWRGWm9KNWxyckFtWTFVbElPWDBwVVNKMEQ1dG4tRDZuRURwN2ltOU9YYUthNy1mWGVPM201WGVDN2tMb05UUHZITzhwZlpnODUyWG1pYy05YnF2X3RZNXlMVDdnZXBVelhad0NNay1namE5RHluMjVmWE9j?oc=5",
       "pubDate": "Sat, 05 Sep 2026 10:32:10 GMT",
@@ -614,7 +610,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "tv9marathi.com"
+        "TV9 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "india woman dies after iron structure collapses during dismantling after dahi handi celebr",
+      "title": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
+      "summary": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
+      "source": "LatestLY",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTC0xdm0xTXZSX3VOdE1wVVRCMWVuVHB6Yi1qY1pQclE3WHVqUzVPRjQ2RG93UWNUYnlfSDl6aVA4R0pCMzVuZzhzaVNCek1jTHpfMzV3d1VzNk1QUmtjZjU1Uzk4NjBUTFVGa1FRQ3ctRkZpb001bnlEcndra0x0UnZRajE2eEM5d1d6bGVKbURyTUVwZHBsYmJoSk1TZjg2TFMyQ0hHeFc4eUR4S0JLSUg0b1ZoQWdDX0xRTTF1WmhWT2xhTEFXalhSSklKSEttV0JVWlFRN0pGTmJCdGtGVVpSc3JHbklkaDM40gHwAUFVX3lxTE96NDd4dnIzd0hFOUI5RGM5V3lYX0xKZ0Z5bmxtM0k1azRnYkx1dUppY1ZjUmRpOWYxSVA4VUNrTXNRX2wzRmQyZzNUVlU3U1pBM3dDT09OSVZXY1lLN2l0TnkwQkt5NDdMMVo2NDVjRUVGbGJUN0QwT2tWZ194eld4dG42TG5mcEl2eXBRUE9sYTJBbWJIZEt2SlhqX1Y3YUN6cGRGTmVTblFFNHFWaG1FdUZfNmZwN0QwbC1jTDhyMXFUMzZsVURfZjNRN0JEZ0t4YkpIb0FGWmdUb2pLbmJzV0xjajNTOFNkZ3JEWTJNMA?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:28:23 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 09:28:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "LatestLY"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -637,6 +655,28 @@
       "region": "pune",
       "sources": [
         "Pudhari"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "as ganeshotsav dj row continues has 121 notified areas under maharashtra noise pollution r",
+      "title": "As Ganeshotsav DJ Row Continues, Pune Has 121 Notified Areas Under Maharashtra Noise Pollution Rules",
+      "summary": "As Ganeshotsav DJ Row Continues, Pune Has 121 Notified Areas Under Maharashtra Noise Pollution Rules",
+      "source": "Full - Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNnVIMDU3aGJWLXhXdERvZDd6MWFMeGhTWGluYktybnNsQ21rVDJTVGcwTXhRclBpVGRyaGZiQkk2Nk1kUjQ4THJFUFlQYjBucW9NZVZxalNUMFNjbXJjWVlINF81VTE0Ulg0UXltSV9nWTlhX2JEbi0tejN0ZE9iUkZ0aWd4dDBuNFlTVEdCVUE4SW1wZGZSa3FRMWJzeHdlUkNTc3hMdXN4MjI3MXhUdVdlaUJ5S1AzN1BTSXNDMWRrbWwwUnZkeENjdU8xQWw1STF3Wlc2S0Z1aFlYSmJmX0dQNkxnd9IB6wFBVV95cUxNYmhxMjJqMHY2Tlg0R1VLcENGaXJRY3RiNEpuMk9ZQW9oZzduckVyTk8yTHVmOUR1T0lNVDBVSVM3NVFyUEJsVzU5T3BfVTFoTkN0akVTcUlmdXFUTDFrQmJGWXhibjZ2d0ljQVhOckJBNkU1a1A1SWdLTmZJRS1tZkF2RUwzNTl2Wl9JNjlza3NMSEhYQURVMGc5UDZUVEVGNzRGMFZJdHM5LVA0TUpoLVVPbFd4dFJLd0xxMTIwcWRFSkJZcUNsdDloa0VVeEZYdVpCSklMX3NBdU15M01JYVdWM1hxS291cGlj?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 07:32:23 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 07:32:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Full - Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -672,6 +712,28 @@
       ]
     },
     {
+      "id": "metro police conduct mock drill at mahatma phule mandai station ahead of ganeshotsav",
+      "title": "Pune Metro, Police Conduct Mock Drill at Mahatma Phule Mandai Station Ahead of Ganeshotsav",
+      "summary": "Pune Metro, Police Conduct Mock Drill at Mahatma Phule Mandai Station Ahead of Ganeshotsav",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlZMMDdhN1lLc19JekxZVlJURG9BUWc5TnNkVkFOVXJ1TkRsLTVzaXQ0cEdfQ1dDdnc2VnRLT0RhbWkzcXRMZHZJVWZEenFfMmdHeldvRHppanlEREVFYkdJNnZfMW1Nb01zbDlWSENGcFdESTV5bDdEeGhWZ0pBUmd5Z0ZvRll1?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:56:57 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:56:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "pimpri chinchwad उद्योगनगरीचा कणा मोडतोय",
       "title": "Pimpri Chinchwad : उद्योगनगरीचा ‘कणा’ मोडतोय…",
       "summary": "Pimpri Chinchwad : उद्योगनगरीचा ‘कणा’ मोडतोय…",
@@ -687,6 +749,78 @@
       "region": "pcmc",
       "sources": [
         "civicmirror.in"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "delhi rains indigo air india issue travel advisory as weather conditions disrupt flight op",
+      "title": "Delhi rains: IndiGo, Air India issue travel advisory as weather conditions disrupt flight ops at IGI Airpo",
+      "summary": "Delhi rains: IndiGo, Air India issue travel advisory as weather conditions disrupt flight ops at IGI Airpo",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeEVOdEFGSW5yUEotY05oMW1iN01zdmxJdlo4d05yNUlyeVdXaERQanhwZ25IY2dLX09pUTVyakRSYWdKWHU3dEJRbG9VWExtZnpiNjN5NEQ2bi1paEdlWk1VWVJaLVY4RV82bUQwZ3JKUC1EX1hmTXh2NWRGT1NRaHJNUzlOS0NmdEVpdmkza3Q3ankxNW9SWk83U2I1OXFUdFc0cU5FdUpURmY2SUxELWFSaDE2SzEzOXJjeDJ5WFh1NEJzeFhMV0VQSGVEZE5GSVhmUWtMd2s5SzU4WW5CTTVTZXlxbldhSGFsdExVbHdNQnBoTHB4Rk5ud0Q5b2FQMEtUbkMwZmJDNjl2ZU5Fd3Z4bVhPSUpaVmJuMVhwXzdKWmk5clM1eEw5eW41WF9xZXRld1VFTDE3aUhFUzBCOWJSeThCbHRYMjdwU2J5Ym9iZ2xrMzcyVEUwOHZvYVhHZ3dHYy1nZmQ0REdPRXZ3eGNWbWotV2xoQ1JuOGtn0gGDA0FVX3lxTE5oSUtvOWdJSFhDOVdKdzJOWnJFemdsT3c4LWpzRTFTZmh1MkFXSmR2ZUNSOTFVdmxXWkIwVDY3cDBNbXZUYk51Q241cXcyQTlGTTM2TnBCRm5EVG9IZFlsWjE4VVhIcTB4UlprZHYwN3RMeGg0RWZ2Qm5JUHUzTFl5RGhqb2d3eDVNaHVCcmt1cmFHTktVR1BDckFFVUNiSUltMUhzU21CMl9JUTU5ZzB6cFA2a1RfNHNCU2R0M29sN2FIMWtMUkVjV1FhNWZvTW5OaFpaVk9BOXZpaFdnNEZBR2xmNFJ0bEZ1UE5peEZvWXVxbGVsaXg1SW56bkJfLTdMRXBCa0lWbVdZZE9ScmJObTVZQlhNdXFNYTM2bWdxV2hCX2dQdXpvTHpoVFRpRWJDd2xtbHh5OWltNVFHcm5QSFZUekU0SEFoVS1iM1lwVHA4eGJWM1d5dVdHejh3eExwMTZzYVM1cUU1Y09pb2stWmNzQmFFWWo3UE1weVV2alBxRQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:36:15 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:36:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "delhi ncr battered by heavy rain again several areas waterlogged indigo issues travel advi",
+      "title": "Delhi-NCR battered by heavy rain again, several areas waterlogged; IndiGo issues travel advisory",
+      "summary": "Delhi-NCR battered by heavy rain again, several areas waterlogged; IndiGo issues travel advisory",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeHBrUG5kRW5iNUFhZ1lPaWdOcDFyanE5ZDRaX0I1RVRhSlVlQXZ1WFJmWDZZRG93bHZiR19NYWhfMFpvNWtpaGJLdEJ6cjQ1NWxKWXJXdk90QlZua0xwbkVkSUVzUEdGSVlfOGRTN25OZ0x0bVE3MXcwSzVhRGo4YnMwcUxFWG02cEkwT0FTT2lrbGV5aElVUzl6QWNZMmxBVHM4UkREa2RMWTZ2Q1VwRjV4SXI4ZXZwMVBWaWZ4UzNZOHlXSkRGSFlhc0V1T3ZSZWFEUXZMWmpHUmJLbktNSDZlWFdKaGpYVTFqRjd3RlVaRF9TYXV2OG4yWC1ZUdIBgwJBVV95cUxPMC1XclphQl9EalFCanBqeFpnRDJLT2dGV2RSQklSdC0yNmtaYjM4anJDSHlweFBKUFVWbGt4TVl3ZnRyNFpZdHFlOXdXZ29XdlFMRDczMHFKTjlLd2lhdGpUZDI1VzdjX2c2eXhfa0JKYllzTGlmYVBzeFNSVWREQmtWcm9mandvZUg2V0p3eXdsQXhmOHJRbEwzeENjdHAtSWVubXczc1hSLVhfQ3ROMVBtV3hpVS1ISFFYVjB1YVNrbDlUN1Jxbi1ESDJhUUo3dDRPcDAwNlhoT1AwMGMwcWVvUHdVU2VydlRKMl9kQXlEMFRROG1CSXYyS0YwWXozZ01V?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:26:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:26:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "kp falls maharashtra s viral railway bridge waterfall",
+      "title": "KP Falls: Maharashtra’s Viral Railway Bridge Waterfall",
+      "summary": "KP Falls: Maharashtra’s Viral Railway Bridge Waterfall",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFJmT2NQTzRKZi0wTGVzdG1XZ2w4RFRfZXd4US1MaElPX3Z6NFJ6ajdDOWNsZHJIUWR6YTUzclJRVVdBak1PcGozNFRHNnBrVGRmcFkxb2k0UV9KY0h4VnBLLUgzSWhaTVFNMU0ySEw2ZF93c3dvd2tqcGhXQ2hydTVtV2t0Ymg0?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:06:53 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:06:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -917,6 +1051,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "salman khan poses on bigg boss sets ahead of premiere loses cool at paps during shoot",
+      "title": "Salman Khan poses on Bigg Boss sets ahead of premiere, loses cool at paps during shoot",
+      "summary": "Salman Khan poses on Bigg Boss sets ahead of premiere, loses cool at paps during shoot",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdC1wYVN0VXUtU21pcFlaMzVjSDIxRW9JUi1UQlBxbnlnbnVDRDF6N0hrNVk3ekhJTEJNclJxLVMtLU1nY1RIdVRqdDhtd1RlaVdXdG5qYmlIYWRtdkluYnBteHBuSzhJdDh0UE1pYWZKQS0tRWFzMnhVNm9PN3Q1QW1iaFBFV0pNUGU5ME80dFdJN3VuaExPLVoxM055V2Y0ODIwT0k2UFBBZzJEMDBjR05xbXlnNlNSYmpwWmJwUTNGY2FkdHl3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 19:46:49 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 19:46:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "haryana dipped into emergency fund for rs 148 9cr road works cag calls it irregular avoida",
       "title": "Haryana dipped into emergency fund for Rs 148.9cr road works, CAG calls it ‘irregular, avoidable’",
       "summary": "Haryana dipped into emergency fund for Rs 148.9cr road works, CAG calls it ‘irregular, avoidable’",
@@ -950,6 +1106,28 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVWJFd0xRaHFwTnBURTNRTm1nV2RzWFR4M09lWkNSbmhyM3RSckZ4ZzBmUzhMeW1KZWtqZFdfMk43dDJkSnM3eTdiVHJVa2hyWXdQV0hZMHVfUmxMSm5yWnlVOEdRYWpKZDhQNEVGTzNQUFR3WWJHR3E1ZkZYbExoTEJEODFvdkM5U3dFRFV2R01pQmRsaWpYOEs2UE1jYm5DSk5JSFNJdUdkUm4yTWpPQWdNYnZhYVRmS0kxaDJkeEs4aHlKRHdFQ3FMdko3NkpDa0U3NXRuR1dVeTdiZTBCakk4ckppWVJNcjlkeVJGWkTSAfABQVVfeXFMUFViRXdMUWhxcE5wVEUzUU5tZ1dkc1hUeDNPZVpDUm5ocjN0UnJGeGcwZlM4THltSmVramRXXzJON3QyZEpzN3k3YlRyVWtocll3UFdIWTB1X1JsTEpuclp5VThHUWFqSmQ4UDRFRk8zUFBUd1liR0dxNWZGWGxMaExCRDgxb3ZDOVN3RURVdkdNaUJkbGlqWDhLNlBNY2JuQ0pOSUhTSXVHZFJuMk1qT0FnTWJ2YWFUZktJMWgyZHhLOGh5SkR3RUNxTHZKNzZKQ2tFNzV0bkdXVXk3YmUwQmpJOHJKaVlSTXI5ZHlSRlpE?oc=5",
       "pubDate": "Fri, 04 Sep 2026 18:51:00 GMT",
       "lastUpdated": "Fri, 04 Sep 2026 18:51:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "swim before you take off from igi",
+      "title": "SWIM BEFORE YOU TAKE OFF FROM IGI",
+      "summary": "SWIM BEFORE YOU TAKE OFF FROM IGI",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlY5T2xLX3lZc01JdEV6NVZQa1VEVlVEYW5MU21HZUhYcVVOclNCS2R5SW1xTElfT0ZOVHRCTzVjWjVtVklfc2pQaEVzZEhjeWV2bHpVVEZFQzJNQUNwVTNkbG1CMFRRVHBoMV9NaUpvUVRGUWhReDFReWxrM2doVVIzUWF6V3dtZWpiSUpjdk5wUzFmd0I5bmZ5RkhQVmthdDE2NF8yNUx1d9IBrwFBVV95cUxNcUU5cFdpVml0SnV5MGFuRE1NSllIdkFvM3FfYS1VbXZMU2oyYzRIb0pka19tQnFYY2N3ZDdoYWQ0bktuVUJhTVNfTzVrVFNXRkhmb3hzZC1ybkVxSkp4ay1hWmhoRnM5c3BPNEhkUHZCT1VEVlhlM290eTBMT2hqaU5vVjNfTC05MjVVcEFNdnRnLTFwS3FPQnVqUTl4bjR6RUFqYmNucVFvcTVadmgw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:38:00 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 18:38:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1191,244 +1369,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "delhi battered by heavy rain connaught place to igi airport waterlogged after downpour ind",
-      "title": "Delhi battered by heavy rain; Connaught Place to IGI Airport waterlogged after downpour | India News",
-      "summary": "Delhi battered by heavy rain; Connaught Place to IGI Airport waterlogged after downpour | India News",
-      "source": "Hindustan Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZm5lbzVFWkttNU1KVHJVWDZKLXRZWEdoeEhiQVpPSDBYTUE1cERqODlyQXBNSnNuMUQ3b1V4WlBrUlNBNXBTUEFDcEZvZWYzdmNTNlZCSzlpMUJQbEZYckcyUnIzRGZWLV92X0U5cnVPWVZpcWFZUnFTN3h3bE4wS2g1TFpZcEd6b2hmbmhOdzVRQlZGd092ckt4dVRXOXhxQlFTWXpQZjBfVUE3eWw4VkxjbmlvWnNlS195bWtZWG85RmMxSlNUMEJOZnR3elNvVlB3LVE0VFo4S3A5N2E5M0NaMU1MeWNXWWNoNG9UVFFaX0dKQW1FVUFodFdDTGPSAYQCQVVfeXFMTXN6WEplZDM0d2JmeExmNV9sVGpaOUJvTmF3LWI1TURyVEhtWHlteG96Vml2VkxCQ3hYbGJWVms3QW8zbmpranAtcXM4ajRSS01HVk9IMmVTR0JKcmV4TEZHdEYzbHhrWjVsdVo3Q2JEaVhlMXB2amZWU1RJVHZiVTEzTUpXR0N1Yi0yS0ZvMWlZbXRCS21BRTJzNFNVMmtqOGRQRDhablc5YWtUVFR2UWxfaVRYNElzRUd3emRmZEpjdDNRb0dLSnN2N0p5SVBlcVhTVmJNRlRWNnQ4b19OdWk3TWpIWGZRZG5RSGtFR0dCZm1rbllDOXlPTWRpSUZnUmtZNmI?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:49:24 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:49:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Hindustan Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "पुणे दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे मर्यादा ओलांडल्यास यंत्रणा ",
-      "title": "पुणे : दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे; मर्यादा ओलांडल्यास यंत्रणा जप्त करण्याचा पुणे पोलिसांचा इशारा पुणे : दहीहंडी आणि गणेशोत्सवात निर्धारित ध्वनिमर्या",
-      "summary": "पुणे : दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे; मर्यादा ओलांडल्यास यंत्रणा जप्त करण्याचा पुणे पोलिसांचा इशारा पुणे : दहीहंडी आणि गणेशोत्सवात निर्धारित ध्वनिमर्या",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2NGJvd19ldlFOa2NWdTRBRnA4YzJiQjBBbnd6TkViYzhQZUpmaEx1YWdQWC1Oc1RhNjBQdGhLWUpvSzVkVnVCV1k4bHBLc2tvalE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:41:56 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:41:56 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "manisha koirala to feature in upcoming indie film cowgirls indians",
-      "title": "Manisha Koirala to feature in upcoming indie film 'Cowgirls & Indians'",
-      "summary": "Manisha Koirala to feature in upcoming indie film 'Cowgirls & Indians'",
+      "id": "india s gdp growth of 7 8 pc driven by strong performance across sectors in q1 fy27 wtc ch",
+      "title": "India’s GDP growth of 7.8 pc driven by strong performance across sectors in Q1 FY27: WTC Chairman",
+      "summary": "India’s GDP growth of 7.8 pc driven by strong performance across sectors in Q1 FY27: WTC Chairman",
       "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmpZVG1QWnJIRWNMRks0alZQb1hJd25QMlBVOTBsLVdRMFNkZXlYNUpKZDh5czlIZHJEWjltUnV4b290LXd3OG9RUUlCRzgxNGdQdG9SQUU2cWRxc3FQWkJaODBnV3F4dDRLTlp3SndUTHU0a1pYNWNRZkZ0aS1ZUkVGcUxSM2FlYWJXaTlyTXRjX3lReFhJcGtlYXZQT2ljeGFFTUVuejhrYzBrU2fSAbMBQVVfeXFMTWJlVm5ieVBvTWJ6TFVOeHNpUXdxZF9kTDhLYVJpNk1EY3d4THJhOTVhR1J3SnJNUUpvZGRiYW42UnZXbVpUYjFyRkpEQnFFYm55Zk5VYUx5U0MtQlRjdnE1ankycnlpT3A3T1Vmb1N6UFZnRGUtbUpsbUJiemdSaHRuSXE3cDVZR1NZZENwZHAzVWpwY0tTaG1rWE5FSXpGZlIwaTRPeTRmRkdqeHBwMHhlRzg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:40:23 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:40:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlNMM0NLbi1YdjB0US1ESS1XZFRZQklKblRJRlNqTHcyVDU2a3VtUVFHU0ZkbF8wajdvbG5OWVl4SmJ4aXV2UFRfZE1UMEpzQzc5UHB1dTRPQXg1cGZhOGNVVG50ZGpMMjhIZl9sQ3J0TC14SGpnVGp5LUxOUGZkdTk0NE1FM0tJQ2NjODliUGctQU5kVjdtMVdVdUNacGhKUzFHTlFQdzJmYms0OUIzY05hWlFSbHdlSDNCWDA5NzlkckJyUEJ4RDliRDjSAdIBQVVfeXFMUDQyaWRva0FJU3d5bnhkclAyOThXZ01CNzFRUHRIV0xqbERiaHhOb09jV0lvOWxWZ2JCV1E4eHdwdktiaWdPb0RQSnd3X05lTGRncWNhTjNHWFBQT1BrUnBXU1VfWWxtVHJZOWFHWGFlNHdwT2pqYTlCS0FCVWFIeW05R3VwR3FSaGlESzdPWnZUeEpCTkpvSXZaWWJhNnVrd0xIeC0tYkExN1M3ZU8yTkcweG9IZC0xeFN0LXNWVFlYWTlKVC1pdk50TjVqTDkwb1h3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 14:25:33 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 14:25:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रात पावसाचा पुन्हा ब्रेक शनिवारी नवं संकट येणार हवामान खात्याची नवी",
-      "title": "Weather Alert : महाराष्ट्रात पावसाचा पुन्हा ब्रेक, शनिवारी नवं संकट येणार? हवामान खात्याची नवी अपडेट",
-      "summary": "Weather Alert : महाराष्ट्रात पावसाचा पुन्हा ब्रेक, शनिवारी नवं संकट येणार? हवामान खात्याची नवी अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTTVLMmdZU1hWVU9ZZmphaDFubzBRZHJENGZKampzR3V4TFMyNVB5ZmtDTG9oNEE3Y3QxZFVSVERqYTg3eXVhOWRldWZDbGkzM19saEhwRUtjR3B2VlBQUHJqWHhJYzRvUlh0V3ZUaXJTSU1kcEl6N0J3Y0U3ZTdreTlhQWxwMVZTQWtsdzNzdEFSTmdnWUxuWUFtWVVqSDZjZkNndTAxSEtVakYtcENrcHpRTlRMdm1MSW5jN2RmbHJsVXI3amtIX1RRcjVoZ2V3X2dhWlp1dnViR1JDQ0NYVG1GaDg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:39:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:39:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रातील या 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा पुढील 5 दिवसांचा हवामान अंदाज",
-      "title": "महाराष्ट्रातील 'या' 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा, पुढील 5 दिवसांचा हवामान अंदाज काय?",
-      "summary": "महाराष्ट्रातील 'या' 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा, पुढील 5 दिवसांचा हवामान अंदाज काय?",
-      "source": "BBC",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zLThkYVhWZGQ4RW5oV1V2MGdGdjcwS3hBRWZkdnpEV0U5WXU4M3BmTWhNcnE1ZE1zQjl3MkNiYXBlRHRoalpqRHcwc0c4bEo0OTlrVi1rNlFOVUV0RG0xbk9xONIBY0FVX3lxTE1zLThkYVhWZGQ4RW5oV1V2MGdGdjcwS3hBRWZkdnpEV0U5WXU4M3BmTWhNcnE1ZE1zQjl3MkNiYXBlRHRoalpqRHcwc0c4bEo0OTlrVi1rNlFOVUV0RG0xbk9xOA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:05:10 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:05:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "BBC"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "worst airline experience spicejet passengers fume as flights from run late",
-      "title": "‘Worst airline experience’: SpiceJet passengers fume as flights from Pune run late",
-      "summary": "‘Worst airline experience’: SpiceJet passengers fume as flights from Pune run late",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU01QjN5NXlqM2VuNS1PUEVKS25ZNGxZeVdUQ1RNVTJUY0lXSnZBM012WGI5VWpTek9HNUZScW1WcUlrX3phYi1DcGZwWnZySUdYUmpRVWhIb0V0NEJxTWRfUFpKQ3d2Z29ETVdQS18tRUhRdXljN21TbEpjRHp5ZngyalFNdkh6YW5oaENzTmNEVnVCck5hbWhVaF9oMEJTRG1ZakQ3M1k1UzZuTTJSYzFhT3BPMFRLSG9nOXRVNDTSAccBQVVfeXFMTjFET2NfZGpIVVhHeTExM2N1VGpIY0s5Sk84RXpmek5mcUlzWmxoeE9ab2Z1QzBFYmxObl8wa3pCRDE5aWp5cEs5UWJsa3lwTU9HRXNQNDBLT2NCSzdVMHN1Wmp4cEREa18xZXpJZ1NwQnNEa0ktcG11QUN2Q0lyalM0UldvZHFacThrN0tFSGVNWXJYVDBMc3lycGx0cnd1SGNIdXBnZHY5V1ZZdzluUTNjWGRFN0p0S1lneFFGTGRNUXVkYXJvOA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:37:36 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:37:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "sanjay leela bhansali wraps shooting of ranbir kapoor alia bhatt vicky kaushal starrer lov",
-      "title": "Sanjay Leela Bhansali wraps shooting of Ranbir Kapoor, Alia Bhatt, Vicky Kaushal-starrer 'Love and War'",
-      "summary": "Sanjay Leela Bhansali wraps shooting of Ranbir Kapoor, Alia Bhatt, Vicky Kaushal-starrer 'Love and War'",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFBxZGpIeW1kMk05OHozdWNjOXg2VXEwaXpoT2h3alZGMHR6c201eTYtejB1LW1kRjhQWWVVblVkMGZmdTJodWtTQTlURDZxaUdLcEI0djRuUFVlQk5qLUd1dUd0V2lLd01md2pNSUZLYUtqU0dFNEU0WTZMdTBKY2p5a3VtQkJRNHNfY3FVZDhNRFRtemFQX1M4ZUl6SldEWTl5TTBVdGo0U3E3b19oMmNGbTJRb1Q2WjktUmx4eVplUWVvMXlYNVRUdDVWTmtoOEtMM25ZS2JKQdIB3wFBVV95cUxOamVGNVRlalNGdmRBeTNWRFJiY1dCU3dlNFAtRnBVV2M2cnRfWjF6dFlGQ29KRVQ5bDVDdEVyZURfeGRlaHM0WUthNkVHcE1NbFhtR0hDRnU1R2lWTTVJU05aTWFhM1Z1WkVhTDkzREN3ZFQ2V0c5LXRCSE5SQUl2Z1prRDZXNmRWc0M0dXNVbFNuY3RQSXdHNXJjVTJlNnctZXVVMkFIZFVIRVJjM3dGNWM5UXhTZ2p6cm1yTHBfUXB1dnl0SlN2VlY5bl9rYWFBYXpzY0JDX2kxU1ZUZ2lj?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:35:23 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:35:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jubin nautiyal expresses gratitude to pm modi for choosing his song to celebrate lord kris",
-      "title": "Jubin Nautiyal expresses gratitude to PM Modi for choosing his song to celebrate Lord Krishna on Janmashtami",
-      "summary": "Jubin Nautiyal expresses gratitude to PM Modi for choosing his song to celebrate Lord Krishna on Janmashtami",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTHlMZEJSUWNkNjQwcUhyYlV5cGVXQkxjbGY2N2dGSUFmNUVLSkhXMmJPTlhWOURzd1pwWUJydFRKZW0tWXRBTFkzQ1ZiSUNWYW9BLXljbDhqVjM5YV8zUlliT0RIX1Fob1hUdjRWLU1pZWVmOEQzc2h0RjlSY1ZkcldsQ3phV1EyTjB1cGZGei0yTXB5MHFqaTljNFRhX1ltTllWMV9Fdm5lM0FzcHhXQUw3V01RVnlsZGhjd3V1LVRQaGZwQkpvWUtnN084bUVZQXp0R2pmMWp2eWRUMFpHQlloTWlOQdIB6wFBVV95cUxNQ25Kb29oMjd0NUhfWGRKSDRjT2dnMnZ5UWxDQ0F5SGFZS0MzWU00RmFXVFJwMzJWS0NlSmhpNGYyYjZPZjlJdEVyYS1PdzVEUDQyLXN1dEF4SURGZlF1QTc4Z3c4Q2R0M1NHSnJnRmZZUTdKU29XdFNpYm14Sk5neTZnTjZrLU5zek9pN3U2UXRwMWVldGRIV2dqempHNGlBVWY0anp3eXhnSzZIVmNMdGpQczlSSUFDcWZzOEVCeFZBcThBd3RwRlVqc0xHX3pVZ2R3Uk1SWnpyOVpJT1A4VktyeWV0S2o2Zmk0?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:10:24 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:10:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "title": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "summary": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSG1LOVVSa0xMMHJqZ3h6cnoyNXdZQnh1RFl2Z1dUUFhxZHJ6bjJJVUZtWGF0QXd5OGxjSTA3WjZMZmlkNVp1cFZ1bkoxWm9mc3lDQWU1OFN0bVhRLUpUQ3NuUThyMEVzb0NxLU5idWc3SXE3X1h2c05wQXlnQUhGc2FCRU82WDUw0gGIAUFVX3lxTFBIbUs5VVJrTEwwcmpneHpyejI1d1lCeHVEWXZnV1RQWHFkcnpuMklVRm1YYXRBd3k4bGNJMDdaNkxmaWQ1WnVwVnVuSjFab2ZzeUNBZTU4U3RtWFEtSlRDc25ROHIwRXNvQ3EtTmJ1ZzdJcTdfWHZzTnBBeWdBSEZzYUJFTzZYNTA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:51:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:51:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rainfall lashes parts of delhi flights affected imd issues yellow alert",
-      "title": "Heavy rainfall lashes parts of Delhi; Flights affected; IMD issues yellow alert",
-      "summary": "Heavy rainfall lashes parts of Delhi; Flights affected; IMD issues yellow alert",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmhVSDFrc1RCVFgwSnFvY1VUV09PS3hxQ1pMci01V1pxY19tMzZ2YzVWVlV4cHdQdkFyNXg2eW15bTdFNXprQjdYeEk5RnFCWkpBTC10VjNnWnRsWlJNRUlBbVdJZnEzeDZPdUc4ZzI0N3FmaUtKOTZaNHpjOUNIdl9CYmE2eG4wT2ZPNG5WXzlMVkFMRE4wUlRqTm0wSmN3OUs5Y3NhSnJ0LW5QMjc1QV9yQ1JlbmdVMnhF0gG7AUFVX3lxTFBGaFVIMWtzVEJUWDBKcW9jVVRXT09LeHFDWkxyLTVXWnFjX20zNnZjNVZWVXhwd1B2QXI1eDZ5bXltN0U1emtCN1h4STlGcUJaSkFMLXRWM2dadGxaUk1FSUFtV0lmcTN4Nk91RzhnMjQ3cWZpS0o5Nlo0emM5Q0h2X0JiYTZ4bjBPZk80blZfOUxWQUxETjBSVGpObTBKY3c5Szljc2FKcnQtblAyNzVBX3JDUmVuZ1UyeEU?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:48:34 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:48:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "दिल्लीत मुसळधार वादळीवाऱ्यासह जोरदार पाऊस हवामान विभागाकडून रेड अलर्ट जारी",
-      "title": "दिल्लीत मुसळधार! वादळीवाऱ्यासह जोरदार पाऊस, हवामान विभागाकडून रेड अलर्ट जारी",
-      "summary": "दिल्लीत मुसळधार! वादळीवाऱ्यासह जोरदार पाऊस, हवामान विभागाकडून रेड अलर्ट जारी",
-      "source": "Saamana",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RHQldKN2xnSHBkbTNSc000bllXU016Ym5kWUd5MzhIUnFwZWtWeGNRZWl3am5lc0xvZmVtOXQ4blVTTTZlbFcxWE0tVXgwaXVxdksxWThfZnljS3ZQaEdQcmdCQmVpT3FhbUM0UXV4UWpUOW5GZE1OOUM3OHhheW1uU1EwSDNMQkRjQzZTcC03dVhobENNOUdaR21vaVdtYXBKdlF4dVh4Nzg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:25:55 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:25:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Saamana"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1440,37 +1392,6 @@
     }
   ],
   "incidents": [
-    {
-      "id": "heavy rain floods delhi airport 11 flights diverted as traffic chaos grips capital",
-      "title": "Heavy rain floods Delhi airport, 11 flights diverted as traffic chaos grips capital",
-      "summary": "Heavy rain floods Delhi airport, 11 flights diverted as traffic chaos grips capital",
-      "source": "Daijiworld + 2 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZWWx1bFNBRktReTN4WE9Uak8xaTkxX0l4cHlsWElHTFJkeVE0Y0ZiWF9zVGhmR2p0VlRVYkRjNHgtdGpVcl9RWkd3MW85b2R3LUxrczBQbm1uZG83d1hEYjJtZENGXzZfdjNfUnAzS3pLX0xYN1M4?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 03:18:24 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 03:18:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Daijiworld",
-        "thetraveler.org",
-        "Rediff MoneyWiz"
-      ],
-      "confidence": "High",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
     {
       "id": "mumbai rains imd issues red alert schools colleges holiday on july 7 250 flights delayed c",
       "title": "Mumbai Rains: IMD Issues Red Alert; Schools & Colleges Holiday On July 7; 250 Flights Delayed & Cancelled",
@@ -1588,6 +1509,35 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
+      "id": "heavy rain floods delhi airport strands passengers at igi",
+      "title": "Heavy Rain Floods Delhi Airport, Strands Passengers at IGI",
+      "summary": "Heavy Rain Floods Delhi Airport, Strands Passengers at IGI",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXNLcFNtSjBKa2JFUE5NSFZtbHM1NzNvRmxsS2t6d0wzSHE4TTRXV1IzT1dkY1Y1NDNOZUlucXFJTEp2WElZT3pMZVA3NDRDZ25pYzJFYzYtTTFnaEtxeFFJMVVrZDU5Z0FKTDhiRlliRmdEZk9BUVBxakktdmJHRzExRjR5cnpZMTNCR01Gbw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 14:26:38 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 14:26:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
       "id": "more rain forecast in up as floods affect 3 5 lakh people in 26 districts",
       "title": "More rain forecast in UP as floods affect 3.5 lakh people in 26 districts",
       "summary": "More rain forecast in UP as floods affect 3.5 lakh people in 26 districts",
@@ -1617,49 +1567,49 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
-      "id": "delhi rains red alert issued after heavy rain waterlogging at igi airport traffic hit",
-      "title": "Delhi Rains: Red Alert Issued After Heavy Rain, Waterlogging At IGI Airport, Traffic Hit",
-      "summary": "Delhi Rains: Red Alert Issued After Heavy Rain, Waterlogging At IGI Airport, Traffic Hit",
-      "source": "India Today - India Today",
+      "id": "mumbai traffic alert worli diversions announced for parivartan dahi handi 2026 check alter",
+      "title": "Mumbai Traffic Alert: Worli Diversions Announced For Parivartan Dahi Handi 2026, Check Alternate Routes",
+      "summary": "Mumbai Traffic Alert: Worli Diversions Announced For Parivartan Dahi Handi 2026, Check Alternate Routes",
+      "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0NIX2FwNFZlVzg3UTFwMVNpQUEzazE5VzY1ZnRiWVBGaFc1MFFiSEVZWWFnQ21KamJ5NG03dDlQcFBQeDFocjJ2bW84ci1CMzZGUGNLU0w1TjRwWFI2RElyRDR4bC0xdVV0TVB5Z25LYndCOGNFcUxmRGNFSDFEckhsUG9mVTc5VjM1V1RjaXdyUTViVnFZckMzdDcwcXp2REM4UW1zVGpXS0xET0MxenVqZ3h1NnVOeENKbEpNVEE0U0JubDJ2X0ZCUXnSAcwBQVVfeXFMUDNDSF9hcDRWZVc4N1ExcDFTaUFBM2sxOVc2NWZ0YllQRmhXNTBRYkhFWVlhZ0NtSmpieTRtN3Q5UHBQUHgxaHIydm1vOHItQjM2RlBjS1NMNU40cFhSNkRJckQ0eGwtMXVVdE1QeWduS2J3QjhjRXFMZkRjRUgxRHJIbFBvZlU3OVYzNVdUY2l3clE1YlZxWXJDM3Q3MHF6dkRDOFFtc1RqV0tMRE9DMXp1amd4dTZ1TnhDSmxKTVRBNFNCbmwydl9GQlF5?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:07:51 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:07:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHFVeWg1a2ZqTjZBVE5BWEZUU2NDRDFXMkFHUTgtWWlUandRcmd6SXVLUzFfNlNBc2UxTkZ1eWpqYnpYYWRTeHV2MEQ1YnFUdHN6NHFubXZVbVg4a2pXZE1jc2x5cVZoUTF0eEpyNG9jX1I2aVR4WVk2WUNBbVJRdFdVRFNWVkwzd19mdmx1Rk5fZ05tODFySHZPcEtZSks2bUVVODk3by0zOWkwck41TnRNQm56QnhHaVJscG8tWk93MmtfeGl4WG1YVlZyTElVT3YtRE1kNURMUdIB3wFBVV95cUxQWURqbXJvS1ZGYl9YdFk1TExrSFlKb3FXRktrczI1eEw3bHktc3l2U0h6SFJ1czlIZWVyYWdIZ0Y4X2Q2SC0zb0xVSlVuRnNOQ2RGSE8zVHd5WEE3aWNhVEpvdndtcldsalpqR190MXJGbDVaekNPZFJxQjRubEZidzdUS1VMNEQ1Z1JOczEtemRtQzN5X3NLTFZfWXpiQ0J3akNCdjVwMUhkZUpYVW5fVWFOZFU5dV9QdmVTWHVnOGswY1ZiVEJWVllnbVY1TmlNYzl4R0U2SW1FRHduSW1B?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 17:43:25 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 17:43:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Today - India Today"
+        "lokmattimes.com"
       ],
       "confidence": "Single source",
       "w": [
-        "red alert",
-        "school closed",
-        "schools closed",
-        "college closed",
-        "orange alert"
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
       ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Public Weather Alert",
-      "icon": "🚨",
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
       "critical": true,
-      "action": "Follow official instructions and avoid unnecessary travel."
+      "action": "Use alternate route and follow police diversion."
     },
     {
-      "id": "heavy rain causes waterlogging at delhi airport 11 flights diverted hundreds delayed",
-      "title": "Heavy rain causes waterlogging at Delhi airport; 11 flights diverted, hundreds delayed",
-      "summary": "Heavy rain causes waterlogging at Delhi airport; 11 flights diverted, hundreds delayed",
-      "source": "The New Indian Express + 2 more",
+      "id": "delhi airport heavy rain causes waterlogging 11 flights diverted",
+      "title": "Delhi Airport News: Heavy Rain Causes Waterlogging, 11 Flights Diverted",
+      "summary": "Delhi Airport News: Heavy Rain Causes Waterlogging, 11 Flights Diverted",
+      "source": "Aviation Jeta + 3 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0tLVEVIb252TTRleXU3eWpoUTk5VDFmSGVSc2tYM21SNXd6N2ZaNlNhRVFPSWhhS2dveV9yaHNTcnhmRVItNVJXUDlDdzhUTndiMmpmQjZZV1FyWnRUbFZzTXdBNlNJdTJPNkZ6MUxnS3lVWU40SXBXRzdVVGtEUXZPWkwyS2VoUk9OZXlsMDhMMkRFOVRSbEphb3BqNWJXR19JYnlqcUlzQVgwRjRZR29PV2QzVmpyRkJPZXNOdXFDQnN3Z1V3NFQyai14aVVicXFDTWNuZnJVYlUtczNyV3N4OHhwT1HSAecBQVVfeXFMUF9LS1RFSG9udk00ZXl1N3lqaFE5OVQxZkhlUnNrWDNtUjV3ejdmWjZTYUVRT0loYUtnb3lfcmhzU3J4ZkVSLTVSV1A5Q3c4VE53YjJqZkI2WVdRclp0VGxWc013QTZTSXUyTzZGejFMZ0t5VVlONElwV0c3VVRrRFF2T1pMMktlaFJPTmV5bDA4TDJERTlUUmxKYW9wajViV0dfSWJ5anFJc0FYMEY0WUdvT1dkM1ZqckZCT2VzTnVxQ0Jzd2dVdzRUMmoteGlVYnFxQ01jbmZyVWJVLXMzcldzeDh4cE9R?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 19:10:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 19:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1BuYUhyaWliclpiSG9TX2Jvdm14TnlJejVITWo3Tl9NWDJFT09XY1ZiY3JkUmYtNWlvVFJwWWhjb2hFN0tvUTI2cHktVzJlXzgyeEd2NDliTmw5Q1lkaVRuWFVKM2c2UDVfMWI1M3Jhek9LUldjZG1abDRyRTEtdExxb3ZSQlNrMDliR3Uzc0tmZHNodzR3SjVfZw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:15:05 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:15:05 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
+        "Aviation Jeta",
+        "Daijiworld",
         "The New Indian Express",
-        "lokmattimes.com",
-        "India Today - India Today"
+        "thetraveler.org"
       ],
       "confidence": "High",
       "w": [
@@ -1799,6 +1749,38 @@
       "action": "Be cautious in the affected area."
     },
     {
+      "id": "delhi downpour several flights diverted hundreds delayed",
+      "title": "Delhi downpour: Several flights diverted, hundreds delayed",
+      "summary": "Delhi downpour: Several flights diverted, hundreds delayed",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUFOZ2x5Z1ZLcFdPZVVSLUdlTkJfRFpETFdIOXVYYXEzc1FtUzQ4TzJrWC1GalVyUW9kbEQyU3laMkVPOElJZGdGTEN1ZU1Yb0JpVEJkbTBZb3RydGtoV05adGVSaDFwNFA1bThFcHBhUnE1d19raF9IRVZKYmtfcUR5ZjF6VlpuMl9GcnRNejFqdW5zUE5GQUQ2X0fSAaIBQVVfeXFMUGhQTkdHNVlFd3NMcUlBeHBvM2NPdkcyRllhcEFiOUtSLVFPMXlsajJwT0NrR2pNMmtGVEc0VlZQXzR4LUozS0x0WE5YclZCSkVVaVFvem5NNVBEV3lTRS1MYkFaTy13Q2FVQjBzRUFIWjNCSWZucks1SW1ONHVVTTdqV1dNMzNULW1jelh5TmFFYnFza0Z6MEZYb1pkZ09KNnd3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 15:56:16 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 15:56:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "tree fall",
+        "trees fall",
+        "wall collapse",
+        "waterlogging",
+        "disruption",
+        "delayed",
+        "cancelled",
+        "parking shed"
+      ],
+      "severity": "watch",
+      "category": "impact",
+      "type": "Local Impact",
+      "icon": "⚠️",
+      "critical": false,
+      "action": "Be cautious in the affected area."
+    },
+    {
       "id": "mumbai traffic मुंबई ठाण्यात दहीहंडीचा थरार रंगणार वाहतुकीत मोठे बदल पर्यायी मार्ग कोणते",
       "title": "Mumbai Traffic: मुंबई-ठाण्यात दहीहंडीचा थरार रंगणार, वाहतुकीत मोठे बदल; पर्यायी मार्ग कोणते?",
       "summary": "Mumbai Traffic: मुंबई-ठाण्यात दहीहंडीचा थरार रंगणार, वाहतुकीत मोठे बदल; पर्यायी मार्ग कोणते?",
@@ -1857,112 +1839,86 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "swatantra row nishu azad exclusive demands arrest section 307 added in father s assault fi",
-      "title": "Swatantra Video Row: Nishu Azad Exclusive, Demands Arrest; Section 307 Added In Father’s Assault FIR",
-      "summary": "Swatantra Video Row: Nishu Azad Exclusive, Demands Arrest; Section 307 Added In Father’s Assault FIR",
-      "source": "India Today - India Today",
+      "id": "weather alert महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल रविवारी येणार दुहेरी संकट हवामान खा",
+      "title": "Weather Alert : महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल, रविवारी येणार दुहेरी संकट, हवामान खात्याचा अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रातील वातावरणात पुन्हा मोठे बदल, रविवारी येणार दुहेरी संकट, हवामान खात्याचा अलर्ट",
+      "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdUxGS29UdTR4Ri1keUpvbGhBaXlPSmNTNUNrNUtUQTY3SmNHNHpQRVNkcmgzRnZiZlNNNnlkMHA1RHpmYTZsS2NSS2xDVDhGLWZiYjhuSlJNLVQzRmh0WjllcGhDNktDcWNLOEZZMzJBVU1id0VTOHdvbnU3Y0NncTVpSEdqTTFTeVFWNzhCZWwwX0ZtMWhaeG80VTRrWm9fVVFsbDFnUlYxeW1BR1duZEx5UVVjdGtpcnZfc0dOZF9LYmNYOXNzYWswdG1mMHdlTnFIeDZMWXRSelJ60gHiAUFVX3lxTE4yc21mbWhlOFprdlc1NkkwM3BLQ00tYzlrdmV6NEdDNEdmQ0pyak9RR2U2VjNRUEhlOVpHWWdxbTZkb3dKQ0drdnV4MnZQc3JZZDZMcHhTRkF0RHFWc2lsUjR6OGFlekdQcG42NUE5TW02Yy16ZU52Um9RbVY4eklZRDlwakRtMDRpMjNHLV9MUzFJYlFDVTNaZW5iMFJjZTZwQkV1OS1qZ3BjSW1KNFB2OXVLU01GOU1oeWhBeHRnaHBWc21jQWFRQjdEbkdoWU5INUxUZFNPTlhpcFVyLVZzV1E?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:22:52 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:22:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGpuVGtza0lxU0hjd0hUTFhLR2EzOEpteWZpRVhkRWtWQ2I0aktiaGxCc1RFd0JrbFFvcWtUbTRqLWZpS0FHVmk0Y0k3RDBYQ1lENTNDUHdPeWFNajhLejBEOUxTVUlEdGdqZzRNRlpUVzBmWFI1Nk54YW5rN0RKeWZvWHJCc0RFdklyVWFGMlEtZ2xQYVBERWVUR2VFellIc19jc2pFa2diZEhFaTVYOFdGcjNPdVZFUWduS29uLWpRdnNPclhNZHBqd0tXNHBOaUR0akViTThUV1YzZmx5YUxHZjdLZw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 13:38:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 13:38:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "India Today - India Today"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required."
     },
     {
-      "id": "dahi handi traffic दहीहंडीमुळे pmpml बसचे मार्ग बदलले प्रवासाला निघण्यापूर्वी ही पर्यायी म",
-      "title": "Dahi Handi Pune Traffic: दहीहंडीमुळे PMPML बसचे मार्ग बदलले! प्रवासाला निघण्यापूर्वी 'ही' पर्यायी मार्गांची या",
-      "summary": "Dahi Handi Pune Traffic: दहीहंडीमुळे PMPML बसचे मार्ग बदलले! प्रवासाला निघण्यापूर्वी 'ही' पर्यायी मार्गांची या",
-      "source": "Times Now Marathi",
+      "id": "jalgaon स्मार्ट मीटरने वीज बंद झाली तरी चोरीने वापर सुरूच जळगावात 28 जणांवर गुन्हे",
+      "title": "Jalgaon : स्मार्ट मीटरने वीज बंद झाली, तरी चोरीने वापर सुरूच ! जळगावात 28 जणांवर गुन्हे",
+      "summary": "Jalgaon : स्मार्ट मीटरने वीज बंद झाली, तरी चोरीने वापर सुरूच ! जळगावात 28 जणांवर गुन्हे",
+      "source": "Prahaar.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNks5YTAxaGtWbnZ6VzdDcmpGd0pKQzh3N2pCdzBXendQeTlGSlJleEg2RkprUWFsa1ptWGlpTlh2ZGpIdkV4NTZ1WTlzN3N4cmhZUzJrRkhfaUZFdUZWRUZjZk0yR01mRERjR2R6Z0h3NnRPSFBfWFRNMlEtTGFfTk15RlBCYVBMVkZhREE2d09wN1JtLXMyWmV1cWV6TzNYVjd3V25VOENBZHM3LVh5QmxJMmZIZ3JudldYMU9IcWlwaDBfSkNTbHFUNWtPcUl1REZ1MFNoN2szRklfNHQ5MUROdmRHaHdZ0gHuAUFVX3lxTE5keUtqT2xrTXRBLVJsTjVvR0E1Y1dhUXk0WllWbDBCWWdMeXJkaWRRRjRXYXdHVF9WdlllYjBlVmpleHdqVl9UQk1qMFZJVHVZR0Q1SFZ0TEpGLUdhZV9oODlENG9GNzNScm44bFdLWkM2RkY3Q1VRUmhTZlRqdTFGbnlBUWhnQ3BTbGhqcmtsbl9DTnpFSDExV0dnOGxFbEdzZjduOThaem9IOHp6X3NKX3RoTlVsRHA1NGhTV3ZlZ05HSVpEQmlueW14RVVlOXNfUHRzRVRDUjVpNS1LbDhoRHNpbUg1UGRlc0lGMEE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:18:45 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:18:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS3ZIcFQzSUpnQXp5Z0w3UnNyN2JVRHVER25USmdnTG9mdGozUHh2YzVOM0E1emowbndUTTB2SzdtdUZsbHgwbHRmaWN4RmxJamtGRHhiTnh1NTFQbzJpV3NCa3A1RS04dFZFeUNqeTNDbTFSbGZKRXNyVnBMNHNwbXNOTUotT1lMbl8yaWRQc0xVNXBRdXVmOU4zMWpYeTdWeGwyRDE5c1dITnhrdTE2S05OMUFSemtXTHVtTk9LdUVlb0o5OS02Y3Q1YnM0QksxNEtZLW12VHpYY290bzhYRVF3X1Jad1d2QjliSTBqak1QREE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:35:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:35:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Times Now Marathi"
+        "Prahaar.in"
       ],
       "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel."
+      "action": "No immediate action required."
     },
     {
-      "id": "never seen anything like this delhi airport waterlogged after heavy rain flights delayed",
-      "title": "‘Never seen anything like this’: Delhi airport waterlogged after heavy rain, flights delayed",
-      "summary": "‘Never seen anything like this’: Delhi airport waterlogged after heavy rain, flights delayed",
-      "source": "The Economic Times",
+      "id": "maharashtra weather पुढील ३ दिवस कुठे कुठे बरसणार पाऊस या जिल्ह्यांना अलर्ट जारी",
+      "title": "Maharashtra Weather Update | पुढील ३ दिवस कुठे-कुठे बरसणार पाऊस? 'या' जिल्ह्यांना अलर्ट जारी",
+      "summary": "Maharashtra Weather Update | पुढील ३ दिवस कुठे-कुठे बरसणार पाऊस? 'या' जिल्ह्यांना अलर्ट जारी",
+      "source": "Thodkyaat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRnBDT0RwU1JXb1Z3cGxuQnNCc2t2NEhOYko3dlZ3SnZEajNOSFJ5dDFhbGdTa1ZPMXgtLVZYZlJ1WFpYTDZsem9UMmxqbkR0T2tiREthQ1M4YjBwQ0pTUTl5NG81eWk3N2l3bHRMMDNYMzNWME1valVRM2s4VklxTXk3TmpnZjVQc3Y4d1h4dkR6cTlOdUMwVzk0eFR2VnZxeFN3TWdHTFNfRTVUaGpscFJtYUVtZlNFSWpXd3FQakdMQjZkN0hZczlIeUtreHpBd2xiR2JaLU9ZQVpKUGNqalBuVEN2bXpDdmhsQTBHR2hhSmE4dTNlQ3JWMNIB9AFBVV95cUxNUE5odS1LSWtjcmRyV0UteHFLbHdLOFN0eXVGT2NOZE4xSXR5cWJJeTl5U2FIbFhhNW9JeDJJLThnWFQ3MEJJbVBHd3R5S3Qwdk14V0RfbkdYQTRDQ2xjQ3dha2JVZW1LYWtvbXQzWkxnb0ZHcEZnZ29WR2U5SVU0dnJ4NXRxNGJsMGhFS0wtYjE1VWFCb1JFQ2M1WmRhQXhHWnBSS2RLeGIwaVE5aGpVd292VGhIdFRxS2FRQ1B3SGpWN1NUaThiR0VUazh0ODRxclFZQ2FTbHJRN0lMZTlPQXZqNHBrN25STElLM3B1b3VkeGJZ?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:02:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSzBkdTE1Yk5TYUhfcFNfVmFzUE9URkdTdUpfNVhNVmdYRHdfbllSZUM1NERvcUhFeEpHNmtaSWZ3X0VQOVFnWTh6TFZJZ3d2Nlk2Rmp5dHB3NkV3bkppNGJKN0ZHYVpXdGZ6eHA3b0QtbXRaa2x2elBvd1IyOXBsNEVvRTM3UVU?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:01:29 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 12:01:29 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Economic Times"
+        "Thodkyaat"
       ],
       "confidence": "Single source",
-      "w": [
-        "tree fall",
-        "trees fall",
-        "wall collapse",
-        "waterlogging",
-        "disruption",
-        "delayed",
-        "cancelled",
-        "parking shed"
-      ],
-      "severity": "watch",
-      "category": "impact",
-      "type": "Local Impact",
-      "icon": "⚠️",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Be cautious in the affected area."
+      "action": "No immediate action required."
     },
     {
-      "id": "india woman dies after iron structure collapses during dismantling after dahi handi celebr",
-      "title": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
-      "summary": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
-      "source": "LatestLY + 1 more",
+      "id": "dahi handi celebrations turn tragic as woman dies 42 govindas injured",
+      "title": "Dahi Handi celebrations turn tragic as Pune woman dies, 42 Govindas injured",
+      "summary": "Dahi Handi celebrations turn tragic as Pune woman dies, 42 Govindas injured",
+      "source": "Business Upturn",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTC0xdm0xTXZSX3VOdE1wVVRCMWVuVHB6Yi1qY1pQclE3WHVqUzVPRjQ2RG93UWNUYnlfSDl6aVA4R0pCMzVuZzhzaVNCek1jTHpfMzV3d1VzNk1QUmtjZjU1Uzk4NjBUTFVGa1FRQ3ctRkZpb001bnlEcndra0x0UnZRajE2eEM5d1d6bGVKbURyTUVwZHBsYmJoSk1TZjg2TFMyQ0hHeFc4eUR4S0JLSUg0b1ZoQWdDX0xRTTF1WmhWT2xhTEFXalhSSklKSEttV0JVWlFRN0pGTmJCdGtGVVpSc3JHbklkaDM40gHwAUFVX3lxTE96NDd4dnIzd0hFOUI5RGM5V3lYX0xKZ0Z5bmxtM0k1azRnYkx1dUppY1ZjUmRpOWYxSVA4VUNrTXNRX2wzRmQyZzNUVlU3U1pBM3dDT09OSVZXY1lLN2l0TnkwQkt5NDdMMVo2NDVjRUVGbGJUN0QwT2tWZ194eld4dG42TG5mcEl2eXBRUE9sYTJBbWJIZEt2SlhqX1Y3YUN6cGRGTmVTblFFNHFWaG1FdUZfNmZwN0QwbC1jTDhyMXFUMzZsVURfZjNRN0JEZ0t4YkpIb0FGWmdUb2pLbmJzV0xjajNTOFNkZ3JEWTJNMA?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 09:28:23 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 09:28:23 GMT",
-      "areas": [
-        "Sangvi"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUlxZWNNODA2ZUJJTURQd0FGQy10dTQwalhEM1BQai1SUTlzdkNaeDF3YlhGUlFJblNpbEpyTi1WVTE0Yk5OdHlDTWtlN0hGVGQ0U1FSekE4bGJ1cXZneVhuczRwQVVVSGJsVlF4aUF5SHBnOTNyYnI0RGNCS2szOG5fSWpfZzVDbzB4MFdMalFzN19DYnJfSW5Pam1VWlR5c094RTd5bjJ5Zl91dlE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 11:35:55 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 11:35:55 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "LatestLY",
-        "Pune Mirror"
+        "Business Upturn"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1974,7 +1930,7 @@
       "id": "weather 24 राज्यांना अतिमुसळधार पावसाचा इशारा आयएमडीचा हाय अलर्ट महाराष्ट्राबाबत मोठी बातम",
       "title": "weather update : 24 राज्यांना अतिमुसळधार पावसाचा इशारा, आयएमडीचा हाय अलर्ट, महाराष्ट्राबाबत मोठी बातमी",
       "summary": "weather update : 24 राज्यांना अतिमुसळधार पावसाचा इशारा, आयएमडीचा हाय अलर्ट, महाराष्ट्राबाबत मोठी बातमी",
-      "source": "tv9marathi.com",
+      "source": "TV9 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQU1N6bWRQSGZjSHRVN3JCT0xuOE1mYnp6UVpQYzZGYXFNc2U1V1pxV0RyUVBReWd5X2MtTnlzdllPSkRVWDJ0dXFJYlFUUTJDQ0ZtU0JXZHlFaUc2TnMzb3Exa1NoSDNxTlROUmRuN3VCeXdkTFEwU1p5d0lpejBldHRQcU1lQWZwYktnd0tnbVRwcG1SU1NOcUZqRHdIdkxMSzhvMUpIaklJdXlsQ2pETmpyLXlUQVdTY01iUjB5ZFRCNE9SX3MtSnhGWEpBa25LOE5xY3N6T0QwZnh3bFBTd2FrOUN5alNqNFFGSmZ3SHBaUkZ3dFJOd0dwTTh3QdIBgwJBVV95cUxQUU1xelJtMDN1YXBNU0ljdHlxY1A2Rk5mNV9GRVZzWDJ3N2xWQmdzcndHenhCX1R1aXhsX055ZXpSTEdKaXZsUDRFdGRtb2JiNllfN0V6N3YySzZhTkx5UUYyVkdPcVBnXzdtcXBNNDBQZVRuWG5xMGI3UzduUjhXMVNjeVY0MHRhSlFDbVdXOWRGWm9KNWxyckFtWTFVbElPWDBwVVNKMEQ1dG4tRDZuRURwN2ltOU9YYUthNy1mWGVPM201WGVDN2tMb05UUHZITzhwZlpnODUyWG1pYy05YnF2X3RZNXlMVDdnZXBVelhad0NNay1namE5RHluMjVmWE9j?oc=5",
       "pubDate": "Sat, 05 Sep 2026 10:32:10 GMT",
@@ -1982,7 +1938,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "tv9marathi.com"
+        "TV9 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "india woman dies after iron structure collapses during dismantling after dahi handi celebr",
+      "title": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
+      "summary": "India News | Pune Woman Dies After Iron Structure Collapses During Dismantling After Dahi Handi Celebration",
+      "source": "LatestLY",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTC0xdm0xTXZSX3VOdE1wVVRCMWVuVHB6Yi1qY1pQclE3WHVqUzVPRjQ2RG93UWNUYnlfSDl6aVA4R0pCMzVuZzhzaVNCek1jTHpfMzV3d1VzNk1QUmtjZjU1Uzk4NjBUTFVGa1FRQ3ctRkZpb001bnlEcndra0x0UnZRajE2eEM5d1d6bGVKbURyTUVwZHBsYmJoSk1TZjg2TFMyQ0hHeFc4eUR4S0JLSUg0b1ZoQWdDX0xRTTF1WmhWT2xhTEFXalhSSklKSEttV0JVWlFRN0pGTmJCdGtGVVpSc3JHbklkaDM40gHwAUFVX3lxTE96NDd4dnIzd0hFOUI5RGM5V3lYX0xKZ0Z5bmxtM0k1azRnYkx1dUppY1ZjUmRpOWYxSVA4VUNrTXNRX2wzRmQyZzNUVlU3U1pBM3dDT09OSVZXY1lLN2l0TnkwQkt5NDdMMVo2NDVjRUVGbGJUN0QwT2tWZ194eld4dG42TG5mcEl2eXBRUE9sYTJBbWJIZEt2SlhqX1Y3YUN6cGRGTmVTblFFNHFWaG1FdUZfNmZwN0QwbC1jTDhyMXFUMzZsVURfZjNRN0JEZ0t4YkpIb0FGWmdUb2pLbmJzV0xjajNTOFNkZ3JEWTJNMA?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:28:23 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 09:28:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "LatestLY"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2015,6 +1993,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "as ganeshotsav dj row continues has 121 notified areas under maharashtra noise pollution r",
+      "title": "As Ganeshotsav DJ Row Continues, Pune Has 121 Notified Areas Under Maharashtra Noise Pollution Rules",
+      "summary": "As Ganeshotsav DJ Row Continues, Pune Has 121 Notified Areas Under Maharashtra Noise Pollution Rules",
+      "source": "Full - Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNnVIMDU3aGJWLXhXdERvZDd6MWFMeGhTWGluYktybnNsQ21rVDJTVGcwTXhRclBpVGRyaGZiQkk2Nk1kUjQ4THJFUFlQYjBucW9NZVZxalNUMFNjbXJjWVlINF81VTE0Ulg0UXltSV9nWTlhX2JEbi0tejN0ZE9iUkZ0aWd4dDBuNFlTVEdCVUE4SW1wZGZSa3FRMWJzeHdlUkNTc3hMdXN4MjI3MXhUdVdlaUJ5S1AzN1BTSXNDMWRrbWwwUnZkeENjdU8xQWw1STF3Wlc2S0Z1aFlYSmJmX0dQNkxnd9IB6wFBVV95cUxNYmhxMjJqMHY2Tlg0R1VLcENGaXJRY3RiNEpuMk9ZQW9oZzduckVyTk8yTHVmOUR1T0lNVDBVSVM3NVFyUEJsVzU5T3BfVTFoTkN0akVTcUlmdXFUTDFrQmJGWXhibjZ2d0ljQVhOckJBNkU1a1A1SWdLTmZJRS1tZkF2RUwzNTl2Wl9JNjlza3NMSEhYQURVMGc5UDZUVEVGNzRGMFZJdHM5LVA0TUpoLVVPbFd4dFJLd0xxMTIwcWRFSkJZcUNsdDloa0VVeEZYdVpCSklMX3NBdU15M01JYVdWM1hxS291cGlj?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 07:32:23 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 07:32:23 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Full - Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "gurugram rain alert district authority issues advisory as imd warns of thunderstorms gusty",
       "title": "Gurugram rain alert: District authority issues advisory as IMD warns of thunderstorms, gusty winds",
       "summary": "Gurugram rain alert: District authority issues advisory as IMD warns of thunderstorms, gusty winds",
@@ -2027,6 +2027,28 @@
       "region": "pune",
       "sources": [
         "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "metro police conduct mock drill at mahatma phule mandai station ahead of ganeshotsav",
+      "title": "Pune Metro, Police Conduct Mock Drill at Mahatma Phule Mandai Station Ahead of Ganeshotsav",
+      "summary": "Pune Metro, Police Conduct Mock Drill at Mahatma Phule Mandai Station Ahead of Ganeshotsav",
+      "source": "Pune Mirror",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlZMMDdhN1lLc19JekxZVlJURG9BUWc5TnNkVkFOVXJ1TkRsLTVzaXQ0cEdfQ1dDdnc2VnRLT0RhbWkzcXRMZHZJVWZEenFfMmdHeldvRHppanlEREVFYkdJNnZfMW1Nb01zbDlWSENGcFdESTV5bDdEeGhWZ0pBUmd5Z0ZvRll1?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:56:57 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:56:57 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2062,6 +2084,72 @@
       "action": "No immediate action required."
     },
     {
+      "id": "delhi rains indigo air india issue travel advisory as weather conditions disrupt flight op",
+      "title": "Delhi rains: IndiGo, Air India issue travel advisory as weather conditions disrupt flight ops at IGI Airpo",
+      "summary": "Delhi rains: IndiGo, Air India issue travel advisory as weather conditions disrupt flight ops at IGI Airpo",
+      "source": "The Economic Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeEVOdEFGSW5yUEotY05oMW1iN01zdmxJdlo4d05yNUlyeVdXaERQanhwZ25IY2dLX09pUTVyakRSYWdKWHU3dEJRbG9VWExtZnpiNjN5NEQ2bi1paEdlWk1VWVJaLVY4RV82bUQwZ3JKUC1EX1hmTXh2NWRGT1NRaHJNUzlOS0NmdEVpdmkza3Q3ankxNW9SWk83U2I1OXFUdFc0cU5FdUpURmY2SUxELWFSaDE2SzEzOXJjeDJ5WFh1NEJzeFhMV0VQSGVEZE5GSVhmUWtMd2s5SzU4WW5CTTVTZXlxbldhSGFsdExVbHdNQnBoTHB4Rk5ud0Q5b2FQMEtUbkMwZmJDNjl2ZU5Fd3Z4bVhPSUpaVmJuMVhwXzdKWmk5clM1eEw5eW41WF9xZXRld1VFTDE3aUhFUzBCOWJSeThCbHRYMjdwU2J5Ym9iZ2xrMzcyVEUwOHZvYVhHZ3dHYy1nZmQ0REdPRXZ3eGNWbWotV2xoQ1JuOGtn0gGDA0FVX3lxTE5oSUtvOWdJSFhDOVdKdzJOWnJFemdsT3c4LWpzRTFTZmh1MkFXSmR2ZUNSOTFVdmxXWkIwVDY3cDBNbXZUYk51Q241cXcyQTlGTTM2TnBCRm5EVG9IZFlsWjE4VVhIcTB4UlprZHYwN3RMeGg0RWZ2Qm5JUHUzTFl5RGhqb2d3eDVNaHVCcmt1cmFHTktVR1BDckFFVUNiSUltMUhzU21CMl9JUTU5ZzB6cFA2a1RfNHNCU2R0M29sN2FIMWtMUkVjV1FhNWZvTW5OaFpaVk9BOXZpaFdnNEZBR2xmNFJ0bEZ1UE5peEZvWXVxbGVsaXg1SW56bkJfLTdMRXBCa0lWbVdZZE9ScmJObTVZQlhNdXFNYTM2bWdxV2hCX2dQdXpvTHpoVFRpRWJDd2xtbHh5OWltNVFHcm5QSFZUekU0SEFoVS1iM1lwVHA4eGJWM1d5dVdHejh3eExwMTZzYVM1cUU1Y09pb2stWmNzQmFFWWo3UE1weVV2alBxRQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:36:15 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:36:15 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Economic Times"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "delhi ncr battered by heavy rain again several areas waterlogged indigo issues travel advi",
+      "title": "Delhi-NCR battered by heavy rain again, several areas waterlogged; IndiGo issues travel advisory",
+      "summary": "Delhi-NCR battered by heavy rain again, several areas waterlogged; IndiGo issues travel advisory",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeHBrUG5kRW5iNUFhZ1lPaWdOcDFyanE5ZDRaX0I1RVRhSlVlQXZ1WFJmWDZZRG93bHZiR19NYWhfMFpvNWtpaGJLdEJ6cjQ1NWxKWXJXdk90QlZua0xwbkVkSUVzUEdGSVlfOGRTN25OZ0x0bVE3MXcwSzVhRGo4YnMwcUxFWG02cEkwT0FTT2lrbGV5aElVUzl6QWNZMmxBVHM4UkREa2RMWTZ2Q1VwRjV4SXI4ZXZwMVBWaWZ4UzNZOHlXSkRGSFlhc0V1T3ZSZWFEUXZMWmpHUmJLbktNSDZlWFdKaGpYVTFqRjd3RlVaRF9TYXV2OG4yWC1ZUdIBgwJBVV95cUxPMC1XclphQl9EalFCanBqeFpnRDJLT2dGV2RSQklSdC0yNmtaYjM4anJDSHlweFBKUFVWbGt4TVl3ZnRyNFpZdHFlOXdXZ29XdlFMRDczMHFKTjlLd2lhdGpUZDI1VzdjX2c2eXhfa0JKYllzTGlmYVBzeFNSVWREQmtWcm9mandvZUg2V0p3eXdsQXhmOHJRbEwzeENjdHAtSWVubXczc1hSLVhfQ3ROMVBtV3hpVS1ISFFYVjB1YVNrbDlUN1Jxbi1ESDJhUUo3dDRPcDAwNlhoT1AwMGMwcWVvUHdVU2VydlRKMl9kQXlEMFRROG1CSXYyS0YwWXozZ01V?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:26:00 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:26:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "kp falls maharashtra s viral railway bridge waterfall",
+      "title": "KP Falls: Maharashtra’s Viral Railway Bridge Waterfall",
+      "summary": "KP Falls: Maharashtra’s Viral Railway Bridge Waterfall",
+      "source": "thetraveler.org",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFJmT2NQTzRKZi0wTGVzdG1XZ2w4RFRfZXd4US1MaElPX3Z6NFJ6ajdDOWNsZHJIUWR6YTUzclJRVVdBak1PcGozNFRHNnBrVGRmcFkxb2k0UV9KY0h4VnBLLUgzSWhaTVFNMU0ySEw2ZF93c3dvd2tqcGhXQ2hydTVtV2t0Ymg0?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 05:06:53 GMT",
+      "lastUpdated": "Sat, 05 Sep 2026 05:06:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "thetraveler.org"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "महाराष्ट्रात पावसाची उघडीप कायम पुढील चार दिवस कोणत्याही जिल्ह्याला अलर्ट नाही कोकणात हलक्",
       "title": "महाराष्ट्रात पावसाची उघडीप कायम: पुढील चार दिवस कोणत्याही जिल्ह्याला अलर्ट नाही, कोकणात हलक्या सरी बरसण्याच...",
       "summary": "महाराष्ट्रात पावसाची उघडीप कायम: पुढील चार दिवस कोणत्याही जिल्ह्याला अलर्ट नाही, कोकणात हलक्या सरी बरसण्याच...",
@@ -2087,7 +2175,7 @@
       "id": "regional daily weather report based on 0830 hours ist observations",
       "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
       "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
-      "source": "IMD",
+      "source": "mausam.imd.gov.in",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
       "pubDate": "Sat, 05 Sep 2026 04:37:34 GMT",
@@ -2095,7 +2183,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "IMD"
+        "mausam.imd.gov.in"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -2304,6 +2392,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "salman khan poses on bigg boss sets ahead of premiere loses cool at paps during shoot",
+      "title": "Salman Khan poses on Bigg Boss sets ahead of premiere, loses cool at paps during shoot",
+      "summary": "Salman Khan poses on Bigg Boss sets ahead of premiere, loses cool at paps during shoot",
+      "source": "lokmattimes.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdC1wYVN0VXUtU21pcFlaMzVjSDIxRW9JUi1UQlBxbnlnbnVDRDF6N0hrNVk3ekhJTEJNclJxLVMtLU1nY1RIdVRqdDhtd1RlaVdXdG5qYmlIYWRtdkluYnBteHBuSzhJdDh0UE1pYWZKQS0tRWFzMnhVNm9PN3Q1QW1iaFBFV0pNUGU5ME80dFdJN3VuaExPLVoxM055V2Y0ODIwT0k2UFBBZzJEMDBjR05xbXlnNlNSYmpwWmJwUTNGY2FkdHl3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 19:46:49 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 19:46:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmattimes.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "haryana dipped into emergency fund for rs 148 9cr road works cag calls it irregular avoida",
       "title": "Haryana dipped into emergency fund for Rs 148.9cr road works, CAG calls it ‘irregular, avoidable’",
       "summary": "Haryana dipped into emergency fund for Rs 148.9cr road works, CAG calls it ‘irregular, avoidable’",
@@ -2334,6 +2444,28 @@
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVWJFd0xRaHFwTnBURTNRTm1nV2RzWFR4M09lWkNSbmhyM3RSckZ4ZzBmUzhMeW1KZWtqZFdfMk43dDJkSnM3eTdiVHJVa2hyWXdQV0hZMHVfUmxMSm5yWnlVOEdRYWpKZDhQNEVGTzNQUFR3WWJHR3E1ZkZYbExoTEJEODFvdkM5U3dFRFV2R01pQmRsaWpYOEs2UE1jYm5DSk5JSFNJdUdkUm4yTWpPQWdNYnZhYVRmS0kxaDJkeEs4aHlKRHdFQ3FMdko3NkpDa0U3NXRuR1dVeTdiZTBCakk4ckppWVJNcjlkeVJGWkTSAfABQVVfeXFMUFViRXdMUWhxcE5wVEUzUU5tZ1dkc1hUeDNPZVpDUm5ocjN0UnJGeGcwZlM4THltSmVramRXXzJON3QyZEpzN3k3YlRyVWtocll3UFdIWTB1X1JsTEpuclp5VThHUWFqSmQ4UDRFRk8zUFBUd1liR0dxNWZGWGxMaExCRDgxb3ZDOVN3RURVdkdNaUJkbGlqWDhLNlBNY2JuQ0pOSUhTSXVHZFJuMk1qT0FnTWJ2YWFUZktJMWgyZHhLOGh5SkR3RUNxTHZKNzZKQ2tFNzV0bkdXVXk3YmUwQmpJOHJKaVlSTXI5ZHlSRlpE?oc=5",
       "pubDate": "Fri, 04 Sep 2026 18:51:00 GMT",
       "lastUpdated": "Fri, 04 Sep 2026 18:51:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "swim before you take off from igi",
+      "title": "SWIM BEFORE YOU TAKE OFF FROM IGI",
+      "summary": "SWIM BEFORE YOU TAKE OFF FROM IGI",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlY5T2xLX3lZc01JdEV6NVZQa1VEVlVEYW5MU21HZUhYcVVOclNCS2R5SW1xTElfT0ZOVHRCTzVjWjVtVklfc2pQaEVzZEhjeWV2bHpVVEZFQzJNQUNwVTNkbG1CMFRRVHBoMV9NaUpvUVRGUWhReDFReWxrM2doVVIzUWF6V3dtZWpiSUpjdk5wUzFmd0I5bmZ5RkhQVmthdDE2NF8yNUx1d9IBrwFBVV95cUxNcUU5cFdpVml0SnV5MGFuRE1NSllIdkFvM3FfYS1VbXZMU2oyYzRIb0pka19tQnFYY2N3ZDdoYWQ0bktuVUJhTVNfTzVrVFNXRkhmb3hzZC1ybkVxSkp4ay1hWmhoRnM5c3BPNEhkUHZCT1VEVlhlM290eTBMT2hqaU5vVjNfTC05MjVVcEFNdnRnLTFwS3FPQnVqUTl4bjR6RUFqYmNucVFvcTVadmgw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:38:00 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 18:38:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2568,238 +2700,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "delhi battered by heavy rain connaught place to igi airport waterlogged after downpour ind",
-      "title": "Delhi battered by heavy rain; Connaught Place to IGI Airport waterlogged after downpour | India News",
-      "summary": "Delhi battered by heavy rain; Connaught Place to IGI Airport waterlogged after downpour | India News",
-      "source": "Hindustan Times",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZm5lbzVFWkttNU1KVHJVWDZKLXRZWEdoeEhiQVpPSDBYTUE1cERqODlyQXBNSnNuMUQ3b1V4WlBrUlNBNXBTUEFDcEZvZWYzdmNTNlZCSzlpMUJQbEZYckcyUnIzRGZWLV92X0U5cnVPWVZpcWFZUnFTN3h3bE4wS2g1TFpZcEd6b2hmbmhOdzVRQlZGd092ckt4dVRXOXhxQlFTWXpQZjBfVUE3eWw4VkxjbmlvWnNlS195bWtZWG85RmMxSlNUMEJOZnR3elNvVlB3LVE0VFo4S3A5N2E5M0NaMU1MeWNXWWNoNG9UVFFaX0dKQW1FVUFodFdDTGPSAYQCQVVfeXFMTXN6WEplZDM0d2JmeExmNV9sVGpaOUJvTmF3LWI1TURyVEhtWHlteG96Vml2VkxCQ3hYbGJWVms3QW8zbmpranAtcXM4ajRSS01HVk9IMmVTR0JKcmV4TEZHdEYzbHhrWjVsdVo3Q2JEaVhlMXB2amZWU1RJVHZiVTEzTUpXR0N1Yi0yS0ZvMWlZbXRCS21BRTJzNFNVMmtqOGRQRDhablc5YWtUVFR2UWxfaVRYNElzRUd3emRmZEpjdDNRb0dLSnN2N0p5SVBlcVhTVmJNRlRWNnQ4b19OdWk3TWpIWGZRZG5RSGtFR0dCZm1rbllDOXlPTWRpSUZnUmtZNmI?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:49:24 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:49:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Hindustan Times"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे मर्यादा ओलांडल्यास यंत्रणा ",
-      "title": "पुणे : दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे; मर्यादा ओलांडल्यास यंत्रणा जप्त करण्याचा पुणे पोलिसांचा इशारा पुणे : दहीहंडी आणि गणेशोत्सवात निर्धारित ध्वनिमर्या",
-      "summary": "पुणे : दहीहंडीला छुप्या पद्धतीने ध्वनिक्षेपक लावल्यास थेट गुन्हे; मर्यादा ओलांडल्यास यंत्रणा जप्त करण्याचा पुणे पोलिसांचा इशारा पुणे : दहीहंडी आणि गणेशोत्सवात निर्धारित ध्वनिमर्या",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2NGJvd19ldlFOa2NWdTRBRnA4YzJiQjBBbnd6TkViYzhQZUpmaEx1YWdQWC1Oc1RhNjBQdGhLWUpvSzVkVnVCV1k4bHBLc2tvalE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:41:56 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:41:56 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "manisha koirala to feature in upcoming indie film cowgirls indians",
-      "title": "Manisha Koirala to feature in upcoming indie film 'Cowgirls & Indians'",
-      "summary": "Manisha Koirala to feature in upcoming indie film 'Cowgirls & Indians'",
+      "id": "india s gdp growth of 7 8 pc driven by strong performance across sectors in q1 fy27 wtc ch",
+      "title": "India’s GDP growth of 7.8 pc driven by strong performance across sectors in Q1 FY27: WTC Chairman",
+      "summary": "India’s GDP growth of 7.8 pc driven by strong performance across sectors in Q1 FY27: WTC Chairman",
       "source": "lokmattimes.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmpZVG1QWnJIRWNMRks0alZQb1hJd25QMlBVOTBsLVdRMFNkZXlYNUpKZDh5czlIZHJEWjltUnV4b290LXd3OG9RUUlCRzgxNGdQdG9SQUU2cWRxc3FQWkJaODBnV3F4dDRLTlp3SndUTHU0a1pYNWNRZkZ0aS1ZUkVGcUxSM2FlYWJXaTlyTXRjX3lReFhJcGtlYXZQT2ljeGFFTUVuejhrYzBrU2fSAbMBQVVfeXFMTWJlVm5ieVBvTWJ6TFVOeHNpUXdxZF9kTDhLYVJpNk1EY3d4THJhOTVhR1J3SnJNUUpvZGRiYW42UnZXbVpUYjFyRkpEQnFFYm55Zk5VYUx5U0MtQlRjdnE1ankycnlpT3A3T1Vmb1N6UFZnRGUtbUpsbUJiemdSaHRuSXE3cDVZR1NZZENwZHAzVWpwY0tTaG1rWE5FSXpGZlIwaTRPeTRmRkdqeHBwMHhlRzg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:40:23 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:40:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlNMM0NLbi1YdjB0US1ESS1XZFRZQklKblRJRlNqTHcyVDU2a3VtUVFHU0ZkbF8wajdvbG5OWVl4SmJ4aXV2UFRfZE1UMEpzQzc5UHB1dTRPQXg1cGZhOGNVVG50ZGpMMjhIZl9sQ3J0TC14SGpnVGp5LUxOUGZkdTk0NE1FM0tJQ2NjODliUGctQU5kVjdtMVdVdUNacGhKUzFHTlFQdzJmYms0OUIzY05hWlFSbHdlSDNCWDA5NzlkckJyUEJ4RDliRDjSAdIBQVVfeXFMUDQyaWRva0FJU3d5bnhkclAyOThXZ01CNzFRUHRIV0xqbERiaHhOb09jV0lvOWxWZ2JCV1E4eHdwdktiaWdPb0RQSnd3X05lTGRncWNhTjNHWFBQT1BrUnBXU1VfWWxtVHJZOWFHWGFlNHdwT2pqYTlCS0FCVWFIeW05R3VwR3FSaGlESzdPWnZUeEpCTkpvSXZaWWJhNnVrd0xIeC0tYkExN1M3ZU8yTkcweG9IZC0xeFN0LXNWVFlYWTlKVC1pdk50TjVqTDkwb1h3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 14:25:33 GMT",
+      "lastUpdated": "Fri, 04 Sep 2026 14:25:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रात पावसाचा पुन्हा ब्रेक शनिवारी नवं संकट येणार हवामान खात्याची नवी",
-      "title": "Weather Alert : महाराष्ट्रात पावसाचा पुन्हा ब्रेक, शनिवारी नवं संकट येणार? हवामान खात्याची नवी अपडेट",
-      "summary": "Weather Alert : महाराष्ट्रात पावसाचा पुन्हा ब्रेक, शनिवारी नवं संकट येणार? हवामान खात्याची नवी अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTTVLMmdZU1hWVU9ZZmphaDFubzBRZHJENGZKampzR3V4TFMyNVB5ZmtDTG9oNEE3Y3QxZFVSVERqYTg3eXVhOWRldWZDbGkzM19saEhwRUtjR3B2VlBQUHJqWHhJYzRvUlh0V3ZUaXJTSU1kcEl6N0J3Y0U3ZTdreTlhQWxwMVZTQWtsdzNzdEFSTmdnWUxuWUFtWVVqSDZjZkNndTAxSEtVakYtcENrcHpRTlRMdm1MSW5jN2RmbHJsVXI3amtIX1RRcjVoZ2V3X2dhWlp1dnViR1JDQ0NYVG1GaDg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:39:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:39:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रातील या 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा पुढील 5 दिवसांचा हवामान अंदाज",
-      "title": "महाराष्ट्रातील 'या' 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा, पुढील 5 दिवसांचा हवामान अंदाज काय?",
-      "summary": "महाराष्ट्रातील 'या' 6 जिल्ह्यांना वादळी वाऱ्यासह पावसाचा इशारा, पुढील 5 दिवसांचा हवामान अंदाज काय?",
-      "source": "BBC",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zLThkYVhWZGQ4RW5oV1V2MGdGdjcwS3hBRWZkdnpEV0U5WXU4M3BmTWhNcnE1ZE1zQjl3MkNiYXBlRHRoalpqRHcwc0c4bEo0OTlrVi1rNlFOVUV0RG0xbk9xONIBY0FVX3lxTE1zLThkYVhWZGQ4RW5oV1V2MGdGdjcwS3hBRWZkdnpEV0U5WXU4M3BmTWhNcnE1ZE1zQjl3MkNiYXBlRHRoalpqRHcwc0c4bEo0OTlrVi1rNlFOVUV0RG0xbk9xOA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 13:05:10 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 13:05:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "BBC"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "worst airline experience spicejet passengers fume as flights from run late",
-      "title": "‘Worst airline experience’: SpiceJet passengers fume as flights from Pune run late",
-      "summary": "‘Worst airline experience’: SpiceJet passengers fume as flights from Pune run late",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU01QjN5NXlqM2VuNS1PUEVKS25ZNGxZeVdUQ1RNVTJUY0lXSnZBM012WGI5VWpTek9HNUZScW1WcUlrX3phYi1DcGZwWnZySUdYUmpRVWhIb0V0NEJxTWRfUFpKQ3d2Z29ETVdQS18tRUhRdXljN21TbEpjRHp5ZngyalFNdkh6YW5oaENzTmNEVnVCck5hbWhVaF9oMEJTRG1ZakQ3M1k1UzZuTTJSYzFhT3BPMFRLSG9nOXRVNDTSAccBQVVfeXFMTjFET2NfZGpIVVhHeTExM2N1VGpIY0s5Sk84RXpmek5mcUlzWmxoeE9ab2Z1QzBFYmxObl8wa3pCRDE5aWp5cEs5UWJsa3lwTU9HRXNQNDBLT2NCSzdVMHN1Wmp4cEREa18xZXpJZ1NwQnNEa0ktcG11QUN2Q0lyalM0UldvZHFacThrN0tFSGVNWXJYVDBMc3lycGx0cnd1SGNIdXBnZHY5V1ZZdzluUTNjWGRFN0p0S1lneFFGTGRNUXVkYXJvOA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:37:36 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:37:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "sanjay leela bhansali wraps shooting of ranbir kapoor alia bhatt vicky kaushal starrer lov",
-      "title": "Sanjay Leela Bhansali wraps shooting of Ranbir Kapoor, Alia Bhatt, Vicky Kaushal-starrer 'Love and War'",
-      "summary": "Sanjay Leela Bhansali wraps shooting of Ranbir Kapoor, Alia Bhatt, Vicky Kaushal-starrer 'Love and War'",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFBxZGpIeW1kMk05OHozdWNjOXg2VXEwaXpoT2h3alZGMHR6c201eTYtejB1LW1kRjhQWWVVblVkMGZmdTJodWtTQTlURDZxaUdLcEI0djRuUFVlQk5qLUd1dUd0V2lLd01md2pNSUZLYUtqU0dFNEU0WTZMdTBKY2p5a3VtQkJRNHNfY3FVZDhNRFRtemFQX1M4ZUl6SldEWTl5TTBVdGo0U3E3b19oMmNGbTJRb1Q2WjktUmx4eVplUWVvMXlYNVRUdDVWTmtoOEtMM25ZS2JKQdIB3wFBVV95cUxOamVGNVRlalNGdmRBeTNWRFJiY1dCU3dlNFAtRnBVV2M2cnRfWjF6dFlGQ29KRVQ5bDVDdEVyZURfeGRlaHM0WUthNkVHcE1NbFhtR0hDRnU1R2lWTTVJU05aTWFhM1Z1WkVhTDkzREN3ZFQ2V0c5LXRCSE5SQUl2Z1prRDZXNmRWc0M0dXNVbFNuY3RQSXdHNXJjVTJlNnctZXVVMkFIZFVIRVJjM3dGNWM5UXhTZ2p6cm1yTHBfUXB1dnl0SlN2VlY5bl9rYWFBYXpzY0JDX2kxU1ZUZ2lj?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:35:23 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:35:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jubin nautiyal expresses gratitude to pm modi for choosing his song to celebrate lord kris",
-      "title": "Jubin Nautiyal expresses gratitude to PM Modi for choosing his song to celebrate Lord Krishna on Janmashtami",
-      "summary": "Jubin Nautiyal expresses gratitude to PM Modi for choosing his song to celebrate Lord Krishna on Janmashtami",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTHlMZEJSUWNkNjQwcUhyYlV5cGVXQkxjbGY2N2dGSUFmNUVLSkhXMmJPTlhWOURzd1pwWUJydFRKZW0tWXRBTFkzQ1ZiSUNWYW9BLXljbDhqVjM5YV8zUlliT0RIX1Fob1hUdjRWLU1pZWVmOEQzc2h0RjlSY1ZkcldsQ3phV1EyTjB1cGZGei0yTXB5MHFqaTljNFRhX1ltTllWMV9Fdm5lM0FzcHhXQUw3V01RVnlsZGhjd3V1LVRQaGZwQkpvWUtnN084bUVZQXp0R2pmMWp2eWRUMFpHQlloTWlOQdIB6wFBVV95cUxNQ25Kb29oMjd0NUhfWGRKSDRjT2dnMnZ5UWxDQ0F5SGFZS0MzWU00RmFXVFJwMzJWS0NlSmhpNGYyYjZPZjlJdEVyYS1PdzVEUDQyLXN1dEF4SURGZlF1QTc4Z3c4Q2R0M1NHSnJnRmZZUTdKU29XdFNpYm14Sk5neTZnTjZrLU5zek9pN3U2UXRwMWVldGRIV2dqempHNGlBVWY0anp3eXhnSzZIVmNMdGpQczlSSUFDcWZzOEVCeFZBcThBd3RwRlVqc0xHX3pVZ2R3Uk1SWnpyOVpJT1A4VktyeWV0S2o2Zmk0?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 12:10:24 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 12:10:24 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "title": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "summary": "थकबाकीपोटी वीजपुरवठा खंडित केल्याने दांपत्याचा राडा",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSG1LOVVSa0xMMHJqZ3h6cnoyNXdZQnh1RFl2Z1dUUFhxZHJ6bjJJVUZtWGF0QXd5OGxjSTA3WjZMZmlkNVp1cFZ1bkoxWm9mc3lDQWU1OFN0bVhRLUpUQ3NuUThyMEVzb0NxLU5idWc3SXE3X1h2c05wQXlnQUhGc2FCRU82WDUw0gGIAUFVX3lxTFBIbUs5VVJrTEwwcmpneHpyejI1d1lCeHVEWXZnV1RQWHFkcnpuMklVRm1YYXRBd3k4bGNJMDdaNkxmaWQ1WnVwVnVuSjFab2ZzeUNBZTU4U3RtWFEtSlRDc25ROHIwRXNvQ3EtTmJ1ZzdJcTdfWHZzTnBBeWdBSEZzYUJFTzZYNTA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:51:00 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:51:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rainfall lashes parts of delhi flights affected imd issues yellow alert",
-      "title": "Heavy rainfall lashes parts of Delhi; Flights affected; IMD issues yellow alert",
-      "summary": "Heavy rainfall lashes parts of Delhi; Flights affected; IMD issues yellow alert",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmhVSDFrc1RCVFgwSnFvY1VUV09PS3hxQ1pMci01V1pxY19tMzZ2YzVWVlV4cHdQdkFyNXg2eW15bTdFNXprQjdYeEk5RnFCWkpBTC10VjNnWnRsWlJNRUlBbVdJZnEzeDZPdUc4ZzI0N3FmaUtKOTZaNHpjOUNIdl9CYmE2eG4wT2ZPNG5WXzlMVkFMRE4wUlRqTm0wSmN3OUs5Y3NhSnJ0LW5QMjc1QV9yQ1JlbmdVMnhF0gG7AUFVX3lxTFBGaFVIMWtzVEJUWDBKcW9jVVRXT09LeHFDWkxyLTVXWnFjX20zNnZjNVZWVXhwd1B2QXI1eDZ5bXltN0U1emtCN1h4STlGcUJaSkFMLXRWM2dadGxaUk1FSUFtV0lmcTN4Nk91RzhnMjQ3cWZpS0o5Nlo0emM5Q0h2X0JiYTZ4bjBPZk80blZfOUxWQUxETjBSVGpObTBKY3c5Szljc2FKcnQtblAyNzVBX3JDUmVuZ1UyeEU?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:48:34 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:48:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "दिल्लीत मुसळधार वादळीवाऱ्यासह जोरदार पाऊस हवामान विभागाकडून रेड अलर्ट जारी",
-      "title": "दिल्लीत मुसळधार! वादळीवाऱ्यासह जोरदार पाऊस, हवामान विभागाकडून रेड अलर्ट जारी",
-      "summary": "दिल्लीत मुसळधार! वादळीवाऱ्यासह जोरदार पाऊस, हवामान विभागाकडून रेड अलर्ट जारी",
-      "source": "Saamana",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RHQldKN2xnSHBkbTNSc000bllXU016Ym5kWUd5MzhIUnFwZWtWeGNRZWl3am5lc0xvZmVtOXQ4blVTTTZlbFcxWE0tVXgwaXVxdksxWThfZnljS3ZQaEdQcmdCQmVpT3FhbUM0UXV4UWpUOW5GZE1OOUM3OHhheW1uU1EwSDNMQkRjQzZTcC03dVhobENNOUdaR21vaVdtYXBKdlF4dVh4Nzg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:25:55 GMT",
-      "lastUpdated": "Fri, 04 Sep 2026 11:25:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Saamana"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2812,8 +2724,8 @@
   ],
   "summary": {
     "total": 64,
-    "alerts": 16,
-    "news": 48
+    "alerts": 17,
+    "news": 47
   },
-  "cleanedAt": "2026-09-05T11:20:22.279Z"
+  "cleanedAt": "2026-09-05T13:56:55.834Z"
 }
