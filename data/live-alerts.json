@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T18:28:28.477Z",
+  "generatedAt": "2026-09-06T20:40:38.908Z",
   "status": "ok",
   "alerts": [
     {
       "id": "msetcl substation fire disrupts power supply to 3 1 lakh consumers in pimpri chinchwad",
       "title": "MSETCL Substation Fire Disrupts Power Supply To 3.1 Lakh Consumers In Pune & Pimpri-Chinchwad",
       "summary": "MSETCL Substation Fire Disrupts Power Supply To 3.1 Lakh Consumers In Pune & Pimpri-Chinchwad",
-      "source": "Free Press Journal + 4 more",
+      "source": "freepressjournal.in + 4 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEhpN2pBbkVSRjRZdmx0bHBWMzdyME8xMTZrLVhKelFKODhGTWRuZ2lDa0E0Wlcta0FNcjJVUVZuSU01YnB5c0FiRFF0UjBYQlNaWEdXdXBVd3BtQWlfeXphbHVyYmZRaDZ2cUFLc1hCdHpJLUtoYjVuUjBNTG1ZUHJaTVVLWDdCYjIxdGdGTUt6OXVlblZlNm5XbHZTVURDM2h6YzZQZ0RGUXlaSFoyWDVlMzZTcHp4S1ZMVXpDdHAwWms1S3RHOE9FSdIBywFBVV95cUxPTEhpN2pBbkVSRjRZdmx0bHBWMzdyME8xMTZrLVhKelFKODhGTWRuZ2lDa0E0Wlcta0FNcjJVUVZuSU01YnB5c0FiRFF0UjBYQlNaWEdXdXBVd3BtQWlfeXphbHVyYmZRaDZ2cUFLc1hCdHpJLUtoYjVuUjBNTG1ZUHJaTVVLWDdCYjIxdGdGTUt6OXVlblZlNm5XbHZTVURDM2h6YzZQZ0RGUXlaSFoyWDVlMzZTcHp4S1ZMVXpDdHAwWms1S3RHOE9FSQ?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:29:25 GMT",
@@ -17,11 +17,11 @@
       ],
       "region": "pcmc",
       "sources": [
-        "Free Press Journal",
+        "freepressjournal.in",
         "ThePrint",
         "The Indian Express",
         "Punekar News",
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "High",
       "w": [
@@ -38,6 +38,35 @@
       "correlation": [
         "Power supply impact possible."
       ]
+    },
+    {
+      "id": "substation fire forces maha metro to stop swargate to pcmc ops for 22 mins",
+      "title": "Pune: Substation fire forces Maha Metro to stop Swargate to PCMC ops for 22 mins",
+      "summary": "Pune: Substation fire forces Maha Metro to stop Swargate to PCMC ops for 22 mins",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV3VtNjlxVHlnVk41OEJ6TlJKZXJVN3hSa0dzMVRlU2JHa2Rsb1lhektMdS1PQUlobmYyNnFKNlpsZzdLN25TbnFCeHRoVm9YNTlzUVVScWlDVWVKVmNpQ0JlTGRxTGxjMFBqc3hETk55T2Q1Y0trUFJ3RVhkRHJrM0s4YUZUS21DSThfdzh4OFZka1MycnBZaFhKclhOVWdHSmRNbTVuWHUxd0hQT216VWhETUpRMXNpRzBTaUkwQlpUWWJveFMwYjEwd2ZVUHlwYXhhUEJJYlZrUkszV19sbXI3bnN5Z9IB6wFBVV95cUxNalNHUy1rZHhxQ0JVTm90X0dscjEyUVg1RUF6ZlBYblZiT0lreGxfZkJIbEhBYTZRRzBOS3RsOGNzaHQxeEVjYXkzdFR0U29xN0NMSTFvcEQwT2YyWDBkTmh2NFlrV1JOMjJjeWdibEFxWjRxVmtMLXgwUnctUkotcVBiX1NoWklpSFpGQXRnOWM0WlZiTVFFX0c1OFVQMXo2RjRrTXJ3N1VqS3ZabnE3SUYwVzJZS3hiY01rTHdpVTdKNWVKLV8tSDV6SUFtTVA1aGRDM016aHpoZU04Tm9sV1ROQllVQzBOSHRj?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:46:00 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:46:00 GMT",
+      "areas": [
+        "Swargate"
+      ],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "pimpri chinchwad power cut after substation blast fire brought under control",
@@ -105,38 +134,6 @@
       ]
     },
     {
-      "id": "central railway cancels multiple trains as landslide restoration continues in lonavala kar",
-      "title": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
-      "summary": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
-      "source": "DD News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzVZVlJ0WV9sRV83YXpITFJ0blVXWm1JRnhVcmFfWGFlZUFBb3RfSDM0cDBVUTE0eFBYOXplUHhPQ3JfRU93S21CckxBcFZwSDZXR2xrN213ekhmRU9nUk5oaEdDeFFkNGZ2cVBZR0dNUnN3d3I5bDQyMm1jMjFUbHRjS25wcUlvUEV5SGRZbWZyaWh6VVljNktRSmtKUHB3UWRscnNMdXZFRWRTOG15M2FpOXZHNURUMVpodWpzN1gydw?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 20:08:42 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 20:08:42 GMT",
-      "areas": [
-        "Lonavala"
-      ],
-      "region": "pune",
-      "sources": [
-        "DD News"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
       "id": "chinchwad electricity ट्रान्सफर्मरला आग चिंचवड वाल्हेकरवाडीसह रावेत परिसरात वीजपुरवठा खंडि",
       "title": "Chinchwad Electricity ट्रान्सफर्मरला आग, चिंचवड, वाल्हेकरवाडीसह रावेत परिसरात वीजपुरवठा खंडित; आगीचा VIDEO VIRAL",
       "summary": "Chinchwad Electricity ट्रान्सफर्मरला आग, चिंचवड, वाल्हेकरवाडीसह रावेत परिसरात वीजपुरवठा खंडित; आगीचा VIDEO VIRAL",
@@ -168,37 +165,6 @@
       "correlation": [
         "Power supply impact possible."
       ]
-    },
-    {
-      "id": "msedcl levies rs6 15 crore fine for electricity thefts",
-      "title": "MSEDCL levies Rs6.15 crore fine for electricity thefts",
-      "summary": "MSEDCL levies Rs6.15 crore fine for electricity thefts",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVnByMnVKTlJNaXo3VWxFVUkyUjVlblVtMUtPbVNkOWN3UGZPQXk4eWt6dGdpeXFKWWViMVVjclBaOWtobEFaZFJYdkdoTWJCM0lpdWxFdDkxNlVSaFN5Y2FKM2ZBck9rQmoyWWJnMEdyY1lFR1RjWS1lR1lPbkNwck1RS0hHNEFkTTBiYXpLMW5vc245RlUyTE9GQUNFOVhtR0w5RlpOSEtZcmpLY1hFWERNVXFtN1RvNGE1c1F4VWczdC1SUlBBTkpB0gHKAUFVX3lxTE1WcHIydUpOUk1pejdVbEVVSTJSNWVuVW0xS09tU2Q5Y3dQZk9BeTh5a3p0Z2l5cUpZZWIxVWNyUFo5a2hsQVpkUlh2R2hNYkIzSWl1bEV0OTE2VVJoU3ljYUozZkFyT2tCajJZYmcwR3JjWUVHVGNZLWVHWU9uQ3ByTVFLSEc0QWRNMGJheksxbm9zbjlGVTJMT0ZBQ0U5WG1HTDlGWk5IS1lyaktjWEVYRE1VcW03VG80YTVzUXhVZzN0LVJSUEFOSkE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:14:00 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 19:14:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Power supply impact possible."
-      ]
     }
   ],
   "news": [
@@ -208,7 +174,7 @@
       "summary": "‘Open the gates’: Dramatic scenes as Suresh Gopi confronts Paliyekkara toll plaza traffic",
       "source": "Mathrubhumi English",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb015c2N1Mm9Vdks5d2hSOVo3Mi1Xb1NES2hkMTdhTFVwcThsai1ZV3BpWTliTXMwWGpaSHM3bzBQdVBuVjc5aUlkLXVtTnB1MERBbFZhR1F6Y3FmekhjU2RkdFo5TkU3NXRwNmJ2Q1MzV0ZKZWV4MlBrXzc0OU5lcmdwTFVIU2xaSGF2Yjg3Vy1kTGtuQnVkV2RfZk16Ym5NRi10cV9tbHVfS1J1cWJuWFZlbkTSAboBQVVfeXFMUEtyeVBfclI1V2hINW9hR0liNmk1aGR0N1lJOXJNN0dhcHhJelNkdDdwN3JYdUZiT3RPNDd3S194VlRaRmw4S2E1NXlOU241T2E3cDRGUnl4aFAwbHBETlp5Mm96ZEQ3Skp4cVlnMTFITm5qRGFYeGdqNTZhQjNqakRqSDZhaVJiTnpKcUZpdGhKOHRZS1cxOWQtOXdvaXdjbUpPYmVIWGt4djJTcXpHd2pxcjdocTB3cHFB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3J5UF9yUjVXaEg1b2FHSWI2aTVoZHQ3WUk5ck03R2FweEl6U2R0N3A3clh1RmJPdE80N3dLX3hWVFpGbDhLYTU1eU5TbjVPYTdwNEZSeXhoUDBscEROWnkyb3pkRDdKSnhxWWcxMUhObmpEYVh4Z2o1NmFCM2pqRGpINmFpUmJOekpxRml0aEo4dFlLVzE5ZC05d29pd2NtSk9iZUhYa3h2MlNxekd3anFyN2hxMHdwcUHSAboBQVVfeXFMUEtyeVBfclI1V2hINW9hR0liNmk1aGR0N1lJOXJNN0dhcHhJelNkdDdwN3JYdUZiT3RPNDd3S194VlRaRmw4S2E1NXlOU241T2E3cDRGUnl4aFAwbHBETlp5Mm96ZEQ3Skp4cVlnMTFITm5qRGFYeGdqNTZhQjNqakRqSDZhaVJiTnpKcUZpdGhKOHRZS1cxOWQtOXdvaXdjbUpPYmVIWGt4djJTcXpHd2pxcjdocTB3cHFB?oc=5",
       "pubDate": "Sun, 06 Sep 2026 16:16:10 GMT",
       "lastUpdated": "Sun, 06 Sep 2026 16:16:10 GMT",
       "areas": [],
@@ -266,7 +232,7 @@
       "id": "ketan agrawal case updte ritesh hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय crime",
       "title": "Ketan Agrawal Case Updte | Ritesh Hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय? | Crime News",
       "summary": "Ketan Agrawal Case Updte | Ritesh Hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय? | Crime News",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0owbExKMFhBaFhrVEtXd2c4ZTRxTkpHdnlwZ0ZyWnJwSGtRdGFvU2Y0VWFkaGhFNmt5dlh3U2dfdllDdXdLX1V6akV0TDFTY2VEZVpITGVYNzNpZi1YYmswaVc5ZnRqa0VoSGthWTV1ekh1M2FnZ1B6ZlZiSDVfbnhXMzRGa0J6QnVVbTdtcFA4ZkRhbXNIa084UGRPVncwWVZjUzl6UWlHd2R2?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:25:51 GMT",
@@ -274,7 +240,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "w": [
@@ -289,6 +255,30 @@
       "icon": "🚓",
       "critical": false,
       "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "title": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "summary": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "source": "aaplaawajnews.com + 2 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sVVJDcnk2WVV2UFFzZDV0WDc4Z2NQTXh3d1lrWkhxSUx1S1Bnc0RpMEhlU0pIWFBGZ2VpWmRJdTlhYnFDcXdHVmc4a3N2QQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 14:21:55 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 14:21:55 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "aaplaawajnews.com",
+        "Dainik Prabhat",
+        "instagram.com"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "school holiday tomorrow september 7 2026 will schools be closed due to heavy rain check st",
@@ -317,21 +307,42 @@
       ]
     },
     {
-      "id": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "title": "Pune News : महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "summary": "Pune News : महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "runner former c dac scientist dies of heart attack at satara hill half marathon",
+      "title": "Pune runner, former C-DAC scientist, dies of heart attack at Satara Hill Half Marathon",
+      "summary": "Pune runner, former C-DAC scientist, dies of heart attack at Satara Hill Half Marathon",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGlzYm9uNnhJeHhRUG51Z09tU0YzWC1fNzc5cEpvbFozOE1PTnJwWThrSHozS1ZqSlVCek5TUi1PWDFGY29MaXlaYW9XVm5lV0Vyd3F4LUFJT0lZQXZ1Z3VzdUFPRXAxNGdxUDFDRHRKY0VUQnZMQThGeHlIVW54eWlLbWtYSElnR3FwLThhZTI2Q2Q3WDZOX2IxN3ZtTlc4aDFMbmVCRkI?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 12:53:00 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 12:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTBoV0FZQWE0OWFlX2R4bFZnVTlqUHg0X3lfUktfZUZ4d3JQTUwwODV3V3ZpSDBnaDl1RUNRcWM1N0p6Y0VHdHpKMDNOQUdFd1IwME11RzRkbGhCbFY4bXZySlpMZk8tc1Bjamt0ZkVHT0pndUtOSW9OOHV1VjRFQ1huTXhzSEx5TGszU0l6M1Y3YUxwVDc2VEg3d2JXYUl6TVhHTzRPczJKNThCbFNlNkgtT0JWcHI5QjhkWktHLURIUjJWUGpENjhja2tyeVZzX1V1aF9BVk9TekF0Z21MUTd0eEFGTE1YMDRMYtIB8gFBVV95cUxPTm96YWJuMUJ3T2hHZDlQOFNtYXdFanhVMi1OWURzQUwwbXJXWXV3YjJ5UVg1Zkh4WXJ5d0RiN3BORWJXczdEZ3NEVS1na25JbDR0UmpVR3hNcGJkTmczQTZDS1dEdXNrSUlBMXdway10OXlPcjAxMnJTOHFzM0ltTjNUbXFteW5NMUNaMEJBa0tNTEh2d2FRSC1oelRtM2tla0I0dzAwdzhlem5wWHdXYk5Ua2EtckZQX0k2N2U1b2RBTU5ocV93UFpOaktPWEhiRER6c290dmdmLXFDMTllUUhZeW1GYndRN1JDNGNsVGxKQQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:49:00 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:49:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
-        "instagram.com"
+        "The Times of India"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "superfast 100 सुपरफास्ट बातम्या 06 september metro dj ban thackeray",
+      "title": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
+      "summary": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEs5WjgtcndtT1IzTHZ3QWpNT3pGRDNxcFpkMmFVbUtTVHhKelY3ZE1ETnhhOGVqM1RHU2VXaXVSSzYtWW9KNHNoRlc3aUoxejlhLXlkRVFwY3ZDZkFPRTZyd0lNbl8xVTUyQ3dENVB1cXdYLTVtelVFTWFXQjAyalhnaWpxZjVEV2JtRi1lS2FRZGNMN1Z2ZElTb3B5ZEctel9RRDc5WW0xU05Ra21XOE54SUZNVHA0WjBzbkZ2RGx2WXljNGc?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:19:21 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:19:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -365,7 +376,7 @@
       "id": "maharashtra weather alert rain forecast for september 7 light showers expected no heavy ra",
       "title": "Maharashtra Weather Alert: Rain Forecast for September 7; Light Showers Expected, No Heavy Rain Warning",
       "summary": "Maharashtra Weather Alert: Rain Forecast for September 7; Light Showers Expected, No Heavy Rain Warning",
-      "source": "mypunepulse.com",
+      "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDVwTmx6VFctUllUbmQxLWdWaUZNTi0yM2Z2YzdMb19kZXJfbzB2UkxFRHMyTm05eC1IWjlJTDZ1Q05JY081SGpYMXBRX0loZ2pxNTBkMkctYm9ldnNYc1ZDVFV1aUNxanNWSnliVktHVDJTNDJhMFZ1SmNwaklyTzhaZ3d0b0xiaFpNenVUVHMyRmlUdWZTX29JeWk2UTAwU3dvTE9mRVpMZmNHXzQtRzFMUVJvX3hTLUY3ellRaHNkcll6V01Ncw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:45:21 GMT",
@@ -373,7 +384,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -390,7 +401,7 @@
       "id": "weather alert श्रावणातला शेवटचा सोमवार हवामानात मोठे उलटफेर कुठं पाऊस तर कुठं वेगळंच संकट ",
       "title": "Weather Alert: श्रावणातला शेवटचा सोमवार, हवामानात मोठे उलटफेर, कुठं पाऊस तर कुठं वेगळंच संकट, IMD चा अलर्ट",
       "summary": "Weather Alert: श्रावणातला शेवटचा सोमवार, हवामानात मोठे उलटफेर, कुठं पाऊस तर कुठं वेगळंच संकट, IMD चा अलर्ट",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZF9ETWNjdEFsYmlaZkpwUURyT3Y2OGtBaE12amtORlJZZ2dIa0V1dUUzTlBWWUFUcDZ3Qm5INWdYZjNlbUFBdDlvNWdkZ01Wbjd0R2gxVm1jVC1KVzJVYVp5bWdvRExmQ2x5LXVsNkt5NjdNYzVDWVQ3dEFkYm5MbTNucGlqcF90RUJtZjhHWnlmRzlCX2JaUmlmeUFJTElqLU9YYVdKcC1IQkh6b3J6alJzLVc3cTY2NGI0TmVENUh2cVUzNmg5elJpUVA5U3h0ZVJHaWNtTmYxSHVXTEloVWtQOGlsUVNvQ3U5UHN0b3N3cjlWUTgzX01wcXF6UQ?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:01:00 GMT",
@@ -398,7 +409,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -412,7 +423,7 @@
       "id": "पुणे बंगळुरू महामार्गावर स्कॉर्पिओ इनोव्हाची जोरदार धडक गाड्यांचा चक्काचूर ६ गंभीर जखमी",
       "title": "पुणे-बंगळुरू महामार्गावर स्कॉर्पिओ-इनोव्हाची जोरदार धडक, गाड्यांचा चक्काचूर, ६ गंभीर जखमी",
       "summary": "पुणे-बंगळुरू महामार्गावर स्कॉर्पिओ-इनोव्हाची जोरदार धडक, गाड्यांचा चक्काचूर, ६ गंभीर जखमी",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3Jjb296N3NDdTN6N25SbEEtUUs3VURnN1RWMU82alB3WUFfRFBDN3pvTWItT1daY0FXWGh0QTc5NWJTUGQzTjZHQVE3dTZ3YVY2OHd0VFVSdEZ2UnFIVEFTcmlIdFhJbWJZdFNGQ1lwdmJKaFdtbEdpVWJ2WExoYzZERFhDMmpLdEdXazhlY0M0aG1aTGtCaFFpTU85ek8tNWtxb0ppeXdvMUlWYk8zSTl2T3c1cmcyd1dIRHRvdw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 14:11:00 GMT",
@@ -420,7 +431,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -436,13 +447,35 @@
       "summary": "सातारा: पुण्याकडे जाणाऱ्या चालत्या मोटारीला महामार्गावर भीषण आग; चौघे थोडक्यात वाचले, मोठी वाहतूक कोंडी",
       "source": "Loksatta",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFJtdDFTOGNsYXpPVjhRaWdxNWxGbUtzeGloV2poT295VElYVEZianpaby1yWE84aU80akZBejJTWGM1dzFYbHZYcHV6X0FNQV9uTGVyZkpqVGhGaWx6Z2tMRFo0bXktRDZNWmhqRDNsRlN0cmRkTkMtZHJZNWVfRzVWellhMXdsNndUcTNiTTA5NUJwalE0c1BVTmluMGtwc09TWXk2ZGdMcnpzS1JzdG9oa0zSAbQBQVVfeXFMTTRSbXQxUzhjbGF6T1Y4UWlncTVsRm1Lc3hpaFdqaE9veVRJWFRGYmp6Wm8tclhPOGlPNGpGQXoyU1hjNXcxWGx2WHB1el9BTUFfbkxlcmZKalRoRmlsemdrTERaNG15LUQ2TVpoakQzbEZTdHJkZE5DLWRyWTVlX0c1VnpZYTF3bDZ3VHEzYk0wOTVCcGpRNHNQVU5pbjBrcHNPU1l5NmRnTHJ6c0tSc3RvaGtM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXF0X0hzSUhoaUczRFo3dDdOdnNjZHkyLXowM2hJT29UaWc4b2J5ZG9FZ3FXYmJFODFvakM1dzNWczVQZHB0S1RXaUdIVGpLdl9FMllCRzNWZWxEcnYwVEtwZEMtbWFHSWY1MmpnSHhaRlNPcFNJRXBCSnhSU1J3ZmhSUFRUMUNGdjVpcEM4RVlualEzTEhrU3RBVWtpcjUzdUVtUFFZbGFoTVhlakHSAbQBQVVfeXFMTTRSbXQxUzhjbGF6T1Y4UWlncTVsRm1Lc3hpaFdqaE9veVRJWFRGYmp6Wm8tclhPOGlPNGpGQXoyU1hjNXcxWGx2WHB1el9BTUFfbkxlcmZKalRoRmlsemdrTERaNG15LUQ2TVpoakQzbEZTdHJkZE5DLWRyWTVlX0c1VnpZYTF3bDZ3VHEzYk0wOTVCcGpRNHNQVU5pbjBrcHNPU1l5NmRnTHJ6c0tSc3RvaGtM?oc=5",
       "pubDate": "Sun, 06 Sep 2026 12:32:34 GMT",
       "lastUpdated": "Sun, 06 Sep 2026 12:32:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन खराब रस्ते ट्रॅफिकवर संताप",
+      "title": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन; खराब रस्ते, ट्रॅफिकवर संताप",
+      "summary": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन; खराब रस्ते, ट्रॅफिकवर संताप",
+      "source": "लोकमंथन",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMExadUlYaVBLU2hoczdUOWNoZU51Y1E5MTc5UnJqbEJremRNV2F4OERGLUNJR25hd1pCVnQ2aWJCY0Z4WDhZZmRPNjExX2RabE1WOE90TDVsaDZsanpHaGhHNjRqLUhtcWNITXFqdDJNbnkzeWZRYXFWWU1Vam1FcHBzb2ltWVgwQk1weTFLVnhnSWRPNW1oWEJvakdEQ1c5RHpCelo4cllVXzdnZWdfWmxhaHVxdGV6YkhmN3NPcw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:27:05 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 12:27:05 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "लोकमंथन"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -544,28 +577,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "रस्त्यांच्या प्रश्नावरुन aaditya thackeray यांनी सरकारला सुनावलं hinjewadi it hub",
-      "title": "Pune | रस्त्यांच्या प्रश्नावरुन Aaditya Thackeray यांनी सरकारला सुनावलं |Hinjewadi Pune IT Hub News",
-      "summary": "Pune | रस्त्यांच्या प्रश्नावरुन Aaditya Thackeray यांनी सरकारला सुनावलं |Hinjewadi Pune IT Hub News",
-      "source": "news18marathi.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnlsRW9oRkJOUzF2bzN1QmJXU05XWnZwT1ZaUjFXUy1vNUV2enF2R0pfb2pMdGxnU2pVUS1mYUthTHdmd1Z0SFZzUTRJRXNzaEZYUUxjR3Z1bXZGMDBKSGNfbVBiRF9ydmtZUTZnU3lVUF9uNy11RWxremUtUmtUaGhPbWNFdmVYSGZtM0NBY3RWTmo5UlFKTkZTT1BadUthUC1mc1BsSHd0cUU?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 09:06:22 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 09:06:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "news18marathi.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "delhi building collapse several feared trapped under debris after structure collapsed in s",
       "title": "Delhi building collapse: Several feared trapped under debris after structure collapsed in Satya Niketan",
       "summary": "Delhi building collapse: Several feared trapped under debris after structure collapsed in Satya Niketan",
@@ -615,7 +626,7 @@
       "id": "dhananjay mahadik खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर n18s",
       "title": "Dhananjay Mahadik News | खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर | N18S",
       "summary": "Dhananjay Mahadik News | खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर | N18S",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEZ2MUp2bm9jS2JsSmFieldXSFZNMFNRSnNmVnFRVGhmcmgzUnUxQTNwTEdSODJmT3JjVnotTUJGWDBGTjBqMFl6RjJTVVVocWpPUG5DbW9XNlc4SjFlQlJfZVNpTXVWNXZlM0xYYVFldFJFN3ZyY0JRX19NelgtUlc5OUxXbzI1WDR2QjFn?oc=5",
       "pubDate": "Sun, 06 Sep 2026 07:35:59 GMT",
@@ -623,7 +634,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -646,6 +657,31 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "khadakwasla fursungi tunnel project खडकवासला फुरसुंगी बोगद्याचे काम वेगात वर्षभरात ५ किलोम",
+      "title": "Khadakwasla Fursungi Tunnel Project: खडकवासला-फुरसुंगी बोगद्याचे काम वेगात; वर्षभरात ५ किलोमीटर खोदाई पूर्ण",
+      "summary": "Khadakwasla Fursungi Tunnel Project: खडकवासला-फुरसुंगी बोगद्याचे काम वेगात; वर्षभरात ५ किलोमीटर खोदाई पूर्ण",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTM1MExfX0dWSWNZcDVoME5JVXJpZ0l4MXNlaUp0OUZDR2Y0U21VekMzSE5iR1FFSDJTbjE0UFFXUFdhQzFfcjNQM3JEeUU2eURIM1RZNHByV3pGR1lLQ1FTTGRzRzZibUtKSVprNlpkUWRJdW5lWTE0aUItVEZHb0d6b3VVcDB4ejh5WnhFWENseHgweHBUMVdlaE5xeXfSAawBQVVfeXFMTkZJODNnUEh0XzhxMVRDdC1Hc0R0cjZVRTNnNHpIeHlRU25zVG9lQTJva1dxT29ueHROWDhMTkc2ZnB4Y0std2VZUXNhZUk4N0Jzb0s5Y05WSXpTM3lIM3lJZ2lrNkRwa1YwOWt0YndyQXlWU0Y5VXZRSVdaU2VFdjZEc1E0T0dyWF9JTmRwU2tLZVFDRmRoTktHQU1kRVpxWHR6TjM0UFg4U1JsQw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:20:35 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 07:20:35 GMT",
+      "areas": [
+        "Fursungi",
+        "Khadakwasla"
+      ],
+      "region": "fursungi",
+      "sources": [
+        "Pudhari"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -681,7 +717,7 @@
       "id": "el nino alert एल निनो चं संकट गंभीर पावसाळाच नव्हे हिवाळ्यातही धोका जागतिक हवामान संघटनेचा",
       "title": "El Nino Alert: ‘एल-निनो’चं संकट गंभीर, पावसाळाच नव्हे हिवाळ्यातही धोका, जागतिक हवामान संघटनेचा धडकी भरवणारा अलर्ट",
       "summary": "El Nino Alert: ‘एल-निनो’चं संकट गंभीर, पावसाळाच नव्हे हिवाळ्यातही धोका, जागतिक हवामान संघटनेचा धडकी भरवणारा अलर्ट",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWXl3U3RJZkhtWWVkTXVfZThVSXJEMmQ5RWh1ZEYxVkNtOWNJWlJUbzRZTGMxaTlSSGV2UGhpVENDeXNibkFleE9Ed0tfR1BWcWhENTRtOWZsc1dBMHlmcWxMRzlOYUZPNkdzNFVvMGZFdkRPOWJmbFo0cUpMS0N2WnFDaG81MTJ4THN6WU9SenRnbTgtMXJTRDVZaXBqcWtXcXIwaTdrcVA5OTg2M2s0dlZRbTBMeEhsQ2pKZzRXVHpUcDRVNFA5MDY5Y1RmQm1USk1VSjV5VXhTdWJCR3JBbnpnREU1SkpGd1AybUY3NU4?oc=5",
       "pubDate": "Sun, 06 Sep 2026 05:53:00 GMT",
@@ -689,7 +725,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -725,7 +761,7 @@
       "id": "dj ban morcha डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
       "title": "Pune DJ Ban Morcha News | डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
       "summary": "Pune DJ Ban Morcha News | डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1JXbU5OUzNBbi1MeFZHZFg0ZlNvQ3V3ZEY5Rkdab2lkOTdKV3ZLZlc3dXU4Wk1XWk5PUEZTOHZ5X3dvU0lVNU1lcjY0aEVPMm5qSUlyajNubGZ0Y3BHaHhZSjU1eEpaUzFlaUlJT2MzM0tWQXk4VGtEZEd0WkRUVjZjT25QSlR0?oc=5",
       "pubDate": "Sun, 06 Sep 2026 04:03:59 GMT",
@@ -733,29 +769,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "superfast 100 सुपरफास्ट बातम्या 06 september metro dj ban thackeray",
-      "title": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
-      "summary": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
-      "source": "lokmat.news18.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2xtUHRtajdVREU2OExDcWNaSkY1Ul82UHFEZFNUUzJoY0RWTVNNb214MldKNHJNSzVySm5Vb09GUEdvRUs2MzlHYWZfUXFPbmNzdUg2MkVCSmZIU0xiaW5TaHFnTUZLWkRpWi1Qd3BTNVBIVG9Rb1NjVUt4dW1FT1FvNnZZa2Z6Q1JHS1hXM0tPcE5CaUd3eGswcWd2ZzRodUc1amZRMkZ1RmhnQ0ZsX3hhalFoRHNHZ3Ixb2h1Z1pLZmNqZlE?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 03:20:01 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 03:20:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -791,7 +805,7 @@
       "id": "केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट सिया अन् चेतन फक्त मोहरे पोलिसांना मिळाले",
       "title": "Pune : केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट! सिया अन् चेतन फक्त मोहरे? पोलिसांना मिळालेल्या एका हिंटने फुटलं रितेशचं भिंग!",
       "summary": "Pune : केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट! सिया अन् चेतन फक्त मोहरे? पोलिसांना मिळालेल्या एका हिंटने फुटलं रितेशचं भिंग!",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNE5IaXlvU1ljQlBlcEZzbEZmYkZxcnNoZl9BWjV5U3ZBb3QxV2tzaUZsdi12R1lvbTdKNUJEazRzOGJzX0NXN2VnVGZUYzFqM20tWlprcVZScG1weFRRN0hWRzB6QjNzZWY5dGdhNDlKNEY2ZUFoTHRDNGlNc0RoTVNMUG5leTN5bWZpY2I1ZjI4dGhfQVBLNGxPVWNZZlFxVkhKaVBVVmNBZWM1SmZ0R1R2bVNjSm1wZjE2YUQtMnZLcXNMX2ozOEctcHQwRkpXQU9KQllzbWFZdnNwR3VRdkRpcFFqZ3FYNU5raw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:18:00 GMT",
@@ -799,7 +813,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -813,7 +827,7 @@
       "id": "weather alert महाराष्ट्रात वारं फिरलं सगळ्यांचंच टेन्शन वाढलं आता पाऊस नव्हे 4 दिवसांसाठी ",
       "title": "Weather Alert: महाराष्ट्रात वारं फिरलं, सगळ्यांचंच टेन्शन वाढलं, आता पाऊस नव्हे, 4 दिवसांसाठी वेगळाच अलर्ट",
       "summary": "Weather Alert: महाराष्ट्रात वारं फिरलं, सगळ्यांचंच टेन्शन वाढलं, आता पाऊस नव्हे, 4 दिवसांसाठी वेगळाच अलर्ट",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUHFDTXd6c3M2dFYxdWg0OUY4M0Y0R3U3U0hyTWoyVGtTMmJMZ1Rua3huQ3BrRHZUekZILUZ2QU8wQ2RQZkoxb3c4bzgxSEZxQml6dGVtVllPT0IzbThlYVNZaUlQOHl1V0xYWVRyUXBzX0pxN2R4ZDB4QkdFRVFfODBrYjBBajZmN1h0Y2VuQTlfczFSMXhHZlpvbDlzQzZFb2VNZXhZUlktV0ZRNkdib21jemR5ZWhVeVFfZFFaVEd0SWw4azU1a21jcU56V0ZiSVdPRW4xb2FuZEVYNXFHMnlKakpDbTJUSmhLYU9HY3BVbVFSaDZzdW9NelNiNDA?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:10:00 GMT",
@@ -821,7 +835,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -859,7 +873,7 @@
       "id": "msetcl substation fire disrupts power supply to 3 1 lakh consumers in pimpri chinchwad",
       "title": "MSETCL Substation Fire Disrupts Power Supply To 3.1 Lakh Consumers In Pune & Pimpri-Chinchwad",
       "summary": "MSETCL Substation Fire Disrupts Power Supply To 3.1 Lakh Consumers In Pune & Pimpri-Chinchwad",
-      "source": "Free Press Journal + 4 more",
+      "source": "freepressjournal.in + 4 more",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEhpN2pBbkVSRjRZdmx0bHBWMzdyME8xMTZrLVhKelFKODhGTWRuZ2lDa0E0Wlcta0FNcjJVUVZuSU01YnB5c0FiRFF0UjBYQlNaWEdXdXBVd3BtQWlfeXphbHVyYmZRaDZ2cUFLc1hCdHpJLUtoYjVuUjBNTG1ZUHJaTVVLWDdCYjIxdGdGTUt6OXVlblZlNm5XbHZTVURDM2h6YzZQZ0RGUXlaSFoyWDVlMzZTcHp4S1ZMVXpDdHAwWms1S3RHOE9FSdIBywFBVV95cUxPTEhpN2pBbkVSRjRZdmx0bHBWMzdyME8xMTZrLVhKelFKODhGTWRuZ2lDa0E0Wlcta0FNcjJVUVZuSU01YnB5c0FiRFF0UjBYQlNaWEdXdXBVd3BtQWlfeXphbHVyYmZRaDZ2cUFLc1hCdHpJLUtoYjVuUjBNTG1ZUHJaTVVLWDdCYjIxdGdGTUt6OXVlblZlNm5XbHZTVURDM2h6YzZQZ0RGUXlaSFoyWDVlMzZTcHp4S1ZMVXpDdHAwWms1S3RHOE9FSQ?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:29:25 GMT",
@@ -870,13 +884,42 @@
       ],
       "region": "pcmc",
       "sources": [
-        "Free Press Journal",
+        "freepressjournal.in",
         "ThePrint",
         "The Indian Express",
         "Punekar News",
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "High",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "substation fire forces maha metro to stop swargate to pcmc ops for 22 mins",
+      "title": "Pune: Substation fire forces Maha Metro to stop Swargate to PCMC ops for 22 mins",
+      "summary": "Pune: Substation fire forces Maha Metro to stop Swargate to PCMC ops for 22 mins",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV3VtNjlxVHlnVk41OEJ6TlJKZXJVN3hSa0dzMVRlU2JHa2Rsb1lhektMdS1PQUlobmYyNnFKNlpsZzdLN25TbnFCeHRoVm9YNTlzUVVScWlDVWVKVmNpQ0JlTGRxTGxjMFBqc3hETk55T2Q1Y0trUFJ3RVhkRHJrM0s4YUZUS21DSThfdzh4OFZka1MycnBZaFhKclhOVWdHSmRNbTVuWHUxd0hQT216VWhETUpRMXNpRzBTaUkwQlpUWWJveFMwYjEwd2ZVUHlwYXhhUEJJYlZrUkszV19sbXI3bnN5Z9IB6wFBVV95cUxNalNHUy1rZHhxQ0JVTm90X0dscjEyUVg1RUF6ZlBYblZiT0lreGxfZkJIbEhBYTZRRzBOS3RsOGNzaHQxeEVjYXkzdFR0U29xN0NMSTFvcEQwT2YyWDBkTmh2NFlrV1JOMjJjeWdibEFxWjRxVmtMLXgwUnctUkotcVBiX1NoWklpSFpGQXRnOWM0WlZiTVFFX0c1OFVQMXo2RjRrTXJ3N1VqS3ZabnE3SUYwVzJZS3hiY01rTHdpVTdKNWVKLV8tSDV6SUFtTVA1aGRDM016aHpoZU04Tm9sV1ROQllVQzBOSHRj?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:46:00 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:46:00 GMT",
+      "areas": [
+        "Swargate"
+      ],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
       "w": [
         "fire",
         "blaze",
@@ -949,41 +992,12 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
-      "id": "central railway cancels multiple trains as landslide restoration continues in lonavala kar",
-      "title": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
-      "summary": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
-      "source": "DD News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzVZVlJ0WV9sRV83YXpITFJ0blVXWm1JRnhVcmFfWGFlZUFBb3RfSDM0cDBVUTE0eFBYOXplUHhPQ3JfRU93S21CckxBcFZwSDZXR2xrN213ekhmRU9nUk5oaEdDeFFkNGZ2cVBZR0dNUnN3d3I5bDQyMm1jMjFUbHRjS25wcUlvUEV5SGRZbWZyaWh6VVljNktRSmtKUHB3UWRscnNMdXZFRWRTOG15M2FpOXZHNURUMVpodWpzN1gydw?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 20:08:42 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 20:08:42 GMT",
-      "areas": [
-        "Lonavala"
-      ],
-      "region": "pune",
-      "sources": [
-        "DD News"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "landslide",
-        "ghat",
-        "rockfall"
-      ],
-      "severity": "emergency",
-      "category": "weather",
-      "type": "Landslide",
-      "icon": "⛰️",
-      "critical": true,
-      "action": "Avoid ghat roads and check police updates."
-    },
-    {
       "id": "open the gates dramatic scenes as suresh gopi confronts paliyekkara toll plaza traffic",
       "title": "‘Open the gates’: Dramatic scenes as Suresh Gopi confronts Paliyekkara toll plaza traffic",
       "summary": "‘Open the gates’: Dramatic scenes as Suresh Gopi confronts Paliyekkara toll plaza traffic",
       "source": "Mathrubhumi English",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb015c2N1Mm9Vdks5d2hSOVo3Mi1Xb1NES2hkMTdhTFVwcThsai1ZV3BpWTliTXMwWGpaSHM3bzBQdVBuVjc5aUlkLXVtTnB1MERBbFZhR1F6Y3FmekhjU2RkdFo5TkU3NXRwNmJ2Q1MzV0ZKZWV4MlBrXzc0OU5lcmdwTFVIU2xaSGF2Yjg3Vy1kTGtuQnVkV2RfZk16Ym5NRi10cV9tbHVfS1J1cWJuWFZlbkTSAboBQVVfeXFMUEtyeVBfclI1V2hINW9hR0liNmk1aGR0N1lJOXJNN0dhcHhJelNkdDdwN3JYdUZiT3RPNDd3S194VlRaRmw4S2E1NXlOU241T2E3cDRGUnl4aFAwbHBETlp5Mm96ZEQ3Skp4cVlnMTFITm5qRGFYeGdqNTZhQjNqakRqSDZhaVJiTnpKcUZpdGhKOHRZS1cxOWQtOXdvaXdjbUpPYmVIWGt4djJTcXpHd2pxcjdocTB3cHFB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3J5UF9yUjVXaEg1b2FHSWI2aTVoZHQ3WUk5ck03R2FweEl6U2R0N3A3clh1RmJPdE80N3dLX3hWVFpGbDhLYTU1eU5TbjVPYTdwNEZSeXhoUDBscEROWnkyb3pkRDdKSnhxWWcxMUhObmpEYVh4Z2o1NmFCM2pqRGpINmFpUmJOekpxRml0aEo4dFlLVzE5ZC05d29pd2NtSk9iZUhYa3h2MlNxekd3anFyN2hxMHdwcUHSAboBQVVfeXFMUEtyeVBfclI1V2hINW9hR0liNmk1aGR0N1lJOXJNN0dhcHhJelNkdDdwN3JYdUZiT3RPNDd3S194VlRaRmw4S2E1NXlOU241T2E3cDRGUnl4aFAwbHBETlp5Mm96ZEQ3Skp4cVlnMTFITm5qRGFYeGdqNTZhQjNqakRqSDZhaVJiTnpKcUZpdGhKOHRZS1cxOWQtOXdvaXdjbUpPYmVIWGt4djJTcXpHd2pxcjdocTB3cHFB?oc=5",
       "pubDate": "Sun, 06 Sep 2026 16:16:10 GMT",
       "lastUpdated": "Sun, 06 Sep 2026 16:16:10 GMT",
       "areas": [],
@@ -1068,7 +1082,7 @@
       "id": "ketan agrawal case updte ritesh hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय crime",
       "title": "Ketan Agrawal Case Updte | Ritesh Hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय? | Crime News",
       "summary": "Ketan Agrawal Case Updte | Ritesh Hingela आणि केतन अग्रवाल प्रकरणाचं कनेक्शन काय? | Crime News",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0owbExKMFhBaFhrVEtXd2c4ZTRxTkpHdnlwZ0ZyWnJwSGtRdGFvU2Y0VWFkaGhFNmt5dlh3U2dfdllDdXdLX1V6akV0TDFTY2VEZVpITGVYNzNpZi1YYmswaVc5ZnRqa0VoSGthWTV1ekh1M2FnZ1B6ZlZiSDVfbnhXMzRGa0J6QnVVbTdtcFA4ZkRhbXNIa084UGRPVncwWVZjUzl6UWlHd2R2?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:25:51 GMT",
@@ -1076,7 +1090,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "w": [
@@ -1093,32 +1107,28 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "msedcl levies rs6 15 crore fine for electricity thefts",
-      "title": "MSEDCL levies Rs6.15 crore fine for electricity thefts",
-      "summary": "MSEDCL levies Rs6.15 crore fine for electricity thefts",
-      "source": "The Times of India",
+      "id": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "title": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "summary": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रातील आगीची झळ थेट पुणे ते चाकणपर्यंत",
+      "source": "aaplaawajnews.com + 2 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVnByMnVKTlJNaXo3VWxFVUkyUjVlblVtMUtPbVNkOWN3UGZPQXk4eWt6dGdpeXFKWWViMVVjclBaOWtobEFaZFJYdkdoTWJCM0lpdWxFdDkxNlVSaFN5Y2FKM2ZBck9rQmoyWWJnMEdyY1lFR1RjWS1lR1lPbkNwck1RS0hHNEFkTTBiYXpLMW5vc245RlUyTE9GQUNFOVhtR0w5RlpOSEtZcmpLY1hFWERNVXFtN1RvNGE1c1F4VWczdC1SUlBBTkpB0gHKAUFVX3lxTE1WcHIydUpOUk1pejdVbEVVSTJSNWVuVW0xS09tU2Q5Y3dQZk9BeTh5a3p0Z2l5cUpZZWIxVWNyUFo5a2hsQVpkUlh2R2hNYkIzSWl1bEV0OTE2VVJoU3ljYUozZkFyT2tCajJZYmcwR3JjWUVHVGNZLWVHWU9uQ3ByTVFLSEc0QWRNMGJheksxbm9zbjlGVTJMT0ZBQ0U5WG1HTDlGWk5IS1lyaktjWEVYRE1VcW03VG80YTVzUXhVZzN0LVJSUEFOSkE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:14:00 GMT",
-      "lastUpdated": "Sat, 05 Sep 2026 19:14:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sVVJDcnk2WVV2UFFzZDV0WDc4Z2NQTXh3d1lrWkhxSUx1S1Bnc0RpMEhlU0pIWFBGZ2VpWmRJdTlhYnFDcXdHVmc4a3N2QQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 14:21:55 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 14:21:55 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Times of India"
+        "aaplaawajnews.com",
+        "Dainik Prabhat",
+        "instagram.com"
       ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "school holiday tomorrow september 7 2026 will schools be closed due to heavy rain check st",
@@ -1144,21 +1154,42 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "title": "Pune News : महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "summary": "Pune News : महापारेषणच्या चिंचवड अतिउच्चदाब वीज उपकेंद्रात आग",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "runner former c dac scientist dies of heart attack at satara hill half marathon",
+      "title": "Pune runner, former C-DAC scientist, dies of heart attack at Satara Hill Half Marathon",
+      "summary": "Pune runner, former C-DAC scientist, dies of heart attack at Satara Hill Half Marathon",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGlzYm9uNnhJeHhRUG51Z09tU0YzWC1fNzc5cEpvbFozOE1PTnJwWThrSHozS1ZqSlVCek5TUi1PWDFGY29MaXlaYW9XVm5lV0Vyd3F4LUFJT0lZQXZ1Z3VzdUFPRXAxNGdxUDFDRHRKY0VUQnZMQThGeHlIVW54eWlLbWtYSElnR3FwLThhZTI2Q2Q3WDZOX2IxN3ZtTlc4aDFMbmVCRkI?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 12:53:00 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 12:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTBoV0FZQWE0OWFlX2R4bFZnVTlqUHg0X3lfUktfZUZ4d3JQTUwwODV3V3ZpSDBnaDl1RUNRcWM1N0p6Y0VHdHpKMDNOQUdFd1IwME11RzRkbGhCbFY4bXZySlpMZk8tc1Bjamt0ZkVHT0pndUtOSW9OOHV1VjRFQ1huTXhzSEx5TGszU0l6M1Y3YUxwVDc2VEg3d2JXYUl6TVhHTzRPczJKNThCbFNlNkgtT0JWcHI5QjhkWktHLURIUjJWUGpENjhja2tyeVZzX1V1aF9BVk9TekF0Z21MUTd0eEFGTE1YMDRMYtIB8gFBVV95cUxPTm96YWJuMUJ3T2hHZDlQOFNtYXdFanhVMi1OWURzQUwwbXJXWXV3YjJ5UVg1Zkh4WXJ5d0RiN3BORWJXczdEZ3NEVS1na25JbDR0UmpVR3hNcGJkTmczQTZDS1dEdXNrSUlBMXdway10OXlPcjAxMnJTOHFzM0ltTjNUbXFteW5NMUNaMEJBa0tNTEh2d2FRSC1oelRtM2tla0I0dzAwdzhlem5wWHdXYk5Ua2EtckZQX0k2N2U1b2RBTU5ocV93UFpOaktPWEhiRER6c290dmdmLXFDMTllUUhZeW1GYndRN1JDNGNsVGxKQQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:49:00 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:49:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
-        "instagram.com"
+        "The Times of India"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "superfast 100 सुपरफास्ट बातम्या 06 september metro dj ban thackeray",
+      "title": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
+      "summary": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEs5WjgtcndtT1IzTHZ3QWpNT3pGRDNxcFpkMmFVbUtTVHhKelY3ZE1ETnhhOGVqM1RHU2VXaXVSSzYtWW9KNHNoRlc3aUoxejlhLXlkRVFwY3ZDZkFPRTZyd0lNbl8xVTUyQ3dENVB1cXdYLTVtelVFTWFXQjAyalhnaWpxZjVEV2JtRi1lS2FRZGNMN1Z2ZElTb3B5ZEctel9RRDc5WW0xU05Ra21XOE54SUZNVHA0WjBzbkZ2RGx2WXljNGc?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:19:21 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 18:19:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1192,7 +1223,7 @@
       "id": "maharashtra weather alert rain forecast for september 7 light showers expected no heavy ra",
       "title": "Maharashtra Weather Alert: Rain Forecast for September 7; Light Showers Expected, No Heavy Rain Warning",
       "summary": "Maharashtra Weather Alert: Rain Forecast for September 7; Light Showers Expected, No Heavy Rain Warning",
-      "source": "mypunepulse.com",
+      "source": "PUNE PULSE",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDVwTmx6VFctUllUbmQxLWdWaUZNTi0yM2Z2YzdMb19kZXJfbzB2UkxFRHMyTm05eC1IWjlJTDZ1Q05JY081SGpYMXBRX0loZ2pxNTBkMkctYm9ldnNYc1ZDVFV1aUNxanNWSnliVktHVDJTNDJhMFZ1SmNwaklyTzhaZ3d0b0xiaFpNenVUVHMyRmlUdWZTX29JeWk2UTAwU3dvTE9mRVpMZmNHXzQtRzFMUVJvX3hTLUY3ellRaHNkcll6V01Ncw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:45:21 GMT",
@@ -1200,7 +1231,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mypunepulse.com"
+        "PUNE PULSE"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1214,7 +1245,7 @@
       "id": "weather alert श्रावणातला शेवटचा सोमवार हवामानात मोठे उलटफेर कुठं पाऊस तर कुठं वेगळंच संकट ",
       "title": "Weather Alert: श्रावणातला शेवटचा सोमवार, हवामानात मोठे उलटफेर, कुठं पाऊस तर कुठं वेगळंच संकट, IMD चा अलर्ट",
       "summary": "Weather Alert: श्रावणातला शेवटचा सोमवार, हवामानात मोठे उलटफेर, कुठं पाऊस तर कुठं वेगळंच संकट, IMD चा अलर्ट",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZF9ETWNjdEFsYmlaZkpwUURyT3Y2OGtBaE12amtORlJZZ2dIa0V1dUUzTlBWWUFUcDZ3Qm5INWdYZjNlbUFBdDlvNWdkZ01Wbjd0R2gxVm1jVC1KVzJVYVp5bWdvRExmQ2x5LXVsNkt5NjdNYzVDWVQ3dEFkYm5MbTNucGlqcF90RUJtZjhHWnlmRzlCX2JaUmlmeUFJTElqLU9YYVdKcC1IQkh6b3J6alJzLVc3cTY2NGI0TmVENUh2cVUzNmg5elJpUVA5U3h0ZVJHaWNtTmYxSHVXTEloVWtQOGlsUVNvQ3U5UHN0b3N3cjlWUTgzX01wcXF6UQ?oc=5",
       "pubDate": "Sun, 06 Sep 2026 15:01:00 GMT",
@@ -1222,7 +1253,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1236,7 +1267,7 @@
       "id": "पुणे बंगळुरू महामार्गावर स्कॉर्पिओ इनोव्हाची जोरदार धडक गाड्यांचा चक्काचूर ६ गंभीर जखमी",
       "title": "पुणे-बंगळुरू महामार्गावर स्कॉर्पिओ-इनोव्हाची जोरदार धडक, गाड्यांचा चक्काचूर, ६ गंभीर जखमी",
       "summary": "पुणे-बंगळुरू महामार्गावर स्कॉर्पिओ-इनोव्हाची जोरदार धडक, गाड्यांचा चक्काचूर, ६ गंभीर जखमी",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3Jjb296N3NDdTN6N25SbEEtUUs3VURnN1RWMU82alB3WUFfRFBDN3pvTWItT1daY0FXWGh0QTc5NWJTUGQzTjZHQVE3dTZ3YVY2OHd0VFVSdEZ2UnFIVEFTcmlIdFhJbWJZdFNGQ1lwdmJKaFdtbEdpVWJ2WExoYzZERFhDMmpLdEdXazhlY0M0aG1aTGtCaFFpTU85ek8tNWtxb0ppeXdvMUlWYk8zSTl2T3c1cmcyd1dIRHRvdw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 14:11:00 GMT",
@@ -1244,7 +1275,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1260,13 +1291,35 @@
       "summary": "सातारा: पुण्याकडे जाणाऱ्या चालत्या मोटारीला महामार्गावर भीषण आग; चौघे थोडक्यात वाचले, मोठी वाहतूक कोंडी",
       "source": "Loksatta",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFJtdDFTOGNsYXpPVjhRaWdxNWxGbUtzeGloV2poT295VElYVEZianpaby1yWE84aU80akZBejJTWGM1dzFYbHZYcHV6X0FNQV9uTGVyZkpqVGhGaWx6Z2tMRFo0bXktRDZNWmhqRDNsRlN0cmRkTkMtZHJZNWVfRzVWellhMXdsNndUcTNiTTA5NUJwalE0c1BVTmluMGtwc09TWXk2ZGdMcnpzS1JzdG9oa0zSAbQBQVVfeXFMTTRSbXQxUzhjbGF6T1Y4UWlncTVsRm1Lc3hpaFdqaE9veVRJWFRGYmp6Wm8tclhPOGlPNGpGQXoyU1hjNXcxWGx2WHB1el9BTUFfbkxlcmZKalRoRmlsemdrTERaNG15LUQ2TVpoakQzbEZTdHJkZE5DLWRyWTVlX0c1VnpZYTF3bDZ3VHEzYk0wOTVCcGpRNHNQVU5pbjBrcHNPU1l5NmRnTHJ6c0tSc3RvaGtM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXF0X0hzSUhoaUczRFo3dDdOdnNjZHkyLXowM2hJT29UaWc4b2J5ZG9FZ3FXYmJFODFvakM1dzNWczVQZHB0S1RXaUdIVGpLdl9FMllCRzNWZWxEcnYwVEtwZEMtbWFHSWY1MmpnSHhaRlNPcFNJRXBCSnhSU1J3ZmhSUFRUMUNGdjVpcEM4RVlualEzTEhrU3RBVWtpcjUzdUVtUFFZbGFoTVhlakHSAbQBQVVfeXFMTTRSbXQxUzhjbGF6T1Y4UWlncTVsRm1Lc3hpaFdqaE9veVRJWFRGYmp6Wm8tclhPOGlPNGpGQXoyU1hjNXcxWGx2WHB1el9BTUFfbkxlcmZKalRoRmlsemdrTERaNG15LUQ2TVpoakQzbEZTdHJkZE5DLWRyWTVlX0c1VnpZYTF3bDZ3VHEzYk0wOTVCcGpRNHNQVU5pbjBrcHNPU1l5NmRnTHJ6c0tSc3RvaGtM?oc=5",
       "pubDate": "Sun, 06 Sep 2026 12:32:34 GMT",
       "lastUpdated": "Sun, 06 Sep 2026 12:32:34 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "Loksatta"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन खराब रस्ते ट्रॅफिकवर संताप",
+      "title": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन; खराब रस्ते, ट्रॅफिकवर संताप",
+      "summary": "हिंजवडीत स्थानिक नागरिकांसह आयटी कर्मचाऱ्यांचं मूक आंदोलन; खराब रस्ते, ट्रॅफिकवर संताप",
+      "source": "लोकमंथन",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMExadUlYaVBLU2hoczdUOWNoZU51Y1E5MTc5UnJqbEJremRNV2F4OERGLUNJR25hd1pCVnQ2aWJCY0Z4WDhZZmRPNjExX2RabE1WOE90TDVsaDZsanpHaGhHNjRqLUhtcWNITXFqdDJNbnkzeWZRYXFWWU1Vam1FcHBzb2ltWVgwQk1weTFLVnhnSWRPNW1oWEJvakdEQ1c5RHpCelo4cllVXzdnZWdfWmxhaHVxdGV6YkhmN3NPcw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:27:05 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 12:27:05 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "लोकमंथन"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1368,28 +1421,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "रस्त्यांच्या प्रश्नावरुन aaditya thackeray यांनी सरकारला सुनावलं hinjewadi it hub",
-      "title": "Pune | रस्त्यांच्या प्रश्नावरुन Aaditya Thackeray यांनी सरकारला सुनावलं |Hinjewadi Pune IT Hub News",
-      "summary": "Pune | रस्त्यांच्या प्रश्नावरुन Aaditya Thackeray यांनी सरकारला सुनावलं |Hinjewadi Pune IT Hub News",
-      "source": "news18marathi.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnlsRW9oRkJOUzF2bzN1QmJXU05XWnZwT1ZaUjFXUy1vNUV2enF2R0pfb2pMdGxnU2pVUS1mYUthTHdmd1Z0SFZzUTRJRXNzaEZYUUxjR3Z1bXZGMDBKSGNfbVBiRF9ydmtZUTZnU3lVUF9uNy11RWxremUtUmtUaGhPbWNFdmVYSGZtM0NBY3RWTmo5UlFKTkZTT1BadUthUC1mc1BsSHd0cUU?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 09:06:22 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 09:06:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "news18marathi.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "delhi building collapse several feared trapped under debris after structure collapsed in s",
       "title": "Delhi building collapse: Several feared trapped under debris after structure collapsed in Satya Niketan",
       "summary": "Delhi building collapse: Several feared trapped under debris after structure collapsed in Satya Niketan",
@@ -1439,7 +1470,7 @@
       "id": "dhananjay mahadik खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर n18s",
       "title": "Dhananjay Mahadik News | खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर | N18S",
       "summary": "Dhananjay Mahadik News | खासदार धनंजय महाडिक यांना मुलाच्या पदाचा विसर | N18S",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEZ2MUp2bm9jS2JsSmFieldXSFZNMFNRSnNmVnFRVGhmcmgzUnUxQTNwTEdSODJmT3JjVnotTUJGWDBGTjBqMFl6RjJTVVVocWpPUG5DbW9XNlc4SjFlQlJfZVNpTXVWNXZlM0xYYVFldFJFN3ZyY0JRX19NelgtUlc5OUxXbzI1WDR2QjFn?oc=5",
       "pubDate": "Sun, 06 Sep 2026 07:35:59 GMT",
@@ -1447,7 +1478,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1470,6 +1501,31 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "khadakwasla fursungi tunnel project खडकवासला फुरसुंगी बोगद्याचे काम वेगात वर्षभरात ५ किलोम",
+      "title": "Khadakwasla Fursungi Tunnel Project: खडकवासला-फुरसुंगी बोगद्याचे काम वेगात; वर्षभरात ५ किलोमीटर खोदाई पूर्ण",
+      "summary": "Khadakwasla Fursungi Tunnel Project: खडकवासला-फुरसुंगी बोगद्याचे काम वेगात; वर्षभरात ५ किलोमीटर खोदाई पूर्ण",
+      "source": "Pudhari",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTM1MExfX0dWSWNZcDVoME5JVXJpZ0l4MXNlaUp0OUZDR2Y0U21VekMzSE5iR1FFSDJTbjE0UFFXUFdhQzFfcjNQM3JEeUU2eURIM1RZNHByV3pGR1lLQ1FTTGRzRzZibUtKSVprNlpkUWRJdW5lWTE0aUItVEZHb0d6b3VVcDB4ejh5WnhFWENseHgweHBUMVdlaE5xeXfSAawBQVVfeXFMTkZJODNnUEh0XzhxMVRDdC1Hc0R0cjZVRTNnNHpIeHlRU25zVG9lQTJva1dxT29ueHROWDhMTkc2ZnB4Y0std2VZUXNhZUk4N0Jzb0s5Y05WSXpTM3lIM3lJZ2lrNkRwa1YwOWt0YndyQXlWU0Y5VXZRSVdaU2VFdjZEc1E0T0dyWF9JTmRwU2tLZVFDRmRoTktHQU1kRVpxWHR6TjM0UFg4U1JsQw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:20:35 GMT",
+      "lastUpdated": "Sun, 06 Sep 2026 07:20:35 GMT",
+      "areas": [
+        "Fursungi",
+        "Khadakwasla"
+      ],
+      "region": "fursungi",
+      "sources": [
+        "Pudhari"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1505,7 +1561,7 @@
       "id": "el nino alert एल निनो चं संकट गंभीर पावसाळाच नव्हे हिवाळ्यातही धोका जागतिक हवामान संघटनेचा",
       "title": "El Nino Alert: ‘एल-निनो’चं संकट गंभीर, पावसाळाच नव्हे हिवाळ्यातही धोका, जागतिक हवामान संघटनेचा धडकी भरवणारा अलर्ट",
       "summary": "El Nino Alert: ‘एल-निनो’चं संकट गंभीर, पावसाळाच नव्हे हिवाळ्यातही धोका, जागतिक हवामान संघटनेचा धडकी भरवणारा अलर्ट",
-      "source": "news18marathi.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWXl3U3RJZkhtWWVkTXVfZThVSXJEMmQ5RWh1ZEYxVkNtOWNJWlJUbzRZTGMxaTlSSGV2UGhpVENDeXNibkFleE9Ed0tfR1BWcWhENTRtOWZsc1dBMHlmcWxMRzlOYUZPNkdzNFVvMGZFdkRPOWJmbFo0cUpMS0N2WnFDaG81MTJ4THN6WU9SenRnbTgtMXJTRDVZaXBqcWtXcXIwaTdrcVA5OTg2M2s0dlZRbTBMeEhsQ2pKZzRXVHpUcDRVNFA5MDY5Y1RmQm1USk1VSjV5VXhTdWJCR3JBbnpnREU1SkpGd1AybUY3NU4?oc=5",
       "pubDate": "Sun, 06 Sep 2026 05:53:00 GMT",
@@ -1513,7 +1569,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "news18marathi.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1549,7 +1605,7 @@
       "id": "dj ban morcha डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
       "title": "Pune DJ Ban Morcha News | डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
       "summary": "Pune DJ Ban Morcha News | डीजे आणि लाऊडस्पीकरविरोधात पुणेकरांचा मोर्चा",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1JXbU5OUzNBbi1MeFZHZFg0ZlNvQ3V3ZEY5Rkdab2lkOTdKV3ZLZlc3dXU4Wk1XWk5PUEZTOHZ5X3dvU0lVNU1lcjY0aEVPMm5qSUlyajNubGZ0Y3BHaHhZSjU1eEpaUzFlaUlJT2MzM0tWQXk4VGtEZEd0WkRUVjZjT25QSlR0?oc=5",
       "pubDate": "Sun, 06 Sep 2026 04:03:59 GMT",
@@ -1557,29 +1613,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "superfast 100 सुपरफास्ट बातम्या 06 september metro dj ban thackeray",
-      "title": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
-      "summary": "Superfast 100 News | सुपरफास्ट बातम्या | 06 September | Metro News | Pune DJ Ban News | Thackeray",
-      "source": "lokmat.news18.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2xtUHRtajdVREU2OExDcWNaSkY1Ul82UHFEZFNUUzJoY0RWTVNNb214MldKNHJNSzVySm5Vb09GUEdvRUs2MzlHYWZfUXFPbmNzdUg2MkVCSmZIU0xiaW5TaHFnTUZLWkRpWi1Qd3BTNVBIVG9Rb1NjVUt4dW1FT1FvNnZZa2Z6Q1JHS1hXM0tPcE5CaUd3eGswcWd2ZzRodUc1amZRMkZ1RmhnQ0ZsX3hhalFoRHNHZ3Ixb2h1Z1pLZmNqZlE?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 03:20:01 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 03:20:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1615,7 +1649,7 @@
       "id": "केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट सिया अन् चेतन फक्त मोहरे पोलिसांना मिळाले",
       "title": "Pune : केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट! सिया अन् चेतन फक्त मोहरे? पोलिसांना मिळालेल्या एका हिंटने फुटलं रितेशचं भिंग!",
       "summary": "Pune : केतन अग्रवाल प्रकरणात 79 दिवसांनंतर मोठा ट्विस्ट! सिया अन् चेतन फक्त मोहरे? पोलिसांना मिळालेल्या एका हिंटने फुटलं रितेशचं भिंग!",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNE5IaXlvU1ljQlBlcEZzbEZmYkZxcnNoZl9BWjV5U3ZBb3QxV2tzaUZsdi12R1lvbTdKNUJEazRzOGJzX0NXN2VnVGZUYzFqM20tWlprcVZScG1weFRRN0hWRzB6QjNzZWY5dGdhNDlKNEY2ZUFoTHRDNGlNc0RoTVNMUG5leTN5bWZpY2I1ZjI4dGhfQVBLNGxPVWNZZlFxVkhKaVBVVmNBZWM1SmZ0R1R2bVNjSm1wZjE2YUQtMnZLcXNMX2ozOEctcHQwRkpXQU9KQllzbWFZdnNwR3VRdkRpcFFqZ3FYNU5raw?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:18:00 GMT",
@@ -1623,7 +1657,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1637,7 +1671,7 @@
       "id": "weather alert महाराष्ट्रात वारं फिरलं सगळ्यांचंच टेन्शन वाढलं आता पाऊस नव्हे 4 दिवसांसाठी ",
       "title": "Weather Alert: महाराष्ट्रात वारं फिरलं, सगळ्यांचंच टेन्शन वाढलं, आता पाऊस नव्हे, 4 दिवसांसाठी वेगळाच अलर्ट",
       "summary": "Weather Alert: महाराष्ट्रात वारं फिरलं, सगळ्यांचंच टेन्शन वाढलं, आता पाऊस नव्हे, 4 दिवसांसाठी वेगळाच अलर्ट",
-      "source": "lokmat.news18.com",
+      "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUHFDTXd6c3M2dFYxdWg0OUY4M0Y0R3U3U0hyTWoyVGtTMmJMZ1Rua3huQ3BrRHZUekZILUZ2QU8wQ2RQZkoxb3c4bzgxSEZxQml6dGVtVllPT0IzbThlYVNZaUlQOHl1V0xYWVRyUXBzX0pxN2R4ZDB4QkdFRVFfODBrYjBBajZmN1h0Y2VuQTlfczFSMXhHZlpvbDlzQzZFb2VNZXhZUlktV0ZRNkdib21jemR5ZWhVeVFfZFFaVEd0SWw4azU1a21jcU56V0ZiSVdPRW4xb2FuZEVYNXFHMnlKakpDbTJUSmhLYU9HY3BVbVFSaDZzdW9NelNiNDA?oc=5",
       "pubDate": "Sun, 06 Sep 2026 02:10:00 GMT",
@@ -1645,7 +1679,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "lokmat.news18.com"
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1680,8 +1714,8 @@
   ],
   "summary": {
     "total": 44,
-    "alerts": 16,
-    "news": 28
+    "alerts": 14,
+    "news": 30
   },
-  "cleanedAt": "2026-09-06T18:28:28.489Z"
+  "cleanedAt": "2026-09-06T20:40:38.917Z"
 }
