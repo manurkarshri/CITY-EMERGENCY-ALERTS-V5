@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:18:54.871Z",
+  "generatedAt": "2026-09-07T22:55:38.812Z",
   "status": "ok",
   "alerts": [
     {
@@ -28,33 +28,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "thane fire ठाण्यात मोठी दुर्घटना मुंब्रा शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग वाहतु",
-      "title": "Thane Fire : ठाण्यात मोठी दुर्घटना : मुंब्रा-शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग, वाहतुकीचा उडाला बोजवारा",
-      "summary": "Thane Fire : ठाण्यात मोठी दुर्घटना : मुंब्रा-शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग, वाहतुकीचा उडाला बोजवारा",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdWxWY2ZaS2ttNnRsOHdnaktyazdPeHpBaGZlZUhZSTZfd000NVZwbUJCVWZibnZYR05nSkp4SnQ4Z1pEZElIbkxGT0V3ZVZ1YUJjMWRZdzFld19pcFM0eWxKTVhYcHNZTUxNa0RIS09hUjZ6VndBTTBUcFAtbFNveXY4TzRIdXY0NlZIT2dneE5IYUhCZVVrLW5JaTRZcG9XN0FCUEdnOGlYYXdSNmtwendRdDlvcTNWYnM0bG9EdUthQWJqS1FoaFdkMUFJUG5LVVJMZjVzb3Z0SHNhdE1HM2d3T3pORmNqNGlXNmtNRjY?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:55:51 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:55:51 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "chinchwad substation fire disrupts power supply across pimpri chinchwad hits metro pmpml e",
@@ -273,7 +246,7 @@
       "id": "regional daily weather report based on 0830 hours ist observations",
       "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
       "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
-      "source": "mausam.imd.gov.in",
+      "source": "IMD",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
       "pubDate": "Mon, 07 Sep 2026 12:17:05 GMT",
@@ -281,7 +254,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mausam.imd.gov.in"
+        "IMD"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -468,7 +441,7 @@
       "id": "जीवनदूतांचे कार्य अतुलनीय",
       "title": "जीवनदूतांचे कार्य अतुलनीय",
       "summary": "जीवनदूतांचे कार्य अतुलनीय",
-      "source": "Esakal",
+      "source": "esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTlRMDJOS1hRWTJhTmZna0xoSVNBUjBXcW54cjg4Z284VWo4cnBQaGxxX21wQllUc2ZQZXR4ODZnTGJFb2s2OGNlVl93Uy1fRGh5ZW8tUlk4akFZR1pEcVNETE9rMTA1UzBRbWl2Z29hVGtOcUVydzQwU0xaSzFnREFqODhkVTJYQnVDOVdfSk9rd2tXbnc5YWVodlM5U2vSAZ8BQVVfeXFMTUk5UTAyTktYUVkyYU5mZ2tMaElTQVIwV3FueHI4OGdvOFVqOHJwUGhscV9tcEJZVHNmUGV0eDg2Z0xiRW9rNjhjZVZfd1MtX0RoeWVvLVJZOGpBWUdaRHFTRExPazEwNVMwUW1pdmdvYVRrTnFFcnc0MFNMWksxZ0RBajg4ZFUyWEJ1QzlXX0pPa3drV253OWFlaHZTOVNr?oc=5",
       "pubDate": "Mon, 07 Sep 2026 12:07:00 GMT",
@@ -476,7 +449,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "esakal.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मध्ये प्रसिद्ध नृत्यांगना radha patil हिच्यावर गुन्हा दाखल परवानगी नसतानाही दहीहंडीत कार्य",
+      "title": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "summary": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMm93cVF4bzJxRExXX19IY21zZTZCbEdLMV82UmdfRDlUeXVjbVE1SzNFWHFuTk5YSDVZQjY2anRTZDh0VTgzQUx0aWVHMlFtUjQzakhzMjBBbHp0S2FPMFg0ZHNUeERyYW5aM3BOTlJ2eDRWeVN6SDBsQV92YlE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "lastUpdated": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -578,28 +573,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे श्वानाला फिरवायला बाहेर पडला रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंध",
-      "title": "पुणे: श्वानाला फिरवायला बाहेर पडला; रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंधारातच राहुलसोबत नको ते घडलं",
-      "summary": "पुणे: श्वानाला फिरवायला बाहेर पडला; रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंधारातच राहुलसोबत नको ते घडलं",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTQ3dkFHdUNOa3ZYNjNKOGlDRXpUaktRcjhDcEJTY2xTcF9QOWhUUWc2dGxpdFRhSzcxOGhmZUU4aXVRTG1hVE1JTnI5V0VZbXZ0Z05DYm5lWnFTRzhLTW9SanpxV3JOM0tDNGNDX1ZKbkprcVYySnl0MTdQUjYzS3hRbmRIekFJVEI5WVg0bTBwSFZGR0tIU1NJcTJ0N29xSnpfRzZGWWRoUk1OTU5qNm9lS1JDOWxUeXFCY3BTMA?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:50:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:50:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "metro रस्त्यावर होणारी प्रचंड वाहतूक कोंडी गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा दर ५ मिन",
       "title": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
       "summary": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
@@ -674,28 +647,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pMWhkdlNmZDJ3NFoyRFk0c3FKNzZoUmZVSXRFN0JDdkJvMUxqTWdZQXBIaDdxdEExVHdqOW9NcHpfaGtDb2ktNGhOeEZUR0FCZ2NKMGtn?oc=5",
       "pubDate": "Mon, 07 Sep 2026 06:45:37 GMT",
       "lastUpdated": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "रनवे ओलांडून amazon चं बोईंग 767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून amazon चे boeing 7",
-      "title": "रनवे ओलांडून Amazon चं बोईंग-767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून Amazon चे Boeing 767 थेट वाहनांवर धडकले; मियामीतील दुर्घटनेत किमान पाच जणांचा मृत्यू मियामी : Amazon Prime Air चे Boeing 7",
-      "summary": "रनवे ओलांडून Amazon चं बोईंग-767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून Amazon चे Boeing 767 थेट वाहनांवर धडकले; मियामीतील दुर्घटनेत किमान पाच जणांचा मृत्यू मियामी : Amazon Prime Air चे Boeing 7",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oWnJnTmZuOV9MY21HRGJMeUlfdHlZOHhXTS1YaWRDeERlcjRUYnNaMjR0MEZzdGxmX2pJRjgwZHlkZjZ3c0pUOWJWZnh3TU9oeWxULWlR?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:01:09 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:01:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -845,7 +796,7 @@
       "id": "अतिउच्चदाब वीज वाहिनीत स्फोट 3 लाखांवर ग्राहकांचा वीज खंडित pmpच्या ७० बसची सेवा ठप्प ८ मे",
       "title": "Pune News: अतिउच्चदाब वीज वाहिनीत स्फोट, 3 लाखांवर ग्राहकांचा वीज खंडित; PMPच्या ७० बसची सेवा ठप्प, ८ मेट्रोगाड्या २२ मिनिटं जागेवरच थांबल्या",
       "summary": "Pune News: अतिउच्चदाब वीज वाहिनीत स्फोट, 3 लाखांवर ग्राहकांचा वीज खंडित; PMPच्या ७० बसची सेवा ठप्प, ८ मेट्रोगाड्या २२ मिनिटं जागेवरच थांबल्या",
-      "source": "Esakal",
+      "source": "esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTB1bDhNWGlmd2x0NmpTWnppRFB0RXVZRW01VWZvbVFHcHdVYjNFQ1FORFozVGdoSXQyX0JncTFDdHM2MWFzX3B0TzBJUkFhNkFLNzdTM0IwN3N6a3J4Mm04TEt3QmRqTkFHUXZQQTBReTVZTERRVHRWUVE0eWNWZnl1VzNOQjBtWVRPbmcwZFpiWUNUNzNUczRBa1ZNNnF1cG1XQkZqaDRvYVI4M2hjZEtDYnpkREFyWF9fRmdfQ3RlV3B0b1dWMnlkbTZ1c1RnbTZjakwxS05sV2k2OGt2aUNzckJyQQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 02:43:23 GMT",
@@ -853,7 +804,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -958,7 +909,7 @@
       "id": "metro पिंपरी स्वारगेट मार्गावर मेट्रोचा चक्का जाम वीज जाताच ८ गाड्या फलाटावर अडकल्या प्रवा",
       "title": "Pune Metro: पिंपरी-स्वारगेट मार्गावर मेट्रोचा चक्का जाम! वीज जाताच ८ गाड्या फलाटावर अडकल्या; प्रवाशांचे हाल",
       "summary": "Pune Metro: पिंपरी-स्वारगेट मार्गावर मेट्रोचा चक्का जाम! वीज जाताच ८ गाड्या फलाटावर अडकल्या; प्रवाशांचे हाल",
-      "source": "Dainik Prabhat",
+      "source": "dainikprabhat.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOckJmaEV2YUJZNFRmaEFtS29rQkk2cVcza3cyZWJaSkE4LVByT3NxQmZUSVFxWDBUbEJDT093Z2hnNnhCdWVPU1hubU5DdzNvSTQ4RWg3OS01clgwcWFNSV82NV9WZHhfek5fTTd0cUtEaVE0RWEtZEZfYVNkNm5XVHJmSHZkVHlVVWsxNmFyaXluV3lNcXh1OHRKVkUxTFduUmRmRTZ1YndqUlBva2tETTV0QzZ6STNzTXNrQnV2bHlyM3JZMWdBM2Z6aVl6MngtRmdJSnpoUkRSTU82dUtqS0hBMXNwRXpiZ295a3RLOC1xR1RLekl0dmtB?oc=5",
       "pubDate": "Mon, 07 Sep 2026 00:30:00 GMT",
@@ -966,7 +917,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat"
+        "dainikprabhat.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -980,7 +931,7 @@
       "id": "rain alert गडचिरोलीत वादळी पावसाचा येलो अलर्ट",
       "title": "Rain Alert: गडचिरोलीत वादळी पावसाचा ‘येलो अलर्ट’",
       "summary": "Rain Alert: गडचिरोलीत वादळी पावसाचा ‘येलो अलर्ट’",
-      "source": "Agrowon",
+      "source": "agrowon.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUtFbzJwaWtHRDBoZVQ3ZEpuNW8waFRYdzQyN0FHd2RsTjlvMHJYQVNhU2ZFSl9PZHNpaUNCX1R3ellxdWh0clBVX0xtU1k3Z0Vmc1R6MVdUcVZHbXNtOEYxcFp6emZWeGtWWEd0cktUQWJicnVSRUJ4MURFajZWcWRMWmJCN2dmcktSX1h0WlZhVnZyZnROS05jakhHNk9TMm9YV2lR?oc=5",
       "pubDate": "Mon, 07 Sep 2026 00:30:00 GMT",
@@ -988,7 +939,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Agrowon"
+        "agrowon.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1044,28 +995,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रात पावसाची उघडीप नाशिक जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "title": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "summary": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2NXWXVFZ19xOHd2bjhtZHNFLUx5Z05LSWdqNUREMmV1bE5ZZTAxMDdvcXNPRXlja3JVT2d6ZU9pSDNwZU41Nk9YQ1BUTnZQOFcyQU8wY21QN19xbUVaMEZSaHFSc2lQdGZhTTlzcmVMcmtLNFAzcnBYSmk4R3dGdlNMTENPUXdMRUlKak1WSXhIcVF1ckVTUjFxY2ZfRVRVYWI1S2tEVXRYakRPYlhEQ0pTamFVelp6dVFaV0R4aDdpY3BlNmswQ21VLWV1YnktUmx2dW1uRdIB3AFBVV95cUxQS0ZJUGZkUFZvTnMzUTctT1QybGpGMVZJRGFQbDZGS2lVVWUtY0x1WUpvQllHWDIyWWprS2hwZzFGT09mTGJHbk5WVUZqeGRFcHFpaHcwTWJ2MDdMalJTbGJLbEpldnNPelN3eXVWX1FKeWRzUU4yOTR3ejBvTzNZaWZiWXQ4cl9DdFBESHRJQ3BTNmd3bFRmRkNEN0dqcjVMQzM4TjlkMHhlRnJIeEFwbG9iT2RPTk5SeFNlcE1kODFnWG1PVXREMlNTcFA4UUVpZmZyOEhVdmRBTDJr?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 21:11:09 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 21:11:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1095,33 +1024,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "thane fire ठाण्यात मोठी दुर्घटना मुंब्रा शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग वाहतु",
-      "title": "Thane Fire : ठाण्यात मोठी दुर्घटना : मुंब्रा-शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग, वाहतुकीचा उडाला बोजवारा",
-      "summary": "Thane Fire : ठाण्यात मोठी दुर्घटना : मुंब्रा-शीळफाटा परिसरातील टायरच्या गोदामाला भीषण आग, वाहतुकीचा उडाला बोजवारा",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdWxWY2ZaS2ttNnRsOHdnaktyazdPeHpBaGZlZUhZSTZfd000NVZwbUJCVWZibnZYR05nSkp4SnQ4Z1pEZElIbkxGT0V3ZVZ1YUJjMWRZdzFld19pcFM0eWxKTVhYcHNZTUxNa0RIS09hUjZ6VndBTTBUcFAtbFNveXY4TzRIdXY0NlZIT2dneE5IYUhCZVVrLW5JaTRZcG9XN0FCUEdnOGlYYXdSNmtwendRdDlvcTNWYnM0bG9EdUthQWJqS1FoaFdkMUFJUG5LVVJMZjVzb3Z0SHNhdE1HM2d3T3pORmNqNGlXNmtNRjY?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:55:51 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:55:51 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "chinchwad substation fire disrupts power supply across pimpri chinchwad hits metro pmpml e",
@@ -1496,7 +1398,7 @@
       "id": "regional daily weather report based on 0830 hours ist observations",
       "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
       "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
-      "source": "mausam.imd.gov.in",
+      "source": "IMD",
       "sourceClass": "official",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
       "pubDate": "Mon, 07 Sep 2026 12:17:05 GMT",
@@ -1504,7 +1406,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "mausam.imd.gov.in"
+        "IMD"
       ],
       "confidence": "High",
       "severity": "advisory",
@@ -1518,7 +1420,7 @@
       "id": "जीवनदूतांचे कार्य अतुलनीय",
       "title": "जीवनदूतांचे कार्य अतुलनीय",
       "summary": "जीवनदूतांचे कार्य अतुलनीय",
-      "source": "Esakal",
+      "source": "esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTlRMDJOS1hRWTJhTmZna0xoSVNBUjBXcW54cjg4Z284VWo4cnBQaGxxX21wQllUc2ZQZXR4ODZnTGJFb2s2OGNlVl93Uy1fRGh5ZW8tUlk4akFZR1pEcVNETE9rMTA1UzBRbWl2Z29hVGtOcUVydzQwU0xaSzFnREFqODhkVTJYQnVDOVdfSk9rd2tXbnc5YWVodlM5U2vSAZ8BQVVfeXFMTUk5UTAyTktYUVkyYU5mZ2tMaElTQVIwV3FueHI4OGdvOFVqOHJwUGhscV9tcEJZVHNmUGV0eDg2Z0xiRW9rNjhjZVZfd1MtX0RoeWVvLVJZOGpBWUdaRHFTRExPazEwNVMwUW1pdmdvYVRrTnFFcnc0MFNMWksxZ0RBajg4ZFUyWEJ1QzlXX0pPa3drV253OWFlaHZTOVNr?oc=5",
       "pubDate": "Mon, 07 Sep 2026 12:07:00 GMT",
@@ -1526,7 +1428,29 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "esakal.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मध्ये प्रसिद्ध नृत्यांगना radha patil हिच्यावर गुन्हा दाखल परवानगी नसतानाही दहीहंडीत कार्य",
+      "title": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "summary": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMm93cVF4bzJxRExXX19IY21zZTZCbEdLMV82UmdfRDlUeXVjbVE1SzNFWHFuTk5YSDVZQjY2anRTZDh0VTgzQUx0aWVHMlFtUjQzakhzMjBBbHp0S2FPMFg0ZHNUeERyYW5aM3BOTlJ2eDRWeVN6SDBsQV92YlE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "lastUpdated": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1625,28 +1549,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे श्वानाला फिरवायला बाहेर पडला रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंध",
-      "title": "पुणे: श्वानाला फिरवायला बाहेर पडला; रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंधारातच राहुलसोबत नको ते घडलं",
-      "summary": "पुणे: श्वानाला फिरवायला बाहेर पडला; रस्त्याच्या कडेला टोळक्याला बघून हटकलं अन् पहाटेच्या अंधारातच राहुलसोबत नको ते घडलं",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTQ3dkFHdUNOa3ZYNjNKOGlDRXpUaktRcjhDcEJTY2xTcF9QOWhUUWc2dGxpdFRhSzcxOGhmZUU4aXVRTG1hVE1JTnI5V0VZbXZ0Z05DYm5lWnFTRzhLTW9SanpxV3JOM0tDNGNDX1ZKbkprcVYySnl0MTdQUjYzS3hRbmRIekFJVEI5WVg0bTBwSFZGR0tIU1NJcTJ0N29xSnpfRzZGWWRoUk1OTU5qNm9lS1JDOWxUeXFCY3BTMA?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:50:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:50:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "metro रस्त्यावर होणारी प्रचंड वाहतूक कोंडी गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा दर ५ मिन",
       "title": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
       "summary": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
@@ -1721,28 +1623,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pMWhkdlNmZDJ3NFoyRFk0c3FKNzZoUmZVSXRFN0JDdkJvMUxqTWdZQXBIaDdxdEExVHdqOW9NcHpfaGtDb2ktNGhOeEZUR0FCZ2NKMGtn?oc=5",
       "pubDate": "Mon, 07 Sep 2026 06:45:37 GMT",
       "lastUpdated": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "रनवे ओलांडून amazon चं बोईंग 767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून amazon चे boeing 7",
-      "title": "रनवे ओलांडून Amazon चं बोईंग-767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून Amazon चे Boeing 767 थेट वाहनांवर धडकले; मियामीतील दुर्घटनेत किमान पाच जणांचा मृत्यू मियामी : Amazon Prime Air चे Boeing 7",
-      "summary": "रनवे ओलांडून Amazon चं बोईंग-767 विमान थेट गाड्यांवर धडकलं रनवे ओलांडून Amazon चे Boeing 767 थेट वाहनांवर धडकले; मियामीतील दुर्घटनेत किमान पाच जणांचा मृत्यू मियामी : Amazon Prime Air चे Boeing 7",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oWnJnTmZuOV9MY21HRGJMeUlfdHlZOHhXTS1YaWRDeERlcjRUYnNaMjR0MEZzdGxmX2pJRjgwZHlkZjZ3c0pUOWJWZnh3TU9oeWxULWlR?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:01:09 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:01:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1892,7 +1772,7 @@
       "id": "अतिउच्चदाब वीज वाहिनीत स्फोट 3 लाखांवर ग्राहकांचा वीज खंडित pmpच्या ७० बसची सेवा ठप्प ८ मे",
       "title": "Pune News: अतिउच्चदाब वीज वाहिनीत स्फोट, 3 लाखांवर ग्राहकांचा वीज खंडित; PMPच्या ७० बसची सेवा ठप्प, ८ मेट्रोगाड्या २२ मिनिटं जागेवरच थांबल्या",
       "summary": "Pune News: अतिउच्चदाब वीज वाहिनीत स्फोट, 3 लाखांवर ग्राहकांचा वीज खंडित; PMPच्या ७० बसची सेवा ठप्प, ८ मेट्रोगाड्या २२ मिनिटं जागेवरच थांबल्या",
-      "source": "Esakal",
+      "source": "esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTB1bDhNWGlmd2x0NmpTWnppRFB0RXVZRW01VWZvbVFHcHdVYjNFQ1FORFozVGdoSXQyX0JncTFDdHM2MWFzX3B0TzBJUkFhNkFLNzdTM0IwN3N6a3J4Mm04TEt3QmRqTkFHUXZQQTBReTVZTERRVHRWUVE0eWNWZnl1VzNOQjBtWVRPbmcwZFpiWUNUNzNUczRBa1ZNNnF1cG1XQkZqaDRvYVI4M2hjZEtDYnpkREFyWF9fRmdfQ3RlV3B0b1dWMnlkbTZ1c1RnbTZjakwxS05sV2k2OGt2aUNzckJyQQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 02:43:23 GMT",
@@ -1900,7 +1780,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2002,7 +1882,7 @@
       "id": "metro पिंपरी स्वारगेट मार्गावर मेट्रोचा चक्का जाम वीज जाताच ८ गाड्या फलाटावर अडकल्या प्रवा",
       "title": "Pune Metro: पिंपरी-स्वारगेट मार्गावर मेट्रोचा चक्का जाम! वीज जाताच ८ गाड्या फलाटावर अडकल्या; प्रवाशांचे हाल",
       "summary": "Pune Metro: पिंपरी-स्वारगेट मार्गावर मेट्रोचा चक्का जाम! वीज जाताच ८ गाड्या फलाटावर अडकल्या; प्रवाशांचे हाल",
-      "source": "Dainik Prabhat",
+      "source": "dainikprabhat.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOckJmaEV2YUJZNFRmaEFtS29rQkk2cVcza3cyZWJaSkE4LVByT3NxQmZUSVFxWDBUbEJDT093Z2hnNnhCdWVPU1hubU5DdzNvSTQ4RWg3OS01clgwcWFNSV82NV9WZHhfek5fTTd0cUtEaVE0RWEtZEZfYVNkNm5XVHJmSHZkVHlVVWsxNmFyaXluV3lNcXh1OHRKVkUxTFduUmRmRTZ1YndqUlBva2tETTV0QzZ6STNzTXNrQnV2bHlyM3JZMWdBM2Z6aVl6MngtRmdJSnpoUkRSTU82dUtqS0hBMXNwRXpiZ295a3RLOC1xR1RLekl0dmtB?oc=5",
       "pubDate": "Mon, 07 Sep 2026 00:30:00 GMT",
@@ -2010,7 +1890,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat"
+        "dainikprabhat.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2024,7 +1904,7 @@
       "id": "rain alert गडचिरोलीत वादळी पावसाचा येलो अलर्ट",
       "title": "Rain Alert: गडचिरोलीत वादळी पावसाचा ‘येलो अलर्ट’",
       "summary": "Rain Alert: गडचिरोलीत वादळी पावसाचा ‘येलो अलर्ट’",
-      "source": "Agrowon",
+      "source": "agrowon.esakal.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUtFbzJwaWtHRDBoZVQ3ZEpuNW8waFRYdzQyN0FHd2RsTjlvMHJYQVNhU2ZFSl9PZHNpaUNCX1R3ellxdWh0clBVX0xtU1k3Z0Vmc1R6MVdUcVZHbXNtOEYxcFp6emZWeGtWWEd0cktUQWJicnVSRUJ4MURFajZWcWRMWmJCN2dmcktSX1h0WlZhVnZyZnROS05jakhHNk9TMm9YV2lR?oc=5",
       "pubDate": "Mon, 07 Sep 2026 00:30:00 GMT",
@@ -2032,7 +1912,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Agrowon"
+        "agrowon.esakal.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2085,34 +1965,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "महाराष्ट्रात पावसाची उघडीप नाशिक जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "title": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "summary": "महाराष्ट्रात पावसाची उघडीप: नाशिक-जळगावसह पुण्याच्या घाटमाथ्यावर आज यलो अलर्ट",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2NXWXVFZ19xOHd2bjhtZHNFLUx5Z05LSWdqNUREMmV1bE5ZZTAxMDdvcXNPRXlja3JVT2d6ZU9pSDNwZU41Nk9YQ1BUTnZQOFcyQU8wY21QN19xbUVaMEZSaHFSc2lQdGZhTTlzcmVMcmtLNFAzcnBYSmk4R3dGdlNMTENPUXdMRUlKak1WSXhIcVF1ckVTUjFxY2ZfRVRVYWI1S2tEVXRYakRPYlhEQ0pTamFVelp6dVFaV0R4aDdpY3BlNmswQ21VLWV1YnktUmx2dW1uRdIB3AFBVV95cUxQS0ZJUGZkUFZvTnMzUTctT1QybGpGMVZJRGFQbDZGS2lVVWUtY0x1WUpvQllHWDIyWWprS2hwZzFGT09mTGJHbk5WVUZqeGRFcHFpaHcwTWJ2MDdMalJTbGJLbEpldnNPelN3eXVWX1FKeWRzUU4yOTR3ejBvTzNZaWZiWXQ4cl9DdFBESHRJQ3BTNmd3bFRmRkNEN0dqcjVMQzM4TjlkMHhlRnJIeEFwbG9iT2RPTk5SeFNlcE1kODFnWG1PVXREMlNTcFA4UUVpZmZyOEhVdmRBTDJr?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 21:11:09 GMT",
-      "lastUpdated": "Sun, 06 Sep 2026 21:11:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 50,
-    "alerts": 16,
-    "news": 34
+    "total": 47,
+    "alerts": 15,
+    "news": 32
   },
-  "cleanedAt": "2026-09-07T20:18:54.877Z"
+  "cleanedAt": "2026-09-07T22:55:38.823Z"
 }
