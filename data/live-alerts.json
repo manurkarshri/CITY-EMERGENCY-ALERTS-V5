@@ -1,12 +1,44 @@
 {
-  "generatedAt": "2026-09-08T05:30:59.909Z",
+  "generatedAt": "2026-09-08T10:23:17.668Z",
   "status": "ok",
   "alerts": [
+    {
+      "id": "bihar school holiday will schools close due to heavy rain and flood check imd alert",
+      "title": "Bihar School Holiday: Will Schools Close Due to Heavy Rain and Flood? Check IMD Alert",
+      "summary": "Bihar School Holiday: Will Schools Close Due to Heavy Rain and Flood? Check IMD Alert",
+      "source": "Jagran Josh",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUswQmQ0cmY4a1puRlBJQkNkN2oyOHNMY25zOVlWQWhOaWRwVmppaGFHVXpoLVVha1BhQVVBYWI4UjcwWTZTZU5HZlZ2Q3lyVG5TRzM5RzR2dzY5cWZXM2FUbXFPUWNOTnFBQmQ4WVZHVmUyNWY3Und3SmVwRkd3VV9FTmV3Vm5HZjlEaWJkS0VPSGhXOF9XcHNMdXJ6elpBc3czN29oc00taUx5eVVLbkxzZlJJdWJ1YkFVNXBRQQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:34:26 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 09:34:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jagran Josh"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
     {
       "id": "beed 1 03 crore mgnrega scam unearthed in nandurghat",
       "title": "Beed: ₹1.03 Crore MGNREGA Scam Unearthed In Nandurghat",
       "summary": "Beed: ₹1.03 Crore MGNREGA Scam Unearthed In Nandurghat",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2NZanVkalpfN3dLSXNKcFEyM2lkeG9LWWxhQ3JSYmVONjgwWnBhbGozRUlRWHB0a2dMQUo1QmJnVkdJaXZ4ZFMyX0VteTJabUhGZ1BKblhOLUdWN0VURks3VlQ3OHhXMTZJMWpVME41YzNOaDcxOE90Y21sZFUwclJiZFVKT3NzTzB5N1pmYWdad9IBlwFBVV95cUxPOXY1aWFXMTFkTVNBLVh1Y2FvbVZocUV5UTY1TnYzWTM5dnRpaXczWUF0RHNVMzQ5ekdQYkpMa1NHZmM5Rmg2R0dGLVhxcTBxV1J3UG5ialJQWUxfTGpkc0VpbzFSYUo1LUZLWWg0OF9aSzlnT09oWjFoY1pXMTlSQ0NtTVZwc1MyMUY5LXVmUG5Ucmo5QV80?oc=5",
       "pubDate": "Mon, 07 Sep 2026 11:54:23 GMT",
@@ -14,7 +46,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -28,37 +60,6 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
-    },
-    {
-      "id": "serious a8 crash near edinburgh airport halts road access",
-      "title": "Serious A8 crash near Edinburgh Airport halts road access",
-      "summary": "Serious A8 crash near Edinburgh Airport halts road access",
-      "source": "thetraveler.org",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON29IUlJnb3FsME5jM1BNZ0Q4aEJhNE5ra0J3RkpLOGNmdjhZSDBwV2FaTG1SSElKR0pESmxBT1NNTFc0ZjNaYk1yT3pzNm1OM3p4V1hQM3I0MmZvbXhabHp2ZmJEMVVJeUUxSTZjZ1o1ZDVVMV92WjRUbGxCQVVORHpxNjhBU3hrRzN0dzhUaw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:38:27 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:38:27 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "thetraveler.org"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
-      ],
-      "severity": "warning",
-      "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
-      "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
     },
     {
       "id": "msedcl foils smart meter tampering bid by 19 consumers files police complaints",
@@ -115,37 +116,6 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
-    },
-    {
-      "id": "metro line 1 services hit by power glitch restored within an hour",
-      "title": "Pune Metro Line 1 Services Hit by Power Glitch, Restored Within an Hour",
-      "summary": "Pune Metro Line 1 Services Hit by Power Glitch, Restored Within an Hour",
-      "source": "Pune Mirror",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVBaZ3pRWTFuSzMzT1l5Y2hPTDhfRkZtaThmY3BLd2pkMzdXcTMtMWNNSWpaR2F1VE9JVUhRRGNiX241UE1CVktpSk1FOXExdnV3LXR1WmRNT2RVRS1hTDYxamR6Q0lYVVBFRm1lTmFmOUNzN0oyTDN3TjA0ZFRVTFROMUtIanl0NDBZ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:29:47 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:29:47 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Mirror"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Power supply impact possible."
-      ]
     },
     {
       "id": "regional daily weather report based on 0830 hours ist observations",
@@ -172,62 +142,190 @@
   ],
   "news": [
     {
-      "id": "chain snatching 100 cctv cameras help crime branch track down suspect in two cases",
-      "title": "Pune Chain Snatching: 100+ CCTV Cameras Help Crime Branch Track Down Suspect in Two Cases",
-      "summary": "Pune Chain Snatching: 100+ CCTV Cameras Help Crime Branch Track Down Suspect in Two Cases",
-      "source": "punekarnews.in",
+      "id": "traffic सिंहगड रोड दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल जाणून घ्या पर",
+      "title": "Pune Traffic Update : सिंहगड रोड, दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल, जाणून घ्या पर्यायी मार्ग....",
+      "summary": "Pune Traffic Update : सिंहगड रोड, दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल, जाणून घ्या पर्यायी मार्ग....",
+      "source": "civicmirror.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYU9QaFcyU0ZhZjN1RE5Qek9pX005UG5ieFdjZmdWUFZFMHNqX1JpTnI1N1UwUnhLWFlCd0tsdVBoN01MOUhfUnlpVGMyOHFEN3ZJMkQtZGFidWdTVHVZbVRGTXV5QlMzQzg4bHBKQ0xDUW1VVjI2YWc2SFlZTnhwYnhWY2VnQ3A0RHdLVkQ1bkluUzI3LVlFRTBqSWtDSGlzRDhGZk83Rkc5U19UMzd3THBhWG9jZw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 17:43:47 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 17:43:47 GMT",
-      "areas": [
-        "Sus"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVlBpNmZQMjlKMW90NHYxZy1UTDl4MGRRY2dPdXlWN0hWMHFfR1pmMl9OQlNWa1lESC1QblhZWnY0Rld5NXptbGhSWjlvU1pmM0JKWk1SUmprNjFuUlgybWRkdDMtR2ZGWVRzLXE0SUZtYUxQQkZwUkxTZy16RmhsbkNOaXRmRlNJcGIyV1Q2ck5MdG5RZ3NaQTRma1g3aFNyOUpOWFJCcmxHOUduVldJVzdfNlBIZ1p6c3lPUWtCQWpJRE9HQnI4bnlSRkpudXdhbTdNSjF1Ul8xTGZtS29kaHhKemJsb05KYktJV2lvMzdBMGl0OEdqRTN2UklTc2hF?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 08:05:39 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 08:05:39 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "punekarnews.in"
+        "civicmirror.in"
       ],
       "confidence": "Single source",
       "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
       ],
       "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
     },
     {
-      "id": "scientist dies of cardiac arrest during satara hill half marathon",
-      "title": "Pune Scientist Dies of Cardiac Arrest During Satara Hill Half Marathon",
-      "summary": "Pune Scientist Dies of Cardiac Arrest During Satara Hill Half Marathon",
+      "id": "imd weather forecast राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर जाणून घ्या पुढील 5 दिवसांच",
+      "title": "IMD Weather Forecast : राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर? जाणून घ्या पुढील 5 दिवसांचा अंदाज",
+      "summary": "IMD Weather Forecast : राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर? जाणून घ्या पुढील 5 दिवसांचा अंदाज",
+      "source": "HindusthanPost",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHBoem9ZVFVBemdTcTVwMWJXWXBsdlVvejJXQzdXcXBiNlB0NnBoZ3BvbFVZWEU1MElLVDNQd1liS0xESHRURGlhaFR1THUtWXlTOGhUR2ppZEZ0V1hVRldiZWQ2Y2pXUUJpaUxEUjJkQ0ktZ1lnSWNKeXdtbHVNcGNJZUVJNk9YNFJ1UklhcDNySEFtZklEbElzS19DUkhUbTJyMzJFOVRuRUgxX1N0MEhVakhjYnhvRlZybmFn?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:00:21 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 09:00:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "HindusthanPost"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी भोकर नदीला पूर",
+      "title": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी; भोकर नदीला पूर",
+      "summary": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी; भोकर नदीला पूर",
+      "source": "Jalgaon Live News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkNvNzI5TUtVbEx1MUhZYldmUnUweTdqb1Y1anFPSTZyOHhpTHVkVkdRaHAtY25NMDAwNHdmNzNMWjFxd3R3Qnhaa0FROGtFZVZnYjYtVThPYkNPZ0hyX0NUbldUNFRGNkg2WFI3TlZOQ2MyQUcwTW1aQWlZN0Q3c1NSOA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 08:50:47 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 08:50:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jalgaon Live News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा व्हिडिओ व्हायरल गर्",
+      "title": "पुणे: दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा; व्हिडिओ व्हायरल, गर्दी व्यवस्थापनावर प्रश्न पुणे: दहीहंडी उत्सवादरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश पर",
+      "summary": "पुणे: दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा; व्हिडिओ व्हायरल, गर्दी व्यवस्थापनावर प्रश्न पुणे: दहीहंडी उत्सवादरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश पर",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jZTZWMGg2TXU1eGtTbjZEcDdvcHZWVnUyUjA5VjEtcUtCZzBtNmxfalVMZ0M0UjFzbXdHZjhSeUJ4TGpXRFpNcHFEZ1ZhemtVQUE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:22:16 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 07:22:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ganesh festival कोकणवासियांना पुन्हा बाप्पा पावला स्पेशल गाड्यांची घोषणा पाहा संपूर्ण वेळा",
+      "title": "Ganesh Festival : कोकणवासियांना पुन्हा बाप्पा पावला, स्पेशल गाड्यांची घोषणा, पाहा संपूर्ण वेळापत्रक",
+      "summary": "Ganesh Festival : कोकणवासियांना पुन्हा बाप्पा पावला, स्पेशल गाड्यांची घोषणा, पाहा संपूर्ण वेळापत्रक",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVlJKVGhCdFh4T0c1Sm9HaVNETmZ1dXFjSTk2MnRqT3FfaE41eGdiUnFnMWswc2RfeWg5MmV2bWtVVWNfbGtVdDUtWVEtQ096M1N0TGRfOFpuZ29BVWdPaFV2MVhiQnlSd1I1clpsa2ZWZmZkdWgwM2pjWHN1RTdUV1E0ejd3Qmh4bzkxeVBrSW1sTG1tUTlKR0lhNVR2U3Q5aGw5bW9VdjEtQ19fRGdFMmxpclBtVmZ1TXlYS2c1a3E3MVQ3cmNlMk00YzFnb3U2QUs1UWhuT2lWckhSN1F2dXNxZl9EMGhWS1VBeUFid3FFTFU4?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 06:36:00 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 06:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे दहीहंडीला 4 बेस 4 टॉपची मर्यादाही ओलांडली 116 मंडळांवर खटले 4 प्लाझ्मा",
+      "title": "पुणे : दहीहंडीला 4 बेस, 4 टॉपची मर्यादाही ओलांडली; 116 मंडळांवर खटले, 4 प्लाझ्मा",
+      "summary": "पुणे : दहीहंडीला 4 बेस, 4 टॉपची मर्यादाही ओलांडली; 116 मंडळांवर खटले, 4 प्लाझ्मा",
+      "source": "4 प्रेशर मिडसह 8 साऊंड सिस्टीम जप्त पुणे: दहीहंडी उत्सवात पोलिसांनी घालून दिलेल्या चार बेस आणि चार टॉपच् - instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xc0hfRnFqVDJIVkRlOHFiUkowUHZ0X0E1YTV1aW5JNUZMS1ZDV1hYcWlGLUNrcDlsZkxtU2NyaTRsSldrcFVQMWhUMHFVS0ctMGc?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 06:03:19 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 06:03:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "4 प्रेशर मिडसह 8 साऊंड सिस्टीम जप्त पुणे: दहीहंडी उत्सवात पोलिसांनी घालून दिलेल्या चार बेस आणि चार टॉपच् - instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव पावसाअभावी विभागीय आयुक्तांचा निर्णय रब्बी हं",
+      "title": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव; पावसाअभावी विभागीय आयुक्तांचा निर्णय, रब्बी हंगामासाठी पाणी सोडले जाणार नाही",
+      "summary": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव; पावसाअभावी विभागीय आयुक्तांचा निर्णय, रब्बी हंगामासाठी पाणी सोडले जाणार नाही",
+      "source": "lokmanthan.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOazdzTHJTRzViNmtlYWV3RjdKSHBueG1nZWRRMlNZM3dLS2FMQW9DUFhic25ZVDQ2NWNuSWdlcDhjT2RaX1RsOW40eHhzaTVmVlNjc2JZUGY4Z2YzcHJSZmp6UlVEMVlRazJJOG85U1I4VDBybzY0XzZnbkc1MzhXYnRkOUlLUVlPeHU5MHdyN0FnM05DUTREZWZTSXRpVVhJQUhITkN0b3hjZjQ1b05NVVFHYUxsdlZtWjJyTnlOX2JXNjg2TXpkOXlDUWxESkVTMVBwU0t4NnFlVWlyXzVlYnVPU3owUFdOclRHN01hRjN5amdDMTBNQmdRV0VISGxuMk5SYw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 05:28:18 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 05:28:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmanthan.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ketan agarwal murder case accused initially planned to hire contract killers changed plan ",
+      "title": "Ketan Agarwal Murder Case: Accused Initially Planned To Hire Contract Killers, Changed Plan Later, Say",
+      "summary": "Ketan Agarwal Murder Case: Accused Initially Planned To Hire Contract Killers, Changed Plan Later, Say",
       "source": "LatestLY",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnVLZjU3am1BN3dyUnJ6NFZueUgwWWJ1VXhZdmtxMmFlQlI4UGVMRjdEZ1lRS2R5X3NhRzROWXRaOVRNUGZGeTQtYTZaaVQ1YTVHUkFNZTVTV1ZJLVZEMmVOWXJCeEZOTUhqelRkTVRuZFZrV2M2ZXZvN1FtN0pPM1o0MlZELWZrUjhwb0d6akJmX1VuWEVkS1FiWVZMZGFqV2NOQ3JBTExlRzBoclZwNnNkWUpXUmc1VE5j0gHAAUFVX3lxTE9xMzEtelEwaFZmV3BRel9CS01KYlRnTWZtNndyeklVZlFiWkxLX2JpSHVwZ05MeF80Z0hHNEkyOXlEb3ZXY3lCamMzbm1XbVhvOVhwcmxUcy0xcHE2d2hpRy1pTFNYdVlVZHNEcXFqbS1odTRCOTZ2MUhrVFJBNl9yX0xoYjZ6dDdmenNtTjQyeF9ZRnlwS2NQTzhEY1RERkdYdG1Td1Z1MUtCSGd3a0dPcWJpYWkzLVpqMnZSSjdabw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:23:19 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:23:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHU3TVdNQkY0QkllanM5cjlUNV9lOUdER01vZmwzd1VnZW5tYnI2MW10Z3JTUm5JY09nYzdYNkhiNDhfbXhhbVlHRWpsdXBsMnd5Zk9kMmZ4alZ4d3hLVFUyajVGaEVqMHFySnZTdThHVHpUbUQ1cG96N2NkTkJFLUZJRDktYm15ODJhNUlLTnE4MDh0VDJPSnRBMGpxeUEyLVItSUdFNFRKZzRUSTNLZVJnYUs4RFUyMEt5Yk5Ed1lPdGlXY0pZWTdFRzRIbGV4YzM0YWxfd3NrVjBCWEhJSWhiekJXLVpQS2FGU19JcjTSAfABQVVfeXFMT0x1N01XTUJGNEJJZWpzOXI5VDVfZTlHREdNb2ZsM3dVZ2VubWJyNjFtdGdyU1JuSWNPZ2M3WDZIYjQ4X214YW1ZR0VqbHVwbDJ3eWZPZDJmeGpWeHd4S1RVMmo1RmhFajBxckp2U3U4R1R6VG1ENXBvejdjZE5CRS1GSUQ5LWJteTgyYTVJS05xODA4dFQyT0p0QTBqcXlBMi1SLUlHRTRUSmc0VEkzS2VSZ2FLOERVMjBLeWJORHdZT3RpV2NKWVk3RUc0SGxleGMzNGFsX3dza1YwQlhISUloYnpCVy1aUEthRlNfSXI0?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 04:39:08 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 04:39:08 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "LatestLY"
       ],
       "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required."
     },
     {
       "id": "water cut पुणेकर पाणी जपून वापरा ऐन पावसाळ्यात पुरवठा बंद कधी आणि कुठं जाणून घ्या अपडेट",
@@ -235,13 +333,35 @@
       "summary": "Pune Water Cut: पुणेकर, पाणी जपून वापरा! ऐन पावसाळ्यात पुरवठा बंद, कधी आणि कुठं? जाणून घ्या अपडेट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmwwS01lcmNUekVwa2JPMHo4Rm8wMlhMSzBTN2lfdkI2b2o4ZzVZNVNGMFltYml6MkJkWjhWZXkyaUEyN2c5bUNuQk4yRGpYTmo0eTdjdUF6Y1lZZ3ZXNFI2XzctOUZyNjdfcUVjMDJSbF94QXRxUTNjdDEzSmlYemJZUEFidEdMcEFFaklCaHU4cGtwUmswa0dkLVpiY3FCUUltbFpxV1hOdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEZJVktNSmI2SDRSbzBrNy11V1hudHdTWFZFX0F1M2tMNGlvNHRIZkRxd0gxcERGRFI3d2xDNXZjbE9fUjJCVWpUYjBCYnhBbnhuVW4wOFN4MmJCSVpadDdyeGNMMHd3WVpXYURTYUhnNi1GelF6V29BaTlUdmFucklwU0k3cEVHYkoxRVVDZlFtYW1tTjlhY2J3MkxqRmtHQnU2MXU0aHVkQQ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 03:34:00 GMT",
       "lastUpdated": "Tue, 08 Sep 2026 03:34:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "mumbai weather light showers gusty winds lash city no imd alert for the week",
+      "title": "Mumbai Weather Update: Light Showers, Gusty Winds Lash City; No IMD Alert For The Week",
+      "summary": "Mumbai Weather Update: Light Showers, Gusty Winds Lash City; No IMD Alert For The Week",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZG5KV3ozSHNIazhFeC14cW1KeGRCQlRDWlJ0T2dyREVLYXBjZVJfcVU2a1lwZHJkS0g2SFU2dGUza0lLY2tlX3NiRHhjWXRXbW9TdWZucEMxcXo4RFRrLXR1QjlrZXNUcmQxRnJmSTFCOG5aQTZRc3JBcDZlc25ieE0tdlFzOExWYkcydjZIak1pWTlsanJvVG1uUW40cV9fR0FvMUVVbHdFNjF0RFZ3Z2lGZW1oQmlJVjB4aFVLQdIBxAFBVV95cUxObzRoOFRfakZLMk85Y2xEWmVnTHoyWHZkeEN0NjdGTGxMbGdKYjdZU3ZteWp1RnJvU0U3aXFnamtFWk9kaTNEbVVoczN1cGhiZHRXUDRjaXRsWW93SXNTd3JCR2Y1UlY4dWJ2ZWZzZXVaNFNOLXU4R2tJc0o2SjVuYUUtSmo5UzdVZVFuU3pUNnJXdXR5c3E0Mjg5VE5LbG5JanVqVjNxRzh0U1pwZXVyQ2Fkb3BCQnNlaGJIMmlHbHUxdFpW?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 03:31:37 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 03:31:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -345,7 +465,7 @@
       "summary": "पावसाचा जोर ओसरला, मुंबईसह राज्यात असे असणार हवामान",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVlnSE1HMHhKYWZRNkpzcDIyODd1YlphVm8yczA4LWE4M3Zya0RkTlJxa3cxVEhhaEgtbnpGTWg0c0lzcFRlYkpZZUR4Q1cta2dlazhFd0I0bHZLNm1WTkFiUzZsdXF4NEtUNUpsNjZhWk5hcWFyNzg1YXJGN1RORFZQOHktVVRWa0pPU0RkeTBxQXZ1RkZYQXoxblRIb1lWWDdyaENtSnl0Z9IBrwFBVV95cUxOeUJWU0s2SnpzbUV1Nmw0U25WZzBIRTFSUEhka3c5czdDOXRadnF1TThtOFFRcnpaRTc1aWxXamFFUXJWWl9IRFZGZGhkNGJWQzA3Sm9SbkRZRG1ncTFId0Y1eVRBcWMydEoxTmQ0TWt3YVNXOUR4N1kyWGl5ZUlDYkI3cEdQNDdCYzZrQzBGSTFJZ2NOVnRJRFlJUXR3Z3hCNkljM180YVZTOHpZVHdF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUJWU0s2SnpzbUV1Nmw0U25WZzBIRTFSUEhka3c5czdDOXRadnF1TThtOFFRcnpaRTc1aWxXamFFUXJWWl9IRFZGZGhkNGJWQzA3Sm9SbkRZRG1ncTFId0Y1eVRBcWMydEoxTmQ0TWt3YVNXOUR4N1kyWGl5ZUlDYkI3cEdQNDdCYzZrQzBGSTFJZ2NOVnRJRFlJUXR3Z3hCNkljM180YVZTOHpZVHdF0gGvAUFVX3lxTE55QlZTSzZKenNtRXU2bDRTblZnMEhFMVJQSGRrdzlzN0M5dFp2cXVNOG04UVFyelpFNzVpbFdqYUVRclZaX0hEVkZkaGQ0YlZDMDdKb1JuRFlEbWdxMUh3RjV5VEFxYzJ0SjFOZDRNa3dhU1c5RHg3WTJYaXllSUNiQjdwR1A0N0JjNmtDMEZJMUlnY05WdElEWUlRdHdneEI2SWMzXzRhVlM4ellUd0U?oc=5",
       "pubDate": "Mon, 07 Sep 2026 23:26:55 GMT",
       "lastUpdated": "Mon, 07 Sep 2026 23:26:55 GMT",
       "areas": [],
@@ -522,6 +642,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "मध्ये प्रसिद्ध नृत्यांगना radha patil हिच्यावर गुन्हा दाखल परवानगी नसतानाही दहीहंडीत कार्य",
+      "title": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "summary": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMm93cVF4bzJxRExXX19IY21zZTZCbEdLMV82UmdfRDlUeXVjbVE1SzNFWHFuTk5YSDVZQjY2anRTZDh0VTgzQUx0aWVHMlFtUjQzakhzMjBBbHp0S2FPMFg0ZHNUeERyYW5aM3BOTlJ2eDRWeVN6SDBsQV92YlE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "lastUpdated": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "वीजपुरवठा खंडित होताच परस्पर जोडणी २८ जणांवर गुन्हे",
       "title": "वीजपुरवठा खंडित होताच परस्पर जोडणी; २८ जणांवर गुन्हे",
       "summary": "वीजपुरवठा खंडित होताच परस्पर जोडणी; २८ जणांवर गुन्हे",
@@ -542,303 +684,43 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
+    }
+  ],
+  "incidents": [
     {
-      "id": "school holiday september 8 2026 will schools remain closed due to heavy rain check state w",
-      "title": "School Holiday Today (September 8, 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "summary": "School Holiday Today (September 8, 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
+      "id": "bihar school holiday will schools close due to heavy rain and flood check imd alert",
+      "title": "Bihar School Holiday: Will Schools Close Due to Heavy Rain and Flood? Check IMD Alert",
+      "summary": "Bihar School Holiday: Will Schools Close Due to Heavy Rain and Flood? Check IMD Alert",
       "source": "Jagran Josh",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmRZd3BaNkZKdWstR1RKbGRMS2llS21LMWRiR1R1N29faDNKSkFpRURKc2pRSk9YTWNEMFYwbFpxZENkejg5dUNhUlQ3eTdXZ1dfT1NoR0NzdG5TdGVSMUJSM0xBa1doYVJtZmdvQVZyS2E0dGl0WWNIX1pFN08xU092akxKZXFVUnZwZzlxWi01MmJtc3llMjJXUkNVZUVXcHRqUldBZnpyTGw5RC1uYnMzVzJUQUZfcWdyVGx5T21jUmFVM3FzOXA2U3BLRHF1aGg5aWJTRdIB3gFBVV95cUxOWXJYNmZHUGZQQ3NnRm9oSkVfQU1nUnpZRDBpRzA0aUp1cUxpOFhNcTR6YzF4TFlGZEIxcF9HclVJTTQ5TDhVWFp3b2NEVFRyN1U0SmpXNG9oUHlRQXJqQXdvZFBsZnY3MTBjQjV2WF9ZRFZUaEJqWHpMV2NmWUpIWnhhbUJ1cUgzbVFyMGFldjBlUzNSZ1FybFQzc09nU1JSWDFYbHcwVExndVU4OGtTSXQtRGJpNE9ib3ZWMkhNVFVIR1lzVmRFY3EyM3Z2aF9fR2dvemRubk1NQ1hQakE?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:03:52 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:03:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUswQmQ0cmY4a1puRlBJQkNkN2oyOHNMY25zOVlWQWhOaWRwVmppaGFHVXpoLVVha1BhQVVBYWI4UjcwWTZTZU5HZlZ2Q3lyVG5TRzM5RzR2dzY5cWZXM2FUbXFPUWNOTnFBQmQ4WVZHVmUyNWY3Und3SmVwRkd3VV9FTmV3Vm5HZjlEaWJkS0VPSGhXOF9XcHNMdXJ6elpBc3czN29oc00taUx5eVVLbkxzZlJJdWJ1YkFVNXBRQQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:34:26 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 09:34:26 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "Jagran Josh"
       ],
       "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "metro line 1 technical snag पुणे मेट्रोचा वीजपुरवठा खंडित सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्ल",
-      "title": "Pune Metro Line 1 Technical Snag: पुणे मेट्रोचा वीजपुरवठा खंडित; सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्लॅटफॉर्मवर थांबवल्या",
-      "summary": "Pune Metro Line 1 Technical Snag: पुणे मेट्रोचा वीजपुरवठा खंडित; सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्लॅटफॉर्मवर थांबवल्या",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3BOQW1VektlMERZMzRidG0zTHZDZFRTS3REYl9CaVFEM3dOUTI3MWtKbURmUjNNX0dxQUx5cmFBcWM5SWl4TllGS2dhcHVOeU8tTEk4dHhJbnNkazlSS2N1SlhUeEZRNXVOMVZvWXlYOWxFbmxFMWwwZ3MwMXBVTWF1ZnRuWGM2NFR0Skt1Y0VjVzlPTldjVDFsaWpmenp6ckdHZDNpdF9VZmlFTGFYcEtTeEhUOEV5RWk4d0tn0gHDAUFVX3lxTE41LVpXMDZqVUloNGNVVzNxQUNYYVgxWFpPSUtKNXFIamltTUh6UjhMa3BGZWtuemlBWjYtNWRINy1FX2RkaE1mLW56aGlxTVlUUDF4WXI5M3NHM0ZZZ0FhRC1kbnZEbzRza2dNS29JYV9EUzVxX2tQdko5cTk5Q3Y4aFJYeDk4ejMxakJEZVh2SkN4bkFwTXVsUkVjZHFrT1hjMEd6SEFuRGZRX2pPVDhlSzlFQUNTNkxoQWh1QnJoc1E4dw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 10:01:31 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 10:01:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
       ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
-    {
-      "id": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "title": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक; २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "summary": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक; २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0FOemh6Y1hCNmFLcm0za3ZkRnVESFRCT0VTeXFhbHk2RVI4c3kzU191WTFuUWIyTmdwWkV2cHRGUndXTlVxQXNtRVNuZWxyWi03bUJLS3o4Q2JyeWlxSndOb2s1TkU4d0dwRU8wX3kyNWlGVmF6TGF2TWZzSVhGbjFoNFZhdG15YlBQZWdjdm0xLTJzMHBMYlFRajNMbTNnc3JUaEZld1RxTjgxRnFES1FJeFczNXdPVVRZSkpENlZzZloxWU9vdNIBzgFBVV95cUxQR1pfd21Rd3hzaGJLX2FyNzE0M250N1c5d2t2a2ltVFhjVnpRbVgxdk5PdVRDVlJtck9WbVRHTjZXcnFsRzJJdDQ2R25lM3hORHE2T0NyTVlZN0FPMmJTc3B6SGtNRU9DV3p5MW1CSVoxUUU0clJyUTRCdkl3TkprZ1hWRk9vb1NCdFFsekJmdjBNYlgxTWNWbGp5QWlfTUl5NWZGN3NsQThoNVkzMzNsQ05ObllPd2VhUlZCQlhjRkp5NkdjS2JlT0p2WlJZUQ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 09:18:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 09:18:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra मराठवाडा विदर्भात कोरडा दुष्काळ पेपरफुटीविरोधात पुणे कोल्हापूरमधील विद्यार्थी ",
-      "title": "Maharashtra Update : मराठवाडा, विदर्भात कोरडा दुष्काळ? पेपरफुटीविरोधात पुणे, कोल्हापूरमधील विद्यार्थी आक्रमक",
-      "summary": "Maharashtra Update : मराठवाडा, विदर्भात कोरडा दुष्काळ? पेपरफुटीविरोधात पुणे, कोल्हापूरमधील विद्यार्थी आक्रमक",
-      "source": "My Mahanagar",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPYjdVdzh6dWtaVWpLQVY2ZFk1MmROZWFOQ05NY3JHVUdKSzRub0NNaHA0SFA0aWl0OC1LWWdBS253OTBBZTNfWGhsdl8yczNzcFFtVklxTHFIb1JCa2RCWmZBTm16UFJVZzZGeElkMGtMYVVwQTQxZWl6UnBreWJ3NlhEbi00VkNmMHIwNEZUOXdZYktwS3Zzbl82eW82blEtYUhVN1VITUNmV0c0QmRYdFBfSDBHOEJxZ1Q4dTJKd1AyZUU4WXZkSk5vSnFvbmo2TUpHNGlfTjFBTnpqcGx2ekczb3c3aVhVUk1XWW5tZUllbDFCeldsWW1yVmtwb3U4OEZMbWJTeVgzN01kaWt2aFg3S3VXMkJKWUx2YVZqMEZ4SmV2enBXMS0zcUVUSk8zTXNoX9IBugJBVV95cUxPNmxwdkpwSUR6WHFTb2JVNGgtTVdNVUZuZlNWblhpTndlclFpTndtcGlhcGNnX2dNZnJZMm1BSDlWQ1pxY1dVcE90Mnp1U1Y0UEV0c0JEOXR6NFRoekxJQUQ4elBGTklRUThqZUdzdmZWaGl2ak1qN2MxSTlPS3dmVlg4bE1pUHpONXNNdmFRMnRCVGIyNGppdFgzcWVqMlpkSmZpSllia2N6LVhYVVpsM1ZnRUE3T2FvQkUtRk5yOU1NYkM0a29nRkNoZHJuMXNnaG14Z243OWlrR0JjbnBIZUt3enkwVzB0SnRxQWdRd0Utd19LWjZsbndIUl92c2xsT2ZIWnY3ZWpQV3lFRDBvWGFrbDd4bHpZMkZ5WGVSWDItajg0VmM2V2prMnRKRVdWN3ZoVDJ4WjR4Zw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:48:44 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:48:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "My Mahanagar"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग मेट्रोसह उद्योगांनाही बसला फटका तब्बल",
-      "title": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग, मेट्रोसह उद्योगांनाही बसला फटका; तब्बल...",
-      "summary": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग, मेट्रोसह उद्योगांनाही बसला फटका; तब्बल...",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1JFZkdjak1DTkpPRHFBb3pjWEJIaVVrWTllNEFVbWhWM0FvdklmZ1NsQ2RaNFMtMWlYV2puMmxBT1pmVnJsYXdBcVdweWlpVXlBVmpKOXAtVlBuT2lMVlZZdzdRc3NhVTkwNm9oYXV1bU1ZT3JWWXpIV0hVVnJqamtmSzh6RFozZkVnSl9NZHI4Z05xcXJ1TUx0ZGtCMlNzSjhOWk9iZ0tOWDY5NC1wZDg5U1BzSFBlM1BQVXA4Sm_SAcYBQVVfeXFMT3dNZ0Frd2FhSXh4SWRoWjg0aEx6cUhvWnhCNE5tV01CVzRNNjBteFphQVJ6MDRibk1DcHNZVXdwTHhVRlhjV2VINXZONFE0aGZBbnJFeE5jel94OElHdlpsQkpQNmViLU5DNlF4MUlWUmE3NmRxOU1zb2UwNWpYaXNMQzIxdXZqcEpSR3htSF91WVFjUEFtNG1xREVPZ1lSNjI1Ym1MQUJNN0hWLUVETUNJSkFMb1g5Y3dOV1E3aXEtU2ludTBB?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:35:40 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:35:40 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai मुंबईत वाहतुकीत मोठे बदल १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध जाणून घ्",
-      "title": "Mumbai : मुंबईत वाहतुकीत मोठे बदल; १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध, जाणून घ्या पर्यायी मार्ग",
-      "summary": "Mumbai : मुंबईत वाहतुकीत मोठे बदल; १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध, जाणून घ्या पर्यायी मार्ग",
-      "source": "Saam Tv",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQkJHLTJTX0dXRVN0MW10UmIxSllfcnphTTJhYlMwakZySjA1Y0hfRkh0UkRqeF9BTmF1VkNUaTlpMkJ0blNiMkdFSXVBT1pqaWFOTTBKZHBQNzFNU0tLazE1d0hKM1Z1VF9lUGZ4blF2LW1nLUxOYjRTMVluMnh4Xy16aWJYbkpKTGFHVzEyUjFmNk5IT1YzNUduQ2hQb0FuM3UtTVMzMDBEamtnNWpYZjNJTlY5YkFFQVNGbXY2Z01MVXc4bHhGRHZlSEctWlU2czFldG5DYklyS28wUGxuNGJKbGs3bGpFMXJYS2VOY1lqaGpRZWNBcm1hWjZGN3RXYVFWNlV1b1dIVkVmb0czYnhHM1pqRmpvc2FtT2lJRFFLX2xSWjAxQ0VCSHhoTUhCX21NNDFrYU_SAbgCQVVfeXFMUEJCRy0yU19HV0VTdDFtdFJiMUpZX3J6YU0yYWJTMGpGckowNWNIX0ZIdFJEanhfQU5hdVZDVGk5aTJCdG5TYjJHRUl1QU9aamlhTk0wSmRwUDcxTVNLS2sxNXdISjNWdVRfZVBmeG5Rdi1tZy1MTmI0UzFZbjJ4eF8temliWG5KSkxhR1cxMlIxZjZOSE9WMzVHbkNoUG9BbjN1LU1TMzAwRGprZzVqWGYzSU5WOWJBRUFTRm12NmdNTFV3OGx4RkR2ZUhHLVpVNnMxZXRuQ2JJcktvMFBsbjRiSmxrN2xqRTFyWEtlTmNZamhqUWVjQXJtYVo2Rjd0V2FRVjZVdW9XSFZFZm9HM2J4RzNaakZqb3NhbU9pSURRS19sUlowMUNFQkh4aE1IQl9tTTQxa2FP?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:28:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:28:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Saam Tv"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "metro रस्त्यावर होणारी प्रचंड वाहतूक कोंडी गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा दर ५ मिन",
-      "title": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
-      "summary": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckphMTBibHVMNmlyaFE5RXVSR2I4S1JRTTQ3RTliSEYtd1RsU0xhc0hZYVpFSDZYLTI3dzZvUG5BTnNmYzNrZC0zakR6QkVlVXBac1pscVktYmoxUnVpMF9CVkdVR19uVkhpZy13dlN6cGFJTm5IeGJYQ0FCbmpCeWQ4TzVhS19EbnMtTG1sV2xYNDdldk54UXpCdlREY21ISnVjb2d3Y2Y3WjktYVlFOG1wRmwzMkhma3VJVDktQmlWbHlJcllUQmR6bERfRS1jcnFjbmpkVF9ueGNwak1XbdIB5gFBVV95cUxOU2liSTEyX2lVcG50OWZNYzgtVmN0cVd5akt0RkN6enpsaHQwUWJSQTZTcjJadk0zeDNwa3hCZW5qY3ZzOUUzU1VLaEFmeXB6bmpETmNpb1J3aFFqWGVuT1lIRjRPTHVEWkZnSmdnY0RKeG9LNlQ4QnpwZElLSUc4aFNJN2dHMXBIamxlczNDVkF5bVFjQldzQkVSRllLRUVTbXFMZG1qM1UwWmZCeWIzOVU1NnNhMWVkNVgzcXRFWHBwTGwzUVdqVHA4NF9ORWdJM1NIRUZZcElab0RlT3lNNl9pQmtWZw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:36:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:36:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पावसाची जोरदार एन्ट्री विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather",
-      "title": "पावसाची जोरदार एन्ट्री; विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather update",
-      "summary": "पावसाची जोरदार एन्ट्री; विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather update",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmY1WFVNazVMVGJkZlB0bjV4VTJmZVpidHUzdTBnZU9EVW9KTDFMdWwtdm5pc2l1dHcyLWwzVklwa2d5NXlEbW9CMG9SRU1aT0EtZTFMemRfUUZMWlpqSm5lMG9vdmlGNTU3TkpSN0puV3NUOWhOQlpTeWNneHV1X2VSWXFIZ2pJdG0wNWFHYTNKcmdyQnkya1owNHhCemF2Sjc5NVI1U0cwN3VwazVtZXMtNk9wSWI5dURocjlYYVhJc25EX1ZTLVRxX3Z3X1VoM0tLTkdpMDZ6Ung1WlE1QUl3?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:30:34 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:30:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी रसायन सांडल्याने वाहतूक झाली होती",
-      "title": "पुणे-बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी; रसायन सांडल्याने वाहतूक झाली होती विस्कळीत",
-      "summary": "पुणे-बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी; रसायन सांडल्याने वाहतूक झाली होती विस्कळीत",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUhkLWpmdkQxR21QMHNsT0czeUdmNkhDczlwWHVFQ2FWdk1CMllzb3oyZ251V0V2c1dLeE5wc2xhNUpuT0otWVl0VXl0TFBxdXRjMlMwM0lwRmRRZ3pNNkZKdEZPYWZNeWhpRWNuV083bmhUZWxQN2tERENqbFVROU4xTGtHbmluYUNDUjFRRG9nRzUxVDEzazZVekF0bDBDb2ZESEJBQXBTQWpod243RXFoOTlXbGNOQzdYZng4S3dNWHJSdzNKc1R3R3BWeWVkT2N2UllYQ0TSAd4BQVVfeXFMTzlySmYxZlU0Wk54RXJoT0NVVUdveUh2NjFwM2VqemJWV1A4NEdZOHdPc0dUejBka0F4ZC0tdFpCXzVrQTU3YUdWZ0xUN2lLanRHVWMxaHpiMjVETVRUSjFTdWZTM3VPSlRRdzR6ZjBDVEhIUGtsdWZuNnlQYXBVTE1Ob0lsMG9CekVFS0F6bmlfN2pWaTNEaFVYRkF3WmlUQWc2Q0hqUU10TU9uZlc4ekxhQ2U2cHpKU1ZWQ3NrX1dCMDMtZTh1ZmpRM3FjWGVVbjVWenl5elJXRElEUXJn?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:30:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:30:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे चाकण midc महामार्गावर suv मधून रीलबाजी पुणे मुंबई बेंगळुरू महामार्गावरील अशाच प्रकारच",
-      "title": "पुणे : चाकण MIDC महामार्गावर SUV मधून रीलबाजी पुणे : मुंबई-बेंगळुरू महामार्गावरील अशाच प्रकारच्या घटनांनंतर आता चाकण MIDC महामार्गावर SUV चा वापर करून रील बनविण्याच्या प्रकारामुळे वाहत",
-      "summary": "पुणे : चाकण MIDC महामार्गावर SUV मधून रीलबाजी पुणे : मुंबई-बेंगळुरू महामार्गावरील अशाच प्रकारच्या घटनांनंतर आता चाकण MIDC महामार्गावर SUV चा वापर करून रील बनविण्याच्या प्रकारामुळे वाहत",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pMWhkdlNmZDJ3NFoyRFk0c3FKNzZoUmZVSXRFN0JDdkJvMUxqTWdZQXBIaDdxdEExVHdqOW9NcHpfaGtDb2ktNGhOeEZUR0FCZ2NKMGtn?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार अनेक भागांत यलो अलर्ट",
-      "title": "Weather Update: गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार; अनेक भागांत यलो अलर्ट",
-      "summary": "Weather Update: गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार; अनेक भागांत यलो अलर्ट",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZHhXSkxwdmRzZDJJZ3hpeGhtVVhsem15ajA3VThiMndTQ2xvNE9SeDBJekJOR01ZcG9vWHZTaWpha0ZiZExuSUUzTjhqcjE1LTZ0U2tNNjFJYUU5bktsZG5zZ2N0Q0VncmJiUEdkTG05NmtRbFRUNzEyaVUwSnVsN0JWRnJKOV9rMVoySGFyendBbHUwajhCNnQwZHF5djFaZ2FUTHB3eGZXNW16c285ZWZCaVFMNURPM1JrajN5UlYzNUtBVjVzWF9RX3Q0QkFkUm9QdGNOSFdoNnhjTzBseHJvUXVFcW1nN2JJZGFZamdHWGc4blVoRU9DTHN2SW16NlHSAYcCQVVfeXFMUFBtejdvTEFnSHdoQmE3aXFyVmdrUDVNS19yRGVFZHEwV3N4UnY3Z19BY2FHc0IxeWZaTlFLRFZrMlpPZDU0NlBFdGJIRUZrTFJtdmN1OGs3dnk1SnlqX0h4NmYxSGt4Z29LVnp6cmlCMzMzdFhHNGRaNFhrejRtNEtIZWhQNW8wQkIwbXp2Q0ROek05czJSQkRRZmJtdmVzQWxucHJ0d0xyMWhwOHpQWElZb3FUd1RPRzMwYUZ2UDhLcVZ6RHgyUWNIZk5yOVl4TmFuYmxzVENBWEpkMjhWb1FiUmdZeFU3N2FHb1lBQko0SUJOemNOaGEyRGU4ZHBCSExMR2FNc0E?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:00:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:00:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mpsc student protest cbi वर विश्वास नाही विद्यार्थ्यांनी दिला सरकारला थेट इशारा",
-      "title": "Pune MPSC Student Protest | CBI वर विश्वास नाही.. विद्यार्थ्यांनी दिला सरकारला थेट इशारा...",
-      "summary": "Pune MPSC Student Protest | CBI वर विश्वास नाही.. विद्यार्थ्यांनी दिला सरकारला थेट इशारा...",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNE4tQ2Z3NVJJcDJERDlNUWZ4M1AtZVBBRjVHS3FvWnpfWEcta1ZJRTlZZ2t6SW5qSVV5YjZYVjh1LU5Vem1FSGxpZWRSR0lMYm5WbU80LXU0ekdoa2xzVVI5cG5EOExNYURSc3Rpek41ZzBxVnhKN194Q3RrRnM5Zl9FYTJsQkVrNWd3U1U4aHc?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:53:31 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:53:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mpsc अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप असला अध्यक्ष आम्हाला नको हजारो विद्यार्थ्",
-      "title": "MPSC अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप, असला अध्यक्ष आम्हाला नको, हजारो विद्यार्थ्यांसह रोहित पवारांचा आक्रोश मोर्चा",
-      "summary": "MPSC अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप, असला अध्यक्ष आम्हाला नको, हजारो विद्यार्थ्यांसह रोहित पवारांचा आक्रोश मोर्चा",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVl80Q013WG15NDdOMGpaZnBZUXJPY3hLV3BIT0NkcnhYaDZnem1EQmlRTVFUOUZhSTJPWEF6N05vM2hKQ1k4MDBzbEJmTHFWZnJYXzVOZUVyckR4TlVaeXlTVlRWZEFudHpWdzJjYVZqV0lLa2hBNWRGeWRMby1kYVlUUWEyQmFObjFRXzdoZXdmcHNfLU5Ram5MNGl0cUNhaXlRWF9WN2k0ZmxCV3VLY09FVHVhS1dYeFdLXzJCM0FkU3lrMGEwRHAtc05PcHE3akxvTGRlbTRGbGVr?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:49:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:49:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    }
-  ],
-  "incidents": [
     {
       "id": "beed 1 03 crore mgnrega scam unearthed in nandurghat",
       "title": "Beed: ₹1.03 Crore MGNREGA Scam Unearthed In Nandurghat",
       "summary": "Beed: ₹1.03 Crore MGNREGA Scam Unearthed In Nandurghat",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2NZanVkalpfN3dLSXNKcFEyM2lkeG9LWWxhQ3JSYmVONjgwWnBhbGozRUlRWHB0a2dMQUo1QmJnVkdJaXZ4ZFMyX0VteTJabUhGZ1BKblhOLUdWN0VURks3VlQ3OHhXMTZJMWpVME41YzNOaDcxOE90Y21sZFUwclJiZFVKT3NzTzB5N1pmYWdad9IBlwFBVV95cUxPOXY1aWFXMTFkTVNBLVh1Y2FvbVZocUV5UTY1TnYzWTM5dnRpaXczWUF0RHNVMzQ5ekdQYkpMa1NHZmM5Rmg2R0dGLVhxcTBxV1J3UG5ialJQWUxfTGpkc0VpbzFSYUo1LUZLWWg0OF9aSzlnT09oWjFoY1pXMTlSQ0NtTVZwc1MyMUY5LXVmUG5Ucmo5QV80?oc=5",
       "pubDate": "Mon, 07 Sep 2026 11:54:23 GMT",
@@ -846,7 +728,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -862,32 +744,33 @@
       "action": "Avoid ghat roads and check police updates."
     },
     {
-      "id": "serious a8 crash near edinburgh airport halts road access",
-      "title": "Serious A8 crash near Edinburgh Airport halts road access",
-      "summary": "Serious A8 crash near Edinburgh Airport halts road access",
-      "source": "thetraveler.org",
+      "id": "traffic सिंहगड रोड दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल जाणून घ्या पर",
+      "title": "Pune Traffic Update : सिंहगड रोड, दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल, जाणून घ्या पर्यायी मार्ग....",
+      "summary": "Pune Traffic Update : सिंहगड रोड, दत्तवाडी व मुंढवा वाहतूक विभागाअंतर्गत वाहतूक मार्गात बदल, जाणून घ्या पर्यायी मार्ग....",
+      "source": "civicmirror.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON29IUlJnb3FsME5jM1BNZ0Q4aEJhNE5ra0J3RkpLOGNmdjhZSDBwV2FaTG1SSElKR0pESmxBT1NNTFc0ZjNaYk1yT3pzNm1OM3p4V1hQM3I0MmZvbXhabHp2ZmJEMVVJeUUxSTZjZ1o1ZDVVMV92WjRUbGxCQVVORHpxNjhBU3hrRzN0dzhUaw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:38:27 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:38:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVlBpNmZQMjlKMW90NHYxZy1UTDl4MGRRY2dPdXlWN0hWMHFfR1pmMl9OQlNWa1lESC1QblhZWnY0Rld5NXptbGhSWjlvU1pmM0JKWk1SUmprNjFuUlgybWRkdDMtR2ZGWVRzLXE0SUZtYUxQQkZwUkxTZy16RmhsbkNOaXRmRlNJcGIyV1Q2ck5MdG5RZ3NaQTRma1g3aFNyOUpOWFJCcmxHOUduVldJVzdfNlBIZ1p6c3lPUWtCQWpJRE9HQnI4bnlSRkpudXdhbTdNSjF1Ul8xTGZtS29kaHhKemJsb05KYktJV2lvMzdBMGl0OEdqRTN2UklTc2hF?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 08:05:39 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 08:05:39 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "thetraveler.org"
+        "civicmirror.in"
       ],
       "confidence": "Single source",
       "w": [
-        "accident",
-        "crash",
-        "collision",
-        "pile-up"
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
       ],
-      "severity": "warning",
+      "severity": "watch",
       "category": "traffic",
-      "type": "Accident",
-      "icon": "🚑",
+      "type": "Traffic Update",
+      "icon": "🚦",
       "critical": false,
-      "action": "Expect delays. Avoid the affected road if possible."
+      "action": "Check route before starting travel."
     },
     {
       "id": "msedcl foils smart meter tampering bid by 19 consumers files police complaints",
@@ -918,36 +801,6 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "chain snatching 100 cctv cameras help crime branch track down suspect in two cases",
-      "title": "Pune Chain Snatching: 100+ CCTV Cameras Help Crime Branch Track Down Suspect in Two Cases",
-      "summary": "Pune Chain Snatching: 100+ CCTV Cameras Help Crime Branch Track Down Suspect in Two Cases",
-      "source": "punekarnews.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYU9QaFcyU0ZhZjN1RE5Qek9pX005UG5ieFdjZmdWUFZFMHNqX1JpTnI1N1UwUnhLWFlCd0tsdVBoN01MOUhfUnlpVGMyOHFEN3ZJMkQtZGFidWdTVHVZbVRGTXV5QlMzQzg4bHBKQ0xDUW1VVjI2YWc2SFlZTnhwYnhWY2VnQ3A0RHdLVkQ1bkluUzI3LVlFRTBqSWtDSGlzRDhGZk83Rkc5U19UMzd3THBhWG9jZw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 17:43:47 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 17:43:47 GMT",
-      "areas": [
-        "Sus"
-      ],
-      "region": "pune",
-      "sources": [
-        "punekarnews.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
-      "critical": false,
-      "action": "Stay alert and follow police advisories."
-    },
-    {
       "id": "cops probe attacks on msedcl staff rti activist",
       "title": "Cops probe attacks on MSEDCL staff, RTI activist",
       "summary": "Cops probe attacks on MSEDCL staff, RTI activist",
@@ -976,60 +829,158 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "metro line 1 services hit by power glitch restored within an hour",
-      "title": "Pune Metro Line 1 Services Hit by Power Glitch, Restored Within an Hour",
-      "summary": "Pune Metro Line 1 Services Hit by Power Glitch, Restored Within an Hour",
-      "source": "Pune Mirror",
+      "id": "imd weather forecast राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर जाणून घ्या पुढील 5 दिवसांच",
+      "title": "IMD Weather Forecast : राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर? जाणून घ्या पुढील 5 दिवसांचा अंदाज",
+      "summary": "IMD Weather Forecast : राज्यात पावसाला ब्रेक की पुन्हा वाढणार जोर? जाणून घ्या पुढील 5 दिवसांचा अंदाज",
+      "source": "HindusthanPost",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVBaZ3pRWTFuSzMzT1l5Y2hPTDhfRkZtaThmY3BLd2pkMzdXcTMtMWNNSWpaR2F1VE9JVUhRRGNiX241UE1CVktpSk1FOXExdnV3LXR1WmRNT2RVRS1hTDYxamR6Q0lYVVBFRm1lTmFmOUNzN0oyTDN3TjA0ZFRVTFROMUtIanl0NDBZ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:29:47 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:29:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHBoem9ZVFVBemdTcTVwMWJXWXBsdlVvejJXQzdXcXBiNlB0NnBoZ3BvbFVZWEU1MElLVDNQd1liS0xESHRURGlhaFR1THUtWXlTOGhUR2ppZEZ0V1hVRldiZWQ2Y2pXUUJpaUxEUjJkQ0ktZ1lnSWNKeXdtbHVNcGNJZUVJNk9YNFJ1UklhcDNySEFtZklEbElzS19DUkhUbTJyMzJFOVRuRUgxX1N0MEhVakhjYnhvRlZybmFn?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:00:21 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 09:00:21 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pune Mirror"
+        "HindusthanPost"
       ],
       "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
-      "id": "scientist dies of cardiac arrest during satara hill half marathon",
-      "title": "Pune Scientist Dies of Cardiac Arrest During Satara Hill Half Marathon",
-      "summary": "Pune Scientist Dies of Cardiac Arrest During Satara Hill Half Marathon",
+      "id": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी भोकर नदीला पूर",
+      "title": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी; भोकर नदीला पूर",
+      "summary": "दडी मारलेल्या पावसाची रावेरमध्ये दमदार हजेरी; भोकर नदीला पूर",
+      "source": "Jalgaon Live News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkNvNzI5TUtVbEx1MUhZYldmUnUweTdqb1Y1anFPSTZyOHhpTHVkVkdRaHAtY25NMDAwNHdmNzNMWjFxd3R3Qnhaa0FROGtFZVZnYjYtVThPYkNPZ0hyX0NUbldUNFRGNkg2WFI3TlZOQ2MyQUcwTW1aQWlZN0Q3c1NSOA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 08:50:47 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 08:50:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Jalgaon Live News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा व्हिडिओ व्हायरल गर्",
+      "title": "पुणे: दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा; व्हिडिओ व्हायरल, गर्दी व्यवस्थापनावर प्रश्न पुणे: दहीहंडी उत्सवादरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश पर",
+      "summary": "पुणे: दहीहंडीदरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश परिस्थितीचा दावा; व्हिडिओ व्हायरल, गर्दी व्यवस्थापनावर प्रश्न पुणे: दहीहंडी उत्सवादरम्यान शिवाजी रस्त्यावर चेंगराचेंगरीसदृश पर",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jZTZWMGg2TXU1eGtTbjZEcDdvcHZWVnUyUjA5VjEtcUtCZzBtNmxfalVMZ0M0UjFzbXdHZjhSeUJ4TGpXRFpNcHFEZ1ZhemtVQUE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:22:16 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 07:22:16 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ganesh festival कोकणवासियांना पुन्हा बाप्पा पावला स्पेशल गाड्यांची घोषणा पाहा संपूर्ण वेळा",
+      "title": "Ganesh Festival : कोकणवासियांना पुन्हा बाप्पा पावला, स्पेशल गाड्यांची घोषणा, पाहा संपूर्ण वेळापत्रक",
+      "summary": "Ganesh Festival : कोकणवासियांना पुन्हा बाप्पा पावला, स्पेशल गाड्यांची घोषणा, पाहा संपूर्ण वेळापत्रक",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVlJKVGhCdFh4T0c1Sm9HaVNETmZ1dXFjSTk2MnRqT3FfaE41eGdiUnFnMWswc2RfeWg5MmV2bWtVVWNfbGtVdDUtWVEtQ096M1N0TGRfOFpuZ29BVWdPaFV2MVhiQnlSd1I1clpsa2ZWZmZkdWgwM2pjWHN1RTdUV1E0ejd3Qmh4bzkxeVBrSW1sTG1tUTlKR0lhNVR2U3Q5aGw5bW9VdjEtQ19fRGdFMmxpclBtVmZ1TXlYS2c1a3E3MVQ3cmNlMk00YzFnb3U2QUs1UWhuT2lWckhSN1F2dXNxZl9EMGhWS1VBeUFid3FFTFU4?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 06:36:00 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 06:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे दहीहंडीला 4 बेस 4 टॉपची मर्यादाही ओलांडली 116 मंडळांवर खटले 4 प्लाझ्मा",
+      "title": "पुणे : दहीहंडीला 4 बेस, 4 टॉपची मर्यादाही ओलांडली; 116 मंडळांवर खटले, 4 प्लाझ्मा",
+      "summary": "पुणे : दहीहंडीला 4 बेस, 4 टॉपची मर्यादाही ओलांडली; 116 मंडळांवर खटले, 4 प्लाझ्मा",
+      "source": "4 प्रेशर मिडसह 8 साऊंड सिस्टीम जप्त पुणे: दहीहंडी उत्सवात पोलिसांनी घालून दिलेल्या चार बेस आणि चार टॉपच् - instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xc0hfRnFqVDJIVkRlOHFiUkowUHZ0X0E1YTV1aW5JNUZMS1ZDV1hYcWlGLUNrcDlsZkxtU2NyaTRsSldrcFVQMWhUMHFVS0ctMGc?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 06:03:19 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 06:03:19 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "4 प्रेशर मिडसह 8 साऊंड सिस्टीम जप्त पुणे: दहीहंडी उत्सवात पोलिसांनी घालून दिलेल्या चार बेस आणि चार टॉपच् - instagram.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव पावसाअभावी विभागीय आयुक्तांचा निर्णय रब्बी हं",
+      "title": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव; पावसाअभावी विभागीय आयुक्तांचा निर्णय, रब्बी हंगामासाठी पाणी सोडले जाणार नाही",
+      "summary": "मराठवाड्यातील धरणांतील पाणी पिण्यासाठी राखीव; पावसाअभावी विभागीय आयुक्तांचा निर्णय, रब्बी हंगामासाठी पाणी सोडले जाणार नाही",
+      "source": "lokmanthan.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOazdzTHJTRzViNmtlYWV3RjdKSHBueG1nZWRRMlNZM3dLS2FMQW9DUFhic25ZVDQ2NWNuSWdlcDhjT2RaX1RsOW40eHhzaTVmVlNjc2JZUGY4Z2YzcHJSZmp6UlVEMVlRazJJOG85U1I4VDBybzY0XzZnbkc1MzhXYnRkOUlLUVlPeHU5MHdyN0FnM05DUTREZWZTSXRpVVhJQUhITkN0b3hjZjQ1b05NVVFHYUxsdlZtWjJyTnlOX2JXNjg2TXpkOXlDUWxESkVTMVBwU0t4NnFlVWlyXzVlYnVPU3owUFdOclRHN01hRjN5amdDMTBNQmdRV0VISGxuMk5SYw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 05:28:18 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 05:28:18 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "lokmanthan.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "ketan agarwal murder case accused initially planned to hire contract killers changed plan ",
+      "title": "Ketan Agarwal Murder Case: Accused Initially Planned To Hire Contract Killers, Changed Plan Later, Say",
+      "summary": "Ketan Agarwal Murder Case: Accused Initially Planned To Hire Contract Killers, Changed Plan Later, Say",
       "source": "LatestLY",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnVLZjU3am1BN3dyUnJ6NFZueUgwWWJ1VXhZdmtxMmFlQlI4UGVMRjdEZ1lRS2R5X3NhRzROWXRaOVRNUGZGeTQtYTZaaVQ1YTVHUkFNZTVTV1ZJLVZEMmVOWXJCeEZOTUhqelRkTVRuZFZrV2M2ZXZvN1FtN0pPM1o0MlZELWZrUjhwb0d6akJmX1VuWEVkS1FiWVZMZGFqV2NOQ3JBTExlRzBoclZwNnNkWUpXUmc1VE5j0gHAAUFVX3lxTE9xMzEtelEwaFZmV3BRel9CS01KYlRnTWZtNndyeklVZlFiWkxLX2JpSHVwZ05MeF80Z0hHNEkyOXlEb3ZXY3lCamMzbm1XbVhvOVhwcmxUcy0xcHE2d2hpRy1pTFNYdVlVZHNEcXFqbS1odTRCOTZ2MUhrVFJBNl9yX0xoYjZ6dDdmenNtTjQyeF9ZRnlwS2NQTzhEY1RERkdYdG1Td1Z1MUtCSGd3a0dPcWJpYWkzLVpqMnZSSjdabw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:23:19 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:23:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHU3TVdNQkY0QkllanM5cjlUNV9lOUdER01vZmwzd1VnZW5tYnI2MW10Z3JTUm5JY09nYzdYNkhiNDhfbXhhbVlHRWpsdXBsMnd5Zk9kMmZ4alZ4d3hLVFUyajVGaEVqMHFySnZTdThHVHpUbUQ1cG96N2NkTkJFLUZJRDktYm15ODJhNUlLTnE4MDh0VDJPSnRBMGpxeUEyLVItSUdFNFRKZzRUSTNLZVJnYUs4RFUyMEt5Yk5Ed1lPdGlXY0pZWTdFRzRIbGV4YzM0YWxfd3NrVjBCWEhJSWhiekJXLVpQS2FGU19JcjTSAfABQVVfeXFMT0x1N01XTUJGNEJJZWpzOXI5VDVfZTlHREdNb2ZsM3dVZ2VubWJyNjFtdGdyU1JuSWNPZ2M3WDZIYjQ4X214YW1ZR0VqbHVwbDJ3eWZPZDJmeGpWeHd4S1RVMmo1RmhFajBxckp2U3U4R1R6VG1ENXBvejdjZE5CRS1GSUQ5LWJteTgyYTVJS05xODA4dFQyT0p0QTBqcXlBMi1SLUlHRTRUSmc0VEkzS2VSZ2FLOERVMjBLeWJORHdZT3RpV2NKWVk3RUc0SGxleGMzNGFsX3dza1YwQlhISUloYnpCVy1aUEthRlNfSXI0?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 04:39:08 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 04:39:08 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "LatestLY"
       ],
       "confidence": "Single source",
-      "w": [
-        "theft",
-        "crime",
-        "robbery",
-        "arrest"
-      ],
-      "severity": "watch",
-      "category": "safety",
-      "type": "Safety News",
-      "icon": "🚓",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Stay alert and follow police advisories."
+      "action": "No immediate action required."
     },
     {
       "id": "water cut पुणेकर पाणी जपून वापरा ऐन पावसाळ्यात पुरवठा बंद कधी आणि कुठं जाणून घ्या अपडेट",
@@ -1037,13 +988,35 @@
       "summary": "Pune Water Cut: पुणेकर, पाणी जपून वापरा! ऐन पावसाळ्यात पुरवठा बंद, कधी आणि कुठं? जाणून घ्या अपडेट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmwwS01lcmNUekVwa2JPMHo4Rm8wMlhMSzBTN2lfdkI2b2o4ZzVZNVNGMFltYml6MkJkWjhWZXkyaUEyN2c5bUNuQk4yRGpYTmo0eTdjdUF6Y1lZZ3ZXNFI2XzctOUZyNjdfcUVjMDJSbF94QXRxUTNjdDEzSmlYemJZUEFidEdMcEFFaklCaHU4cGtwUmswa0dkLVpiY3FCUUltbFpxV1hOdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEZJVktNSmI2SDRSbzBrNy11V1hudHdTWFZFX0F1M2tMNGlvNHRIZkRxd0gxcERGRFI3d2xDNXZjbE9fUjJCVWpUYjBCYnhBbnhuVW4wOFN4MmJCSVpadDdyeGNMMHd3WVpXYURTYUhnNi1GelF6V29BaTlUdmFucklwU0k3cEVHYkoxRVVDZlFtYW1tTjlhY2J3MkxqRmtHQnU2MXU0aHVkQQ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 03:34:00 GMT",
       "lastUpdated": "Tue, 08 Sep 2026 03:34:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "mumbai weather light showers gusty winds lash city no imd alert for the week",
+      "title": "Mumbai Weather Update: Light Showers, Gusty Winds Lash City; No IMD Alert For The Week",
+      "summary": "Mumbai Weather Update: Light Showers, Gusty Winds Lash City; No IMD Alert For The Week",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZG5KV3ozSHNIazhFeC14cW1KeGRCQlRDWlJ0T2dyREVLYXBjZVJfcVU2a1lwZHJkS0g2SFU2dGUza0lLY2tlX3NiRHhjWXRXbW9TdWZucEMxcXo4RFRrLXR1QjlrZXNUcmQxRnJmSTFCOG5aQTZRc3JBcDZlc25ieE0tdlFzOExWYkcydjZIak1pWTlsanJvVG1uUW40cV9fR0FvMUVVbHdFNjF0RFZ3Z2lGZW1oQmlJVjB4aFVLQdIBxAFBVV95cUxObzRoOFRfakZLMk85Y2xEWmVnTHoyWHZkeEN0NjdGTGxMbGdKYjdZU3ZteWp1RnJvU0U3aXFnamtFWk9kaTNEbVVoczN1cGhiZHRXUDRjaXRsWW93SXNTd3JCR2Y1UlY4dWJ2ZWZzZXVaNFNOLXU4R2tJc0o2SjVuYUUtSmo5UzdVZVFuU3pUNnJXdXR5c3E0Mjg5VE5LbG5JanVqVjNxRzh0U1pwZXVyQ2Fkb3BCQnNlaGJIMmlHbHUxdFpW?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 03:31:37 GMT",
+      "lastUpdated": "Tue, 08 Sep 2026 03:31:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1147,7 +1120,7 @@
       "summary": "पावसाचा जोर ओसरला, मुंबईसह राज्यात असे असणार हवामान",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVlnSE1HMHhKYWZRNkpzcDIyODd1YlphVm8yczA4LWE4M3Zya0RkTlJxa3cxVEhhaEgtbnpGTWg0c0lzcFRlYkpZZUR4Q1cta2dlazhFd0I0bHZLNm1WTkFiUzZsdXF4NEtUNUpsNjZhWk5hcWFyNzg1YXJGN1RORFZQOHktVVRWa0pPU0RkeTBxQXZ1RkZYQXoxblRIb1lWWDdyaENtSnl0Z9IBrwFBVV95cUxOeUJWU0s2SnpzbUV1Nmw0U25WZzBIRTFSUEhka3c5czdDOXRadnF1TThtOFFRcnpaRTc1aWxXamFFUXJWWl9IRFZGZGhkNGJWQzA3Sm9SbkRZRG1ncTFId0Y1eVRBcWMydEoxTmQ0TWt3YVNXOUR4N1kyWGl5ZUlDYkI3cEdQNDdCYzZrQzBGSTFJZ2NOVnRJRFlJUXR3Z3hCNkljM180YVZTOHpZVHdF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUJWU0s2SnpzbUV1Nmw0U25WZzBIRTFSUEhka3c5czdDOXRadnF1TThtOFFRcnpaRTc1aWxXamFFUXJWWl9IRFZGZGhkNGJWQzA3Sm9SbkRZRG1ncTFId0Y1eVRBcWMydEoxTmQ0TWt3YVNXOUR4N1kyWGl5ZUlDYkI3cEdQNDdCYzZrQzBGSTFJZ2NOVnRJRFlJUXR3Z3hCNkljM180YVZTOHpZVHdF0gGvAUFVX3lxTE55QlZTSzZKenNtRXU2bDRTblZnMEhFMVJQSGRrdzlzN0M5dFp2cXVNOG04UVFyelpFNzVpbFdqYUVRclZaX0hEVkZkaGQ0YlZDMDdKb1JuRFlEbWdxMUh3RjV5VEFxYzJ0SjFOZDRNa3dhU1c5RHg3WTJYaXllSUNiQjdwR1A0N0JjNmtDMEZJMUlnY05WdElEWUlRdHdneEI2SWMzXzRhVlM4ellUd0U?oc=5",
       "pubDate": "Mon, 07 Sep 2026 23:26:55 GMT",
       "lastUpdated": "Mon, 07 Sep 2026 23:26:55 GMT",
       "areas": [],
@@ -1340,6 +1313,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "मध्ये प्रसिद्ध नृत्यांगना radha patil हिच्यावर गुन्हा दाखल परवानगी नसतानाही दहीहंडीत कार्य",
+      "title": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "summary": "Pune मध्ये प्रसिद्ध नृत्यांगना Radha Patil हिच्यावर गुन्हा दाखल,परवानगी नसतानाही दहीहंडीत कार्यक्रम",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xMm93cVF4bzJxRExXX19IY21zZTZCbEdLMV82UmdfRDlUeXVjbVE1SzNFWHFuTk5YSDVZQjY2anRTZDh0VTgzQUx0aWVHMlFtUjQzakhzMjBBbHp0S2FPMFg0ZHNUeERyYW5aM3BOTlJ2eDRWeVN6SDBsQV92YlE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "lastUpdated": "Mon, 07 Sep 2026 11:31:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "वीजपुरवठा खंडित होताच परस्पर जोडणी २८ जणांवर गुन्हे",
       "title": "वीजपुरवठा खंडित होताच परस्पर जोडणी; २८ जणांवर गुन्हे",
       "summary": "वीजपुरवठा खंडित होताच परस्पर जोडणी; २८ जणांवर गुन्हे",
@@ -1360,298 +1355,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "school holiday september 8 2026 will schools remain closed due to heavy rain check state w",
-      "title": "School Holiday Today (September 8, 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "summary": "School Holiday Today (September 8, 2026): Will Schools Remain Closed Due to Heavy Rain? Check State-Wise Updates",
-      "source": "Jagran Josh",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmRZd3BaNkZKdWstR1RKbGRMS2llS21LMWRiR1R1N29faDNKSkFpRURKc2pRSk9YTWNEMFYwbFpxZENkejg5dUNhUlQ3eTdXZ1dfT1NoR0NzdG5TdGVSMUJSM0xBa1doYVJtZmdvQVZyS2E0dGl0WWNIX1pFN08xU092akxKZXFVUnZwZzlxWi01MmJtc3llMjJXUkNVZUVXcHRqUldBZnpyTGw5RC1uYnMzVzJUQUZfcWdyVGx5T21jUmFVM3FzOXA2U3BLRHF1aGg5aWJTRdIB3gFBVV95cUxOWXJYNmZHUGZQQ3NnRm9oSkVfQU1nUnpZRDBpRzA0aUp1cUxpOFhNcTR6YzF4TFlGZEIxcF9HclVJTTQ5TDhVWFp3b2NEVFRyN1U0SmpXNG9oUHlRQXJqQXdvZFBsZnY3MTBjQjV2WF9ZRFZUaEJqWHpMV2NmWUpIWnhhbUJ1cUgzbVFyMGFldjBlUzNSZ1FybFQzc09nU1JSWDFYbHcwVExndVU4OGtTSXQtRGJpNE9ib3ZWMkhNVFVIR1lzVmRFY3EyM3Z2aF9fR2dvemRubk1NQ1hQakE?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 11:03:52 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 11:03:52 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Jagran Josh"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "metro line 1 technical snag पुणे मेट्रोचा वीजपुरवठा खंडित सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्ल",
-      "title": "Pune Metro Line 1 Technical Snag: पुणे मेट्रोचा वीजपुरवठा खंडित; सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्लॅटफॉर्मवर थांबवल्या",
-      "summary": "Pune Metro Line 1 Technical Snag: पुणे मेट्रोचा वीजपुरवठा खंडित; सुरक्षेसाठी ८ मेट्रो ट्रेन्स प्लॅटफॉर्मवर थांबवल्या",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3BOQW1VektlMERZMzRidG0zTHZDZFRTS3REYl9CaVFEM3dOUTI3MWtKbURmUjNNX0dxQUx5cmFBcWM5SWl4TllGS2dhcHVOeU8tTEk4dHhJbnNkazlSS2N1SlhUeEZRNXVOMVZvWXlYOWxFbmxFMWwwZ3MwMXBVTWF1ZnRuWGM2NFR0Skt1Y0VjVzlPTldjVDFsaWpmenp6ckdHZDNpdF9VZmlFTGFYcEtTeEhUOEV5RWk4d0tn0gHDAUFVX3lxTE41LVpXMDZqVUloNGNVVzNxQUNYYVgxWFpPSUtKNXFIamltTUh6UjhMa3BGZWtuemlBWjYtNWRINy1FX2RkaE1mLW56aGlxTVlUUDF4WXI5M3NHM0ZZZ0FhRC1kbnZEbzRza2dNS29JYV9EUzVxX2tQdko5cTk5Q3Y4aFJYeDk4ejMxakJEZVh2SkN4bkFwTXVsUkVjZHFrT1hjMEd6SEFuRGZRX2pPVDhlSzlFQUNTNkxoQWh1QnJoc1E4dw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 10:01:31 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 10:01:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "title": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक; २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "summary": "पुणे शहरात हेल्मेटविना वाहन चालवणाऱ्यांची संख्या सर्वाधिक; २ हजार ६२३ वाहनचालकांवर कारवाई",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0FOemh6Y1hCNmFLcm0za3ZkRnVESFRCT0VTeXFhbHk2RVI4c3kzU191WTFuUWIyTmdwWkV2cHRGUndXTlVxQXNtRVNuZWxyWi03bUJLS3o4Q2JyeWlxSndOb2s1TkU4d0dwRU8wX3kyNWlGVmF6TGF2TWZzSVhGbjFoNFZhdG15YlBQZWdjdm0xLTJzMHBMYlFRajNMbTNnc3JUaEZld1RxTjgxRnFES1FJeFczNXdPVVRZSkpENlZzZloxWU9vdNIBzgFBVV95cUxQR1pfd21Rd3hzaGJLX2FyNzE0M250N1c5d2t2a2ltVFhjVnpRbVgxdk5PdVRDVlJtck9WbVRHTjZXcnFsRzJJdDQ2R25lM3hORHE2T0NyTVlZN0FPMmJTc3B6SGtNRU9DV3p5MW1CSVoxUUU0clJyUTRCdkl3TkprZ1hWRk9vb1NCdFFsekJmdjBNYlgxTWNWbGp5QWlfTUl5NWZGN3NsQThoNVkzMzNsQ05ObllPd2VhUlZCQlhjRkp5NkdjS2JlT0p2WlJZUQ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 09:18:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 09:18:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra मराठवाडा विदर्भात कोरडा दुष्काळ पेपरफुटीविरोधात पुणे कोल्हापूरमधील विद्यार्थी ",
-      "title": "Maharashtra Update : मराठवाडा, विदर्भात कोरडा दुष्काळ? पेपरफुटीविरोधात पुणे, कोल्हापूरमधील विद्यार्थी आक्रमक",
-      "summary": "Maharashtra Update : मराठवाडा, विदर्भात कोरडा दुष्काळ? पेपरफुटीविरोधात पुणे, कोल्हापूरमधील विद्यार्थी आक्रमक",
-      "source": "My Mahanagar",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPYjdVdzh6dWtaVWpLQVY2ZFk1MmROZWFOQ05NY3JHVUdKSzRub0NNaHA0SFA0aWl0OC1LWWdBS253OTBBZTNfWGhsdl8yczNzcFFtVklxTHFIb1JCa2RCWmZBTm16UFJVZzZGeElkMGtMYVVwQTQxZWl6UnBreWJ3NlhEbi00VkNmMHIwNEZUOXdZYktwS3Zzbl82eW82blEtYUhVN1VITUNmV0c0QmRYdFBfSDBHOEJxZ1Q4dTJKd1AyZUU4WXZkSk5vSnFvbmo2TUpHNGlfTjFBTnpqcGx2ekczb3c3aVhVUk1XWW5tZUllbDFCeldsWW1yVmtwb3U4OEZMbWJTeVgzN01kaWt2aFg3S3VXMkJKWUx2YVZqMEZ4SmV2enBXMS0zcUVUSk8zTXNoX9IBugJBVV95cUxPNmxwdkpwSUR6WHFTb2JVNGgtTVdNVUZuZlNWblhpTndlclFpTndtcGlhcGNnX2dNZnJZMm1BSDlWQ1pxY1dVcE90Mnp1U1Y0UEV0c0JEOXR6NFRoekxJQUQ4elBGTklRUThqZUdzdmZWaGl2ak1qN2MxSTlPS3dmVlg4bE1pUHpONXNNdmFRMnRCVGIyNGppdFgzcWVqMlpkSmZpSllia2N6LVhYVVpsM1ZnRUE3T2FvQkUtRk5yOU1NYkM0a29nRkNoZHJuMXNnaG14Z243OWlrR0JjbnBIZUt3enkwVzB0SnRxQWdRd0Utd19LWjZsbndIUl92c2xsT2ZIWnY3ZWpQV3lFRDBvWGFrbDd4bHpZMkZ5WGVSWDItajg0VmM2V2prMnRKRVdWN3ZoVDJ4WjR4Zw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:48:44 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:48:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "My Mahanagar"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग मेट्रोसह उद्योगांनाही बसला फटका तब्बल",
-      "title": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग, मेट्रोसह उद्योगांनाही बसला फटका; तब्बल...",
-      "summary": "चिंचवडच्या महापारेषण उपकेंद्रात स्फोटानंतर आग, मेट्रोसह उद्योगांनाही बसला फटका; तब्बल...",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1JFZkdjak1DTkpPRHFBb3pjWEJIaVVrWTllNEFVbWhWM0FvdklmZ1NsQ2RaNFMtMWlYV2puMmxBT1pmVnJsYXdBcVdweWlpVXlBVmpKOXAtVlBuT2lMVlZZdzdRc3NhVTkwNm9oYXV1bU1ZT3JWWXpIV0hVVnJqamtmSzh6RFozZkVnSl9NZHI4Z05xcXJ1TUx0ZGtCMlNzSjhOWk9iZ0tOWDY5NC1wZDg5U1BzSFBlM1BQVXA4Sm_SAcYBQVVfeXFMT3dNZ0Frd2FhSXh4SWRoWjg0aEx6cUhvWnhCNE5tV01CVzRNNjBteFphQVJ6MDRibk1DcHNZVXdwTHhVRlhjV2VINXZONFE0aGZBbnJFeE5jel94OElHdlpsQkpQNmViLU5DNlF4MUlWUmE3NmRxOU1zb2UwNWpYaXNMQzIxdXZqcEpSR3htSF91WVFjUEFtNG1xREVPZ1lSNjI1Ym1MQUJNN0hWLUVETUNJSkFMb1g5Y3dOV1E3aXEtU2ludTBB?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:35:40 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:35:40 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai मुंबईत वाहतुकीत मोठे बदल १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध जाणून घ्",
-      "title": "Mumbai : मुंबईत वाहतुकीत मोठे बदल; १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध, जाणून घ्या पर्यायी मार्ग",
-      "summary": "Mumbai : मुंबईत वाहतुकीत मोठे बदल; १३ ते २० सप्टेंबरदरम्यान प्रमुख मार्गांवर निर्बंध, जाणून घ्या पर्यायी मार्ग",
-      "source": "Saam Tv",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQkJHLTJTX0dXRVN0MW10UmIxSllfcnphTTJhYlMwakZySjA1Y0hfRkh0UkRqeF9BTmF1VkNUaTlpMkJ0blNiMkdFSXVBT1pqaWFOTTBKZHBQNzFNU0tLazE1d0hKM1Z1VF9lUGZ4blF2LW1nLUxOYjRTMVluMnh4Xy16aWJYbkpKTGFHVzEyUjFmNk5IT1YzNUduQ2hQb0FuM3UtTVMzMDBEamtnNWpYZjNJTlY5YkFFQVNGbXY2Z01MVXc4bHhGRHZlSEctWlU2czFldG5DYklyS28wUGxuNGJKbGs3bGpFMXJYS2VOY1lqaGpRZWNBcm1hWjZGN3RXYVFWNlV1b1dIVkVmb0czYnhHM1pqRmpvc2FtT2lJRFFLX2xSWjAxQ0VCSHhoTUhCX21NNDFrYU_SAbgCQVVfeXFMUEJCRy0yU19HV0VTdDFtdFJiMUpZX3J6YU0yYWJTMGpGckowNWNIX0ZIdFJEanhfQU5hdVZDVGk5aTJCdG5TYjJHRUl1QU9aamlhTk0wSmRwUDcxTVNLS2sxNXdISjNWdVRfZVBmeG5Rdi1tZy1MTmI0UzFZbjJ4eF8temliWG5KSkxhR1cxMlIxZjZOSE9WMzVHbkNoUG9BbjN1LU1TMzAwRGprZzVqWGYzSU5WOWJBRUFTRm12NmdNTFV3OGx4RkR2ZUhHLVpVNnMxZXRuQ2JJcktvMFBsbjRiSmxrN2xqRTFyWEtlTmNZamhqUWVjQXJtYVo2Rjd0V2FRVjZVdW9XSFZFZm9HM2J4RzNaakZqb3NhbU9pSURRS19sUlowMUNFQkh4aE1IQl9tTTQxa2FP?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 08:28:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 08:28:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Saam Tv"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "metro रस्त्यावर होणारी प्रचंड वाहतूक कोंडी गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा दर ५ मिन",
-      "title": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
-      "summary": "Pune Metro: रस्त्यावर होणारी प्रचंड वाहतूक कोंडी; गणेशोत्सवात पुणेकरांना मेट्रोचा दिलासा, दर ५ मिनिटांनी धा...",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckphMTBibHVMNmlyaFE5RXVSR2I4S1JRTTQ3RTliSEYtd1RsU0xhc0hZYVpFSDZYLTI3dzZvUG5BTnNmYzNrZC0zakR6QkVlVXBac1pscVktYmoxUnVpMF9CVkdVR19uVkhpZy13dlN6cGFJTm5IeGJYQ0FCbmpCeWQ4TzVhS19EbnMtTG1sV2xYNDdldk54UXpCdlREY21ISnVjb2d3Y2Y3WjktYVlFOG1wRmwzMkhma3VJVDktQmlWbHlJcllUQmR6bERfRS1jcnFjbmpkVF9ueGNwak1XbdIB5gFBVV95cUxOU2liSTEyX2lVcG50OWZNYzgtVmN0cVd5akt0RkN6enpsaHQwUWJSQTZTcjJadk0zeDNwa3hCZW5qY3ZzOUUzU1VLaEFmeXB6bmpETmNpb1J3aFFqWGVuT1lIRjRPTHVEWkZnSmdnY0RKeG9LNlQ4QnpwZElLSUc4aFNJN2dHMXBIamxlczNDVkF5bVFjQldzQkVSRllLRUVTbXFMZG1qM1UwWmZCeWIzOVU1NnNhMWVkNVgzcXRFWHBwTGwzUVdqVHA4NF9ORWdJM1NIRUZZcElab0RlT3lNNl9pQmtWZw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:36:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:36:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पावसाची जोरदार एन्ट्री विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather",
-      "title": "पावसाची जोरदार एन्ट्री; विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather update",
-      "summary": "पावसाची जोरदार एन्ट्री; विदर्भासह घाटमाथ्यावर यलो अलर्ट maharashtra weather update",
-      "source": "tarunbharat.net",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmY1WFVNazVMVGJkZlB0bjV4VTJmZVpidHUzdTBnZU9EVW9KTDFMdWwtdm5pc2l1dHcyLWwzVklwa2d5NXlEbW9CMG9SRU1aT0EtZTFMemRfUUZMWlpqSm5lMG9vdmlGNTU3TkpSN0puV3NUOWhOQlpTeWNneHV1X2VSWXFIZ2pJdG0wNWFHYTNKcmdyQnkya1owNHhCemF2Sjc5NVI1U0cwN3VwazVtZXMtNk9wSWI5dURocjlYYVhJc25EX1ZTLVRxX3Z3X1VoM0tLTkdpMDZ6Ung1WlE1QUl3?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:30:34 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:30:34 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "tarunbharat.net"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी रसायन सांडल्याने वाहतूक झाली होती",
-      "title": "पुणे-बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी; रसायन सांडल्याने वाहतूक झाली होती विस्कळीत",
-      "summary": "पुणे-बंगळुरू राष्ट्रीय महामार्गावर उडतारे येथे ट्रक पलटी; रसायन सांडल्याने वाहतूक झाली होती विस्कळीत",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUhkLWpmdkQxR21QMHNsT0czeUdmNkhDczlwWHVFQ2FWdk1CMllzb3oyZ251V0V2c1dLeE5wc2xhNUpuT0otWVl0VXl0TFBxdXRjMlMwM0lwRmRRZ3pNNkZKdEZPYWZNeWhpRWNuV083bmhUZWxQN2tERENqbFVROU4xTGtHbmluYUNDUjFRRG9nRzUxVDEzazZVekF0bDBDb2ZESEJBQXBTQWpod243RXFoOTlXbGNOQzdYZng4S3dNWHJSdzNKc1R3R3BWeWVkT2N2UllYQ0TSAd4BQVVfeXFMTzlySmYxZlU0Wk54RXJoT0NVVUdveUh2NjFwM2VqemJWV1A4NEdZOHdPc0dUejBka0F4ZC0tdFpCXzVrQTU3YUdWZ0xUN2lLanRHVWMxaHpiMjVETVRUSjFTdWZTM3VPSlRRdzR6ZjBDVEhIUGtsdWZuNnlQYXBVTE1Ob0lsMG9CekVFS0F6bmlfN2pWaTNEaFVYRkF3WmlUQWc2Q0hqUU10TU9uZlc4ekxhQ2U2cHpKU1ZWQ3NrX1dCMDMtZTh1ZmpRM3FjWGVVbjVWenl5elJXRElEUXJn?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:30:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 07:30:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे चाकण midc महामार्गावर suv मधून रीलबाजी पुणे मुंबई बेंगळुरू महामार्गावरील अशाच प्रकारच",
-      "title": "पुणे : चाकण MIDC महामार्गावर SUV मधून रीलबाजी पुणे : मुंबई-बेंगळुरू महामार्गावरील अशाच प्रकारच्या घटनांनंतर आता चाकण MIDC महामार्गावर SUV चा वापर करून रील बनविण्याच्या प्रकारामुळे वाहत",
-      "summary": "पुणे : चाकण MIDC महामार्गावर SUV मधून रीलबाजी पुणे : मुंबई-बेंगळुरू महामार्गावरील अशाच प्रकारच्या घटनांनंतर आता चाकण MIDC महामार्गावर SUV चा वापर करून रील बनविण्याच्या प्रकारामुळे वाहत",
-      "source": "instagram.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pMWhkdlNmZDJ3NFoyRFk0c3FKNzZoUmZVSXRFN0JDdkJvMUxqTWdZQXBIaDdxdEExVHdqOW9NcHpfaGtDb2ktNGhOeEZUR0FCZ2NKMGtn?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:45:37 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "instagram.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार अनेक भागांत यलो अलर्ट",
-      "title": "Weather Update: गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार; अनेक भागांत यलो अलर्ट",
-      "summary": "Weather Update: गणेशोत्सवाच्या पार्श्वभूमीवर महाराष्ट्रात पावसाचा जोर वाढणार; अनेक भागांत यलो अलर्ट",
-      "source": "navarashtra.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZHhXSkxwdmRzZDJJZ3hpeGhtVVhsem15ajA3VThiMndTQ2xvNE9SeDBJekJOR01ZcG9vWHZTaWpha0ZiZExuSUUzTjhqcjE1LTZ0U2tNNjFJYUU5bktsZG5zZ2N0Q0VncmJiUEdkTG05NmtRbFRUNzEyaVUwSnVsN0JWRnJKOV9rMVoySGFyendBbHUwajhCNnQwZHF5djFaZ2FUTHB3eGZXNW16c285ZWZCaVFMNURPM1JrajN5UlYzNUtBVjVzWF9RX3Q0QkFkUm9QdGNOSFdoNnhjTzBseHJvUXVFcW1nN2JJZGFZamdHWGc4blVoRU9DTHN2SW16NlHSAYcCQVVfeXFMUFBtejdvTEFnSHdoQmE3aXFyVmdrUDVNS19yRGVFZHEwV3N4UnY3Z19BY2FHc0IxeWZaTlFLRFZrMlpPZDU0NlBFdGJIRUZrTFJtdmN1OGs3dnk1SnlqX0h4NmYxSGt4Z29LVnp6cmlCMzMzdFhHNGRaNFhrejRtNEtIZWhQNW8wQkIwbXp2Q0ROek05czJSQkRRZmJtdmVzQWxucHJ0d0xyMWhwOHpQWElZb3FUd1RPRzMwYUZ2UDhLcVZ6RHgyUWNIZk5yOVl4TmFuYmxzVENBWEpkMjhWb1FiUmdZeFU3N2FHb1lBQko0SUJOemNOaGEyRGU4ZHBCSExMR2FNc0E?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 06:00:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 06:00:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "navarashtra.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mpsc student protest cbi वर विश्वास नाही विद्यार्थ्यांनी दिला सरकारला थेट इशारा",
-      "title": "Pune MPSC Student Protest | CBI वर विश्वास नाही.. विद्यार्थ्यांनी दिला सरकारला थेट इशारा...",
-      "summary": "Pune MPSC Student Protest | CBI वर विश्वास नाही.. विद्यार्थ्यांनी दिला सरकारला थेट इशारा...",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNE4tQ2Z3NVJJcDJERDlNUWZ4M1AtZVBBRjVHS3FvWnpfWEcta1ZJRTlZZ2t6SW5qSVV5YjZYVjh1LU5Vem1FSGxpZWRSR0lMYm5WbU80LXU0ekdoa2xzVVI5cG5EOExNYURSc3Rpek41ZzBxVnhKN194Q3RrRnM5Zl9FYTJsQkVrNWd3U1U4aHc?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:53:31 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:53:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mpsc अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप असला अध्यक्ष आम्हाला नको हजारो विद्यार्थ्",
-      "title": "MPSC अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप, असला अध्यक्ष आम्हाला नको, हजारो विद्यार्थ्यांसह रोहित पवारांचा आक्रोश मोर्चा",
-      "summary": "MPSC अध्यक्षावर कोट्यवधींच्या भ्रष्टाचाराचा आरोप, असला अध्यक्ष आम्हाला नको, हजारो विद्यार्थ्यांसह रोहित पवारांचा आक्रोश मोर्चा",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVl80Q013WG15NDdOMGpaZnBZUXJPY3hLV3BIT0NkcnhYaDZnem1EQmlRTVFUOUZhSTJPWEF6N05vM2hKQ1k4MDBzbEJmTHFWZnJYXzVOZUVyckR4TlVaeXlTVlRWZEFudHpWdzJjYVZqV0lLa2hBNWRGeWRMby1kYVlUUWEyQmFObjFRXzdoZXdmcHNfLU5Ram5MNGl0cUNhaXlRWF9WN2k0ZmxCV3VLY09FVHVhS1dYeFdLXzJCM0FkU3lrMGEwRHAtc05PcHE3akxvTGRlbTRGbGVr?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:49:00 GMT",
-      "lastUpdated": "Mon, 07 Sep 2026 05:49:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 42,
+    "total": 37,
     "alerts": 13,
-    "news": 29
+    "news": 24
   },
-  "cleanedAt": "2026-09-08T05:30:59.920Z"
+  "cleanedAt": "2026-09-08T10:23:17.679Z"
 }
