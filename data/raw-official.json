@@ -1,27 +1,34 @@
 {
-  "generatedAt": "2026-09-09T11:38:26.746Z",
+  "generatedAt": "2026-09-09T15:42:48.279Z",
   "items": [
     {
-      "id": "rainfall information all india districts",
-      "title": "Rainfall Information | All India Districts",
-      "summary": "Rainfall Information | All India Districts",
+      "id": "flash flood bulletin",
+      "title": "Flash Flood Bulletin",
+      "summary": "Flash Flood Bulletin",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GRVJRaDc2S21DNnY1cWU2bk1OZVNrV21IbElWWWQ2QnN3QnA1ajNhQ0tjVXZxUFhWOUIyaVBLM2Rqek8wUmNUTHdJWVZ3UUhhWkktejRtTHFOS0FReE9lUXZJN1dOeEJQSjFwWg?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:04:02 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:04:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uYlFTRENWVHlMcGZoRmtEUXBBdGtqa1BBd0RuNHdmUDloczlxQ2hTbi1uMTNBMlpKWWR3R1kxOFg4YkIwZ3oxaWdGUlRhM1Z5RG9tMHQyMm1UUGwzRGpJUHI5dDE0NFJqY1M0?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:51 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:51 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "IMD"
       ],
       "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
       "critical": true,
-      "action": "No immediate action required."
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
       "id": "sdw warnings india meteorological department",
@@ -54,6 +61,28 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaXdRdWNpSmZHbTZXU09ZM2hPTFRacGFEQU1GSmNseXhvR25icklySUJxRk01dlBJQk9LSjh6UklmMFl5TWNIWEkxR0NDYTg?oc=5",
       "pubDate": "Wed, 25 Feb 2026 06:58:55 GMT",
       "lastUpdated": "Wed, 25 Feb 2026 06:58:55 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rainfall information all india districts",
+      "title": "Rainfall Information | All India Districts",
+      "summary": "Rainfall Information | All India Districts",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GRVJRaDc2S21DNnY1cWU2bk1OZVNrV21IbElWWWQ2QnN3QnA1ajNhQ0tjVXZxUFhWOUIyaVBLM2Rqek8wUmNUTHdJWVZ3UUhhWkktejRtTHFOS0FReE9lUXZJN1dOeEJQSjFwWg?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:04:02 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:04:02 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
