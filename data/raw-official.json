@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-09-11T19:22:46.920Z",
+  "generatedAt": "2026-09-11T21:48:45.244Z",
   "items": [
-    {
-      "id": "india meteorological department",
-      "title": "India Meteorological Department",
-      "summary": "India Meteorological Department",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaXdRdWNpSmZHbTZXU09ZM2hPTFRacGFEQU1GSmNseXhvR25icklySUJxRk01dlBJQk9LSjh6UklmMFl5TWNIWEkxR0NDYTg?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 06:58:55 GMT",
-      "lastUpdated": "Wed, 25 Feb 2026 06:58:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
     {
       "id": "cyclone information",
       "title": "Cyclone Information",
@@ -44,6 +22,35 @@
       "icon": "ℹ️",
       "critical": true,
       "action": "No immediate action required."
+    },
+    {
+      "id": "flash flood bulletin",
+      "title": "Flash Flood Bulletin",
+      "summary": "Flash Flood Bulletin",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uYlFTRENWVHlMcGZoRmtEUXBBdGtqa1BBd0RuNHdmUDloczlxQ2hTbi1uMTNBMlpKWWR3R1kxOFg4YkIwZ3oxaWdGUlRhM1Z5RG9tMHQyMm1UUGwzRGpJUHI5dDE0NFJqY1M0?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:51 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
       "id": "date 11 09 2026 time of issue 1900 pm evening district forecast and warning for next five ",
@@ -68,14 +75,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "sdw warnings india meteorological department",
-      "title": "SDW Warnings | India Meteorological Department",
-      "summary": "SDW Warnings | India Meteorological Department",
+      "id": "india meteorological department",
+      "title": "India Meteorological Department",
+      "summary": "India Meteorological Department",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3OXRNMWJOcVpadjRfazBEUTBBWVJ6ZGV2Ym1zZlVLX1FQdk1tTGlOLXZsRGZmbVJNOVR2dHNJUlJyVFZzenoxakJxbkg4Rnd1cXRPUjA1cHFYZl9XU1oxU2dIcS0yc3VZSmlmUGN5NTBQYVUz?oc=5",
-      "pubDate": "Tue, 03 Sep 2024 14:53:28 GMT",
-      "lastUpdated": "Tue, 03 Sep 2024 14:53:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaXdRdWNpSmZHbTZXU09ZM2hPTFRacGFEQU1GSmNseXhvR25icklySUJxRk01dlBJQk9LSjh6UklmMFl5TWNIWEkxR0NDYTg?oc=5",
+      "pubDate": "Wed, 25 Feb 2026 06:58:55 GMT",
+      "lastUpdated": "Wed, 25 Feb 2026 06:58:55 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -208,28 +215,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGTld4MlpGZkVpck9iNkZhZlNnTVNEWFFjWGJxZ1ZpWXdWcndrRlpxeUYwajNMU190a0g2OXJuSkxWcFpvMXhzZDNpUzZEdWJRU0ttbHN4Z1lwSUNaX25jaA?oc=5",
       "pubDate": "Fri, 13 Aug 2021 18:42:25 GMT",
       "lastUpdated": "Fri, 13 Aug 2021 18:42:25 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "bay of bengal",
-      "title": "Bay of Bengal",
-      "summary": "Bay of Bengal",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoNzhMTERZYVBHdTFFT0JlUnlnM3hoZDVnX0JzNXFrdk12dmhSS1VDQkV6b1lpcWFHc3YxaVhuN3JDal9tVFo3SXBtME5hV0hjZko5RmNMS05GcGZMTkZ5NUROeTBQaXpMaVZXdURlb3JMdw?oc=5",
-      "pubDate": "Thu, 21 Apr 2022 20:47:19 GMT",
-      "lastUpdated": "Thu, 21 Apr 2022 20:47:19 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
