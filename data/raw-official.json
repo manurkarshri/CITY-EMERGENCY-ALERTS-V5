@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:14:24.057Z",
+  "generatedAt": "2026-09-16T06:19:06.369Z",
   "items": [
     {
       "id": "regional daily weather report based on 0830 hours ist observations",
@@ -58,6 +58,28 @@
       "region": "pune",
       "sources": [
         "मौसम - India Meteorological Department - India Meteorological Department"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "arabian sea",
+      "title": "Arabian Sea",
+      "summary": "Arabian Sea",
+      "source": "India Meteorological Department",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GaUgzV1ZheV9hQks0cHB6ekRuTlVkNUl6eU45VGMtTW9JQzVhRmZXZzJhNVFZZE5EVEJ4SEdWOE96UEcyS3duV1JoTkZRVG9IcC14V2ZsOUFjNjlneGFuN0x1bHVOSTE5VTFNZVd2cm5rQQ?oc=5",
+      "pubDate": "Fri, 22 Apr 2022 00:42:21 GMT",
+      "lastUpdated": "Fri, 22 Apr 2022 00:42:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Meteorological Department"
       ],
       "confidence": "High",
       "severity": "advisory",
