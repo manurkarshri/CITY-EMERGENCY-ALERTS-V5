@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:14:56.071Z",
+  "generatedAt": "2026-09-21T20:04:24.496Z",
   "status": "ok",
   "alerts": [
     {
@@ -57,63 +57,35 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "20 dists on alert as heavy rain forecast raises flood fears",
-      "title": "20 dists on alert as heavy rain forecast raises flood fears",
-      "summary": "20 dists on alert as heavy rain forecast raises flood fears",
-      "source": "timesofindia.indiatimes.com",
+      "id": "route diversion due to nashik kumbh mela works increases dhule bus fares",
+      "title": "Route diversion due to Nashik Kumbh Mela works increases Dhule bus fares",
+      "summary": "Route diversion due to Nashik Kumbh Mela works increases Dhule bus fares",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0Y2NkQ4VHl1Rk5lRTNVUDlubHVHamdpc2dLX3hLclN4aUxaeU1uMFhqSGVWQVozYU1DWnB1Q0pzdjBWa2x6U0RnOFM1UkUtV29kRlp5RWJlNi00XzZaQlZQZjYwWDBJdmpEZjZDRzl0V1B6T2pQNE83M182bVVKUHJRenlfOVRnT0NMSmFRMzF2Y0tOMWZqdlVmY3pKc0pmU3EtYVZHNnlMZkprUU9LMDQ3RWg3aTRFNkNnaDhXR3lIYWExU0hWZjRlRHVjb0Y3YTBmM9IB2gFBVV95cUxQb3RTTnhRaXRNbU9ubk5pQlJyVFVSSWt3LWtvbDNzZHN0Rk1ncTlUd0M2a0MxTkhjMVM2eE9qUGRKY2NLaUN2X1dodC1KQUE2dmp1Si02dlo3RFo0RkVKRkdMaExPcldnLTZ6R0UzSkh6dGZIRzNoVXIyYVh4aVY4cWRrb3A1UlNaVENiMFhrTkFvZTZhYnpnM0oyMm9ybEVlTFpSaFRJc21vMmdzOF9MVm5ZRGZqZXRvZ1ZKbEhqUWtVaXhxUnN1aFhibU5nVnFXaWMwTzJRZm1Bdw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 18:57:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 18:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXRFRkdTa0J1ZGRJQkZCUHc4NDhkUDZQV1dhWmx2Z2s1TjRvOWF4YUozc0Q2M0xudmxKOTF3Sk9TVndsdEszYkdtUmpSM2g0M1lwU1A4TWhQNUZaUXVxT3dPbGMwZ1hIRTB4SXQ4NjlqN2ItcndlaUJOMUpPWkRzbUtGR1dMY0VZS1dmN2Q0V0tsaTVOWVdXMmRiWEs4OFFOWTBINk80YS00WDNnY0lGSE5PakZRbGZWN2VuRFVZTHVyMS05SlJSUW9XVjRKNnpmN3I2WnlxT2FIbWIzZDZ30gHkAUFVX3lxTE5qUktFMDZkSWQ1U3NVTTEtOExYUVFUaHAzb0NTeFNYU0QyYWdNdE96UzdFZ3F4TVVNd01SQWZjYWJXQ2xVNDEyOUczVXpOX0ZIVm9vTk5mYTNfb3Y3ZmVmVzdWSVlRWXIySW5admZrd1M4NXF2eHEycF91bUZ0djRqcUxlZ0FOX1pUakY4RWlvc3g2dVVfUEZ0cDl5RHd2TThqem9ONHMyeVBDQld2ZXpfTUEtc2N5ZGkxUHFZei13ZGFtMjJYeGZQcy10QWxYUWlkSUtUTFgyTy1Bd1VVeXlpS2pyTA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 17:21:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 17:21:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "timesofindia.indiatimes.com"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
       ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
       "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "action": "Use alternate route and follow police diversion.",
       "correlation": [
-        "Rain / waterlogging may affect travel."
+        "Road delay or diversion possible."
       ]
-    },
-    {
-      "id": "13 pgs 7 scrap shops shut after failing pmc s fire safety checks",
-      "title": "13 PGs, 7 scrap shops shut after failing PMC’s fire safety checks",
-      "summary": "13 PGs, 7 scrap shops shut after failing PMC’s fire safety checks",
-      "source": "timesofindia.indiatimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjZTQXRwREl0d1ZSRURPcEs2clU5VWhBVVA4dEwxY2V2a0NHRDVjOGJ2Z1FfNjdra0R5cE0yMVFON0ZSNWNyQ1FhMngtNjFXM0RUOUZPS1lURTV1R0lmTGsxMklJU0JsbEVxbzRod1RNLWE3cjQxelBtSkVuang0V0Z6VFdZekdjaTVtaldHUmxWUndhR0tDMG1Falg4aWlpQzJ4aVh5SFZZSnJZTHNQanRDcWNLU2xid1RFXzlvOXgyWkRkd3lvU3VXWGJMT3Fm0gHWAUFVX3lxTE5VRXdpcDVyZ21sQ0dwVjNaVmltUXFrYW9sOVZSeFVOUVlNVUFqaVVZc1RtU1VBQ2Q4emVWeXYzeFZLbjZBaEJsT1VvdFkwcDBPWmdDZ2VEZkR6SjFNS21ROWkwS3BQMjU3MzAxc2o0RFNXeldSdHpJbTZ2UzAwUW9ic2hqanRTcXZVb0lWSUFaRmIwdnJncDkxVnhJMUw0V05SMGRYM19IWEhwaWNMQW0zbW5RaEZXZmEzcnBXUVRlYmN5dVdTQTVwbnBUaThCb2F6NzZaQkE?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 18:36:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 18:36:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "accident मोठी बातमी मुंबईत भाजप आमदाराच्या कारचा भीषण अपघात फ्री वे वर ३ वाहनांना धडक",
@@ -142,6 +114,56 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "msedcl aims to recover 682 crore in pending dues in 10 days",
+      "title": "MSEDCL aims to recover ₹682 crore in pending dues in 10 days",
+      "summary": "MSEDCL aims to recover ₹682 crore in pending dues in 10 days",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVdON05BUkVDRm02ZllLMVBhS1NVY0FVNmJpOTc5Y2k0NDltRUtYVzlGTkRfRVFsVkNnSFpkdDA1YlFPVmNkc3FXeDRGWWNPUWxaOTJqb0ZnYndEWXVPcXRac0VRNVhGaWhHZnNZTHREaEwwVlcxUzNtd3lFcTZwa1N5OVkwbjVfamI3ME8temxfNDRIVi1xbEFCejhMcWRUVlRZVWJwZkFTamdJbDZEejJ1OUc4SnVoYnVRRG8wYlJIWnR1cjNOVDdPVdIB0AFBVV95cUxNLUxkSE1Qektsa1ZOSkZkeFJyTmd3bC1FaDU0SkZ4MWR6c0pPcGFTWjk2ZFhTbTZwUkV2LUVJMU54bFZhUjZxcW5mbm9TQkJDZlpueVBhdUt4VFRVOGh4dGFXVDlwckczZHlRZ3M1YzBFbDJiRnQ2UjFxOGlkUXd5Ymp3ZFg5U0pJRExVMi1yOEdJOEhBOFhVYXRyenNzbXBNYUROODVtQUJKaXd3Q0NBa0ZseFJSaG9oTEJBcGRlSW1wb1JqWElGREFKU2tDVDJ3?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 18:45:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 18:45:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
+      "id": "regional daily weather report based on 0830 hours ist observations",
+      "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "source": "India Meteorological Department",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 17:34:10 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 17:34:10 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Meteorological Department"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
     }
   ],
   "news": [
@@ -149,7 +171,7 @@
       "id": "belbag chowk traffic गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही बेलबाग चौकातील वाहतूक नियो",
       "title": "Belbag Chowk Traffic: गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही; बेलबाग चौकातील वाहतूक नियोजनावरून मंडळांचा आक्षेप",
       "summary": "Belbag Chowk Traffic: गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही; बेलबाग चौकातील वाहतूक नियोजनावरून मंडळांचा आक्षेप",
-      "source": "Pudhari",
+      "source": "pudhari.news",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTEzLWp4TU85dFpadVNVaTY0MFdwUWVvMnhiWDQ5R09yQ1dJM3FNZGh1UWJ0ZFZWRm5ReXhyV1BZLWpyamI0Q0hDaWtDeElPNHpOdElLWmZyZHdMUVViaG41YnM3RWtXSnFQUTJZOXNScG8yVm5DUzVCbWlqaUpZOG5sbEhxYjdjRV9QOFFXV2c4MjNQT1Y2VHVoYjUzbzdxMHc?oc=5",
       "pubDate": "Mon, 21 Sep 2026 06:51:17 GMT",
@@ -157,7 +179,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pudhari"
+        "pudhari.news"
       ],
       "confidence": "Single source",
       "w": [
@@ -178,35 +200,29 @@
       ]
     },
     {
-      "id": "kini toll plaza traffic फास्टॅग स्कॅनिंगला विलंब किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या ",
-      "title": "Kini Toll Plaza Traffic : ‘फास्टॅग’ स्कॅनिंगला विलंब, किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या रांगा; पुणे बंगळुरू महामार्गावर वाहतूक कोंडी",
-      "summary": "Kini Toll Plaza Traffic : ‘फास्टॅग’ स्कॅनिंगला विलंब, किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या रांगा; पुणे बंगळुरू महामार्गावर वाहतूक कोंडी",
-      "source": "Esakal",
+      "id": "mumbai weather forecast yellow alert issued rain expected over next 5 days",
+      "title": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
+      "summary": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
+      "source": "lokmattimes.com + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnJORlNxT21sMXJybjlLc2ItLXUtRXNnY04tSG1HNVU1cU42SVEyMnBKaGlDbHVsVUNydXlsdW1NSDRFU0J5VTZKWHotd0x3b1dkNTVlVzJ0eVNFdnZNM0xiLWppeTlYTk1aVDNLYV9USUJLTUtLUUVNck4zTlF5Uy1sX2JHYzMwTzNZTUdyNWdyNk5PUUVRV0t4a2cteHdVY3pGY2dpQThxaTRyZmNEYWlwMDF3MUd3LXBXMmNaX3VWUGM?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 16:13:08 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 16:13:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0czUzRRQzZndUhPUVp4bHhROVM0Z28wRHhLZHFsb0JSc083cFpqNmQxZ3A2SWp4bWgzemVXUDAzc2F4TFgtem1FSDBTcmVYZTdQai1hWk1GZzRheWt6REZmNkJabkRFeTFZdUFSdVdkNHBtb2hvQ0FXQ19nQjByUHJWeVJ1cEFicW8zQmE4U2NCaE1pNUdVLVlCZ3F2TXpZUko3ME0wQVBUaThUcEtScE1LZzZNZ9IBuwFBVV95cUxNekQwT2FVTmJ5N2MwTlYyX0NubTBJbjRaX3lTeWZYd281QlVSRmsyZm9jRS14bnZGM2FKc0ZLTzV4RDNwb2gxVkJTZUlQOGlhbnBHYUtCRkN3TVB0UGg4VVczbV9mZlg4S2N5T3B0cXFzazVUbjRKNjZBakJYcTJITTNuVEV1MnIzTU5COG1GMVdVaURXTU9KSkRVd1llVjRYV2U4OElmbWp5ZVEzdjI5SEoxT1U3WW5hM3BN?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 13:06:07 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 13:06:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "lokmattimes.com",
+        "India Meteorological Department"
       ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel.",
+      "action": "No immediate action required.",
       "correlation": [
-        "Road delay or diversion possible."
+        "Rain / waterlogging may affect travel."
       ]
     },
     {
@@ -259,21 +275,64 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather heavy rain alert in thane nashik and 25 other districts",
-      "title": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
-      "summary": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
-      "source": "News9live + 1 more",
+      "id": "metro झाली मालामाल केवळ 2 दिवसांमध्ये पुणे मेट्रोला इतक्या कोटींचा महसूल प्राप्त",
+      "title": "Pune Metro झाली मालामाल! केवळ 2 दिवसांमध्ये पुणे मेट्रोला 'इतक्या' कोटींचा महसूल प्राप्त",
+      "summary": "Pune Metro झाली मालामाल! केवळ 2 दिवसांमध्ये पुणे मेट्रोला 'इतक्या' कोटींचा महसूल प्राप्त",
+      "source": "navarashtra.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUdIBwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 00:37:51 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRVk0bUxLRFdVdFl3RnNjeEFucl9Gb1JJSGxSU2gzY2VBcnczZHhETkZiNnh4dE5OaUxpUHo1S1VOWUNqLTBoaE1IRTJLRG83M0lpYVRoTnM5Ymp4bmhvLThzUFdkc0ZJUkJzdG01c1VIcERTUEo4TUJIcGRrS0hma1RfbkZqUW5iU2NGUTJLSVlPbVNnRkN2dmhjX0RTMXp5OGFZQUhHWWdmUktOVldqd0tTRmg3NkUxbnU4enNBSTVya3BRbmpGRFFMZlRTc3daTTRGLWI5eTlqWlpHZ3FrSGRCalk2SGtKcGRYUFpjajZDZ1Bzc0HSAfsBQVVfeXFMTzdQTUZ0Nk1IbFJCbUZDMkxvTHlLeHNKMzJqM3J1LTVhcmE2ckhEOXJWSWZLRWI1cEppb01wVm9kbVZDMWdQb1ZfcGZzYTA2cmNQazhSci1lRTNVc1lSR2FZZHJuMlJlQi1EN3d1Y2l2Y09wZkkxSnZjZFhKMU10QjhtVmI5ZXpjajhJdE1LbGo3alNsSWk5NFVxSXFoek5tNFVrbGxSaXlNal9paXVMUVNiNWFEM1VOb0ZDOVlCOHBWc1BLM2ZiUjdMbEJ3UHRlemVGV3JZUjdzQkNEMkFCUjZHYThUTlp6X0E5eVhQSEszR2hUX3pPRUVPOTg?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 16:08:09 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 16:08:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News9live",
-        "timesofindia.indiatimes.com"
+        "navarashtra.com"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "imd राज्यातील बहुतांश भागांत पुढिल ५ दिवस यलो अलर्ट हवामान विभागाचा अंदाज काय जाणून घ्या",
+      "title": "IMD: राज्यातील बहुतांश भागांत पुढिल ५ दिवस 'यलो अलर्ट', हवामान विभागाचा अंदाज काय? जाणून घ्या...",
+      "summary": "IMD: राज्यातील बहुतांश भागांत पुढिल ५ दिवस 'यलो अलर्ट', हवामान विभागाचा अंदाज काय? जाणून घ्या...",
+      "source": "marathi.hindusthanpost.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQjFLR0lZUFhxSjNlamVFejJFZ0FvUURrZk5TTlhRUWdkUUNjakY3a05mc2dzTFZZV3N4dzZyVmNBS2lvdHlLN2tnZkRfM09OYjZ6SFlwU1lzcUZrOEowTENSUzNZcUQ1U3BUNDFSbFIxa1VNVUU3ZEgwQ3hkOUNYLTdpVGgzYW1rVTBEV2dtWGs2Uk56NHEtOURuTEVoczRfbGV4clYzb1JiNDgwLW1KcjAxM0o1YUxrMGJjd0Y3ZmhrLVNLSzJMaWZSbVN3Y1EzRmgyZTFpbnlHbVFsVGtHVGwwRmhPcGhUa1g1Q1JuenVqUQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 16:00:54 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 16:00:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "marathi.hindusthanpost.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain ठाण्यात मुसळधार पाऊस महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट नेमका अंदाज काय",
+      "title": "Rain Update : ठाण्यात मुसळधार पाऊस, महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट, नेमका अंदाज काय?",
+      "summary": "Rain Update : ठाण्यात मुसळधार पाऊस, महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट, नेमका अंदाज काय?",
+      "source": "Maharashtra Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY3pyTzhLS0xheFpTdm9USTZMbksxNV9fWVJoZ19zSFhGdzFRbjRUZTIwU3hyendQSnhqeG5tb3lXaE9HbnFFd1VfOFhKc3NaTHRtN1VBQk1EYWw5bVk2c08xaGxkOWNQZUkwWnZvU2I5SmxkQXpLUjBFaXpmWjYzX28zZF9DeHhrT1RmcXZvbDBKZ0Qwc045SWhfV0dRVTZ2Y2E5QXdwbVBoNGVscTl4MVIyc1V5RGpRc21tYmxORjc3eHo3SkZxRnRVQ296UWNmQllKb0tGb3VFOEJ1bWR3U1R30gHnAUFVX3lxTE1NSWx0cWtQa1ZYaUI1TlF6d2lLbUE5cWZuTE5DYlFhLTc5bUVwOUVEMi1QLWlvV2RybHFpN2lrSXlZc0JkQmVvZHpDMjNSclVKeXBJVTQzVUtNQ1JMQ1R1Yi1HdWM2RWgyc09uVG96QklvUTExSXlMZFBRZnhDOGhETmNWWWFYOUd0SFJkTzgtMUhHa0RCTTgya1F4V3IyN3ljaUdmUzQ4OWxBOEFJS2V3NW9obGNBLWFZMTJXWEVzMjdBX1BCQ2JNejFtZzJ1QzFQMkRtckptQUl4NmJHOTk4ZWNrNTgzNA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 15:44:13 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 15:44:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Maharashtra Times"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -307,18 +366,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रात मुसळधार पावसाचा अंदाज हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "title": "महाराष्ट्रात मुसळधार पावसाचा अंदाज, हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "summary": "महाराष्ट्रात मुसळधार पावसाचा अंदाज, हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "source": "TV9 Marathi",
+      "id": "maharashtra weather सावधान पुढील ४८ तास महत्त्वाचे राज्यातील २३ जिल्ह्यांना यलो अलर्ट मुसळ",
+      "title": "Maharashtra Weather : सावधान..! पुढील ४८ तास महत्त्वाचे; राज्यातील २३ जिल्ह्यांना यलो अलर्ट, मुसळधार पावसाचा इशारा",
+      "summary": "Maharashtra Weather : सावधान..! पुढील ४८ तास महत्त्वाचे; राज्यातील २३ जिल्ह्यांना यलो अलर्ट, मुसळधार पावसाचा इशारा",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUi10UHZ3THRSMnV1MDJuSExoUVgtMU5TaUNzYS1XYmo4dXVhVVh5al9Tei1oWnBwWm81TEVxd29qNFk2enJ3Nm40dlc1T3JXaE55czdzOExTbkUwRkpDYlJfOVc3bWRDd1BubEdyVTFuVzNHUFRDUTRfSEg3UnJQWFd3amxVWEpJdXoxdVRQUVR2bVRVRzNZd3NJSHZDNXhuY2VxRV9YNjVFeWdpQjJRSmVrSnAtUGl0UmRWT1NndDRuajJxU1NRUVdTMlpMZlpOSjlPRQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 13:30:20 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 13:30:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa21CYkxRMlM0WTg5U1U5ZU1lZUJtNnI1MVEwT2NfVXJ4Zmw3NEVfTU1qYWNVOHNRSUR4OURCbWFaM3V1R2k5UHZaaExBSDdYVG8xOGVfWGNSSmhOVHBSTjNWZUk3TWlWZzZtdWw2dEJpd2dneWh0N0pqUXU1TzhVbG9MMy1EMU4tN0l5bEYtNm5paEVBY1lUMnY2bHhSeHpEakQ4WWJ3RWZ4ajBlNnRHeVdIcHNtOGxwRklMdGg0MA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 13:00:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 13:00:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi"
+        "Dainik Prabhat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -327,31 +386,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai weather forecast yellow alert issued rain expected over next 5 days",
-      "title": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
-      "summary": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0czUzRRQzZndUhPUVp4bHhROVM0Z28wRHhLZHFsb0JSc083cFpqNmQxZ3A2SWp4bWgzemVXUDAzc2F4TFgtem1FSDBTcmVYZTdQai1hWk1GZzRheWt6REZmNkJabkRFeTFZdUFSdVdkNHBtb2hvQ0FXQ19nQjByUHJWeVJ1cEFicW8zQmE4U2NCaE1pNUdVLVlCZ3F2TXpZUko3ME0wQVBUaThUcEtScE1LZzZNZ9IBuwFBVV95cUxNekQwT2FVTmJ5N2MwTlYyX0NubTBJbjRaX3lTeWZYd281QlVSRmsyZm9jRS14bnZGM2FKc0ZLTzV4RDNwb2gxVkJTZUlQOGlhbnBHYUtCRkN3TVB0UGg4VVczbV9mZlg4S2N5T3B0cXFzazVUbjRKNjZBakJYcTJITTNuVEV1MnIzTU5COG1GMVdVaURXTU9KSkRVd1llVjRYV2U4OElmbWp5ZVEzdjI5SEoxT1U3WW5hM3BN?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 13:06:07 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 13:06:07 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
     },
     {
       "id": "घराबाहेर पडण्यापूर्वी ही बातमी नक्की वाचा २३ जिल्ह्यांत विजांच्या कडकडाटासह मुसळधार पावसाच",
@@ -381,7 +415,7 @@
       "summary": "Pune News : तळेगाव ढमढेरे आठवडे बाजारात पाणीच पाणी; व्यापारी, ग्राहकांची उडाली धांदल",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0Uxb2FzaU9LSzVpdkhGZUJnSjVxVzY4WTFNRmxuM0hKR3FUT2thYnI1em85eGxZcHNvMjZvc0J2Yy1INjczNE9hTW9OdExiMHFKSVVaV2FtM3hpc0RVcGYtSm5tR3Zkd0xKTzlVZUJ3cDZ6akM1Si02RFFqZUJoU184cTFxalloODFpOE9YNllqeHpIYXNwLU9MTURnbnlqNGFIWU90RDBaOWJUckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTZ4VTFUMXZVaElEcGlKLUM1Ni1HTjd3eDFaS1RfU2EyclNFT0t1ZnFIVTh6SHpFZXlxNVFGdkt6ZC1MaGpjWkRnT0VCekJlZDhKczlkMG1VMnBTYnAzUjNxb1BPSk8tUWhIc0RPOV9hRFR0dUE5ODRNUFZOall3NTRIN205bEh4djMxZzctNDNxaEZxeDRabm9XM0IwNm1SYXhWSG1YR01HZTE3?oc=5",
       "pubDate": "Mon, 21 Sep 2026 11:32:00 GMT",
       "lastUpdated": "Mon, 21 Sep 2026 11:32:00 GMT",
       "areas": [],
@@ -398,9 +432,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे कुठे मुसळधार तर कुठे हलक्या सरी",
-      "title": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे! कुठे मुसळधार तर कुठे हलक्या सरी?",
-      "summary": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे! कुठे मुसळधार तर कुठे हलक्या सरी?",
+      "id": "महाराष्ट्रात पुन्हा पावसाचे वातावरण पुढील ३ दिवस या जिल्ह्यांना अलर्ट जारी",
+      "title": "महाराष्ट्रात पुन्हा पावसाचे वातावरण ! पुढील ३ दिवस ‘या’ जिल्ह्यांना अलर्ट जारी",
+      "summary": "महाराष्ट्रात पुन्हा पावसाचे वातावरण ! पुढील ३ दिवस ‘या’ जिल्ह्यांना अलर्ट जारी",
       "source": "Jalgaon Live News",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG96MW9nSElwNXJEUFNNaHVQMFFqRnhVR1JjQlNlRkd2dWl1YVM2eDVnRGwwMER6RUtxcVlLRTlKTm5aMjc2VDZwWHd4WUdEQXUwQ1ZjUjRTY2V0dWgydXF0Y0xjU2lRemhTa1NnRkFEakdhZGczUUd2N0JuZkcta2pvUmUweFU?oc=5",
@@ -444,18 +478,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे वाघोलीत 22 सप्टेंबरला गणेश विसर्जन पुणे अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे",
-      "title": "पुणे : वाघोलीत 22 सप्टेंबरला गणेश विसर्जन; पुणे-अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे : वाघोली परिसरातील बहुतांश गणेश मंडळांचे नवव्या दिवशी विसर्जन होत असल्याने पुणे-अहिल्यानग",
-      "summary": "पुणे : वाघोलीत 22 सप्टेंबरला गणेश विसर्जन; पुणे-अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे : वाघोली परिसरातील बहुतांश गणेश मंडळांचे नवव्या दिवशी विसर्जन होत असल्याने पुणे-अहिल्यानग",
-      "source": "instagram.com",
+      "id": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल डेंगळे पूल छत्रपती शि",
+      "title": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल: डेंगळे पूल, छत्रपती शिवाजी रस्ता, सार...",
+      "summary": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल: डेंगळे पूल, छत्रपती शिवाजी रस्ता, सार...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80NERhSTEya2MtOTFqdkZUeGxsTW5OLWVqTGlXSVdGR1NCcy1VdjJCekdjd3FxRUtfNW5iNHZFUUFaOFJQNjBFTnFTd09wVnUtNkE?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 07:52:30 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 07:52:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUhhS0RwZGFzMDRCc3hmQ1BsOHluVjZPRzRVOFNrLXdnek5EbXd0VUEwRXVSTnRDQW9DQTRDTUU1eVZRNUdBelpkdzF4QlZtQ29Nb3R6TGpQQmYxa2VrMC1GRkdWRlQtdGZjczNLNzRuRFRramZFRmUxRVF6NmVFUW9VYlYtLXJXNkppTXJLZE9oX3VnV2lCUlA5N3RaZTFfclZMdGlUNDU5Ul9PR2Jyb3RJa184RE1WSFdkeG1XZGt6UklBVUFRcWt1NHJlWTBVSkHSAdcBQVVfeXFMTnhwVi16V3NOSF85LURQR3FnWU1IQ0xqMkEzV0hkUDVydzE3QzgxNjhxQXRoVFI4RnRQWWJIb3Z6dEtNWV9BOENrSW5OZlUtTUdZTi1xazhhaFNzRnltSDFnMXI2UDNLLThrdU02eVBlYjlaT3BQa0NZbXllM2V6cTJ0S0J0cEtSbVhHWkEwNllZczBWTkVBcEM5V2tkRU1OVVFxWFVpWVlXdk5LYVdpVFhOZ1E5dmxReXEtSTZyUXk5VVZzTmJwX24yWXpLUnVreVVDRUVUVWc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:45:09 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 07:45:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "instagram.com"
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -516,7 +550,7 @@
       "id": "at ganpati pandal assam rifles dg urges youth to stay rooted join armed forces",
       "title": "At Pune Ganpati pandal, Assam Rifles DG urges youth to stay rooted, join armed forces",
       "summary": "At Pune Ganpati pandal, Assam Rifles DG urges youth to stay rooted, join armed forces",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk5XQ1NoY09zNVg0VXlyVUZqSm5PSjZOMDFEdGZNZl8zd2dJOWRNU21BQlpGRDN4czM5TlV3dU1MejgtOUJYbndnX1h6X3k5NGV3eFM0cnl2TUJSbEwxcm9sNUlja3gzWFRCRmJsZEZYc2F5anFGSWN0YkdzUzJHeDZub1Jfai1iTGFOZGtleTBXcjhwRzZOYUx6X09VUXdjVVF4QlRJQmxWMU8zemhiR3hsVmQ2MHpRMkRpbUljanJxc2d0VDJ1UmROd3JNaFpMbFM4d2dtMzBSZXc3aFBOaXJ1NThQelJFQlg2ci1tdHVaVk9T0gH0AUFVX3lxTE9mTldDU2hjT3M1WDRVeXJVRmpKbk9KNk4wMUR0Zk1mXzN3Z0k5ZE1TbUFCWkZEM3hzMzlOVXd1TUx6OC05Qlhud2dfWHpfeTk0ZXd4UzRyeXZNQlJsTDFyb2w1SWNreDNYVEJGYmxkRlhzYXlqcUZJY3RiR3NTMkd4Nm5vUl9qLWJMYU5ka2V5MFdyOHBHNk5hTHpfT1VRd2NVUXhCVElCbFYxTzN6aGJHeGxWZDYwelEyRGltSWNqcnFzZ3RUMnVSZE53ck1oWkxsUzh3Z20zMFJldzdoUE5pcnU1OFB6UkVCWDZyLW10dVpWT1M?oc=5",
       "pubDate": "Mon, 21 Sep 2026 07:02:00 GMT",
@@ -524,7 +558,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "timesofindia.indiatimes.com"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -607,7 +641,7 @@
       "id": "goa weather forecast गोव्यात पुढील 3 दिवस वादळी पावसाचे हवामान विभागाकडून यलो अलर्ट जारी",
       "title": "Goa Weather Forecast | गोव्यात पुढील 3 दिवस वादळी पावसाचे!; हवामान विभागाकडून 'यलो अलर्ट' जारी",
       "summary": "Goa Weather Forecast | गोव्यात पुढील 3 दिवस वादळी पावसाचे!; हवामान विभागाकडून 'यलो अलर्ट' जारी",
-      "source": "Pudhari",
+      "source": "pudhari.news",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm9SUkwxa25BVlloUXAtdnRWZVhCNVpKeW5SUEY1M3dMYXNwd0RoYXpta0FlRDJLMVREdXZLZ2VHNHZEeXNfQl9iekhHWDVhdVM4VW95YVREWTlxcFBUOWl3YlNvNmdJckJrRFhfWEhJN3dJakYwNnBGSlRvZEdFbWM3c244b1VnbGJyUGNhUm41WGw2NWJ2c0dXbnZjVm9SQkZXWVVjWEJ2TW5mZEJvRnZFbHg?oc=5",
       "pubDate": "Mon, 21 Sep 2026 04:53:38 GMT",
@@ -615,7 +649,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pudhari"
+        "pudhari.news"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -638,6 +672,28 @@
       "region": "pune",
       "sources": [
         "Marathi Jagran"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणेकरांसाठी महत्त्वाची बातमी पार्किंगच्या दरात वाढ होणार मोजावे लागणार एवढे पैसे",
+      "title": "पुणेकरांसाठी महत्त्वाची बातमी, पार्किंगच्या दरात वाढ होणार, मोजावे लागणार एवढे पैसे!",
+      "summary": "पुणेकरांसाठी महत्त्वाची बातमी, पार्किंगच्या दरात वाढ होणार, मोजावे लागणार एवढे पैसे!",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzhDcmlmMUJ4MHpGb1ZNTmpsbW1Idm1BUkRKUDMxZXBBSlVENlJETUtqUV9COGlGRmRoS0FISTRpSmFHWkw4YnF6SEtNNm5fb3ZQRkJ1NlpCM09LYWFnekUtTEtVSVdpUTNtZXZSWHBoVEVSdnMzR1hCbDB4N19HMTd0bzhIeEVidzYyb1VOQVlJWFB4aFFyZkRB?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 04:01:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 04:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -834,7 +890,7 @@
       "summary": "Weather Alert : महाराष्ट्रासाठी पुढील 24 तास महत्त्वाचे, वादळी वाऱ्यासह पाऊस कोसळणार, हवामान खात्याचा अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdmZnZHdpYnNkUERuS1JDLXE0R0VPRl9vY2xYdGRidFZWWl9aaEJ1N1pVVEZYbGI2V0hzNkc1OWtFQzZKdmQwUEdtbTRpUmlEZUpsXzMtdkpJNktwdGV1SWZaa0l2TnlJT3JsWFZjSGEzajFHczFDMG1CVVBDdm1YQTh5eGhOWnNpeFl2UmwyNW43WFA1N3hTb0hqaDBpLThhcm91b3ZmV0p1Si0zLU9aYXIyNi1NR0NtUVlLektQdzZiSmY5THJRR09YQVVtUG41amRpczV6Ml9BVmdkMVRKYVhYWXV6OE5JNk9j?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT0ZHU0M5S2hmQ1JMcTNvTnZLX21pVTFoT2J4dzgxblNrbDFJQS16QkhwX21TQXFWTkZvN05XaTNmQWxodXZNNlJHWVhfeXBVM19WVEk1UXJ5MEtfdFV0M1p0Q2p2bVNBcXlieEl6YjlJVFhVZXBqazgxRUxpdXg5OGtZbDlRNXFEQTZJaDdScGJMZ0xiSjUxaE9QN0FRcUJkeUJ2cHlrdExXYldnd25KbkdzNkt0Z0RuNDRfR0REZGZUTzZqMzBQRE12UXZkaXllOEVzeWhFYkxvN3hTRkx3bWJNVHhDbGg0ckg0?oc=5",
       "pubDate": "Mon, 21 Sep 2026 01:11:00 GMT",
       "lastUpdated": "Mon, 21 Sep 2026 01:11:00 GMT",
       "areas": [],
@@ -849,6 +905,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather heavy rain alert in thane nashik and 25 other districts",
+      "title": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
+      "summary": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
+      "source": "News9live",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUdIBwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News9live"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra rain forecast राज्यात सर्वदूर पावसाचा अंदाज",
@@ -881,7 +962,7 @@
       "summary": "Maharashtra Weather : राज्यात पुढील काही तासांत धो धो बरसणार वरुणराजा, IMD चा अलर्ट",
       "source": "Mumbai Tak",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUNkdDFEZ241NXJmSW9RLWN1aXBsWFFKbjZXNks3YlZwc2xFWm5EVXN0a0VrQUI5alh0aEJ1Yk56bVJXTW9fVldMV25TWTU1U2l4LTFKaDlFeXh1Z2s5V2VBV0ljZXkxSzQ3d3BTTVF5MTNJX3ViOV9IR204eXZ6WUtGSE5mUG5kUUF0SldlWGpFMWpSYkd6R1lDMWRNOVp5TTZ2Y3J6WDdBYzdnSXVHR2h2UHRJaFRpMzhDZTQ1UVEtTHVhQzJGQUlQSFTSAdIBQVVfeXFMUHZUNklLdm9UQ2hLemV5V1U3cjJlWnpyQi1DZ2RGY0pjTE1wNUZQZC0xZDlzcUFzQm5uSEtDSGxlWFN5ZGx5dlNtZnVKU2lOSk5OSndvU21aVUY5QlFoaWFPUlRWNGlKNGFPMy1ZbzhtN1ViVExXa0RiamtpY2dKN1U2dnAwcWh1T2k2S1RwYTd6LUtSSEY4ekdZZEhRSmNwTHFlbTRvRmdkZnJrcmVqdXQ0aGF5MHFWTHktY2xRSWk4cGdwRG1XeGNDRlYzQ2xIbHdB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlQ2SUt2b1RDaEt6ZXlXVTdyMmVaenJCLUNnZEZjSmNMTXA1RlBkLTFkOXNxQXNCbm5IS0NIbGVYU3lkbHl2U21mdUpTaU5KTk5Kd29TbVpVRjlCUWhpYU9SVFY0aUo0YU8zLVlvOG03VWJUTFdrRGJqa2ljZ0o3VTZ2cDBxaHVPaTZLVHBhN3otS1JIRjh6R1lkSFFKY3BMcWVtNG9GZ2RmcmtyZWp1dDRoYXkwcVZMeS1jbFFJaThwZ3BEbVd4Y0NGVjNDbEhsd0HSAdIBQVVfeXFMUHZUNklLdm9UQ2hLemV5V1U3cjJlWnpyQi1DZ2RGY0pjTE1wNUZQZC0xZDlzcUFzQm5uSEtDSGxlWFN5ZGx5dlNtZnVKU2lOSk5OSndvU21aVUY5QlFoaWFPUlRWNGlKNGFPMy1ZbzhtN1ViVExXa0RiamtpY2dKN1U2dnAwcWh1T2k2S1RwYTd6LUtSSEY4ekdZZEhRSmNwTHFlbTRvRmdkZnJrcmVqdXQ0aGF5MHFWTHktY2xRSWk4cGdwRG1XeGNDRlYzQ2xIbHdB?oc=5",
       "pubDate": "Sun, 20 Sep 2026 23:30:05 GMT",
       "lastUpdated": "Sun, 20 Sep 2026 23:30:05 GMT",
       "areas": [],
@@ -896,80 +977,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "lokmanthan",
-      "title": "lokmanthan",
-      "summary": "lokmanthan",
-      "source": "लोकमंथन",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtOWVjMTA5WWo1T3Bza1ZrYmxvcElTdmVmY2RxY0NfUng3N0RkU2FQU0tXWWhmTFQ4a0xEbTJka2ZkV0F2NjgyaWx5RUJGdlUzTFlOZzhOSGJ1YlgwM2s5YzJsVjFUUHdMSkE3d2tVY0tVTGVaVXc?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 23:14:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 23:14:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "लोकमंथन"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rain lashes solapur sangli satara",
-      "title": "Heavy rain lashes Solapur, Sangli & Satara",
-      "summary": "Heavy rain lashes Solapur, Sangli & Satara",
-      "source": "timesofindia.indiatimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjFqb3MweVk3WTViSVFoRWM3bmlybDNqamlVNGQtcGhTU3FUVGh0U1VVcVM1VldrOENpemp4RXJ4RG5sTE5nd2tUWkJrb0F4bklRRmxGeS1DM0ZRVDdLaEhfZm9lalBXQjBzNFVXb0I5Tng5NjZOdzBNVlpMbng1VHhBNko3RmNKN0JZdXJVOTlMOXU2cEV0VmVselc2ZlVYdHZhdFlDd2JkNFZ1b2sxeGhpb1J5eUxETlhV0gG7AUFVX3lxTFBWMWpvczB5WTdZNWJJUWhFYzduaXJsM2pqaVU0ZC1waFNTcVRUaHRTVVVxUzVWV2s4Q2l6anhFcnhEbmxMTmd3a1RaQmtvQXhuSVFGbEZ5LUMzRlFUN0toSF9mb2VqUFdCMHM0VVdvQjlOeDk2Nk53ME1WWkxueDVUeEE2SjdGY0o3Qll1clU5OUw5dTZwRXRWZWx6VzZmVVh0dmF0WUN3YmQ0VnVvazF4aGlvUnl5TEROWFU?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 19:11:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 19:11:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "ahilyanagar road वाघोली गणेश विसर्जन २०२६ पुणे अहिल्यानगर रोडवरील वाहतूक बदल पर्यायी मार्ग",
-      "title": "Pune Ahilyanagar Road: वाघोली गणेश विसर्जन २०२६; पुणे-अहिल्यानगर रोडवरील वाहतूक बदल, पर्यायी मार्ग आणि बाजार बंदची माहिती",
-      "summary": "Pune Ahilyanagar Road: वाघोली गणेश विसर्जन २०२६; पुणे-अहिल्यानगर रोडवरील वाहतूक बदल, पर्यायी मार्ग आणि बाजार बंदची माहिती",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1gzbTdzek9TRXBCYlR2c0xZYmRDNnpqdlBZeVB5eFV4LXpqa0tJV2FjLVVmNzNINlZXcFRJelpNaVc4aXpfLXpXTVdWYjhsTnZaZ1Rhcm5EQThTOE00VWdhNlcyX2dpRDFScHJKaTFqVVJzcjU5U2R6Mk45QUJLdDFKNDlZMlcwbEItWmd0cmZSWVZtNlR2aTVhRk1XVk13MlE0clNSS1Z4aDE3a05YaWtEOEp3dUU5dG9SUWxKdjc4MEQ5eld1ZWFpQm1WZmNXcDA2d0lUMXBnZXU1cEw4?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 16:27:47 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 16:27:47 GMT",
-      "areas": [
-        "Nagar Road"
-      ],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
     }
   ],
   "incidents": [
@@ -1028,60 +1035,32 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
-      "id": "20 dists on alert as heavy rain forecast raises flood fears",
-      "title": "20 dists on alert as heavy rain forecast raises flood fears",
-      "summary": "20 dists on alert as heavy rain forecast raises flood fears",
-      "source": "timesofindia.indiatimes.com",
+      "id": "route diversion due to nashik kumbh mela works increases dhule bus fares",
+      "title": "Route diversion due to Nashik Kumbh Mela works increases Dhule bus fares",
+      "summary": "Route diversion due to Nashik Kumbh Mela works increases Dhule bus fares",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0Y2NkQ4VHl1Rk5lRTNVUDlubHVHamdpc2dLX3hLclN4aUxaeU1uMFhqSGVWQVozYU1DWnB1Q0pzdjBWa2x6U0RnOFM1UkUtV29kRlp5RWJlNi00XzZaQlZQZjYwWDBJdmpEZjZDRzl0V1B6T2pQNE83M182bVVKUHJRenlfOVRnT0NMSmFRMzF2Y0tOMWZqdlVmY3pKc0pmU3EtYVZHNnlMZkprUU9LMDQ3RWg3aTRFNkNnaDhXR3lIYWExU0hWZjRlRHVjb0Y3YTBmM9IB2gFBVV95cUxQb3RTTnhRaXRNbU9ubk5pQlJyVFVSSWt3LWtvbDNzZHN0Rk1ncTlUd0M2a0MxTkhjMVM2eE9qUGRKY2NLaUN2X1dodC1KQUE2dmp1Si02dlo3RFo0RkVKRkdMaExPcldnLTZ6R0UzSkh6dGZIRzNoVXIyYVh4aVY4cWRrb3A1UlNaVENiMFhrTkFvZTZhYnpnM0oyMm9ybEVlTFpSaFRJc21vMmdzOF9MVm5ZRGZqZXRvZ1ZKbEhqUWtVaXhxUnN1aFhibU5nVnFXaWMwTzJRZm1Bdw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 18:57:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 18:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXRFRkdTa0J1ZGRJQkZCUHc4NDhkUDZQV1dhWmx2Z2s1TjRvOWF4YUozc0Q2M0xudmxKOTF3Sk9TVndsdEszYkdtUmpSM2g0M1lwU1A4TWhQNUZaUXVxT3dPbGMwZ1hIRTB4SXQ4NjlqN2ItcndlaUJOMUpPWkRzbUtGR1dMY0VZS1dmN2Q0V0tsaTVOWVdXMmRiWEs4OFFOWTBINk80YS00WDNnY0lGSE5PakZRbGZWN2VuRFVZTHVyMS05SlJSUW9XVjRKNnpmN3I2WnlxT2FIbWIzZDZ30gHkAUFVX3lxTE5qUktFMDZkSWQ1U3NVTTEtOExYUVFUaHAzb0NTeFNYU0QyYWdNdE96UzdFZ3F4TVVNd01SQWZjYWJXQ2xVNDEyOUczVXpOX0ZIVm9vTk5mYTNfb3Y3ZmVmVzdWSVlRWXIySW5admZrd1M4NXF2eHEycF91bUZ0djRqcUxlZ0FOX1pUakY4RWlvc3g2dVVfUEZ0cDl5RHd2TThqem9ONHMyeVBDQld2ZXpfTUEtc2N5ZGkxUHFZei13ZGFtMjJYeGZQcy10QWxYUWlkSUtUTFgyTy1Bd1VVeXlpS2pyTA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 17:21:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 17:21:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "timesofindia.indiatimes.com"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
       ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
       "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
-    },
-    {
-      "id": "13 pgs 7 scrap shops shut after failing pmc s fire safety checks",
-      "title": "13 PGs, 7 scrap shops shut after failing PMC’s fire safety checks",
-      "summary": "13 PGs, 7 scrap shops shut after failing PMC’s fire safety checks",
-      "source": "timesofindia.indiatimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjZTQXRwREl0d1ZSRURPcEs2clU5VWhBVVA4dEwxY2V2a0NHRDVjOGJ2Z1FfNjdra0R5cE0yMVFON0ZSNWNyQ1FhMngtNjFXM0RUOUZPS1lURTV1R0lmTGsxMklJU0JsbEVxbzRod1RNLWE3cjQxelBtSkVuang0V0Z6VFdZekdjaTVtaldHUmxWUndhR0tDMG1Falg4aWlpQzJ4aVh5SFZZSnJZTHNQanRDcWNLU2xid1RFXzlvOXgyWkRkd3lvU3VXWGJMT3Fm0gHWAUFVX3lxTE5VRXdpcDVyZ21sQ0dwVjNaVmltUXFrYW9sOVZSeFVOUVlNVUFqaVVZc1RtU1VBQ2Q4emVWeXYzeFZLbjZBaEJsT1VvdFkwcDBPWmdDZ2VEZkR6SjFNS21ROWkwS3BQMjU3MzAxc2o0RFNXeldSdHpJbTZ2UzAwUW9ic2hqanRTcXZVb0lWSUFaRmIwdnJncDkxVnhJMUw0V05SMGRYM19IWEhwaWNMQW0zbW5RaEZXZmEzcnBXUVRlYmN5dVdTQTVwbnBUaThCb2F6NzZaQkE?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 18:36:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 18:36:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
+      "action": "Use alternate route and follow police diversion."
     },
     {
       "id": "accident मोठी बातमी मुंबईत भाजप आमदाराच्या कारचा भीषण अपघात फ्री वे वर ३ वाहनांना धडक",
@@ -1112,10 +1091,38 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
+      "id": "msedcl aims to recover 682 crore in pending dues in 10 days",
+      "title": "MSEDCL aims to recover ₹682 crore in pending dues in 10 days",
+      "summary": "MSEDCL aims to recover ₹682 crore in pending dues in 10 days",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVdON05BUkVDRm02ZllLMVBhS1NVY0FVNmJpOTc5Y2k0NDltRUtYVzlGTkRfRVFsVkNnSFpkdDA1YlFPVmNkc3FXeDRGWWNPUWxaOTJqb0ZnYndEWXVPcXRac0VRNVhGaWhHZnNZTHREaEwwVlcxUzNtd3lFcTZwa1N5OVkwbjVfamI3ME8temxfNDRIVi1xbEFCejhMcWRUVlRZVWJwZkFTamdJbDZEejJ1OUc4SnVoYnVRRG8wYlJIWnR1cjNOVDdPVdIB0AFBVV95cUxNLUxkSE1Qektsa1ZOSkZkeFJyTmd3bC1FaDU0SkZ4MWR6c0pPcGFTWjk2ZFhTbTZwUkV2LUVJMU54bFZhUjZxcW5mbm9TQkJDZlpueVBhdUt4VFRVOGh4dGFXVDlwckczZHlRZ3M1YzBFbDJiRnQ2UjFxOGlkUXd5Ymp3ZFg5U0pJRExVMi1yOEdJOEhBOFhVYXRyenNzbXBNYUROODVtQUJKaXd3Q0NBa0ZseFJSaG9oTEJBcGRlSW1wb1JqWElGREFKU2tDVDJ3?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 18:45:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 18:45:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
       "id": "belbag chowk traffic गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही बेलबाग चौकातील वाहतूक नियो",
       "title": "Belbag Chowk Traffic: गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही; बेलबाग चौकातील वाहतूक नियोजनावरून मंडळांचा आक्षेप",
       "summary": "Belbag Chowk Traffic: गणेशभक्तांना पूर्व भागात जाण्यास बंदी नाही; बेलबाग चौकातील वाहतूक नियोजनावरून मंडळांचा आक्षेप",
-      "source": "Pudhari",
+      "source": "pudhari.news",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTEzLWp4TU85dFpadVNVaTY0MFdwUWVvMnhiWDQ5R09yQ1dJM3FNZGh1UWJ0ZFZWRm5ReXhyV1BZLWpyamI0Q0hDaWtDeElPNHpOdElLWmZyZHdMUVViaG41YnM3RWtXSnFQUTJZOXNScG8yVm5DUzVCbWlqaUpZOG5sbEhxYjdjRV9QOFFXV2c4MjNQT1Y2VHVoYjUzbzdxMHc?oc=5",
       "pubDate": "Mon, 21 Sep 2026 06:51:17 GMT",
@@ -1123,7 +1130,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pudhari"
+        "pudhari.news"
       ],
       "confidence": "Single source",
       "w": [
@@ -1141,33 +1148,27 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "kini toll plaza traffic फास्टॅग स्कॅनिंगला विलंब किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या ",
-      "title": "Kini Toll Plaza Traffic : ‘फास्टॅग’ स्कॅनिंगला विलंब, किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या रांगा; पुणे बंगळुरू महामार्गावर वाहतूक कोंडी",
-      "summary": "Kini Toll Plaza Traffic : ‘फास्टॅग’ स्कॅनिंगला विलंब, किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या रांगा; पुणे बंगळुरू महामार्गावर वाहतूक कोंडी",
-      "source": "Esakal",
+      "id": "mumbai weather forecast yellow alert issued rain expected over next 5 days",
+      "title": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
+      "summary": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
+      "source": "lokmattimes.com + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnJORlNxT21sMXJybjlLc2ItLXUtRXNnY04tSG1HNVU1cU42SVEyMnBKaGlDbHVsVUNydXlsdW1NSDRFU0J5VTZKWHotd0x3b1dkNTVlVzJ0eVNFdnZNM0xiLWppeTlYTk1aVDNLYV9USUJLTUtLUUVNck4zTlF5Uy1sX2JHYzMwTzNZTUdyNWdyNk5PUUVRV0t4a2cteHdVY3pGY2dpQThxaTRyZmNEYWlwMDF3MUd3LXBXMmNaX3VWUGM?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 16:13:08 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 16:13:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0czUzRRQzZndUhPUVp4bHhROVM0Z28wRHhLZHFsb0JSc083cFpqNmQxZ3A2SWp4bWgzemVXUDAzc2F4TFgtem1FSDBTcmVYZTdQai1hWk1GZzRheWt6REZmNkJabkRFeTFZdUFSdVdkNHBtb2hvQ0FXQ19nQjByUHJWeVJ1cEFicW8zQmE4U2NCaE1pNUdVLVlCZ3F2TXpZUko3ME0wQVBUaThUcEtScE1LZzZNZ9IBuwFBVV95cUxNekQwT2FVTmJ5N2MwTlYyX0NubTBJbjRaX3lTeWZYd281QlVSRmsyZm9jRS14bnZGM2FKc0ZLTzV4RDNwb2gxVkJTZUlQOGlhbnBHYUtCRkN3TVB0UGg4VVczbV9mZlg4S2N5T3B0cXFzazVUbjRKNjZBakJYcTJITTNuVEV1MnIzTU5COG1GMVdVaURXTU9KSkRVd1llVjRYV2U4OElmbWp5ZVEzdjI5SEoxT1U3WW5hM3BN?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 13:06:07 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 13:06:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "lokmattimes.com",
+        "India Meteorological Department"
       ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel."
+      "action": "No immediate action required."
     },
     {
       "id": "maharashtra rain कोकण घाटमाथ्यासह विदर्भ मराठवाड्यात पावसाचा अंदाज",
@@ -1216,21 +1217,86 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather heavy rain alert in thane nashik and 25 other districts",
-      "title": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
-      "summary": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
-      "source": "News9live + 1 more",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUdIBwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 00:37:51 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "id": "regional daily weather report based on 0830 hours ist observations",
+      "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "source": "India Meteorological Department",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 17:34:10 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 17:34:10 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News9live",
-        "timesofindia.indiatimes.com"
+        "India Meteorological Department"
       ],
-      "confidence": "Medium",
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "metro झाली मालामाल केवळ 2 दिवसांमध्ये पुणे मेट्रोला इतक्या कोटींचा महसूल प्राप्त",
+      "title": "Pune Metro झाली मालामाल! केवळ 2 दिवसांमध्ये पुणे मेट्रोला 'इतक्या' कोटींचा महसूल प्राप्त",
+      "summary": "Pune Metro झाली मालामाल! केवळ 2 दिवसांमध्ये पुणे मेट्रोला 'इतक्या' कोटींचा महसूल प्राप्त",
+      "source": "navarashtra.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRVk0bUxLRFdVdFl3RnNjeEFucl9Gb1JJSGxSU2gzY2VBcnczZHhETkZiNnh4dE5OaUxpUHo1S1VOWUNqLTBoaE1IRTJLRG83M0lpYVRoTnM5Ymp4bmhvLThzUFdkc0ZJUkJzdG01c1VIcERTUEo4TUJIcGRrS0hma1RfbkZqUW5iU2NGUTJLSVlPbVNnRkN2dmhjX0RTMXp5OGFZQUhHWWdmUktOVldqd0tTRmg3NkUxbnU4enNBSTVya3BRbmpGRFFMZlRTc3daTTRGLWI5eTlqWlpHZ3FrSGRCalk2SGtKcGRYUFpjajZDZ1Bzc0HSAfsBQVVfeXFMTzdQTUZ0Nk1IbFJCbUZDMkxvTHlLeHNKMzJqM3J1LTVhcmE2ckhEOXJWSWZLRWI1cEppb01wVm9kbVZDMWdQb1ZfcGZzYTA2cmNQazhSci1lRTNVc1lSR2FZZHJuMlJlQi1EN3d1Y2l2Y09wZkkxSnZjZFhKMU10QjhtVmI5ZXpjajhJdE1LbGo3alNsSWk5NFVxSXFoek5tNFVrbGxSaXlNal9paXVMUVNiNWFEM1VOb0ZDOVlCOHBWc1BLM2ZiUjdMbEJ3UHRlemVGV3JZUjdzQkNEMkFCUjZHYThUTlp6X0E5eVhQSEszR2hUX3pPRUVPOTg?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 16:08:09 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 16:08:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "navarashtra.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "imd राज्यातील बहुतांश भागांत पुढिल ५ दिवस यलो अलर्ट हवामान विभागाचा अंदाज काय जाणून घ्या",
+      "title": "IMD: राज्यातील बहुतांश भागांत पुढिल ५ दिवस 'यलो अलर्ट', हवामान विभागाचा अंदाज काय? जाणून घ्या...",
+      "summary": "IMD: राज्यातील बहुतांश भागांत पुढिल ५ दिवस 'यलो अलर्ट', हवामान विभागाचा अंदाज काय? जाणून घ्या...",
+      "source": "marathi.hindusthanpost.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQjFLR0lZUFhxSjNlamVFejJFZ0FvUURrZk5TTlhRUWdkUUNjakY3a05mc2dzTFZZV3N4dzZyVmNBS2lvdHlLN2tnZkRfM09OYjZ6SFlwU1lzcUZrOEowTENSUzNZcUQ1U3BUNDFSbFIxa1VNVUU3ZEgwQ3hkOUNYLTdpVGgzYW1rVTBEV2dtWGs2Uk56NHEtOURuTEVoczRfbGV4clYzb1JiNDgwLW1KcjAxM0o1YUxrMGJjd0Y3ZmhrLVNLSzJMaWZSbVN3Y1EzRmgyZTFpbnlHbVFsVGtHVGwwRmhPcGhUa1g1Q1JuenVqUQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 16:00:54 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 16:00:54 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "marathi.hindusthanpost.com"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rain ठाण्यात मुसळधार पाऊस महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट नेमका अंदाज काय",
+      "title": "Rain Update : ठाण्यात मुसळधार पाऊस, महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट, नेमका अंदाज काय?",
+      "summary": "Rain Update : ठाण्यात मुसळधार पाऊस, महाराष्ट्रातील 25 जिल्ह्यांना पावसाचा अलर्ट, नेमका अंदाज काय?",
+      "source": "Maharashtra Times",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY3pyTzhLS0xheFpTdm9USTZMbksxNV9fWVJoZ19zSFhGdzFRbjRUZTIwU3hyendQSnhqeG5tb3lXaE9HbnFFd1VfOFhKc3NaTHRtN1VBQk1EYWw5bVk2c08xaGxkOWNQZUkwWnZvU2I5SmxkQXpLUjBFaXpmWjYzX28zZF9DeHhrT1RmcXZvbDBKZ0Qwc045SWhfV0dRVTZ2Y2E5QXdwbVBoNGVscTl4MVIyc1V5RGpRc21tYmxORjc3eHo3SkZxRnRVQ296UWNmQllKb0tGb3VFOEJ1bWR3U1R30gHnAUFVX3lxTE1NSWx0cWtQa1ZYaUI1TlF6d2lLbUE5cWZuTE5DYlFhLTc5bUVwOUVEMi1QLWlvV2RybHFpN2lrSXlZc0JkQmVvZHpDMjNSclVKeXBJVTQzVUtNQ1JMQ1R1Yi1HdWM2RWgyc09uVG96QklvUTExSXlMZFBRZnhDOGhETmNWWWFYOUd0SFJkTzgtMUhHa0RCTTgya1F4V3IyN3ljaUdmUzQ4OWxBOEFJS2V3NW9obGNBLWFZMTJXWEVzMjdBX1BCQ2JNejFtZzJ1QzFQMkRtckptQUl4NmJHOTk4ZWNrNTgzNA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 15:44:13 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 15:44:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Maharashtra Times"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1261,40 +1327,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रात मुसळधार पावसाचा अंदाज हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "title": "महाराष्ट्रात मुसळधार पावसाचा अंदाज, हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "summary": "महाराष्ट्रात मुसळधार पावसाचा अंदाज, हवामान विभागाने या जिल्ह्यांना दिला ऑरेंज अलर्ट",
-      "source": "TV9 Marathi",
+      "id": "maharashtra weather सावधान पुढील ४८ तास महत्त्वाचे राज्यातील २३ जिल्ह्यांना यलो अलर्ट मुसळ",
+      "title": "Maharashtra Weather : सावधान..! पुढील ४८ तास महत्त्वाचे; राज्यातील २३ जिल्ह्यांना यलो अलर्ट, मुसळधार पावसाचा इशारा",
+      "summary": "Maharashtra Weather : सावधान..! पुढील ४८ तास महत्त्वाचे; राज्यातील २३ जिल्ह्यांना यलो अलर्ट, मुसळधार पावसाचा इशारा",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUi10UHZ3THRSMnV1MDJuSExoUVgtMU5TaUNzYS1XYmo4dXVhVVh5al9Tei1oWnBwWm81TEVxd29qNFk2enJ3Nm40dlc1T3JXaE55czdzOExTbkUwRkpDYlJfOVc3bWRDd1BubEdyVTFuVzNHUFRDUTRfSEg3UnJQWFd3amxVWEpJdXoxdVRQUVR2bVRVRzNZd3NJSHZDNXhuY2VxRV9YNjVFeWdpQjJRSmVrSnAtUGl0UmRWT1NndDRuajJxU1NRUVdTMlpMZlpOSjlPRQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 13:30:20 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 13:30:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa21CYkxRMlM0WTg5U1U5ZU1lZUJtNnI1MVEwT2NfVXJ4Zmw3NEVfTU1qYWNVOHNRSUR4OURCbWFaM3V1R2k5UHZaaExBSDdYVG8xOGVfWGNSSmhOVHBSTjNWZUk3TWlWZzZtdWw2dEJpd2dneWh0N0pqUXU1TzhVbG9MMy1EMU4tN0l5bEYtNm5paEVBY1lUMnY2bHhSeHpEakQ4WWJ3RWZ4ajBlNnRHeVdIcHNtOGxwRklMdGg0MA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 13:00:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 13:00:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mumbai weather forecast yellow alert issued rain expected over next 5 days",
-      "title": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
-      "summary": "Mumbai Weather Forecast: Yellow Alert Issued, Rain Expected Over Next 5 Days",
-      "source": "lokmattimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0czUzRRQzZndUhPUVp4bHhROVM0Z28wRHhLZHFsb0JSc083cFpqNmQxZ3A2SWp4bWgzemVXUDAzc2F4TFgtem1FSDBTcmVYZTdQai1hWk1GZzRheWt6REZmNkJabkRFeTFZdUFSdVdkNHBtb2hvQ0FXQ19nQjByUHJWeVJ1cEFicW8zQmE4U2NCaE1pNUdVLVlCZ3F2TXpZUko3ME0wQVBUaThUcEtScE1LZzZNZ9IBuwFBVV95cUxNekQwT2FVTmJ5N2MwTlYyX0NubTBJbjRaX3lTeWZYd281QlVSRmsyZm9jRS14bnZGM2FKc0ZLTzV4RDNwb2gxVkJTZUlQOGlhbnBHYUtCRkN3TVB0UGg4VVczbV9mZlg4S2N5T3B0cXFzazVUbjRKNjZBakJYcTJITTNuVEV1MnIzTU5COG1GMVdVaURXTU9KSkRVd1llVjRYV2U4OElmbWp5ZVEzdjI5SEoxT1U3WW5hM3BN?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 13:06:07 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 13:06:07 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "lokmattimes.com"
+        "Dainik Prabhat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1332,7 +1376,7 @@
       "summary": "Pune News : तळेगाव ढमढेरे आठवडे बाजारात पाणीच पाणी; व्यापारी, ग्राहकांची उडाली धांदल",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0Uxb2FzaU9LSzVpdkhGZUJnSjVxVzY4WTFNRmxuM0hKR3FUT2thYnI1em85eGxZcHNvMjZvc0J2Yy1INjczNE9hTW9OdExiMHFKSVVaV2FtM3hpc0RVcGYtSm5tR3Zkd0xKTzlVZUJ3cDZ6akM1Si02RFFqZUJoU184cTFxalloODFpOE9YNllqeHpIYXNwLU9MTURnbnlqNGFIWU90RDBaOWJUckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTZ4VTFUMXZVaElEcGlKLUM1Ni1HTjd3eDFaS1RfU2EyclNFT0t1ZnFIVTh6SHpFZXlxNVFGdkt6ZC1MaGpjWkRnT0VCekJlZDhKczlkMG1VMnBTYnAzUjNxb1BPSk8tUWhIc0RPOV9hRFR0dUE5ODRNUFZOall3NTRIN205bEh4djMxZzctNDNxaEZxeDRabm9XM0IwNm1SYXhWSG1YR01HZTE3?oc=5",
       "pubDate": "Mon, 21 Sep 2026 11:32:00 GMT",
       "lastUpdated": "Mon, 21 Sep 2026 11:32:00 GMT",
       "areas": [],
@@ -1349,9 +1393,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे कुठे मुसळधार तर कुठे हलक्या सरी",
-      "title": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे! कुठे मुसळधार तर कुठे हलक्या सरी?",
-      "summary": "पुढील ३ दिवस महाराष्ट्रासाठी महत्त्वाचे! कुठे मुसळधार तर कुठे हलक्या सरी?",
+      "id": "महाराष्ट्रात पुन्हा पावसाचे वातावरण पुढील ३ दिवस या जिल्ह्यांना अलर्ट जारी",
+      "title": "महाराष्ट्रात पुन्हा पावसाचे वातावरण ! पुढील ३ दिवस ‘या’ जिल्ह्यांना अलर्ट जारी",
+      "summary": "महाराष्ट्रात पुन्हा पावसाचे वातावरण ! पुढील ३ दिवस ‘या’ जिल्ह्यांना अलर्ट जारी",
       "source": "Jalgaon Live News",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG96MW9nSElwNXJEUFNNaHVQMFFqRnhVR1JjQlNlRkd2dWl1YVM2eDVnRGwwMER6RUtxcVlLRTlKTm5aMjc2VDZwWHd4WUdEQXUwQ1ZjUjRTY2V0dWgydXF0Y0xjU2lRemhTa1NnRkFEakdhZGczUUd2N0JuZkcta2pvUmUweFU?oc=5",
@@ -1395,18 +1439,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे वाघोलीत 22 सप्टेंबरला गणेश विसर्जन पुणे अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे",
-      "title": "पुणे : वाघोलीत 22 सप्टेंबरला गणेश विसर्जन; पुणे-अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे : वाघोली परिसरातील बहुतांश गणेश मंडळांचे नवव्या दिवशी विसर्जन होत असल्याने पुणे-अहिल्यानग",
-      "summary": "पुणे : वाघोलीत 22 सप्टेंबरला गणेश विसर्जन; पुणे-अहिल्यानगर रस्त्यावरील वाहतुकीत मोठे बदल पुणे : वाघोली परिसरातील बहुतांश गणेश मंडळांचे नवव्या दिवशी विसर्जन होत असल्याने पुणे-अहिल्यानग",
-      "source": "instagram.com",
+      "id": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल डेंगळे पूल छत्रपती शि",
+      "title": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल: डेंगळे पूल, छत्रपती शिवाजी रस्ता, सार...",
+      "summary": "पुण्यात प्राणप्रतिष्ठापना सोहळा आणि गणेश मूर्ती खरेदीमुळे वाहतूक बदल: डेंगळे पूल, छत्रपती शिवाजी रस्ता, सार...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80NERhSTEya2MtOTFqdkZUeGxsTW5OLWVqTGlXSVdGR1NCcy1VdjJCekdjd3FxRUtfNW5iNHZFUUFaOFJQNjBFTnFTd09wVnUtNkE?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 07:52:30 GMT",
-      "lastUpdated": "Mon, 21 Sep 2026 07:52:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUhhS0RwZGFzMDRCc3hmQ1BsOHluVjZPRzRVOFNrLXdnek5EbXd0VUEwRXVSTnRDQW9DQTRDTUU1eVZRNUdBelpkdzF4QlZtQ29Nb3R6TGpQQmYxa2VrMC1GRkdWRlQtdGZjczNLNzRuRFRramZFRmUxRVF6NmVFUW9VYlYtLXJXNkppTXJLZE9oX3VnV2lCUlA5N3RaZTFfclZMdGlUNDU5Ul9PR2Jyb3RJa184RE1WSFdkeG1XZGt6UklBVUFRcWt1NHJlWTBVSkHSAdcBQVVfeXFMTnhwVi16V3NOSF85LURQR3FnWU1IQ0xqMkEzV0hkUDVydzE3QzgxNjhxQXRoVFI4RnRQWWJIb3Z6dEtNWV9BOENrSW5OZlUtTUdZTi1xazhhaFNzRnltSDFnMXI2UDNLLThrdU02eVBlYjlaT3BQa0NZbXllM2V6cTJ0S0J0cEtSbVhHWkEwNllZczBWTkVBcEM5V2tkRU1OVVFxWFVpWVlXdk5LYVdpVFhOZ1E5dmxReXEtSTZyUXk5VVZzTmJwX24yWXpLUnVreVVDRUVUVWc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:45:09 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 07:45:09 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "instagram.com"
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1464,7 +1508,7 @@
       "id": "at ganpati pandal assam rifles dg urges youth to stay rooted join armed forces",
       "title": "At Pune Ganpati pandal, Assam Rifles DG urges youth to stay rooted, join armed forces",
       "summary": "At Pune Ganpati pandal, Assam Rifles DG urges youth to stay rooted, join armed forces",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk5XQ1NoY09zNVg0VXlyVUZqSm5PSjZOMDFEdGZNZl8zd2dJOWRNU21BQlpGRDN4czM5TlV3dU1MejgtOUJYbndnX1h6X3k5NGV3eFM0cnl2TUJSbEwxcm9sNUlja3gzWFRCRmJsZEZYc2F5anFGSWN0YkdzUzJHeDZub1Jfai1iTGFOZGtleTBXcjhwRzZOYUx6X09VUXdjVVF4QlRJQmxWMU8zemhiR3hsVmQ2MHpRMkRpbUljanJxc2d0VDJ1UmROd3JNaFpMbFM4d2dtMzBSZXc3aFBOaXJ1NThQelJFQlg2ci1tdHVaVk9T0gH0AUFVX3lxTE9mTldDU2hjT3M1WDRVeXJVRmpKbk9KNk4wMUR0Zk1mXzN3Z0k5ZE1TbUFCWkZEM3hzMzlOVXd1TUx6OC05Qlhud2dfWHpfeTk0ZXd4UzRyeXZNQlJsTDFyb2w1SWNreDNYVEJGYmxkRlhzYXlqcUZJY3RiR3NTMkd4Nm5vUl9qLWJMYU5ka2V5MFdyOHBHNk5hTHpfT1VRd2NVUXhCVElCbFYxTzN6aGJHeGxWZDYwelEyRGltSWNqcnFzZ3RUMnVSZE53ck1oWkxsUzh3Z20zMFJldzdoUE5pcnU1OFB6UkVCWDZyLW10dVpWT1M?oc=5",
       "pubDate": "Mon, 21 Sep 2026 07:02:00 GMT",
@@ -1472,7 +1516,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "timesofindia.indiatimes.com"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1552,7 +1596,7 @@
       "id": "goa weather forecast गोव्यात पुढील 3 दिवस वादळी पावसाचे हवामान विभागाकडून यलो अलर्ट जारी",
       "title": "Goa Weather Forecast | गोव्यात पुढील 3 दिवस वादळी पावसाचे!; हवामान विभागाकडून 'यलो अलर्ट' जारी",
       "summary": "Goa Weather Forecast | गोव्यात पुढील 3 दिवस वादळी पावसाचे!; हवामान विभागाकडून 'यलो अलर्ट' जारी",
-      "source": "Pudhari",
+      "source": "pudhari.news",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm9SUkwxa25BVlloUXAtdnRWZVhCNVpKeW5SUEY1M3dMYXNwd0RoYXpta0FlRDJLMVREdXZLZ2VHNHZEeXNfQl9iekhHWDVhdVM4VW95YVREWTlxcFBUOWl3YlNvNmdJckJrRFhfWEhJN3dJakYwNnBGSlRvZEdFbWM3c244b1VnbGJyUGNhUm41WGw2NWJ2c0dXbnZjVm9SQkZXWVVjWEJ2TW5mZEJvRnZFbHg?oc=5",
       "pubDate": "Mon, 21 Sep 2026 04:53:38 GMT",
@@ -1560,7 +1604,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "Pudhari"
+        "pudhari.news"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1583,6 +1627,28 @@
       "region": "pune",
       "sources": [
         "Marathi Jagran"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणेकरांसाठी महत्त्वाची बातमी पार्किंगच्या दरात वाढ होणार मोजावे लागणार एवढे पैसे",
+      "title": "पुणेकरांसाठी महत्त्वाची बातमी, पार्किंगच्या दरात वाढ होणार, मोजावे लागणार एवढे पैसे!",
+      "summary": "पुणेकरांसाठी महत्त्वाची बातमी, पार्किंगच्या दरात वाढ होणार, मोजावे लागणार एवढे पैसे!",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzhDcmlmMUJ4MHpGb1ZNTmpsbW1Idm1BUkRKUDMxZXBBSlVENlJETUtqUV9COGlGRmRoS0FISTRpSmFHWkw4YnF6SEtNNm5fb3ZQRkJ1NlpCM09LYWFnekUtTEtVSVdpUTNtZXZSWHBoVEVSdnMzR1hCbDB4N19HMTd0bzhIeEVidzYyb1VOQVlJWFB4aFFyZkRB?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 04:01:00 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 04:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1776,13 +1842,35 @@
       "summary": "Weather Alert : महाराष्ट्रासाठी पुढील 24 तास महत्त्वाचे, वादळी वाऱ्यासह पाऊस कोसळणार, हवामान खात्याचा अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdmZnZHdpYnNkUERuS1JDLXE0R0VPRl9vY2xYdGRidFZWWl9aaEJ1N1pVVEZYbGI2V0hzNkc1OWtFQzZKdmQwUEdtbTRpUmlEZUpsXzMtdkpJNktwdGV1SWZaa0l2TnlJT3JsWFZjSGEzajFHczFDMG1CVVBDdm1YQTh5eGhOWnNpeFl2UmwyNW43WFA1N3hTb0hqaDBpLThhcm91b3ZmV0p1Si0zLU9aYXIyNi1NR0NtUVlLektQdzZiSmY5THJRR09YQVVtUG41amRpczV6Ml9BVmdkMVRKYVhYWXV6OE5JNk9j?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT0ZHU0M5S2hmQ1JMcTNvTnZLX21pVTFoT2J4dzgxblNrbDFJQS16QkhwX21TQXFWTkZvN05XaTNmQWxodXZNNlJHWVhfeXBVM19WVEk1UXJ5MEtfdFV0M1p0Q2p2bVNBcXlieEl6YjlJVFhVZXBqazgxRUxpdXg5OGtZbDlRNXFEQTZJaDdScGJMZ0xiSjUxaE9QN0FRcUJkeUJ2cHlrdExXYldnd25KbkdzNkt0Z0RuNDRfR0REZGZUTzZqMzBQRE12UXZkaXllOEVzeWhFYkxvN3hTRkx3bWJNVHhDbGg0ckg0?oc=5",
       "pubDate": "Mon, 21 Sep 2026 01:11:00 GMT",
       "lastUpdated": "Mon, 21 Sep 2026 01:11:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather heavy rain alert in thane nashik and 25 other districts",
+      "title": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
+      "summary": "Maharashtra weather: Heavy rain alert in Thane, Pune, Nashik and 25 other districts",
+      "source": "News9live",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUdIBwgFBVV95cUxPdWpodjRKMzd2RlpuTlZ0ZXZ5blA5aVgzYlltZnRUbFBHUjcwQzM5aXhnVjIzWHhDYlFCd0d0Qk84WjhTMWhjd3h4enQwaGNUUi05TXg0RTBEaW8taUV2STdZUGtJc3dEYjBXejhub0MtWGQ3cDBQOEZ4Q29QMktvVjlCTDhHZnBSS25ndVBtZDh5dm02Qk9BZE16bVJHWVdoMlAxcWQ2VTE0Z1JpWmxaTUsyM1NRM0VmRERVZnFqaFpUUQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "lastUpdated": "Mon, 21 Sep 2026 00:37:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News9live"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1820,7 +1908,7 @@
       "summary": "Maharashtra Weather : राज्यात पुढील काही तासांत धो धो बरसणार वरुणराजा, IMD चा अलर्ट",
       "source": "Mumbai Tak",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUNkdDFEZ241NXJmSW9RLWN1aXBsWFFKbjZXNks3YlZwc2xFWm5EVXN0a0VrQUI5alh0aEJ1Yk56bVJXTW9fVldMV25TWTU1U2l4LTFKaDlFeXh1Z2s5V2VBV0ljZXkxSzQ3d3BTTVF5MTNJX3ViOV9IR204eXZ6WUtGSE5mUG5kUUF0SldlWGpFMWpSYkd6R1lDMWRNOVp5TTZ2Y3J6WDdBYzdnSXVHR2h2UHRJaFRpMzhDZTQ1UVEtTHVhQzJGQUlQSFTSAdIBQVVfeXFMUHZUNklLdm9UQ2hLemV5V1U3cjJlWnpyQi1DZ2RGY0pjTE1wNUZQZC0xZDlzcUFzQm5uSEtDSGxlWFN5ZGx5dlNtZnVKU2lOSk5OSndvU21aVUY5QlFoaWFPUlRWNGlKNGFPMy1ZbzhtN1ViVExXa0RiamtpY2dKN1U2dnAwcWh1T2k2S1RwYTd6LUtSSEY4ekdZZEhRSmNwTHFlbTRvRmdkZnJrcmVqdXQ0aGF5MHFWTHktY2xRSWk4cGdwRG1XeGNDRlYzQ2xIbHdB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlQ2SUt2b1RDaEt6ZXlXVTdyMmVaenJCLUNnZEZjSmNMTXA1RlBkLTFkOXNxQXNCbm5IS0NIbGVYU3lkbHl2U21mdUpTaU5KTk5Kd29TbVpVRjlCUWhpYU9SVFY0aUo0YU8zLVlvOG03VWJUTFdrRGJqa2ljZ0o3VTZ2cDBxaHVPaTZLVHBhN3otS1JIRjh6R1lkSFFKY3BMcWVtNG9GZ2RmcmtyZWp1dDRoYXkwcVZMeS1jbFFJaThwZ3BEbVd4Y0NGVjNDbEhsd0HSAdIBQVVfeXFMUHZUNklLdm9UQ2hLemV5V1U3cjJlWnpyQi1DZ2RGY0pjTE1wNUZQZC0xZDlzcUFzQm5uSEtDSGxlWFN5ZGx5dlNtZnVKU2lOSk5OSndvU21aVUY5QlFoaWFPUlRWNGlKNGFPMy1ZbzhtN1ViVExXa0RiamtpY2dKN1U2dnAwcWh1T2k2S1RwYTd6LUtSSEY4ekdZZEhRSmNwTHFlbTRvRmdkZnJrcmVqdXQ0aGF5MHFWTHktY2xRSWk4cGdwRG1XeGNDRlYzQ2xIbHdB?oc=5",
       "pubDate": "Sun, 20 Sep 2026 23:30:05 GMT",
       "lastUpdated": "Sun, 20 Sep 2026 23:30:05 GMT",
       "areas": [],
@@ -1835,80 +1923,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "lokmanthan",
-      "title": "lokmanthan",
-      "summary": "lokmanthan",
-      "source": "लोकमंथन",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtOWVjMTA5WWo1T3Bza1ZrYmxvcElTdmVmY2RxY0NfUng3N0RkU2FQU0tXWWhmTFQ4a0xEbTJka2ZkV0F2NjgyaWx5RUJGdlUzTFlOZzhOSGJ1YlgwM2s5YzJsVjFUUHdMSkE3d2tVY0tVTGVaVXc?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 23:14:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 23:14:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "लोकमंथन"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rain lashes solapur sangli satara",
-      "title": "Heavy rain lashes Solapur, Sangli & Satara",
-      "summary": "Heavy rain lashes Solapur, Sangli & Satara",
-      "source": "timesofindia.indiatimes.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjFqb3MweVk3WTViSVFoRWM3bmlybDNqamlVNGQtcGhTU3FUVGh0U1VVcVM1VldrOENpemp4RXJ4RG5sTE5nd2tUWkJrb0F4bklRRmxGeS1DM0ZRVDdLaEhfZm9lalBXQjBzNFVXb0I5Tng5NjZOdzBNVlpMbng1VHhBNko3RmNKN0JZdXJVOTlMOXU2cEV0VmVselc2ZlVYdHZhdFlDd2JkNFZ1b2sxeGhpb1J5eUxETlhV0gG7AUFVX3lxTFBWMWpvczB5WTdZNWJJUWhFYzduaXJsM2pqaVU0ZC1waFNTcVRUaHRTVVVxUzVWV2s4Q2l6anhFcnhEbmxMTmd3a1RaQmtvQXhuSVFGbEZ5LUMzRlFUN0toSF9mb2VqUFdCMHM0VVdvQjlOeDk2Nk53ME1WWkxueDVUeEE2SjdGY0o3Qll1clU5OUw5dTZwRXRWZWx6VzZmVVh0dmF0WUN3YmQ0VnVvazF4aGlvUnl5TEROWFU?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 19:11:00 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 19:11:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "timesofindia.indiatimes.com"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "ahilyanagar road वाघोली गणेश विसर्जन २०२६ पुणे अहिल्यानगर रोडवरील वाहतूक बदल पर्यायी मार्ग",
-      "title": "Pune Ahilyanagar Road: वाघोली गणेश विसर्जन २०२६; पुणे-अहिल्यानगर रोडवरील वाहतूक बदल, पर्यायी मार्ग आणि बाजार बंदची माहिती",
-      "summary": "Pune Ahilyanagar Road: वाघोली गणेश विसर्जन २०२६; पुणे-अहिल्यानगर रोडवरील वाहतूक बदल, पर्यायी मार्ग आणि बाजार बंदची माहिती",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1gzbTdzek9TRXBCYlR2c0xZYmRDNnpqdlBZeVB5eFV4LXpqa0tJV2FjLVVmNzNINlZXcFRJelpNaVc4aXpfLXpXTVdWYjhsTnZaZ1Rhcm5EQThTOE00VWdhNlcyX2dpRDFScHJKaTFqVVJzcjU5U2R6Mk45QUJLdDFKNDlZMlcwbEItWmd0cmZSWVZtNlR2aTVhRk1XVk13MlE0clNSS1Z4aDE3a05YaWtEOEp3dUU5dG9SUWxKdjc4MEQ5eld1ZWFpQm1WZmNXcDA2d0lUMXBnZXU1cEw4?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 16:27:47 GMT",
-      "lastUpdated": "Sun, 20 Sep 2026 16:27:47 GMT",
-      "areas": [
-        "Nagar Road"
-      ],
-      "region": "pune",
-      "sources": [
-        "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 51,
-    "alerts": 16,
+    "total": 49,
+    "alerts": 14,
     "news": 35
   },
-  "cleanedAt": "2026-09-21T15:14:56.082Z"
+  "cleanedAt": "2026-09-21T20:04:24.506Z"
 }
