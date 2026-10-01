@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-01T16:35:24.923Z",
+  "generatedAt": "2026-10-01T21:31:12.844Z",
   "status": "ok",
   "alerts": [
     {
-      "id": "pmc issues 414 notices to establishments in a week over lack of fire safety compliance",
-      "title": "PMC issues 414 notices to establishments in a week over lack of fire safety compliance",
-      "summary": "PMC issues 414 notices to establishments in a week over lack of fire safety compliance",
+      "id": "localised showers flood kolkata pockets",
+      "title": "Localised showers flood Kolkata pockets",
+      "summary": "Localised showers flood Kolkata pockets",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORDliS0ZZM213RzlITzVVNG1veWFOM2V1MmMzU2tzbzdqYk9RU3cxa200Z1JmM08tZHdiNGx0aGVLZ1BNazhzWFJlTkpQWlZNWTlnTUMwTTJrUDNnN2pBY3NDa0syeFZhc3UtNU1aNzNYeFVYaGhTZnM0cnF5cEZqdlV6OG1BT0RnMzZfOWJRZnR5SWY2Wno5TjJjR1hub2MtcnJZN0dOUk1rR0RJanZERF8tSkMtMU9xdS1kdmZ5SzF2dS1TUGx2YW9NVFdLNG1PS2Q4czREdUdacXZXTFRlbDJLaG5uMUdRbkRIMUJZVdIB9AFBVV95cUxPbjdiMlR0eU5WSjdrWnkxNzlnRXNHUEJCX1k4S1ByVmFINm50MWh5QlRjNGxiYkhYeGVxbS0wUEZDbF8zNDJON2I4el9nNUl0N3g0ZFFfRXl4V1M1bTIycjNjcmNDRnN4MURFRGxKalJtNEdyY3dYdFFyZUhZX2xYeE9Db2RHeUt2XzI5bnc5ZndLWEpZRm9RYzJBMVlncFAyc05UbWpiTWNBb3Y2b1hSR1dtNUpxMzgwbjNmUHVjX2VpODVCZEx2WDY0SkxCS1hKdTdPOE8zTVZJaU9aUzAyMmR1Ym9lcUNNckFTMDVJQlBjTzdo?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 18:43:00 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 18:43:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT001X3dBV013djdhbzN0d0RyanFXN1RWS25zeXdpOFZzdHRLN2pyVWxnM3dnRDNDVDRESWxheVlrcnQtUjBWcXJkaXJzRTFIdW8weDFtVThRVklkYVBwV3lOdjFUUW8xNzY3X3RZcGN4bTduVVZJeHN2WkFiSUhBQXptREJqYmpVS19CcUhSXzFxc0RYcnBPaUVSUlVJRndrQ09fOS1URHZlQ3NNWDhhenhYVVJuZDNidnfSAboBQVVfeXFMTk9NNV93QVdNd3Y3YW8zdHdEcmpxVzdUVktuc3l3aThWc3R0SzdqclVsZzN3Z0QzQ1Q0RElsYXlZa3J0LVIwVnFyZGlyc0UxSHVvMHgxbVU4UVZJZGFQcFd5TnYxVFFvMTc2N190WXBjeG03blVWSXhzdlpBYklIQUF6bURCamJqVUtfQnFIUl8xcXNEWHJwT2lFUlJVSUZ3a0NPXzktVER2ZUNzTVg4YXp4WFVSbmQzYnZ3?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:45:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -18,16 +18,21 @@
       ],
       "confidence": "Single source",
       "w": [
-        "fire",
-        "blaze",
-        "smoke"
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
       ],
       "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
       "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "andy mukherjee if india wants to fuel the ai boom it must get its solar power policies rig",
@@ -45,6 +50,37 @@
         "LatestLY"
       ],
       "confidence": "Medium",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
+    },
+    {
+      "id": "maharashtra drought alert msedcl puts field staff on high alert orders immediate power res",
+      "title": "Maharashtra Drought Alert: MSEDCL Puts Field Staff On High Alert, Orders Immediate Power Restoration",
+      "summary": "Maharashtra Drought Alert: MSEDCL Puts Field Staff On High Alert, Orders Immediate Power Restoration",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnNtTUpDQUlDa3pFSGdYQ0dlektpeFh3SDlkaU5wZDBDV0l5SlJaUXNxdktNWFFjMHBtQUNvcElKb0dPcXlldHlOZF9lWGd5M25BeXA0dnhnWmxWWEpGSzV1WlR1UUwzVWpUNVVDWFdCdnJScURwcHpqcXpTV3dFcnN5cVd5b1ZjMFlSUGdvbzl4YVFJNmlJY3NudlZnWk5UYWoyOWV4b2wxLWxRWWxZRVRadUREY3k5MFNjRWRnUGwyT0Nyc0pDTXdvNXpFU1RIWmFz0gHYAUFVX3lxTE9uRDh0VTBDdDVGSWJ4VGE4Rno1NE0yMlRjamJSRUoxNmxIVUdPMjdueGFZakdINDd3eWlTNlFWdFpXeE1WOEpLeXExNVhXdXFKa0VHQW5vSnd1Z29KOGg4azR0akRLN29DdkpPcXVvT3k4R0h0NkNNeExHWGRDTmgzeVJoSWJBRGVpcHExUzNzTTFLRVZfNV9jaV9aYlJHdFp5d0VKUGFnekJQdkR5ZUZJQUczcERLSm56R3pMTENFOXRnUW91Ulc3T1JTbG40OEdhUWFIX1RadA?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 16:29:48 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 16:29:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
       "w": [
         "power",
         "electricity",
@@ -91,38 +127,6 @@
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards.",
       "correlation": [
-        "Power supply impact possible."
-      ]
-    },
-    {
-      "id": "dombivli power cut hits residents after road work damages cable",
-      "title": "Dombivli Power Cut Hits Residents After Road Work Damages Cable",
-      "summary": "Dombivli Power Cut Hits Residents After Road Work Damages Cable",
-      "source": "urbanacres.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWtBa2NqRHF6b2QzS3M5VnRpTjBZQmY0RjY4YVc0WTVub3REUVJmcWJESVpvQkFubUJtellKVVhGdVlNRXBJeTVLckdXOW9iR1Y0bTU0NVJOTERoSmR4WEhIV0JpRmJvZ1RaVnR5UW5hU2FNaUlGZEkwT2NPa0s0dld3LXFNUUhNQmhmZVdPZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:51:44 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 16:51:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "urbanacres.in"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Road delay or diversion possible.",
         "Power supply impact possible."
       ]
     },
@@ -151,10 +155,39 @@
   ],
   "news": [
     {
+      "id": "trio assault cabby on mumbai expressway flee with cellphone cab",
+      "title": "Trio assault cabby on Pune-Mumbai expressway, flee with cellphone & cab",
+      "summary": "Trio assault cabby on Pune-Mumbai expressway, flee with cellphone & cab",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUZMMGZROHFIdHNLTkNiWEo0anN4bmc5RHJsTE5LaGszd296TFR3Y2hBeUtpekxjYzdPOHhCM3oyRW5yb0x6ZG5GUGhIMk9FYkkwN09VTVgxVnJoalhwUTZ5NTdqeERYdEFIeGdaZkVUV0xycVpFWGdaSHhoYkRkN3JaanRNMFlwM25mUUlmcG5ic1c1ekNOQTZFTWtSZ0NrWnl5RFVHRm9pem9Oc0lkdHhyVnYxN0hoWGdibnBkQ2RmVms0VlE3TXFadlBqRnpkOUpZZEd1SdIB3AFBVV95cUxQUm9GYl9LZ2ZaMmVDTlNDU3NyckliZ0xuTzlual95LTlVNGRiZmR1d19UU3hSTVV5T09YVjdDZ1l6aTY0aUdSSXBYaWtseHYxWkdPMURmNDJRLVNZaG9xcVFMX2xVaHNFVkpMVzdWSlR0UHp6UnktRmFCM01pVHd1LWRtLUhwTXJoYjQ2MkREODNZUnNRQllta2dIY2k1djBYeWJxSW5pNHF6M09ZUGtZQ25SZTRMNDZ6T01OUml5Zm1VX1hFSkVfNVgtNndKb1c1UGRicWNuSkVFMkgt?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 19:04:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 19:04:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
       "id": "beed goat theft bid foiled in georai 1 held",
       "title": "Beed: Goat Theft Bid Foiled In Georai, 1 Held",
       "summary": "Beed: Goat Theft Bid Foiled In Georai, 1 Held",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0hVeVA4RXpvQnZTMlFwUFFnVGZ5RmwwM0RHSDlUM0VIa2F2b3R5M0tNWHRmcXBVeGFMYXF4SnNZMEtFSjZJUHBCb0huZ3JrV0ZrM1kwZWg4cjB0RkdJQmtzblBjSFlxWDNjYTc3MVdXLXhmWG9aR1Vfd1l1WWtYR00tNlFUQkHSAYwBQVVfeXFMUDZvaFlXZkl4MW16R2dwakRyMnEwRm9ma3Zfal9WckRJejd2Si1wYlBnM2h3a3FCQXloRWdMU0lvY182WFc5Rlo4QTF4SFNYX2xHV0FpNkpHLWdHOGtueUdoUVVyRmhzRGl0RmZWeGo3bDFiVTFnX2NUOFV0eTg3aDgxRjhtLTdpdWtxZDU?oc=5",
       "pubDate": "Thu, 01 Oct 2026 12:17:57 GMT",
@@ -162,7 +195,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -177,6 +210,75 @@
       "icon": "🚓",
       "critical": false,
       "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "monsoon may withdraw from maharashtra in next 24 48 hours could see early exit imd",
+      "title": "Monsoon may withdraw from Maharashtra in next 24-48 hours, Pune could see early exit: IMD",
+      "summary": "Monsoon may withdraw from Maharashtra in next 24-48 hours, Pune could see early exit: IMD",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVFA4NHFDSzduT3FrNzE4RmtmRHJfVVotQWNramREa19ZZ2loWWhQM0E3anJMUy1wLWkxZVYzWG04TDBpeHA2VUQ3UG81SHV2MFFaYjdTaERUa0s1UHpoMVZiRjBVeXhiSXRGRHNOVk85X1pqTDBvMWZtRVpOWGNIanBIaWUyd0hYZExSM2o0T09wcEp1OTFRSDNaaDBkdG1tMlNpTGJ0UmpWOE5rWWFtbmdXTVdJY3huZW91bWhHcUtFWHNVeXRQS21hT2lLODVhR0tzVFhSX0hsZVNfX21nbjNYdzZxb0FPY1lNNF84bFHSAfYBQVVfeXFMTk1ka2tsLUxvVDZ1VjVGSGhmUkNSSDdBUDNlWENVWlRqWUJscjk3dHZLSUstZnhRSTRqTFFrbEZOOUtGTDNGb2RZU0Z2ZE40SHczcmVkVzZQbFZrUDRhRHFVRkhvdFhVNnFlOVEwQktrQk00VnRRN2ppNVBFd0hFOUtQbGxLbldSU09aNC1JdHZRQnF1dXdESVdYTURhNDJTcmF5S3RqakJnemdzQXZWbURlM0NaLUk3bFdfV1BMek0tcWRjMHlHdjR6Q0E1TTVGWUJ0X1lfNG5hY19lTjFfVnJPTXIxb1lLZEwxVUlOckZCcDg1VlZR?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 19:37:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 19:37:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rail services resume on bairabi sairang section after rain hit tracks restored",
+      "title": "Rail services resume on Bairabi-Sairang section after rain-hit tracks restored",
+      "summary": "Rail services resume on Bairabi-Sairang section after rain-hit tracks restored",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHE3bXhaOU5ILVJUWEh1SDJUXzBLUURCLUYxcl9tV2ZSOUJGZm5oYk5HMU9OZ1lhRmFHaXlaT1FIdmc3bXRMU043ZFpIRDgzSEdsc2pHQUxKT1lTV091andSbmo0Zlk2TUQwX1BkT2xCMXZaUkNVMmFZakRSQU9jSDJZSFRnY2RSQzhSYVV6clhvYldCVy1sMF80elpZajFHQ0kybWsyak53VzFaV29KdWFnMk5yZmIwQWs5cUltNGg0ZHRlNlJGellSOTYtYkVraEZidHAtVV9FNHF2b2pSYWlJaFA2NmJja0HSAe8BQVVfeXFMTWVWdEo3VWIyM1dlMEVpUFZ6cmM0MFBtWUZXeENGdy1iREJnZ2d2aWxUa0VIT2ZpR215cE95QzdrNjJHNHhXbGxvLVotOFU1NVRxN0JQWWpXMmF5elE2QjQ0WGpPaXRhRmtSTjFweUxjYi1DMUlBRzdQSUxtdndTYnNqcDlKaW9CZVBQY2VVUHdvTjRaVFNKUGJKSEl4LUliaW5KYmluTXdUSlhzTnZDd3Q2VEE1UVNqZjZFSFpFVDRUQUZKWXhmWTJac1lPRjJQM05NREwxamdWWjVaaGxLWm1iSWtVcXdnNmJ4b2pSbEE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:08:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "राज्यात पावसाचा जोर ओसरला मॉन्सून परतीच्या वाटेवर पुणे साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "title": "राज्यात पावसाचा जोर ओसरला: मॉन्सून परतीच्या वाटेवर; पुणे, साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "summary": "राज्यात पावसाचा जोर ओसरला: मॉन्सून परतीच्या वाटेवर; पुणे, साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHV6YUJ1T0phNURyOFFRdjYyQ2hUZXhyN3dsXzJmVmkxY2tCZVNOd25WdVhzUmw5OXg2MlA3OUFsOWg5M0xQN29WQzlPelAtWWQySnQtM3NIbzNmZjh5MWVhZjlfa2xraWY5d1Y1LU9lSTQxVENkUUdkcWtHLTVxM1BHX3JhMTVDeVFDLUljaXg2dXdXV3NRZDYxbnVxeFd2dExiOXpTNy0yRFdESHpYS3BFdjk0bG5MME45enpTTXFsQU5HNHNFcUo2Sy3SAdIBQVVfeXFMTzliaXgzSzFUUnNqclJIMkRsRnNwSU1ON050eEtab1RQaWZVbldqMUNNRnE1ZU1Qc3U4S2VBdkZpQ0l4X0FDT0k1QTRKcW1nZFg5UkFkb0NQVk8yTW5IQzl3amFhMGs5R3lUZXU1UGk1aUliT1hWNVRuTVVoaE1ZUjVTMHlwTTgzQ05CRGcxbnFEbC1sUV9BWVZRMFh2amV1MkI1OHFLS2YzaHYzNkZEZXBWWE1RWmlnd0ZhSElzMS1rX1BtRUNsdkhJbzVZRElGNXR3?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:00:50 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:00:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "एल निनोमुळे संकट गडद महाराष्ट्रासाठी ऑक्टोबर महिना धडकी भरवणारा हवामान खात्याचा इशारा",
@@ -245,18 +347,40 @@
       "action": "No immediate action required."
     },
     {
-      "id": "जपानी खुर्च्या बेल्जियमचे आरसे पुण्यातलं 100 जुनं असं सलून आजही जुन्या वस्तू तशाच",
-      "title": "जपानी खुर्च्या, बेल्जियमचे आरसे, पुण्यातलं 100 जुनं असं सलून; आजही जुन्या वस्तू तशाच!",
-      "summary": "जपानी खुर्च्या, बेल्जियमचे आरसे, पुण्यातलं 100 जुनं असं सलून; आजही जुन्या वस्तू तशाच!",
-      "source": "News18 Marathi",
+      "id": "मान्सूनचा परतीचा प्रवास राज्यात 3 दिवसांत हजेरी पुढील 4 5 दिवस महाराष्ट्रातील अनेक भागांत ",
+      "title": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
+      "summary": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUU53WFc3TU9uUGVreUJUcm41eTZoRGZEQi1RTjNkRGRYeVpHT281a2pEZm1kQlBBNC0tY0JFTEdueW9GazRFb2tCWWpWaGVOVnlzaGNxLTZnRVFlTHVnSFJCMjlpT2lDVm1QRUVvbVNVc1hDNXF0dkE0UDlxM0xlU3BZSkV5eW1UV0lDem13YXdOSzVJMVljd0UtbzBwVkRUdF8xTGcwcGtNQWlzanhqX0N5dFhFOHVjVEVINWFiTDNmT2k2?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 11:58:56 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 11:58:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkxDWDBLb0Nud0l5YWE3VkJERjZpR09UMGQ4b1ZyZ0QwUFM0amZEQjdUaHUyeWpYLWxGMTJ4QjBmU2lqWWhsM21BVG1hVnpiSEJ3R0Z5SmhiLVVxN3BteUJlWFdvV2ZNbDlJUGYybTkwZldsNGlkeGVUUXJrLW9ZSDF2YXdJVjlDdFU3bkZSQTJPM05Eelpjc25kTEFQTU1FSEN2dzg0eVhSZW5JaW9MeXVJRnphaEp5SVdfWFprMzNQUVNtN0ZSaXlB0gHPAUFVX3lxTE1MblRiS0wwZnFsYWpnZkZadU5iRzJqWWdyeFNrbmdjYjFhWkRIVW5xQ2VDOHFrTE1iS0JwZ0tOaUVSdnl5d2RKTExLU1VpVkM1bzVTaXpVMXU1YVYzTnBuekhuTXZQWFNxRmVndm5LYTAtX2U5eU41UGk2X2dvck1kRmZvUFB6Tkw2NFVqSm1fbjBfUTVTTTJrdXpmbFVLa3Azd25hOXB6bEstdV93LWpYbHkteVdCZjR5Q1JwZ0FYRElTZXFuMk0xRG11eER5TQ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:44:47 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 11:44:47 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू येरवडा गोल्फ क्लब चौक",
+      "title": "पुणे : भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू; येरवडा गोल्फ क्लब चौकातील घटना पुणे : येरवडा येथील गोल्फ क्लब चौकात बुधवारी दुपारी रस्ता ओलांडत असलेल्या 84 वर्ष",
+      "summary": "पुणे : भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू; येरवडा गोल्फ क्लब चौकातील घटना पुणे : येरवडा येथील गोल्फ क्लब चौकात बुधवारी दुपारी रस्ता ओलांडत असलेल्या 84 वर्ष",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNRWIwLTF1WU5xMXY0dldBaFRHMnVuNDRtZENGa3oxOGZMeXRrSkROcWZzaWNvOXU5aDdfSG0wZXFsZFZqZXE3c0VnSE4xdUt2ZVE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:29:28 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 11:29:28 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -336,14 +460,36 @@
       "action": "No immediate action required."
     },
     {
+      "id": "teachers election 2026 पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच शिंदेसेनेने वाढवलं भाजप",
+      "title": "Pune Teachers Election 2026: पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच! शिंदेसेनेने वाढवलं भाजपचं टेन्शन",
+      "summary": "Pune Teachers Election 2026: पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच! शिंदेसेनेने वाढवलं भाजपचं टेन्शन",
+      "source": "Time Maharashtra",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWNZZXFaSDNiUlNUNjFIc1RTQzRwTlVzYUpEWTdKdXZoMFlJaFBHSVJpN1VVWUwzZkFWVWdHNUpRaC1GdTV4MWY5VDUyV1BmY29Fa1hZQWI3ZXdsdW9ZQmRobkQ3QWZheUdDMDlRMWJsZ0J4NnNZQkxQc2NHVW1uR3EwbndWSXBFVzhQRVBjNzU3aHZZT0hCN1N6dHBtN0toOWlqbGh5eFFxd25TTlFTbEZsWWJhdDNIWnpqbkMxNS1Oc3lWSjV5Z9IByAFBVV95cUxQeWNZZXFaSDNiUlNUNjFIc1RTQzRwTlVzYUpEWTdKdXZoMFlJaFBHSVJpN1VVWUwzZkFWVWdHNUpRaC1GdTV4MWY5VDUyV1BmY29Fa1hZQWI3ZXdsdW9ZQmRobkQ3QWZheUdDMDlRMWJsZ0J4NnNZQkxQc2NHVW1uR3EwbndWSXBFVzhQRVBjNzU3aHZZT0hCN1N6dHBtN0toOWlqbGh5eFFxd25TTlFTbEZsWWJhdDNIWnpqbkMxNS1Oc3lWSjV5Zw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 08:31:42 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 08:31:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Time Maharashtra"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "क्रूर नियतीचा भयंकर खेळ लहान भावाला सोबत घेऊन निघाली अन् पुण्यात बहिणीच्या डोळ्यांदेखतच भा",
       "title": "क्रूर नियतीचा भयंकर खेळ! लहान भावाला सोबत घेऊन निघाली अन्...; पुण्यात बहिणीच्या डोळ्यांदेखतच भावाचा दुर्दैवी शेवट",
       "summary": "क्रूर नियतीचा भयंकर खेळ! लहान भावाला सोबत घेऊन निघाली अन्...; पुण्यात बहिणीच्या डोळ्यांदेखतच भावाचा दुर्दैवी शेवट",
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE4xYUlkTHpRWHYxd1YwaVBkOWFndnlSMm1BOHhzeWpiTldPM05YSjlzU1M3REhRdFkydE1TNm44M0lsc1lSYUkySFlqZWJ2ZlhETVJOd25yOVJGeVRxY2dlcldRNF81ZVFsMktnbmJTajhhZlNmZFNJMkZPMWRaM3lfRjZjT0ZaV2tfU2kwNkt5RHNMWXc3YThCXzRFeVRaQi1rU1hwcHJ0RWdnN2FuX01tV0RDX1JxYkxxT3MyRWlzajhBVVE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 07:41:00 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 07:41:00 GMT",
+      "pubDate": "Thu, 01 Oct 2026 07:41:03 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 07:41:03 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -405,7 +551,7 @@
       "id": "when will punes range hill metro station open to public details inside",
       "title": "When Will Punes Range Hill Metro Station Open To Public? Details Inside",
       "summary": "When Will Punes Range Hill Metro Station Open To Public? Details Inside",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanIzMEFkQjM4cHNwd0V4aU01Wl9FOTBvMlJQYnZRZFZ1b29IcTUweVlzVDBjaDlBN1BsR1BTRnhOMFBiWWxzbi1VUVRRTnVKVnVCMFlEWDVzam5Xdm5TUlFWMGMyLWpWTTdPbXNoYUszYmtJVXdYdVF4dnBURTR4YzkyTExYM2RDU0Z6MTkxUnJ6REtFdUJBY0czSDE2blBta2V3UjFDYVBxVG_SAbABQVVfeXFMTUp0R0dJa0ExcGFVTXBCM3A0LVJ6U2JMUXFfQ3pUelI0UEhYSkRSeFFMZjBlWFpRWURhRHpveXpILVpIZ3c5RThXV0dSUTF3T1BTZEtFRFJUb1BjOThSTnRoNF9DUExaYjNUZllmWHdhRHh4Y29nQjhLSzNvSDFWdGNPQ2pXLTdDSlJuRVNEVHQyTEtSVXhlUWtFWjFKY1QzR2VaU2NGYWhWRWJiUWpSNDM?oc=5",
       "pubDate": "Thu, 01 Oct 2026 06:37:14 GMT",
@@ -413,7 +559,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -436,28 +582,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "indian captain sumit machchhar stabbed mid flight fights back to save 174 on flydubai jet",
-      "title": "Indian Captain Sumit Machchhar Stabbed Mid-Flight, Fights Back to Save 174 on Flydubai Jet",
-      "summary": "Indian Captain Sumit Machchhar Stabbed Mid-Flight, Fights Back to Save 174 on Flydubai Jet",
-      "source": "Pune Mirror",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDdpa28yWmVoZFg5MHJqcGY0R3B1TjJHamhzbWk3X0JkWC1xWktNelhlenBHeTM5ZnRULVhnLWxXWEhuS2RRZmVvbGtsOTMyWk53bndzWFpXVlA3aG1HVHprVldxbGVMa2NoX1BIRjVwWmlkNUNIN3lHNDRJanlhSWxpX0lnTFlLQkxuVWlCM3RwRzdWYjRIRWUta1JGajB3c1lDOXF4aGtZM216bVV0UG9uczZMcV83blE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 06:25:09 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 06:25:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -537,7 +661,7 @@
       "id": "पुणे 1 ऑक्टोबर 2026 ठळक बातम्या आधार",
       "title": "पुणे, 1 ऑक्टोबर 2026 ठळक बातम्या: आधार",
       "summary": "पुणे, 1 ऑक्टोबर 2026 ठळक बातम्या: आधार",
-      "source": "LatestLY",
+      "source": "marathi.latestly.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRm00S2lKeWFwY0VBb00za2QxbF8wdXd3VDBPcS0xSmVORnF5ajZ4R2VUdjJoQnkxZHFLVnowQUs3MmpxeUI5V09lbUg1VFh1RXdFRkZIVlJzMlByLXFJU0VyNTdrc1JQNkFuaGM2dDFZZER6c2l4UWdZbjdHdnJaQjlfdDg1Q0FSNTA0RWxDSjVOSTY0TENKOdIBngFBVV95cUxPd1c4Z0VCWG9yTUdTWVBucVN2R0dnTjYzVEVlbng1WE9abzVSX2VZQkVvOUFPNTFudEdNWlJNajY0YU5UMFR5Z2tRamZTbzVrN3d2TDg0VURhamtmRHI2VFNNbG5lOUNxTkJoOThiQnJwb0d2Tkc1Q1d2bG4tQW0tUHZqbFVaa2xpWEY1MlN5U2VBc1B0MlpFVDFZTlpoQQ?oc=5",
       "pubDate": "Thu, 01 Oct 2026 05:30:56 GMT",
@@ -545,7 +669,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "LatestLY"
+        "marathi.latestly.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -584,8 +708,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0FYalR4SU5DUHc3OHdCSjZTU1lEeEJpd2hrTWh2LVIyUlpMUlFxMFVPcnlUVEtDSjR6bV9WM0llY0VCRjJSMnVFZkdtRDloaVBBQVoxbkIxQTY4T28wa2QyTDMyUmcxbHVkbTVGVndGTjg2TEZuUUJjX3oxVUdzWTJ2ZkVPLXE2bV9hblV5QWJDWkY5LUEtYnN0dkJjaUFuVkpSaTZCOWhDc2ZKUTF1aFBjMEF2NnlQOEg3NmZOWEdndGtKenp1NUpXR2NDTEFmVk5JYQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 04:52:17 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 04:52:17 GMT",
+      "pubDate": "Thu, 01 Oct 2026 04:52:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 04:52:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -647,7 +771,7 @@
       "id": "maharashtra weather महाराष्ट्रात पावसाचा जोर ओसरला आज कुठे पावसाची शक्यता जाणून घ्या हवामा",
       "title": "Maharashtra Weather : महाराष्ट्रात पावसाचा जोर ओसरला; आज कुठे पावसाची शक्यता? जाणून घ्या हवामान अपडेट",
       "summary": "Maharashtra Weather : महाराष्ट्रात पावसाचा जोर ओसरला; आज कुठे पावसाची शक्यता? जाणून घ्या हवामान अपडेट",
-      "source": "prahaar.in",
+      "source": "Prahaar.in",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUI1WnBFM2hRNFQ4aG41Y1FZSnJJd2YwcTJoVWJvODNyV2RVTU9YZ2dkS3hCMmxscVpUUEdVbU9NalNEODhIQXp4WExqc0hpMjRhUVFFWnJ5S2g4akE5UnRRVGlKWElXb2FFRzMzR0FpQm9jeWdoLU05WXRFSGhpWUNhYXd6b0QwRnY4Y01nUmRSckRTVnVScnpzcVBMSmplbWFmOFFRSXIwMi1vZTVGbFVmUEdMdGo3N0NTT1RmRThZams?oc=5",
       "pubDate": "Thu, 01 Oct 2026 03:22:00 GMT",
@@ -655,7 +779,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "prahaar.in"
+        "Prahaar.in"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -862,62 +986,18 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "मान्सूनचा परतीचा प्रवास राज्यात 3 दिवसांत हजेरी पुढील 4 5 दिवस महाराष्ट्रातील अनेक भागांत ",
-      "title": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
-      "summary": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkxDWDBLb0Nud0l5YWE3VkJERjZpR09UMGQ4b1ZyZ0QwUFM0amZEQjdUaHUyeWpYLWxGMTJ4QjBmU2lqWWhsM21BVG1hVnpiSEJ3R0Z5SmhiLVVxN3BteUJlWFdvV2ZNbDlJUGYybTkwZldsNGlkeGVUUXJrLW9ZSDF2YXdJVjlDdFU3bkZSQTJPM05Eelpjc25kTEFQTU1FSEN2dzg0eVhSZW5JaW9MeXVJRnphaEp5SVdfWFprMzNQUVNtN0ZSaXlB0gHPAUFVX3lxTE1MblRiS0wwZnFsYWpnZkZadU5iRzJqWWdyeFNrbmdjYjFhWkRIVW5xQ2VDOHFrTE1iS0JwZ0tOaUVSdnl5d2RKTExLU1VpVkM1bzVTaXpVMXU1YVYzTnBuekhuTXZQWFNxRmVndm5LYTAtX2U5eU41UGk2X2dvck1kRmZvUFB6Tkw2NFVqSm1fbjBfUTVTTTJrdXpmbFVLa3Azd25hOXB6bEstdV93LWpYbHkteVdCZjR5Q1JwZ0FYRElTZXFuMk0xRG11eER5TQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 23:46:17 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 23:46:17 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "khopoli तासभरात दाणादाण खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस मुंबई पुणे महामार्गावरील पत्रे",
-      "title": "Khopoli News: तासभरात दाणादाण! खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस; मुंबई-पुणे महामार्गावरील पत्रे उडाले",
-      "summary": "Khopoli News: तासभरात दाणादाण! खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस; मुंबई-पुणे महामार्गावरील पत्रे उडाले",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSjM5bzdaRlpPdUxJbnJmblFEOTNmZE55OGJPbUh4THZFcE1RclFMeXpQWDE0ZnJwX2pHcG1Ebng4ZTFRZ1lScUdKSzV0czZUZE9vMkRoa0tJMFJCdGRPWDFIeS14eWVsb2Ffa29FVFBma2xxYTRVWTlJQmhmcldaUVBscUhCSjVtSXlZQkxEWWowS3Z1YTREWnBBeFlaUGhCdFJTaU41bmFNNmVmanFuZWJrdzZUUG5CLW5qRGF4NUUwN0wxVlNTOWw1NlJPcmVTcHRNX3l6SGI4XzdVaWRoZmVpbzI2WVVtX0ItVDEtUHlaUXVRRWVSTUNuakpYV1hz?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:45:00 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 19:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
     {
-      "id": "pmc issues 414 notices to establishments in a week over lack of fire safety compliance",
-      "title": "PMC issues 414 notices to establishments in a week over lack of fire safety compliance",
-      "summary": "PMC issues 414 notices to establishments in a week over lack of fire safety compliance",
+      "id": "localised showers flood kolkata pockets",
+      "title": "Localised showers flood Kolkata pockets",
+      "summary": "Localised showers flood Kolkata pockets",
       "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORDliS0ZZM213RzlITzVVNG1veWFOM2V1MmMzU2tzbzdqYk9RU3cxa200Z1JmM08tZHdiNGx0aGVLZ1BNazhzWFJlTkpQWlZNWTlnTUMwTTJrUDNnN2pBY3NDa0syeFZhc3UtNU1aNzNYeFVYaGhTZnM0cnF5cEZqdlV6OG1BT0RnMzZfOWJRZnR5SWY2Wno5TjJjR1hub2MtcnJZN0dOUk1rR0RJanZERF8tSkMtMU9xdS1kdmZ5SzF2dS1TUGx2YW9NVFdLNG1PS2Q4czREdUdacXZXTFRlbDJLaG5uMUdRbkRIMUJZVdIB9AFBVV95cUxPbjdiMlR0eU5WSjdrWnkxNzlnRXNHUEJCX1k4S1ByVmFINm50MWh5QlRjNGxiYkhYeGVxbS0wUEZDbF8zNDJON2I4el9nNUl0N3g0ZFFfRXl4V1M1bTIycjNjcmNDRnN4MURFRGxKalJtNEdyY3dYdFFyZUhZX2xYeE9Db2RHeUt2XzI5bnc5ZndLWEpZRm9RYzJBMVlncFAyc05UbWpiTWNBb3Y2b1hSR1dtNUpxMzgwbjNmUHVjX2VpODVCZEx2WDY0SkxCS1hKdTdPOE8zTVZJaU9aUzAyMmR1Ym9lcUNNckFTMDVJQlBjTzdo?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 18:43:00 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 18:43:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT001X3dBV013djdhbzN0d0RyanFXN1RWS25zeXdpOFZzdHRLN2pyVWxnM3dnRDNDVDRESWxheVlrcnQtUjBWcXJkaXJzRTFIdW8weDFtVThRVklkYVBwV3lOdjFUUW8xNzY3X3RZcGN4bTduVVZJeHN2WkFiSUhBQXptREJqYmpVS19CcUhSXzFxc0RYcnBPaUVSUlVJRndrQ09fOS1URHZlQ3NNWDhhenhYVVJuZDNidnfSAboBQVVfeXFMTk9NNV93QVdNd3Y3YW8zdHdEcmpxVzdUVktuc3l3aThWc3R0SzdqclVsZzN3Z0QzQ1Q0RElsYXlZa3J0LVIwVnFyZGlyc0UxSHVvMHgxbVU4UVZJZGFQcFd5TnYxVFFvMTc2N190WXBjeG03blVWSXhzdlpBYklIQUF6bURCamJqVUtfQnFIUl8xcXNEWHJwT2lFUlJVSUZ3a0NPXzktVER2ZUNzTVg4YXp4WFVSbmQzYnZ3?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:45:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -925,16 +1005,18 @@
       ],
       "confidence": "Single source",
       "w": [
-        "fire",
-        "blaze",
-        "smoke"
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
       ],
       "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
       "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
       "id": "andy mukherjee if india wants to fuel the ai boom it must get its solar power policies rig",
@@ -966,10 +1048,67 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
+      "id": "trio assault cabby on mumbai expressway flee with cellphone cab",
+      "title": "Trio assault cabby on Pune-Mumbai expressway, flee with cellphone & cab",
+      "summary": "Trio assault cabby on Pune-Mumbai expressway, flee with cellphone & cab",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUZMMGZROHFIdHNLTkNiWEo0anN4bmc5RHJsTE5LaGszd296TFR3Y2hBeUtpekxjYzdPOHhCM3oyRW5yb0x6ZG5GUGhIMk9FYkkwN09VTVgxVnJoalhwUTZ5NTdqeERYdEFIeGdaZkVUV0xycVpFWGdaSHhoYkRkN3JaanRNMFlwM25mUUlmcG5ic1c1ekNOQTZFTWtSZ0NrWnl5RFVHRm9pem9Oc0lkdHhyVnYxN0hoWGdibnBkQ2RmVms0VlE3TXFadlBqRnpkOUpZZEd1SdIB3AFBVV95cUxQUm9GYl9LZ2ZaMmVDTlNDU3NyckliZ0xuTzlual95LTlVNGRiZmR1d19UU3hSTVV5T09YVjdDZ1l6aTY0aUdSSXBYaWtseHYxWkdPMURmNDJRLVNZaG9xcVFMX2xVaHNFVkpMVzdWSlR0UHp6UnktRmFCM01pVHd1LWRtLUhwTXJoYjQ2MkREODNZUnNRQllta2dIY2k1djBYeWJxSW5pNHF6M09ZUGtZQ25SZTRMNDZ6T01OUml5Zm1VX1hFSkVfNVgtNndKb1c1UGRicWNuSkVFMkgt?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 19:04:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 19:04:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
+      "id": "maharashtra drought alert msedcl puts field staff on high alert orders immediate power res",
+      "title": "Maharashtra Drought Alert: MSEDCL Puts Field Staff On High Alert, Orders Immediate Power Restoration",
+      "summary": "Maharashtra Drought Alert: MSEDCL Puts Field Staff On High Alert, Orders Immediate Power Restoration",
+      "source": "Free Press Journal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnNtTUpDQUlDa3pFSGdYQ0dlektpeFh3SDlkaU5wZDBDV0l5SlJaUXNxdktNWFFjMHBtQUNvcElKb0dPcXlldHlOZF9lWGd5M25BeXA0dnhnWmxWWEpGSzV1WlR1UUwzVWpUNVVDWFdCdnJScURwcHpqcXpTV3dFcnN5cVd5b1ZjMFlSUGdvbzl4YVFJNmlJY3NudlZnWk5UYWoyOWV4b2wxLWxRWWxZRVRadUREY3k5MFNjRWRnUGwyT0Nyc0pDTXdvNXpFU1RIWmFz0gHYAUFVX3lxTE9uRDh0VTBDdDVGSWJ4VGE4Rno1NE0yMlRjamJSRUoxNmxIVUdPMjdueGFZakdINDd3eWlTNlFWdFpXeE1WOEpLeXExNVhXdXFKa0VHQW5vSnd1Z29KOGg4azR0akRLN29DdkpPcXVvT3k4R0h0NkNNeExHWGRDTmgzeVJoSWJBRGVpcHExUzNzTTFLRVZfNV9jaV9aYlJHdFp5d0VKUGFnekJQdkR5ZUZJQUczcERLSm56R3pMTENFOXRnUW91Ulc3T1JTbG40OEdhUWFIX1RadA?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 16:29:48 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 16:29:48 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
       "id": "beed goat theft bid foiled in georai 1 held",
       "title": "Beed: Goat Theft Bid Foiled In Georai, 1 Held",
       "summary": "Beed: Goat Theft Bid Foiled In Georai, 1 Held",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0hVeVA4RXpvQnZTMlFwUFFnVGZ5RmwwM0RHSDlUM0VIa2F2b3R5M0tNWHRmcXBVeGFMYXF4SnNZMEtFSjZJUHBCb0huZ3JrV0ZrM1kwZWg4cjB0RkdJQmtzblBjSFlxWDNjYTc3MVdXLXhmWG9aR1Vfd1l1WWtYR00tNlFUQkHSAYwBQVVfeXFMUDZvaFlXZkl4MW16R2dwakRyMnEwRm9ma3Zfal9WckRJejd2Si1wYlBnM2h3a3FCQXloRWdMU0lvY182WFc5Rlo4QTF4SFNYX2xHV0FpNkpHLWdHOGtueUdoUVVyRmhzRGl0RmZWeGo3bDFiVTFnX2NUOFV0eTg3aDgxRjhtLTdpdWtxZDU?oc=5",
       "pubDate": "Thu, 01 Oct 2026 12:17:57 GMT",
@@ -977,7 +1116,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "w": [
@@ -1024,32 +1163,70 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "dombivli power cut hits residents after road work damages cable",
-      "title": "Dombivli Power Cut Hits Residents After Road Work Damages Cable",
-      "summary": "Dombivli Power Cut Hits Residents After Road Work Damages Cable",
-      "source": "urbanacres.in",
+      "id": "monsoon may withdraw from maharashtra in next 24 48 hours could see early exit imd",
+      "title": "Monsoon may withdraw from Maharashtra in next 24-48 hours, Pune could see early exit: IMD",
+      "summary": "Monsoon may withdraw from Maharashtra in next 24-48 hours, Pune could see early exit: IMD",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWtBa2NqRHF6b2QzS3M5VnRpTjBZQmY0RjY4YVc0WTVub3REUVJmcWJESVpvQkFubUJtellKVVhGdVlNRXBJeTVLckdXOW9iR1Y0bTU0NVJOTERoSmR4WEhIV0JpRmJvZ1RaVnR5UW5hU2FNaUlGZEkwT2NPa0s0dld3LXFNUUhNQmhmZVdPZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:51:44 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 16:51:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVFA4NHFDSzduT3FrNzE4RmtmRHJfVVotQWNramREa19ZZ2loWWhQM0E3anJMUy1wLWkxZVYzWG04TDBpeHA2VUQ3UG81SHV2MFFaYjdTaERUa0s1UHpoMVZiRjBVeXhiSXRGRHNOVk85X1pqTDBvMWZtRVpOWGNIanBIaWUyd0hYZExSM2o0T09wcEp1OTFRSDNaaDBkdG1tMlNpTGJ0UmpWOE5rWWFtbmdXTVdJY3huZW91bWhHcUtFWHNVeXRQS21hT2lLODVhR0tzVFhSX0hsZVNfX21nbjNYdzZxb0FPY1lNNF84bFHSAfYBQVVfeXFMTk1ka2tsLUxvVDZ1VjVGSGhmUkNSSDdBUDNlWENVWlRqWUJscjk3dHZLSUstZnhRSTRqTFFrbEZOOUtGTDNGb2RZU0Z2ZE40SHczcmVkVzZQbFZrUDRhRHFVRkhvdFhVNnFlOVEwQktrQk00VnRRN2ppNVBFd0hFOUtQbGxLbldSU09aNC1JdHZRQnF1dXdESVdYTURhNDJTcmF5S3RqakJnemdzQXZWbURlM0NaLUk3bFdfV1BMek0tcWRjMHlHdjR6Q0E1TTVGWUJ0X1lfNG5hY19lTjFfVnJPTXIxb1lLZEwxVUlOckZCcDg1VlZR?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 19:37:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 19:37:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in"
+        "The Times of India"
       ],
       "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rail services resume on bairabi sairang section after rain hit tracks restored",
+      "title": "Rail services resume on Bairabi-Sairang section after rain-hit tracks restored",
+      "summary": "Rail services resume on Bairabi-Sairang section after rain-hit tracks restored",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHE3bXhaOU5ILVJUWEh1SDJUXzBLUURCLUYxcl9tV2ZSOUJGZm5oYk5HMU9OZ1lhRmFHaXlaT1FIdmc3bXRMU043ZFpIRDgzSEdsc2pHQUxKT1lTV091andSbmo0Zlk2TUQwX1BkT2xCMXZaUkNVMmFZakRSQU9jSDJZSFRnY2RSQzhSYVV6clhvYldCVy1sMF80elpZajFHQ0kybWsyak53VzFaV29KdWFnMk5yZmIwQWs5cUltNGg0ZHRlNlJGellSOTYtYkVraEZidHAtVV9FNHF2b2pSYWlJaFA2NmJja0HSAe8BQVVfeXFMTWVWdEo3VWIyM1dlMEVpUFZ6cmM0MFBtWUZXeENGdy1iREJnZ2d2aWxUa0VIT2ZpR215cE95QzdrNjJHNHhXbGxvLVotOFU1NVRxN0JQWWpXMmF5elE2QjQ0WGpPaXRhRmtSTjFweUxjYi1DMUlBRzdQSUxtdndTYnNqcDlKaW9CZVBQY2VVUHdvTjRaVFNKUGJKSEl4LUliaW5KYmluTXdUSlhzTnZDd3Q2VEE1UVNqZjZFSFpFVDRUQUZKWXhmWTJac1lPRjJQM05NREwxamdWWjVaaGxLWm1iSWtVcXdnNmJ4b2pSbEE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:08:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
       ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "राज्यात पावसाचा जोर ओसरला मॉन्सून परतीच्या वाटेवर पुणे साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "title": "राज्यात पावसाचा जोर ओसरला: मॉन्सून परतीच्या वाटेवर; पुणे, साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "summary": "राज्यात पावसाचा जोर ओसरला: मॉन्सून परतीच्या वाटेवर; पुणे, साताऱ्यासह 6 जिल्ह्यांना यलो अलर्ट",
+      "source": "Divya Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHV6YUJ1T0phNURyOFFRdjYyQ2hUZXhyN3dsXzJmVmkxY2tCZVNOd25WdVhzUmw5OXg2MlA3OUFsOWg5M0xQN29WQzlPelAtWWQySnQtM3NIbzNmZjh5MWVhZjlfa2xraWY5d1Y1LU9lSTQxVENkUUdkcWtHLTVxM1BHX3JhMTVDeVFDLUljaXg2dXdXV3NRZDYxbnVxeFd2dExiOXpTNy0yRFdESHpYS3BFdjk0bG5MME45enpTTXFsQU5HNHNFcUo2Sy3SAdIBQVVfeXFMTzliaXgzSzFUUnNqclJIMkRsRnNwSU1ON050eEtab1RQaWZVbldqMUNNRnE1ZU1Qc3U4S2VBdkZpQ0l4X0FDT0k1QTRKcW1nZFg5UkFkb0NQVk8yTW5IQzl3amFhMGs5R3lUZXU1UGk1aUliT1hWNVRuTVVoaE1ZUjVTMHlwTTgzQ05CRGcxbnFEbC1sUV9BWVZRMFh2amV1MkI1OHFLS2YzaHYzNkZEZXBWWE1RWmlnd0ZhSElzMS1rX1BtRUNsdkhJbzVZRElGNXR3?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:00:50 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 18:00:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "एल निनोमुळे संकट गडद महाराष्ट्रासाठी ऑक्टोबर महिना धडकी भरवणारा हवामान खात्याचा इशारा",
@@ -1118,18 +1295,40 @@
       "action": "No immediate action required."
     },
     {
-      "id": "जपानी खुर्च्या बेल्जियमचे आरसे पुण्यातलं 100 जुनं असं सलून आजही जुन्या वस्तू तशाच",
-      "title": "जपानी खुर्च्या, बेल्जियमचे आरसे, पुण्यातलं 100 जुनं असं सलून; आजही जुन्या वस्तू तशाच!",
-      "summary": "जपानी खुर्च्या, बेल्जियमचे आरसे, पुण्यातलं 100 जुनं असं सलून; आजही जुन्या वस्तू तशाच!",
-      "source": "News18 Marathi",
+      "id": "मान्सूनचा परतीचा प्रवास राज्यात 3 दिवसांत हजेरी पुढील 4 5 दिवस महाराष्ट्रातील अनेक भागांत ",
+      "title": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
+      "summary": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUU53WFc3TU9uUGVreUJUcm41eTZoRGZEQi1RTjNkRGRYeVpHT281a2pEZm1kQlBBNC0tY0JFTEdueW9GazRFb2tCWWpWaGVOVnlzaGNxLTZnRVFlTHVnSFJCMjlpT2lDVm1QRUVvbVNVc1hDNXF0dkE0UDlxM0xlU3BZSkV5eW1UV0lDem13YXdOSzVJMVljd0UtbzBwVkRUdF8xTGcwcGtNQWlzanhqX0N5dFhFOHVjVEVINWFiTDNmT2k2?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 11:58:56 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 11:58:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkxDWDBLb0Nud0l5YWE3VkJERjZpR09UMGQ4b1ZyZ0QwUFM0amZEQjdUaHUyeWpYLWxGMTJ4QjBmU2lqWWhsM21BVG1hVnpiSEJ3R0Z5SmhiLVVxN3BteUJlWFdvV2ZNbDlJUGYybTkwZldsNGlkeGVUUXJrLW9ZSDF2YXdJVjlDdFU3bkZSQTJPM05Eelpjc25kTEFQTU1FSEN2dzg0eVhSZW5JaW9MeXVJRnphaEp5SVdfWFprMzNQUVNtN0ZSaXlB0gHPAUFVX3lxTE1MblRiS0wwZnFsYWpnZkZadU5iRzJqWWdyeFNrbmdjYjFhWkRIVW5xQ2VDOHFrTE1iS0JwZ0tOaUVSdnl5d2RKTExLU1VpVkM1bzVTaXpVMXU1YVYzTnBuekhuTXZQWFNxRmVndm5LYTAtX2U5eU41UGk2X2dvck1kRmZvUFB6Tkw2NFVqSm1fbjBfUTVTTTJrdXpmbFVLa3Azd25hOXB6bEstdV93LWpYbHkteVdCZjR5Q1JwZ0FYRElTZXFuMk0xRG11eER5TQ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:44:47 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 11:44:47 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू येरवडा गोल्फ क्लब चौक",
+      "title": "पुणे : भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू; येरवडा गोल्फ क्लब चौकातील घटना पुणे : येरवडा येथील गोल्फ क्लब चौकात बुधवारी दुपारी रस्ता ओलांडत असलेल्या 84 वर्ष",
+      "summary": "पुणे : भरधाव ट्रकच्या धडकेत रस्ता ओलांडणाऱ्या ज्येष्ठ नागरिकाचा मृत्यू; येरवडा गोल्फ क्लब चौकातील घटना पुणे : येरवडा येथील गोल्फ क्लब चौकात बुधवारी दुपारी रस्ता ओलांडत असलेल्या 84 वर्ष",
+      "source": "instagram.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNRWIwLTF1WU5xMXY0dldBaFRHMnVuNDRtZENGa3oxOGZMeXRrSkROcWZzaWNvOXU5aDdfSG0wZXFsZFZqZXE3c0VnSE4xdUt2ZVE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:29:28 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 11:29:28 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "instagram.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1231,14 +1430,36 @@
       "action": "No immediate action required."
     },
     {
+      "id": "teachers election 2026 पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच शिंदेसेनेने वाढवलं भाजप",
+      "title": "Pune Teachers Election 2026: पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच! शिंदेसेनेने वाढवलं भाजपचं टेन्शन",
+      "summary": "Pune Teachers Election 2026: पुणे शिक्षक मतदारसंघावरून महायुतीत रस्सीखेच! शिंदेसेनेने वाढवलं भाजपचं टेन्शन",
+      "source": "Time Maharashtra",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWNZZXFaSDNiUlNUNjFIc1RTQzRwTlVzYUpEWTdKdXZoMFlJaFBHSVJpN1VVWUwzZkFWVWdHNUpRaC1GdTV4MWY5VDUyV1BmY29Fa1hZQWI3ZXdsdW9ZQmRobkQ3QWZheUdDMDlRMWJsZ0J4NnNZQkxQc2NHVW1uR3EwbndWSXBFVzhQRVBjNzU3aHZZT0hCN1N6dHBtN0toOWlqbGh5eFFxd25TTlFTbEZsWWJhdDNIWnpqbkMxNS1Oc3lWSjV5Z9IByAFBVV95cUxQeWNZZXFaSDNiUlNUNjFIc1RTQzRwTlVzYUpEWTdKdXZoMFlJaFBHSVJpN1VVWUwzZkFWVWdHNUpRaC1GdTV4MWY5VDUyV1BmY29Fa1hZQWI3ZXdsdW9ZQmRobkQ3QWZheUdDMDlRMWJsZ0J4NnNZQkxQc2NHVW1uR3EwbndWSXBFVzhQRVBjNzU3aHZZT0hCN1N6dHBtN0toOWlqbGh5eFFxd25TTlFTbEZsWWJhdDNIWnpqbkMxNS1Oc3lWSjV5Zw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 08:31:42 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 08:31:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Time Maharashtra"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "क्रूर नियतीचा भयंकर खेळ लहान भावाला सोबत घेऊन निघाली अन् पुण्यात बहिणीच्या डोळ्यांदेखतच भा",
       "title": "क्रूर नियतीचा भयंकर खेळ! लहान भावाला सोबत घेऊन निघाली अन्...; पुण्यात बहिणीच्या डोळ्यांदेखतच भावाचा दुर्दैवी शेवट",
       "summary": "क्रूर नियतीचा भयंकर खेळ! लहान भावाला सोबत घेऊन निघाली अन्...; पुण्यात बहिणीच्या डोळ्यांदेखतच भावाचा दुर्दैवी शेवट",
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE4xYUlkTHpRWHYxd1YwaVBkOWFndnlSMm1BOHhzeWpiTldPM05YSjlzU1M3REhRdFkydE1TNm44M0lsc1lSYUkySFlqZWJ2ZlhETVJOd25yOVJGeVRxY2dlcldRNF81ZVFsMktnbmJTajhhZlNmZFNJMkZPMWRaM3lfRjZjT0ZaV2tfU2kwNkt5RHNMWXc3YThCXzRFeVRaQi1rU1hwcHJ0RWdnN2FuX01tV0RDX1JxYkxxT3MyRWlzajhBVVE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 07:41:00 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 07:41:00 GMT",
+      "pubDate": "Thu, 01 Oct 2026 07:41:03 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 07:41:03 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1300,7 +1521,7 @@
       "id": "when will punes range hill metro station open to public details inside",
       "title": "When Will Punes Range Hill Metro Station Open To Public? Details Inside",
       "summary": "When Will Punes Range Hill Metro Station Open To Public? Details Inside",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanIzMEFkQjM4cHNwd0V4aU01Wl9FOTBvMlJQYnZRZFZ1b29IcTUweVlzVDBjaDlBN1BsR1BTRnhOMFBiWWxzbi1VUVRRTnVKVnVCMFlEWDVzam5Xdm5TUlFWMGMyLWpWTTdPbXNoYUszYmtJVXdYdVF4dnBURTR4YzkyTExYM2RDU0Z6MTkxUnJ6REtFdUJBY0czSDE2blBta2V3UjFDYVBxVG_SAbABQVVfeXFMTUp0R0dJa0ExcGFVTXBCM3A0LVJ6U2JMUXFfQ3pUelI0UEhYSkRSeFFMZjBlWFpRWURhRHpveXpILVpIZ3c5RThXV0dSUTF3T1BTZEtFRFJUb1BjOThSTnRoNF9DUExaYjNUZllmWHdhRHh4Y29nQjhLSzNvSDFWdGNPQ2pXLTdDSlJuRVNEVHQyTEtSVXhlUWtFWjFKY1QzR2VaU2NGYWhWRWJiUWpSNDM?oc=5",
       "pubDate": "Thu, 01 Oct 2026 06:37:14 GMT",
@@ -1308,7 +1529,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "freepressjournal.in"
+        "Free Press Journal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1331,28 +1552,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "indian captain sumit machchhar stabbed mid flight fights back to save 174 on flydubai jet",
-      "title": "Indian Captain Sumit Machchhar Stabbed Mid-Flight, Fights Back to Save 174 on Flydubai Jet",
-      "summary": "Indian Captain Sumit Machchhar Stabbed Mid-Flight, Fights Back to Save 174 on Flydubai Jet",
-      "source": "Pune Mirror",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDdpa28yWmVoZFg5MHJqcGY0R3B1TjJHamhzbWk3X0JkWC1xWktNelhlenBHeTM5ZnRULVhnLWxXWEhuS2RRZmVvbGtsOTMyWk53bndzWFpXVlA3aG1HVHprVldxbGVMa2NoX1BIRjVwWmlkNUNIN3lHNDRJanlhSWxpX0lnTFlLQkxuVWlCM3RwRzdWYjRIRWUta1JGajB3c1lDOXF4aGtZM216bVV0UG9uczZMcV83blE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 06:25:09 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 06:25:09 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pune Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1432,7 +1631,7 @@
       "id": "पुणे 1 ऑक्टोबर 2026 ठळक बातम्या आधार",
       "title": "पुणे, 1 ऑक्टोबर 2026 ठळक बातम्या: आधार",
       "summary": "पुणे, 1 ऑक्टोबर 2026 ठळक बातम्या: आधार",
-      "source": "LatestLY",
+      "source": "marathi.latestly.com",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRm00S2lKeWFwY0VBb00za2QxbF8wdXd3VDBPcS0xSmVORnF5ajZ4R2VUdjJoQnkxZHFLVnowQUs3MmpxeUI5V09lbUg1VFh1RXdFRkZIVlJzMlByLXFJU0VyNTdrc1JQNkFuaGM2dDFZZER6c2l4UWdZbjdHdnJaQjlfdDg1Q0FSNTA0RWxDSjVOSTY0TENKOdIBngFBVV95cUxPd1c4Z0VCWG9yTUdTWVBucVN2R0dnTjYzVEVlbng1WE9abzVSX2VZQkVvOUFPNTFudEdNWlJNajY0YU5UMFR5Z2tRamZTbzVrN3d2TDg0VURhamtmRHI2VFNNbG5lOUNxTkJoOThiQnJwb0d2Tkc1Q1d2bG4tQW0tUHZqbFVaa2xpWEY1MlN5U2VBc1B0MlpFVDFZTlpoQQ?oc=5",
       "pubDate": "Thu, 01 Oct 2026 05:30:56 GMT",
@@ -1440,7 +1639,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "LatestLY"
+        "marathi.latestly.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1479,8 +1678,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0FYalR4SU5DUHc3OHdCSjZTU1lEeEJpd2hrTWh2LVIyUlpMUlFxMFVPcnlUVEtDSjR6bV9WM0llY0VCRjJSMnVFZkdtRDloaVBBQVoxbkIxQTY4T28wa2QyTDMyUmcxbHVkbTVGVndGTjg2TEZuUUJjX3oxVUdzWTJ2ZkVPLXE2bV9hblV5QWJDWkY5LUEtYnN0dkJjaUFuVkpSaTZCOWhDc2ZKUTF1aFBjMEF2NnlQOEg3NmZOWEdndGtKenp1NUpXR2NDTEFmVk5JYQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 04:52:17 GMT",
-      "lastUpdated": "Thu, 01 Oct 2026 04:52:17 GMT",
+      "pubDate": "Thu, 01 Oct 2026 04:52:00 GMT",
+      "lastUpdated": "Thu, 01 Oct 2026 04:52:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1542,7 +1741,7 @@
       "id": "maharashtra weather महाराष्ट्रात पावसाचा जोर ओसरला आज कुठे पावसाची शक्यता जाणून घ्या हवामा",
       "title": "Maharashtra Weather : महाराष्ट्रात पावसाचा जोर ओसरला; आज कुठे पावसाची शक्यता? जाणून घ्या हवामान अपडेट",
       "summary": "Maharashtra Weather : महाराष्ट्रात पावसाचा जोर ओसरला; आज कुठे पावसाची शक्यता? जाणून घ्या हवामान अपडेट",
-      "source": "prahaar.in",
+      "source": "Prahaar.in",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUI1WnBFM2hRNFQ4aG41Y1FZSnJJd2YwcTJoVWJvODNyV2RVTU9YZ2dkS3hCMmxscVpUUEdVbU9NalNEODhIQXp4WExqc0hpMjRhUVFFWnJ5S2g4akE5UnRRVGlKWElXb2FFRzMzR0FpQm9jeWdoLU05WXRFSGhpWUNhYXd6b0QwRnY4Y01nUmRSckRTVnVScnpzcVBMSmplbWFmOFFRSXIwMi1vZTVGbFVmUEdMdGo3N0NTT1RmRThZams?oc=5",
       "pubDate": "Thu, 01 Oct 2026 03:22:00 GMT",
@@ -1550,7 +1749,7 @@
       "areas": [],
       "region": "pune",
       "sources": [
-        "prahaar.in"
+        "Prahaar.in"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1757,56 +1956,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "मान्सूनचा परतीचा प्रवास राज्यात 3 दिवसांत हजेरी पुढील 4 5 दिवस महाराष्ट्रातील अनेक भागांत ",
-      "title": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
-      "summary": "मान्सूनचा परतीचा प्रवास; राज्यात 3 दिवसांत हजेरी: पुढील 4-5 दिवस महाराष्ट्रातील अनेक भागांत पावसाचा 'यलो अल...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkxDWDBLb0Nud0l5YWE3VkJERjZpR09UMGQ4b1ZyZ0QwUFM0amZEQjdUaHUyeWpYLWxGMTJ4QjBmU2lqWWhsM21BVG1hVnpiSEJ3R0Z5SmhiLVVxN3BteUJlWFdvV2ZNbDlJUGYybTkwZldsNGlkeGVUUXJrLW9ZSDF2YXdJVjlDdFU3bkZSQTJPM05Eelpjc25kTEFQTU1FSEN2dzg0eVhSZW5JaW9MeXVJRnphaEp5SVdfWFprMzNQUVNtN0ZSaXlB0gHPAUFVX3lxTE1MblRiS0wwZnFsYWpnZkZadU5iRzJqWWdyeFNrbmdjYjFhWkRIVW5xQ2VDOHFrTE1iS0JwZ0tOaUVSdnl5d2RKTExLU1VpVkM1bzVTaXpVMXU1YVYzTnBuekhuTXZQWFNxRmVndm5LYTAtX2U5eU41UGk2X2dvck1kRmZvUFB6Tkw2NFVqSm1fbjBfUTVTTTJrdXpmbFVLa3Azd25hOXB6bEstdV93LWpYbHkteVdCZjR5Q1JwZ0FYRElTZXFuMk0xRG11eER5TQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 23:46:17 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 23:46:17 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "khopoli तासभरात दाणादाण खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस मुंबई पुणे महामार्गावरील पत्रे",
-      "title": "Khopoli News: तासभरात दाणादाण! खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस; मुंबई-पुणे महामार्गावरील पत्रे उडाले",
-      "summary": "Khopoli News: तासभरात दाणादाण! खोपोलीत वादळी वाऱ्यासह मुसळधार पाऊस; मुंबई-पुणे महामार्गावरील पत्रे उडाले",
-      "source": "Dainik Prabhat",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSjM5bzdaRlpPdUxJbnJmblFEOTNmZE55OGJPbUh4THZFcE1RclFMeXpQWDE0ZnJwX2pHcG1Ebng4ZTFRZ1lScUdKSzV0czZUZE9vMkRoa0tJMFJCdGRPWDFIeS14eWVsb2Ffa29FVFBma2xxYTRVWTlJQmhmcldaUVBscUhCSjVtSXlZQkxEWWowS3Z1YTREWnBBeFlaUGhCdFJTaU41bmFNNmVmanFuZWJrdzZUUG5CLW5qRGF4NUUwN0wxVlNTOWw1NlJPcmVTcHRNX3l6SGI4XzdVaWRoZmVpbzI2WVVtX0ItVDEtUHlaUXVRRWVSTUNuakpYV1hz?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:45:00 GMT",
-      "lastUpdated": "Wed, 30 Sep 2026 19:45:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Prabhat"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 48,
+    "total": 51,
     "alerts": 14,
-    "news": 34
+    "news": 37
   },
-  "cleanedAt": "2026-10-01T16:35:24.935Z"
+  "cleanedAt": "2026-10-01T21:31:12.851Z"
 }
