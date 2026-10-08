@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T18:15:58.871Z",
+  "generatedAt": "2026-10-08T23:28:57.305Z",
   "status": "ok",
   "alerts": [
     {
@@ -28,6 +28,38 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "central railway cancels multiple trains as landslide restoration continues in lonavala kar",
+      "title": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
+      "summary": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzVZVlJ0WV9sRV83YXpITFJ0blVXWm1JRnhVcmFfWGFlZUFBb3RfSDM0cDBVUTE0eFBYOXplUHhPQ3JfRU93S21CckxBcFZwSDZXR2xrN213ekhmRU9nUk5oaEdDeFFkNGZ2cVBZR0dNUnN3d3I5bDQyMm1jMjFUbHRjS25wcUlvUEV5SGRZbWZyaWh6VVljNktRSmtKUHB3UWRscnNMdXZFRWRTOG15M2FpOXZHNURUMVpodWpzN1gydw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:13:17 GMT",
+      "lastUpdated": "Thu, 08 Oct 2026 06:13:17 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "goa road accidents गोव्यात रस्ते अपघातात वाढ पण मृतांची संख्या घटली पोलिस अधीक्षक राजेंद्र",
@@ -92,37 +124,31 @@
       "correlation": [
         "Power supply impact possible."
       ]
-    },
-    {
-      "id": "msedcl to install load bifurcation transformers for farmers",
-      "title": "MSEDCL to install load bifurcation transformers for farmers",
-      "summary": "MSEDCL to install load bifurcation transformers for farmers",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYldYaE5XNHo2WmQ4b19QSnpBNTBRZlE2a3NIbmROb1p2ZTJMVlZNbXpsVjd4ZXRYck02UXR1RUpQc2pNU0E5NTdpU3g1SVRpSkJmdnppOE5LRHFJbXhGU2tYbGd6ck5YTFlSY2xzZDJDMEo0UlZ4Mkx5S0hQckJVUWZsR08xU1pGeVdjWUxxNGhiRkhKUFBPcEdHckxTclZ4SHk3RGt5RVlZU0dYOTJXTUdJS3BTUnJtMUw1YXlkMXBteHNFc2dZUFVOVGhIYjIy0gHQAUFVX3lxTE9iV1hoTlc0ejZaZDhvX1BKekE1MFFmUTZrc0huZE5vWnZlMkxWVk1temxWN3hldFhyTTZRdHVFSlBzak1TQTk1N2lTeDVJVGlKQmZ2emk4TktEcUlteEZTa1hsZ3pyTlhMWVJjbHNkMkMwSjRSVngyTHlLSFByQlVRZmxHTzFTWkZ5V2NZTHE0aGJGSEpQUE9wR0dyTFNyVnhIeTdEa3lFWVlTR1g5MldNR0lLcFNScm0xTDVheWQxcG14c0VzZ1lQVU5UaEhiMjI?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 19:11:00 GMT",
-      "lastUpdated": "Wed, 07 Oct 2026 19:11:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     }
   ],
   "news": [
+    {
+      "id": "nana patekar अभिनेते नाना पाटेकर अनंतात विलीन शासकीय इतमामात अंत्यसंस्कार",
+      "title": "Nana Patekar: अभिनेते नाना पाटेकर अनंतात विलीन; शासकीय इतमामात अंत्यसंस्कार",
+      "summary": "Nana Patekar: अभिनेते नाना पाटेकर अनंतात विलीन; शासकीय इतमामात अंत्यसंस्कार",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPam1mY3pTMW02TmFXZnVsd1NBNmRvam9hRG11T1ZwdU1aeTkxNUNZOXhienZYNHdMWkUyV1JKZE9MWnJYRmZZMWh3UmhwcXUtQnNoR0dsOWVTajFrekJOc3RESWdKaGNEbVhmc1NzYUpIMENjaDNUb1R3N1NHbTAxSXllZ2p2VW9TRS1IZ1NQSGJpRWpPaTRYU1owNGlfZ2U1VlE3YmoySS01aUpjQVZzclZVdGQwLUJBa3RwRDNZMzZ2T3A4b3kzSFh5U1FZRVRRMkxwQl9RS0dRMXN5SjlwNHA1bDdkdjhnM3BiV2VB0gHuAUFVX3lxTE9qbWZjelMxbTZOYVdmdWx3U0E2ZG9qb2FEbXVPVnB1TVp5OTE1Q1k5eGJ6dlg0d0xaRTJXUkpkT0xaclhGZlkxaHdSaHBxdS1Cc2hHR2w5ZVNqMWt6Qk5zdERJZ0poY0RtWGZzU3NhSkgwQ2NoM1RvVHc3U0dtMDFJeWVnanZVb1NFLUhnU1BIYmlFak9pNFhTWjA0aV9nZTVWUTdiajJJLTVpSmNBVnNyVlV0ZDAtQkFrdHBEM1kzNnZPcDhveTNIWHlTUVlFVFEyTHBCX1FLR1Exc3lKOXA0cDVsN2R2OGczcGJXZUE?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 18:02:00 GMT",
+      "lastUpdated": "Thu, 08 Oct 2026 18:02:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
     {
       "id": "ऑक्टोबरमध्ये उन्हाचा कहर मुंबईसह ६ जिल्ह्यांना उष्णतेच्या लाटेचा इशारा हवामान विभागाकडून २",
       "title": "ऑक्टोबरमध्ये उन्हाचा कहर! मुंबईसह ६ जिल्ह्यांना उष्णतेच्या लाटेचा इशारा; हवामान विभागाकडून २ दिवसासाठी अलर्ट",
@@ -300,28 +326,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "bhopal new market engulfed in flames people jump from houses to escape",
-      "title": "Bhopal New Market Engulfed in Flames, People Jump From Houses to Escape",
-      "summary": "Bhopal New Market Engulfed in Flames, People Jump From Houses to Escape",
-      "source": "Dainik Jagran MP CG",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUItT3lnM2lmRno1VWR5U2hvbFBjcGk3N01VcVhxX0R5bzdZQjFNRDRpSzFBTmZvVmdpNkZnOFBMWXFtMXFQZzJHLTJVekt6RFVWQXBUTHF2V2ZuMjBVbTRkZlNwNE5SVzF6OXkyQXA3V2lvSndVZlZFZExNQlRoWUVqOEN1UzlYSVprbUVkM0JHcHRyX1FFcVdZem9XbVdDeW1qQnc3d3pFdEFEVldseERncktoQm5ZZlVYYmxIZV9IdVdWb0hwWlF1cDlDdw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:07:50 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 11:07:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Jagran MP CG"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "खांब अराजकतेचे भाग १ नगर रोड वर सुखाचा प्रवास खाली मृत्यूचा वास",
       "title": "Pune | खांब अराजकतेचे भाग १ : (नगर रोड) वर सुखाचा प्रवास; खाली मृत्यूचा वास…",
       "summary": "Pune | खांब अराजकतेचे भाग १ : (नगर रोड) वर सुखाचा प्रवास; खाली मृत्यूचा वास…",
@@ -356,28 +360,6 @@
       "region": "pune",
       "sources": [
         "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणेकरांनो पीएमपीनं प्रवास करताना सावधान भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच ज्येष्",
-      "title": "पुणेकरांनो, पीएमपीनं प्रवास करताना सावधान! भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच, ज्येष्ठ नागरिकासोबत धक्कादायक घटना",
-      "summary": "पुणेकरांनो, पीएमपीनं प्रवास करताना सावधान! भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच, ज्येष्ठ नागरिकासोबत धक्कादायक घटना",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkVtYVMwVjFSNl9pV3NMME5oZm53emUxWHM2aG5MRGp0NksxZThCY0xJTFZvZk4xcm40RE41cFRjTGxuc2JfcTM0UVNDUUpvRW8wanFtc2t4ckI2QzNCNmVTWlhoYXRfcHZuMmlvVlY0S1FjQmxydzBNNFlvZHpiLWkzcE1PUnJxSVdSUmpRZkg2R1pZSHFhelkyTExwZU5DOGpJQWpxXzVwVGxlQk43bEhfdzJZbEE5Wmc?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:26:00 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 07:26:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -549,6 +531,35 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "central railway cancels multiple trains as landslide restoration continues in lonavala kar",
+      "title": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
+      "summary": "Central Railway cancels multiple trains as landslide restoration continues in Lonavala-Karjat Ghat",
+      "source": "DD News",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzVZVlJ0WV9sRV83YXpITFJ0blVXWm1JRnhVcmFfWGFlZUFBb3RfSDM0cDBVUTE0eFBYOXplUHhPQ3JfRU93S21CckxBcFZwSDZXR2xrN213ekhmRU9nUk5oaEdDeFFkNGZ2cVBZR0dNUnN3d3I5bDQyMm1jMjFUbHRjS25wcUlvUEV5SGRZbWZyaWh6VVljNktRSmtKUHB3UWRscnNMdXZFRWRTOG15M2FpOXZHNURUMVpodWpzN1gydw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:13:17 GMT",
+      "lastUpdated": "Thu, 08 Oct 2026 06:13:17 GMT",
+      "areas": [
+        "Lonavala"
+      ],
+      "region": "pune",
+      "sources": [
+        "DD News"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
+    },
+    {
       "id": "goa road accidents गोव्यात रस्ते अपघातात वाढ पण मृतांची संख्या घटली पोलिस अधीक्षक राजेंद्र",
       "title": "Goa Road Accidents | गोव्यात रस्ते अपघातात वाढ, पण मृतांची संख्या घटली; पोलिस अधीक्षक राजेंद्र प्रभुदेसाई यांची माहिती",
       "summary": "Goa Road Accidents | गोव्यात रस्ते अपघातात वाढ, पण मृतांची संख्या घटली; पोलिस अधीक्षक राजेंद्र प्रभुदेसाई यांची माहिती",
@@ -607,32 +618,26 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "msedcl to install load bifurcation transformers for farmers",
-      "title": "MSEDCL to install load bifurcation transformers for farmers",
-      "summary": "MSEDCL to install load bifurcation transformers for farmers",
-      "source": "The Times of India",
+      "id": "nana patekar अभिनेते नाना पाटेकर अनंतात विलीन शासकीय इतमामात अंत्यसंस्कार",
+      "title": "Nana Patekar: अभिनेते नाना पाटेकर अनंतात विलीन; शासकीय इतमामात अंत्यसंस्कार",
+      "summary": "Nana Patekar: अभिनेते नाना पाटेकर अनंतात विलीन; शासकीय इतमामात अंत्यसंस्कार",
+      "source": "Saam Tv",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYldYaE5XNHo2WmQ4b19QSnpBNTBRZlE2a3NIbmROb1p2ZTJMVlZNbXpsVjd4ZXRYck02UXR1RUpQc2pNU0E5NTdpU3g1SVRpSkJmdnppOE5LRHFJbXhGU2tYbGd6ck5YTFlSY2xzZDJDMEo0UlZ4Mkx5S0hQckJVUWZsR08xU1pGeVdjWUxxNGhiRkhKUFBPcEdHckxTclZ4SHk3RGt5RVlZU0dYOTJXTUdJS3BTUnJtMUw1YXlkMXBteHNFc2dZUFVOVGhIYjIy0gHQAUFVX3lxTE9iV1hoTlc0ejZaZDhvX1BKekE1MFFmUTZrc0huZE5vWnZlMkxWVk1temxWN3hldFhyTTZRdHVFSlBzak1TQTk1N2lTeDVJVGlKQmZ2emk4TktEcUlteEZTa1hsZ3pyTlhMWVJjbHNkMkMwSjRSVngyTHlLSFByQlVRZmxHTzFTWkZ5V2NZTHE0aGJGSEpQUE9wR0dyTFNyVnhIeTdEa3lFWVlTR1g5MldNR0lLcFNScm0xTDVheWQxcG14c0VzZ1lQVU5UaEhiMjI?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 19:11:00 GMT",
-      "lastUpdated": "Wed, 07 Oct 2026 19:11:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPam1mY3pTMW02TmFXZnVsd1NBNmRvam9hRG11T1ZwdU1aeTkxNUNZOXhienZYNHdMWkUyV1JKZE9MWnJYRmZZMWh3UmhwcXUtQnNoR0dsOWVTajFrekJOc3RESWdKaGNEbVhmc1NzYUpIMENjaDNUb1R3N1NHbTAxSXllZ2p2VW9TRS1IZ1NQSGJpRWpPaTRYU1owNGlfZ2U1VlE3YmoySS01aUpjQVZzclZVdGQwLUJBa3RwRDNZMzZ2T3A4b3kzSFh5U1FZRVRRMkxwQl9RS0dRMXN5SjlwNHA1bDdkdjhnM3BiV2VB0gHuAUFVX3lxTE9qbWZjelMxbTZOYVdmdWx3U0E2ZG9qb2FEbXVPVnB1TVp5OTE1Q1k5eGJ6dlg0d0xaRTJXUkpkT0xaclhGZlkxaHdSaHBxdS1Cc2hHR2w5ZVNqMWt6Qk5zdERJZ0poY0RtWGZzU3NhSkgwQ2NoM1RvVHc3U0dtMDFJeWVnanZVb1NFLUhnU1BIYmlFak9pNFhTWjA0aV9nZTVWUTdiajJJLTVpSmNBVnNyVlV0ZDAtQkFrdHBEM1kzNnZPcDhveTNIWHlTUVlFVFEyTHBCX1FLR1Exc3lKOXA0cDVsN2R2OGczcGJXZUE?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 18:02:00 GMT",
+      "lastUpdated": "Thu, 08 Oct 2026 18:02:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Times of India"
+        "Saam Tv"
       ],
       "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "ऑक्टोबरमध्ये उन्हाचा कहर मुंबईसह ६ जिल्ह्यांना उष्णतेच्या लाटेचा इशारा हवामान विभागाकडून २",
@@ -811,28 +816,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "bhopal new market engulfed in flames people jump from houses to escape",
-      "title": "Bhopal New Market Engulfed in Flames, People Jump From Houses to Escape",
-      "summary": "Bhopal New Market Engulfed in Flames, People Jump From Houses to Escape",
-      "source": "Dainik Jagran MP CG",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUItT3lnM2lmRno1VWR5U2hvbFBjcGk3N01VcVhxX0R5bzdZQjFNRDRpSzFBTmZvVmdpNkZnOFBMWXFtMXFQZzJHLTJVekt6RFVWQXBUTHF2V2ZuMjBVbTRkZlNwNE5SVzF6OXkyQXA3V2lvSndVZlZFZExNQlRoWUVqOEN1UzlYSVprbUVkM0JHcHRyX1FFcVdZem9XbVdDeW1qQnc3d3pFdEFEVldseERncktoQm5ZZlVYYmxIZV9IdVdWb0hwWlF1cDlDdw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:07:50 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 11:07:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Dainik Jagran MP CG"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "खांब अराजकतेचे भाग १ नगर रोड वर सुखाचा प्रवास खाली मृत्यूचा वास",
       "title": "Pune | खांब अराजकतेचे भाग १ : (नगर रोड) वर सुखाचा प्रवास; खाली मृत्यूचा वास…",
       "summary": "Pune | खांब अराजकतेचे भाग १ : (नगर रोड) वर सुखाचा प्रवास; खाली मृत्यूचा वास…",
@@ -867,28 +850,6 @@
       "region": "pune",
       "sources": [
         "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणेकरांनो पीएमपीनं प्रवास करताना सावधान भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच ज्येष्",
-      "title": "पुणेकरांनो, पीएमपीनं प्रवास करताना सावधान! भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच, ज्येष्ठ नागरिकासोबत धक्कादायक घटना",
-      "summary": "पुणेकरांनो, पीएमपीनं प्रवास करताना सावधान! भामट्यानं प्रवाशांच्या गर्दीतही कांड केलंच, ज्येष्ठ नागरिकासोबत धक्कादायक घटना",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkVtYVMwVjFSNl9pV3NMME5oZm53emUxWHM2aG5MRGp0NksxZThCY0xJTFZvZk4xcm40RE41cFRjTGxuc2JfcTM0UVNDUUpvRW8wanFtc2t4ckI2QzNCNmVTWlhoYXRfcHZuMmlvVlY0S1FjQmxydzBNNFlvZHpiLWkzcE1PUnJxSVdSUmpRZkg2R1pZSHFhelkyTExwZU5DOGpJQWpxXzVwVGxlQk43bEhfdzJZbEE5Wmc?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:26:00 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 07:26:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1032,9 +993,9 @@
     }
   ],
   "summary": {
-    "total": 27,
+    "total": 26,
     "alerts": 9,
-    "news": 18
+    "news": 17
   },
-  "cleanedAt": "2026-10-08T18:15:58.875Z"
+  "cleanedAt": "2026-10-08T23:28:57.317Z"
 }
