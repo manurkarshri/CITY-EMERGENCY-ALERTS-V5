@@ -1,7 +1,38 @@
 {
-  "generatedAt": "2026-10-09T17:15:43.712Z",
+  "generatedAt": "2026-10-09T21:48:06.613Z",
   "status": "ok",
   "alerts": [
+    {
+      "id": "navratrotsav नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल police announce traffic dive",
+      "title": "Navratrotsav : नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल Police Announce Traffic Diversions for Navratri Festival",
+      "summary": "Navratrotsav : नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल Police Announce Traffic Diversions for Navratri Festival",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmZ2NnlQYjRSRlVDQzg3Q1VDMTNVZUtvdWJzdFJpM284ZFVsWWxPM0h0Tko2ak9UNmhPT21WNjh4aThTTVFXLWdoaS1ham81Q0Ezb3FHOVZaNmFvZW5uaUlwbDFnRy1jRkNjM2dkclY0eWhuVFNtNGF5Vk8tVUM0VHNxOFZEaG9xS0ROd2xXN1oweFpoek04SFJvemE1YU1hdHlYZWZqMUpuZG8?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:08:51 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 18:08:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
     {
       "id": "accident कोल्हापुरात भीषण अपघातात ४ जणांचा मृत्यू भरधाव डंपरची ३ दुचाकींना जोरदार धडक",
       "title": "Accident News : कोल्हापुरात भीषण अपघातात ४ जणांचा मृत्यू; भरधाव डंपरची ३ दुचाकींना जोरदार धडक",
@@ -29,6 +60,37 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "power cuts disrupt market yard traders during festive season",
+      "title": "Power cuts disrupt Market Yard traders during festive season",
+      "summary": "Power cuts disrupt Market Yard traders during festive season",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnJjd3A2YVUxTThXWVRoUFBMV2JwWnF6ajhpNTdoWUZEdEZldTdmWnQtdVdrSHhGM2xfcm1jRDVvYTZtejlpOEdLWE5jQzNLUUN6dURudHBBcWduMHZYSnJ4b0NmUm9XRU9NLVZfN2VQVEt1YzkwXzZkbUFJQzU2Wm5zaXc3Wm9JN1hvekdMc0pzTVZ3ZmlBbC0wYy04dG1YWTZUclFoaGstRDh1UmxBZHItSjk4Y1ZreUZMa09EVzFJdm9ra2hwYlMtUUVFN2VvWkHSAdIBQVVfeXFMTlpyY3dwNmFVMU04V1lUaFBQTFdicFpxemo4aTU3aFlGRHRGZXU3Zlp0LXVXa0h4RjNsX3JtY0Q1b2E2bXo5aThHS1hOY0MzS1FDenVEbnRwQXFnbjB2WEpyeG9DZlJvV0VPTS1WXzdlUFRLdWM5MF82ZG1BSUM1Nlpuc2l3N1pvSTdYb3pHTHNKc01Wd2ZpQWwtMGMtOHRtWFk2VHJRaGhrLUQ4dVJsQWRyLUo5OGNWa3lGTGtPRFcxSXZva2tocGJTLVFFRTdlb1pB?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:05:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 18:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     },
     {
       "id": "market yard power cut विजेच्या लपंडावाने मार्केट यार्डातील वजनकाटे बिलिंग ठप्प",
@@ -93,6 +155,39 @@
       "action": "Stay alert and follow police advisories."
     },
     {
+      "id": "streetlight power supply test triggers traffic signal outage in",
+      "title": "Streetlight power supply test triggers traffic signal outage in Pune",
+      "summary": "Streetlight power supply test triggers traffic signal outage in Pune",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN29mS2hhVjBJX2t2aDhaM3pkSGNYQjdEMXJzSkU3TDljSzZKcmZFalZFR2hqZlVTUTdUUV9hZC00aTR6WDVWWGFWUTdzOUhNOG84c1dzLVRZR09tU2NvaUUtOGRKdmNjQk9GVHJfZVRKYTh2QS1fMW93Zi1rQURQZUM4dTBZa25qXzFobldEbFVCNlhIeHp1MmFaYzFxbGdJT2JzQmxuemhEYy1FeTZSR0hJbk5pQXljM3puRkRDWTBnbXpZNlp0QVctMEg2bEltb3BxcFlqWU0xTkpV0gHcAUFVX3lxTE03b2ZLaGFWMElfa3ZoOFozemRIY1hCN0QxcnNKRTdMOWNLNkpyZkVqVkVHaGpmVVNRN1RRX2FkLTRpNHpYNVZYYVZRN3M5SE04bzhzV3MtVFlHT21TY29pRS04ZEp2Y2NCT0ZUcl9lVEphOHZBLV8xb3dmLWtBRFBlQzh1MFlrbmpfMWhuV0RsVUI2WEh4enUyYVpjMXFsZ0lPYnNCbG56aERjLUV5NlJHSEluTmlBeWMzem5GRENZMGdtelk2WnRBVy0wSDZsSW1vcHFwWWpZTTFOSlU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 19:15:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 19:15:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible.",
+        "Power supply impact possible."
+      ]
+    },
+    {
       "id": "manmad indore highway मनमाडमध्ये भीषण अपघात भरधाव ट्रकने चिरडल्याने 19 वर्षीय युवतीचा दुर्",
       "title": "Manmad Pune Indore Highway | मनमाडमध्ये भीषण अपघात! भरधाव ट्रकने चिरडल्याने 19 वर्षीय युवतीचा दुर्दैवी मृत्यू, 8 वर्षांचा भाऊ गंभीर",
       "summary": "Manmad Pune Indore Highway | मनमाडमध्ये भीषण अपघात! भरधाव ट्रकने चिरडल्याने 19 वर्षीय युवतीचा दुर्दैवी मृत्यू, 8 वर्षांचा भाऊ गंभीर",
@@ -122,6 +217,50 @@
       "action": "Check route before starting travel."
     },
     {
+      "id": "super duper el nino warning डिसेंबरमध्ये भारतात थंडी गायब होणार हवामान विभागाचा मोठा इशारा",
+      "title": "Super-Duper El Nino Warning | डिसेंबरमध्ये भारतात थंडी गायब होणार? हवामान विभागाचा मोठा इशारा?",
+      "summary": "Super-Duper El Nino Warning | डिसेंबरमध्ये भारतात थंडी गायब होणार? हवामान विभागाचा मोठा इशारा?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWQ0MzVCVGR6RUpSTTl4NDhiQ052VkVlUV8yc3E5aUlXM09Oa0h3b0w4QkZvdjJFTDVselIyUzV3SmE5MFFUcDN3bXNGMExnSW9Tc21xTXlNUTdmVlJHWWVsWllKMkR6ZVp6UnVhRUtfSENYV0tRWTN2c1YtYzROajR6UWtUTWxOQlEwdGh3?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:52:32 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 17:52:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "india march राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद कोणते मुद्दे सांगितले",
+      "title": "INDIA March News | राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद! कोणते मुद्दे सांगितले?",
+      "summary": "INDIA March News | राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद! कोणते मुद्दे सांगितले?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bEJqZGM5T2N2ZEhZMDhOaThQZkNCWEp2T05ueVBUdXU1ZVg3Uk5BMlFfRnVnOU40d1NYOWJDZ2NJMkE3bkJ4MzBVQ2ZtWUFlbmZVVU9NdEZxQVRlcmVYNUNGNDNtTG90VWlfcG9BNmNUU0JkRTJrNlZTSlkzZFU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 16:23:37 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 16:23:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "imd alert महाराष्ट्रावर तिहेरी संकट हवामान खात्याचा अलर्ट",
       "title": "IMD Alert: महाराष्ट्रावर तिहेरी संकट, हवामान खात्याचा अलर्ट",
       "summary": "IMD Alert: महाराष्ट्रावर तिहेरी संकट, हवामान खात्याचा अलर्ट",
@@ -144,36 +283,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार हवामान विभागाची अधिकृत घोषणा लवकरच देशातूनही न",
-      "title": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
-      "summary": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMDd0QmV4SDFaWlAyMmx6R0tjNkJ5VUpQVTRGYnNhNXJEUlprOTcxQXA0VUhiS3pabHNhaXpEUXhRZDU3OHBFVHlURXJKamM1MUE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:59:50 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:59:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रासाठी 24 तास धोक्याचे आता 3 संकटं येणार हवामान खात्याकडून अलर्ट",
-      "title": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
+      "id": "india march विरोधकांचा राष्ट्रपती भवनाकडे मार्च काँग्रेस भाजपचे प्रवक्ते काय म्हणाले",
+      "title": "INDIA March News | विरोधकांचा राष्ट्रपती भवनाकडे मार्च! काँग्रेस, भाजपचे प्रवक्ते काय म्हणाले?",
+      "summary": "INDIA March News | विरोधकांचा राष्ट्रपती भवनाकडे मार्च! काँग्रेस, भाजपचे प्रवक्ते काय म्हणाले?",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWDdRZkVRbVlSeUR3ejVveWhpYUNtLTIyNG1GZThwNzd6ay1JcFcxWXRjcTNVRUhVTFY4d3ZxQnFua0JjeFhmbGpaLTUtYlBPaEJGbk9jbmxnczZqd0ozRHR2RzNOOWo3V0ZwWXlmSWs1ZXVIZTlQZVVuM3FQS1ExenhrN3JyYWRYLUV2RTdRZEtzUWNKYkM2clI5VkN5aG9BdWY0a05XQWh2RGhmR0dBai1WWWtnUnZ5RjBUUGlfQ1NzdmxpZkdYV0JFUFc3S1lkRFdaUnF1QXFQOUZPcFkyemNUWk9mcUtiUWJEVDktRm9uNlB1UWc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:38:00 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:38:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QOW1MaHRRNUFoRGt5RWRkOUkxamdUZWhyOVNMNlBVVkI1MWs0SXdxRk5BbWlHeVgwUThGckpLT081WXdOREZHVXJrUkVjSlFYWHItZXh5TGJzU2RZOTl0UnpuTkUwOGpyY0VUbkV5a3dnaHE3cG9VTlh0cUtiNlU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:52:14 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 14:52:14 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -210,14 +327,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mpsc student protest नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा ऐकदा पाहाच",
-      "title": "Pune MPSC Student Protest | नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा! ऐकदा पाहाच",
-      "summary": "Pune MPSC Student Protest | नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा! ऐकदा पाहाच",
+      "id": "weather alert महाराष्ट्रासाठी 24 तास धोक्याचे आता 3 संकटं येणार हवामान खात्याकडून अलर्ट",
+      "title": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzI1Uk1GNkJXM0ZlWFdwSDc2T3BXTGp2QzhVRlBabnA3ZTNMM0haX2hUMXFkT3MzTGFYem1GYVJjS1BCSkdENnI2c0dpc1JudFlZemxBWlZEWjdQSkl4UE4wTUw1QnVpYkYtdUJOTVp3SHo3dzkzUDZLRmVOWm5fYTd6aWZaSFJnRWkw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:15:24 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:15:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWDdRZkVRbVlSeUR3ejVveWhpYUNtLTIyNG1GZThwNzd6ay1JcFcxWXRjcTNVRUhVTFY4d3ZxQnFua0JjeFhmbGpaLTUtYlBPaEJGbk9jbmxnczZqd0ozRHR2RzNOOWo3V0ZwWXlmSWs1ZXVIZTlQZVVuM3FQS1ExenhrN3JyYWRYLUV2RTdRZEtzUWNKYkM2clI5VkN5aG9BdWY0a05XQWh2RGhmR0dBai1WWWtnUnZ5RjBUUGlfQ1NzdmxpZkdYV0JFUFc3S1lkRFdaUnF1QXFQOUZPcFkyemNUWk9mcUtiUWJEVDktRm9uNlB1UWc?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:58:07 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 13:58:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -278,6 +395,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पद",
+      "title": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पदार्पण",
+      "summary": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पदार्पण",
+      "source": "Pune Prahar",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUlUMlZvYWtId0ZBMmlta1RlVEV1ZjZrZWZZMTJqNlR0MXFXN29oQlM1WlhDdm5rSU0wbnFKVUU4UzBVSGYyM0pLVFM0ZFJUZEt0azZSdm5sSFB1NzdWTEpsLVplNURkX29HME9rNGlGX0l0N0EtblhtU01UTjR3Q1FLbUZPSm5Vbm9hbW9kYVpPaVlock9qMUdyVkJydU5PZWtBRWl0RHVtSmRfa2l0andDMjdzTGFoYnBteFR2OHA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 12:01:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 12:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Prahar"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "flying home for diwali costs double the fare to dubai from",
       "title": "Flying Home for Diwali Costs Double the Fare to Dubai from Pune",
       "summary": "Flying Home for Diwali Costs Double the Fare to Dubai from Pune",
@@ -322,18 +461,40 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रातून मान्सूनची पूर्ण माघार दुष्काळाचे संकट गडद कोकण गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "title": "महाराष्ट्रातून मान्सूनची पूर्ण माघार; दुष्काळाचे संकट गडद, कोकण-गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "summary": "महाराष्ट्रातून मान्सूनची पूर्ण माघार; दुष्काळाचे संकट गडद, कोकण-गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "source": "NavShakti",
+      "id": "पुणे महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार हवामान विभागाची अधिकृत घोषणा लवकरच देशातूनही न",
+      "title": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
+      "summary": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
+      "source": "Instagram",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTlmTjhONk0wT1dtM0xCbzdPTThjalRhMmJwME9DT3k1S3J3ZnNCek9jSTRQSWVLdjNJYVdKaHpnVno5TzFsMm5VdWljOUUwYm9rSEN2Si1GZzZOek1LTzJOZ2syR3RDYURtRmNnRFQ5clB3SFRMcWtINTBnWlVPZDZUTnBCZm04dFBSeUxjYThZdWl4VVgwMFNKOWhpajFOelhOeFJROUZkOURNUzdjUlNyQlh6azNzLXhfMDIxTnpROHBpdzc4Um16Sk5fTmdkWDVxNl9fUdIB5AFBVV95cUxNSXplUmVUaEJLSUFKUV9FU2tOamNKbUpGNnBIZ3EzaEJGY1l6T2h1UEFzVFhtRVlpVnQ2UWlYUGtudDNDNmRkUTZFdUFFYnFMUGtUTzh5LWxyUEFTR05fc3pVMDF5Vm91VVgxbXFkek9ESEdhUDJMSGsxcTlmeG9rMnJkcUlOQ1J6OHBrbmVHZzRDV0tEQm56cHFzbU1PRHlDUDd5NUNyS1otb21XMEFFdk9TNllOTGthMmdOX1lZVFN5YmItYjRkYWRsQjExR0JjeEV2Rnd5UjltNXVoMVJuTno0Vy0?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 05:30:14 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 05:30:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMDd0QmV4SDFaWlAyMmx6R0tjNkJ5VUpQVTRGYnNhNXJEUlprOTcxQXA0VUhiS3pabHNhaXpEUXhRZDU3OHBFVHlURXJKamM1MUE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 09:25:15 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 09:25:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "NavShakti"
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "title": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "summary": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wZHEydjk0VjBnM1h5U0J2QTkwLVMza2V2Y2JZeERTTTdZanpzT3hUMUtYcVJwbHM1T1VnYVFwT3ctLXB1WGVOZW5yTmV4SXFFdm5CNGp2a1BGTmpMNDBzRG9EY1FwczBqS3N1U1pPU18yaFdJU1HSAXZBVV95cUxOcGRxMnY5NFYwZzNYeVNCdkE5MC1TM2tldmNiWXhEU003WWp6c094VDFLWHFScGxzNU9VZ2FRcE93LS1wdVhlTmVuck5leElxRXZuQjRqdmtQRk5qTDQwc0RvRGNRcHMwaktzdVNaT1NfMmhXSVNR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 04:27:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 04:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -432,34 +593,12 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यातील mpscच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली नाशिकवरून आलेल्या विद्यार्थ्यांचा",
-      "title": "Video: पुण्यातील MPSCच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली , नाशिकवरून आलेल्या विद्यार्थ्यांचा संताप",
-      "summary": "Video: पुण्यातील MPSCच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली , नाशिकवरून आलेल्या विद्यार्थ्यांचा संताप",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSFBmVFFaWFFnbVRvT3VvS3lrOVZkaEtJWGNaeTF5MW8yMnYwVndkTFBrUWZaN21QbzNqOFBEcUYzYWVveG40NU85a3VQb25LWmtJZk8yQUFFR3V1Qy1OeU91emZua25EMW5USk5fWHA1UkJfTnVjSG9xYi1LdVp4STJjNTVjZTZPc3VHcnNNQ2NaRWsxMWRDbkttZjFqUTJlUFdGVkRIbXJhMHBJcUJnUXNVXzkwU2UtNTA3TjViZXJob04xMlI4by1HaWt4TExCU3pPTjNHQlVpWVh5cy1zQVJ1dzYxR0ZLMEdINA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:16:10 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 03:16:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "title": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला, शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "summary": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला, शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNemE0RXBUUkNwUzl1X1ZqWWZfb0t0MFRaYW9sbjVKclZWNmR6X1ZlRnNMS1NRUlBGYjI1UE9UMklXY0E2MU0wc1l3cGY3RlZrY040ZjRXY3dyOXljc0xCb1dHdmJjaFVxc2JKTTl1U2Fic0V4WkxxVEhhWUpHM1doUG1HMHJwdDV5a0pVRVdQTENscjQ3MmZ5UG53bENhcWF3c3AzZi1VMlkwbDZRaHJzSXBQVFBQQTNjRk1vS04xTWhsTkpOSmRUY3h2M0E4bFU0U1hxbjhGZlhDelJaTmRmSW00alZNVVVkeWhHYnFTa1VYMFZQN05vd1YzbXZDUUNqNEVKMENObkZ0NElvcWdxYXRPcnYzaHdK0gGYAkFVX3lxTE16YTRFcFRSQ3BTOXVfVmpZZl9vS3QwVFphb2xuNUpyVlY2ZHpfVmVGc0xLU1FSUEZiMjVQT1QySVdjQTYxTTBzWXdwZjdGVmtjTjRmNFdjd3I5eWNzTEJvV0d2YmNoVXFzYkpNOXVTYWJzRXhaTHFUSGFZSkczV2hQbUcwcnB0NXlrSlVFV1BMQ2xyNDcyZnlQbndsQ2FxYXdzcDNmLVUyWTBsNlFocnNJcFBUUFBBM2NGTW9LTjFNaGxOSk5KZFRjeHYzQThsVTRTWHFuOEZmWEN6UlpOZGZJbTRqVk1VVWR5aEdicVNrVVgwVlA3Tm93VjNtdkNRQ2o0RUowQ05uRnQ0SW9xZ3FhdE9ydjNod0o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUTUxR2U1TDRqcFU4Ry1iY0NoMVBoYmJWTVUxUGsxY0JLSm1JSVFwQkJvamxSREhwWjBCSGF3Y2psd2Z0cmQ5SVV2UVBuNDV5MFVkZE9Wb2ExQ1ZUaGZpQ3M1MzBiSzZtSzNrNkExeDVrTnk1ZjdhQ3lXanQ0azh1YkRNSnhfc2hWYU5XTXRMNnVnOUJBX3ljMC04eS04cDE3cUhKaUJnRXZtQVB0TldhcGVfUncxUTlnVUhTLTI2RjJ6SXZQWjZSRlNYUmxtb3RHY3NfS01MakJwRlozMnExb2JiOU1aTW1WM0tjeEJhWklRREpNeUFEc2FDb2lCeTI2UUtYMDVaeUFsSjZFeTk3MDF1d9IBmAJBVV95cUxNemE0RXBUUkNwUzl1X1ZqWWZfb0t0MFRaYW9sbjVKclZWNmR6X1ZlRnNMS1NRUlBGYjI1UE9UMklXY0E2MU0wc1l3cGY3RlZrY040ZjRXY3dyOXljc0xCb1dHdmJjaFVxc2JKTTl1U2Fic0V4WkxxVEhhWUpHM1doUG1HMHJwdDV5a0pVRVdQTENscjQ3MmZ5UG53bENhcWF3c3AzZi1VMlkwbDZRaHJzSXBQVFBQQTNjRk1vS04xTWhsTkpOSmRUY3h2M0E4bFU0U1hxbjhGZlhDelJaTmRmSW00alZNVVVkeWhHYnFTa1VYMFZQN05vd1YzbXZDUUNqNEVKMENObkZ0NElvcWdxYXRPcnYzaHdK?oc=5",
       "pubDate": "Fri, 09 Oct 2026 03:12:05 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 03:12:05 GMT",
       "areas": [],
@@ -635,7 +774,7 @@
       "summary": "Pune District : भीमा नदीत १३ ऑक्टोबरपर्यंत पाणी सोडा",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGtjcWhkWXB0eVF0TXIxTmI1U29KQjF3Tk93OUtRNFN0c2g5VmdmN3J3X2VOX0VpUDFFbHdTX2lQM0VCYjVvWkJIcnpNSkdsN0hVTHhfejVkV05LOGtZVmFjY2QtWS1iaTVRT3ZxejBsc1p5dXhzNk9lb3pkWDVjWVdpUm1odw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUdQWVcyX29DdWY2U3c5a041ZVNoVWo4ZjZ5YTdzRmZPUTRUNU1aUXRuRWZnVm9RMlFPUTJWZGtsNHVIcEkySmwzNnAxdlYyS2xmSE55WjlwS0MyR1p2alY3d1V2b2Z3RUwwdmpIYTZvWTBJRjlpcDl2aW9zY0pWNkljNjE?oc=5",
       "pubDate": "Fri, 09 Oct 2026 01:58:00 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 01:58:00 GMT",
       "areas": [],
@@ -719,31 +858,37 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "spicejet s temporary exit leaves flyers with costly dubai options many turn to mumbai",
-      "title": "SpiceJet’s temporary exit leaves Pune flyers with costly Dubai options, many turn to Mumbai",
-      "summary": "SpiceJet’s temporary exit leaves Pune flyers with costly Dubai options, many turn to Mumbai",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkFTMkRQQzA5Q1JHMzl0bU9FckxiSFRfZzhjd1dGRnRmZm5obm9IVkxOVDRZU0pLTjNhUkdDek5vdzl5SXlNVXdtakZlNE9jdkpnamdOaGk3R1hjRTYxc2h3YnF6VzNSbWRfNGJOb3VZSFhnSDJmd25SZW9jVVlNYkdlWlNsbmI1YXRHUW5IRTFFVmVJNVZhQWpNRlpWN19Dd1c5Wm1UcFktZkZYdUg5LTNIN1h6THc4ZFZQcmRiZWRFUzlSeFhldUJkUjdfajNGTmFDbk95NFFWSkVvY0NlQmQyVXBEZXVGVjBlYWNIY01RWEnSAfgBQVVfeXFMUFpPTU5KLUMxamE5YU1XQ0xhNzc1OUxDUDNZbVhQQU12SnVBQlhLbktjTmxreF9oUS1RVVduV2lRWmxPRm8tRmZGNlh0OFFWb3kyMm8xTUdDRzZUaC1ORjdvNkJGS2hwOWU1MFQ0RVg1LTNGaXJmT1c4d1pGNkNfU0tiaVh0bmhaUmZJTW1JX1I3WHk2Q003dkxBVU1Jb2pDNlhHMTg2QVpzalRreGtZWkZBT0owb1g4ZERBR09PRml6eHd2ZGI3ZmZ4MW9tWlF6ZVcwUWVLNjFMQkxGQkU2YTE2YlZGaWdlUFZtNkhVa2ZLRElwdW01Rms?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 18:49:00 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 18:49:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
+    {
+      "id": "navratrotsav नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल police announce traffic dive",
+      "title": "Navratrotsav : नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल Police Announce Traffic Diversions for Navratri Festival",
+      "summary": "Navratrotsav : नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल Police Announce Traffic Diversions for Navratri Festival",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmZ2NnlQYjRSRlVDQzg3Q1VDMTNVZUtvdWJzdFJpM284ZFVsWWxPM0h0Tko2ak9UNmhPT21WNjh4aThTTVFXLWdoaS1ham81Q0Ezb3FHOVZaNmFvZW5uaUlwbDFnRy1jRkNjM2dkclY0eWhuVFNtNGF5Vk8tVUM0VHNxOFZEaG9xS0ROd2xXN1oweFpoek04SFJvemE1YU1hdHlYZWZqMUpuZG8?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:08:51 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 18:08:51 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion."
+    },
     {
       "id": "accident कोल्हापुरात भीषण अपघातात ४ जणांचा मृत्यू भरधाव डंपरची ३ दुचाकींना जोरदार धडक",
       "title": "Accident News : कोल्हापुरात भीषण अपघातात ४ जणांचा मृत्यू; भरधाव डंपरची ३ दुचाकींना जोरदार धडक",
@@ -800,6 +945,63 @@
       "icon": "🚓",
       "critical": false,
       "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "streetlight power supply test triggers traffic signal outage in",
+      "title": "Streetlight power supply test triggers traffic signal outage in Pune",
+      "summary": "Streetlight power supply test triggers traffic signal outage in Pune",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN29mS2hhVjBJX2t2aDhaM3pkSGNYQjdEMXJzSkU3TDljSzZKcmZFalZFR2hqZlVTUTdUUV9hZC00aTR6WDVWWGFWUTdzOUhNOG84c1dzLVRZR09tU2NvaUUtOGRKdmNjQk9GVHJfZVRKYTh2QS1fMW93Zi1rQURQZUM4dTBZa25qXzFobldEbFVCNlhIeHp1MmFaYzFxbGdJT2JzQmxuemhEYy1FeTZSR0hJbk5pQXljM3puRkRDWTBnbXpZNlp0QVctMEg2bEltb3BxcFlqWU0xTkpV0gHcAUFVX3lxTE03b2ZLaGFWMElfa3ZoOFozemRIY1hCN0QxcnNKRTdMOWNLNkpyZkVqVkVHaGpmVVNRN1RRX2FkLTRpNHpYNVZYYVZRN3M5SE04bzhzV3MtVFlHT21TY29pRS04ZEp2Y2NCT0ZUcl9lVEphOHZBLV8xb3dmLWtBRFBlQzh1MFlrbmpfMWhuV0RsVUI2WEh4enUyYVpjMXFsZ0lPYnNCbG56aERjLUV5NlJHSEluTmlBeWMzem5GRENZMGdtelk2WnRBVy0wSDZsSW1vcHFwWWpZTTFOSlU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 19:15:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 19:15:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
+      "id": "power cuts disrupt market yard traders during festive season",
+      "title": "Power cuts disrupt Market Yard traders during festive season",
+      "summary": "Power cuts disrupt Market Yard traders during festive season",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnJjd3A2YVUxTThXWVRoUFBMV2JwWnF6ajhpNTdoWUZEdEZldTdmWnQtdVdrSHhGM2xfcm1jRDVvYTZtejlpOEdLWE5jQzNLUUN6dURudHBBcWduMHZYSnJ4b0NmUm9XRU9NLVZfN2VQVEt1YzkwXzZkbUFJQzU2Wm5zaXc3Wm9JN1hvekdMc0pzTVZ3ZmlBbC0wYy04dG1YWTZUclFoaGstRDh1UmxBZHItSjk4Y1ZreUZMa09EVzFJdm9ra2hwYlMtUUVFN2VvWkHSAdIBQVVfeXFMTlpyY3dwNmFVMU04V1lUaFBQTFdicFpxemo4aTU3aFlGRHRGZXU3Zlp0LXVXa0h4RjNsX3JtY0Q1b2E2bXo5aThHS1hOY0MzS1FDenVEbnRwQXFnbjB2WEpyeG9DZlJvV0VPTS1WXzdlUFRLdWM5MF82ZG1BSUM1Nlpuc2l3N1pvSTdYb3pHTHNKc01Wd2ZpQWwtMGMtOHRtWFk2VHJRaGhrLUQ4dVJsQWRyLUo5OGNWa3lGTGtPRFcxSXZva2tocGJTLVFFRTdlb1pB?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:05:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 18:05:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
       "id": "manmad indore highway मनमाडमध्ये भीषण अपघात भरधाव ट्रकने चिरडल्याने 19 वर्षीय युवतीचा दुर्",
@@ -859,6 +1061,50 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
+      "id": "super duper el nino warning डिसेंबरमध्ये भारतात थंडी गायब होणार हवामान विभागाचा मोठा इशारा",
+      "title": "Super-Duper El Nino Warning | डिसेंबरमध्ये भारतात थंडी गायब होणार? हवामान विभागाचा मोठा इशारा?",
+      "summary": "Super-Duper El Nino Warning | डिसेंबरमध्ये भारतात थंडी गायब होणार? हवामान विभागाचा मोठा इशारा?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWQ0MzVCVGR6RUpSTTl4NDhiQ052VkVlUV8yc3E5aUlXM09Oa0h3b0w4QkZvdjJFTDVselIyUzV3SmE5MFFUcDN3bXNGMExnSW9Tc21xTXlNUTdmVlJHWWVsWllKMkR6ZVp6UnVhRUtfSENYV0tRWTN2c1YtYzROajR6UWtUTWxOQlEwdGh3?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:52:32 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 17:52:32 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "india march राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद कोणते मुद्दे सांगितले",
+      "title": "INDIA March News | राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद! कोणते मुद्दे सांगितले?",
+      "summary": "INDIA March News | राष्ट्रपतींच्या भेटीनंतर विरोधी पक्षाची पत्रकार परिषद! कोणते मुद्दे सांगितले?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bEJqZGM5T2N2ZEhZMDhOaThQZkNCWEp2T05ueVBUdXU1ZVg3Uk5BMlFfRnVnOU40d1NYOWJDZ2NJMkE3bkJ4MzBVQ2ZtWUFlbmZVVU9NdEZxQVRlcmVYNUNGNDNtTG90VWlfcG9BNmNUU0JkRTJrNlZTSlkzZFU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 16:23:37 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 16:23:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "imd alert महाराष्ट्रावर तिहेरी संकट हवामान खात्याचा अलर्ट",
       "title": "IMD Alert: महाराष्ट्रावर तिहेरी संकट, हवामान खात्याचा अलर्ट",
       "summary": "IMD Alert: महाराष्ट्रावर तिहेरी संकट, हवामान खात्याचा अलर्ट",
@@ -881,36 +1127,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार हवामान विभागाची अधिकृत घोषणा लवकरच देशातूनही न",
-      "title": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
-      "summary": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMDd0QmV4SDFaWlAyMmx6R0tjNkJ5VUpQVTRGYnNhNXJEUlprOTcxQXA0VUhiS3pabHNhaXpEUXhRZDU3OHBFVHlURXJKamM1MUE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:59:50 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:59:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather alert महाराष्ट्रासाठी 24 तास धोक्याचे आता 3 संकटं येणार हवामान खात्याकडून अलर्ट",
-      "title": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
-      "summary": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
+      "id": "india march विरोधकांचा राष्ट्रपती भवनाकडे मार्च काँग्रेस भाजपचे प्रवक्ते काय म्हणाले",
+      "title": "INDIA March News | विरोधकांचा राष्ट्रपती भवनाकडे मार्च! काँग्रेस, भाजपचे प्रवक्ते काय म्हणाले?",
+      "summary": "INDIA March News | विरोधकांचा राष्ट्रपती भवनाकडे मार्च! काँग्रेस, भाजपचे प्रवक्ते काय म्हणाले?",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWDdRZkVRbVlSeUR3ejVveWhpYUNtLTIyNG1GZThwNzd6ay1JcFcxWXRjcTNVRUhVTFY4d3ZxQnFua0JjeFhmbGpaLTUtYlBPaEJGbk9jbmxnczZqd0ozRHR2RzNOOWo3V0ZwWXlmSWs1ZXVIZTlQZVVuM3FQS1ExenhrN3JyYWRYLUV2RTdRZEtzUWNKYkM2clI5VkN5aG9BdWY0a05XQWh2RGhmR0dBai1WWWtnUnZ5RjBUUGlfQ1NzdmxpZkdYV0JFUFc3S1lkRFdaUnF1QXFQOUZPcFkyemNUWk9mcUtiUWJEVDktRm9uNlB1UWc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:38:00 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:38:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QOW1MaHRRNUFoRGt5RWRkOUkxamdUZWhyOVNMNlBVVkI1MWs0SXdxRk5BbWlHeVgwUThGckpLT081WXdOREZHVXJrUkVjSlFYWHItZXh5TGJzU2RZOTl0UnpuTkUwOGpyY0VUbkV5a3dnaHE3cG9VTlh0cUtiNlU?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:52:14 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 14:52:14 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -947,14 +1171,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "mpsc student protest नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा ऐकदा पाहाच",
-      "title": "Pune MPSC Student Protest | नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा! ऐकदा पाहाच",
-      "summary": "Pune MPSC Student Protest | नरेंद्र सूर्यवंशींचा संघर्ष काळीज पिळवटणारा! ऐकदा पाहाच",
+      "id": "weather alert महाराष्ट्रासाठी 24 तास धोक्याचे आता 3 संकटं येणार हवामान खात्याकडून अलर्ट",
+      "title": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
+      "summary": "Weather Alert : महाराष्ट्रासाठी 24 तास धोक्याचे, आता 3 संकटं येणार, हवामान खात्याकडून अलर्ट",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzI1Uk1GNkJXM0ZlWFdwSDc2T3BXTGp2QzhVRlBabnA3ZTNMM0haX2hUMXFkT3MzTGFYem1GYVJjS1BCSkdENnI2c0dpc1JudFlZemxBWlZEWjdQSkl4UE4wTUw1QnVpYkYtdUJOTVp3SHo3dzkzUDZLRmVOWm5fYTd6aWZaSFJnRWkw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:15:24 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 14:15:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWDdRZkVRbVlSeUR3ejVveWhpYUNtLTIyNG1GZThwNzd6ay1JcFcxWXRjcTNVRUhVTFY4d3ZxQnFua0JjeFhmbGpaLTUtYlBPaEJGbk9jbmxnczZqd0ozRHR2RzNOOWo3V0ZwWXlmSWs1ZXVIZTlQZVVuM3FQS1ExenhrN3JyYWRYLUV2RTdRZEtzUWNKYkM2clI5VkN5aG9BdWY0a05XQWh2RGhmR0dBai1WWWtnUnZ5RjBUUGlfQ1NzdmxpZkdYV0JFUFc3S1lkRFdaUnF1QXFQOUZPcFkyemNUWk9mcUtiUWJEVDktRm9uNlB1UWc?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:58:07 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 13:58:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1015,6 +1239,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पद",
+      "title": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पदार्पण",
+      "summary": "भारताच्या पहिल्या पोर्टेबल लिक्विड वेपोरायझरसह एव्हररेडीचे डासांपासून संरक्षण क्षेत्रात पदार्पण",
+      "source": "Pune Prahar",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUlUMlZvYWtId0ZBMmlta1RlVEV1ZjZrZWZZMTJqNlR0MXFXN29oQlM1WlhDdm5rSU0wbnFKVUU4UzBVSGYyM0pLVFM0ZFJUZEt0azZSdm5sSFB1NzdWTEpsLVplNURkX29HME9rNGlGX0l0N0EtblhtU01UTjR3Q1FLbUZPSm5Vbm9hbW9kYVpPaVlock9qMUdyVkJydU5PZWtBRWl0RHVtSmRfa2l0andDMjdzTGFoYnBteFR2OHA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 12:01:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 12:01:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Pune Prahar"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "flying home for diwali costs double the fare to dubai from",
       "title": "Flying Home for Diwali Costs Double the Fare to Dubai from Pune",
       "summary": "Flying Home for Diwali Costs Double the Fare to Dubai from Pune",
@@ -1059,18 +1305,40 @@
       "action": "No immediate action required."
     },
     {
-      "id": "महाराष्ट्रातून मान्सूनची पूर्ण माघार दुष्काळाचे संकट गडद कोकण गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "title": "महाराष्ट्रातून मान्सूनची पूर्ण माघार; दुष्काळाचे संकट गडद, कोकण-गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "summary": "महाराष्ट्रातून मान्सूनची पूर्ण माघार; दुष्काळाचे संकट गडद, कोकण-गोव्यात ऑक्टोबर हिटचा तडाखा",
-      "source": "NavShakti",
+      "id": "पुणे महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार हवामान विभागाची अधिकृत घोषणा लवकरच देशातूनही न",
+      "title": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
+      "summary": "पुणे : महाराष्ट्रातून मॉन्सूनची संपूर्ण माघार! हवामान विभागाची अधिकृत घोषणा; लवकरच देशातूनही निरोप घेण्याची शक्यता पुणे : नैऋत्य मोसमी वाऱ्यांनी अर्थात मॉन्सूनने गुरुवारी (दि. ८ ऑक्",
+      "source": "Instagram",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTlmTjhONk0wT1dtM0xCbzdPTThjalRhMmJwME9DT3k1S3J3ZnNCek9jSTRQSWVLdjNJYVdKaHpnVno5TzFsMm5VdWljOUUwYm9rSEN2Si1GZzZOek1LTzJOZ2syR3RDYURtRmNnRFQ5clB3SFRMcWtINTBnWlVPZDZUTnBCZm04dFBSeUxjYThZdWl4VVgwMFNKOWhpajFOelhOeFJROUZkOURNUzdjUlNyQlh6azNzLXhfMDIxTnpROHBpdzc4Um16Sk5fTmdkWDVxNl9fUdIB5AFBVV95cUxNSXplUmVUaEJLSUFKUV9FU2tOamNKbUpGNnBIZ3EzaEJGY1l6T2h1UEFzVFhtRVlpVnQ2UWlYUGtudDNDNmRkUTZFdUFFYnFMUGtUTzh5LWxyUEFTR05fc3pVMDF5Vm91VVgxbXFkek9ESEdhUDJMSGsxcTlmeG9rMnJkcUlOQ1J6OHBrbmVHZzRDV0tEQm56cHFzbU1PRHlDUDd5NUNyS1otb21XMEFFdk9TNllOTGthMmdOX1lZVFN5YmItYjRkYWRsQjExR0JjeEV2Rnd5UjltNXVoMVJuTno0Vy0?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 05:30:14 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 05:30:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMDd0QmV4SDFaWlAyMmx6R0tjNkJ5VUpQVTRGYnNhNXJEUlprOTcxQXA0VUhiS3pabHNhaXpEUXhRZDU3OHBFVHlURXJKamM1MUE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 09:25:15 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 09:25:15 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "NavShakti"
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "title": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "summary": "उजनीचे पाणी आता पिण्यासाठीच राखीव",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wZHEydjk0VjBnM1h5U0J2QTkwLVMza2V2Y2JZeERTTTdZanpzT3hUMUtYcVJwbHM1T1VnYVFwT3ctLXB1WGVOZW5yTmV4SXFFdm5CNGp2a1BGTmpMNDBzRG9EY1FwczBqS3N1U1pPU18yaFdJU1HSAXZBVV95cUxOcGRxMnY5NFYwZzNYeVNCdkE5MC1TM2tldmNiWXhEU003WWp6c094VDFLWHFScGxzNU9VZ2FRcE93LS1wdVhlTmVuck5leElxRXZuQjRqdmtQRk5qTDQwc0RvRGNRcHMwaktzdVNaT1NfMmhXSVNR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 04:27:00 GMT",
+      "lastUpdated": "Fri, 09 Oct 2026 04:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1169,34 +1437,12 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यातील mpscच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली नाशिकवरून आलेल्या विद्यार्थ्यांचा",
-      "title": "Video: पुण्यातील MPSCच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली , नाशिकवरून आलेल्या विद्यार्थ्यांचा संताप",
-      "summary": "Video: पुण्यातील MPSCच्या आंदोलनात विद्यार्थ्यांची संख्या वाढली , नाशिकवरून आलेल्या विद्यार्थ्यांचा संताप",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSFBmVFFaWFFnbVRvT3VvS3lrOVZkaEtJWGNaeTF5MW8yMnYwVndkTFBrUWZaN21QbzNqOFBEcUYzYWVveG40NU85a3VQb25LWmtJZk8yQUFFR3V1Qy1OeU91emZua25EMW5USk5fWHA1UkJfTnVjSG9xYi1LdVp4STJjNTVjZTZPc3VHcnNNQ2NaRWsxMWRDbkttZjFqUTJlUFdGVkRIbXJhMHBJcUJnUXNVXzkwU2UtNTA3TjViZXJob04xMlI4by1HaWt4TExCU3pPTjNHQlVpWVh5cy1zQVJ1dzYxR0ZLMEdINA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:16:10 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 03:16:10 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "title": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला, शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "summary": "पुणे शिक्षक मतदारसंघातील महायुतीतील तिढा सुटला, शिंदेंच्या शिलेदाराचा अर्ज मागे",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNemE0RXBUUkNwUzl1X1ZqWWZfb0t0MFRaYW9sbjVKclZWNmR6X1ZlRnNMS1NRUlBGYjI1UE9UMklXY0E2MU0wc1l3cGY3RlZrY040ZjRXY3dyOXljc0xCb1dHdmJjaFVxc2JKTTl1U2Fic0V4WkxxVEhhWUpHM1doUG1HMHJwdDV5a0pVRVdQTENscjQ3MmZ5UG53bENhcWF3c3AzZi1VMlkwbDZRaHJzSXBQVFBQQTNjRk1vS04xTWhsTkpOSmRUY3h2M0E4bFU0U1hxbjhGZlhDelJaTmRmSW00alZNVVVkeWhHYnFTa1VYMFZQN05vd1YzbXZDUUNqNEVKMENObkZ0NElvcWdxYXRPcnYzaHdK0gGYAkFVX3lxTE16YTRFcFRSQ3BTOXVfVmpZZl9vS3QwVFphb2xuNUpyVlY2ZHpfVmVGc0xLU1FSUEZiMjVQT1QySVdjQTYxTTBzWXdwZjdGVmtjTjRmNFdjd3I5eWNzTEJvV0d2YmNoVXFzYkpNOXVTYWJzRXhaTHFUSGFZSkczV2hQbUcwcnB0NXlrSlVFV1BMQ2xyNDcyZnlQbndsQ2FxYXdzcDNmLVUyWTBsNlFocnNJcFBUUFBBM2NGTW9LTjFNaGxOSk5KZFRjeHYzQThsVTRTWHFuOEZmWEN6UlpOZGZJbTRqVk1VVWR5aEdicVNrVVgwVlA3Tm93VjNtdkNRQ2o0RUowQ05uRnQ0SW9xZ3FhdE9ydjNod0o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUTUxR2U1TDRqcFU4Ry1iY0NoMVBoYmJWTVUxUGsxY0JLSm1JSVFwQkJvamxSREhwWjBCSGF3Y2psd2Z0cmQ5SVV2UVBuNDV5MFVkZE9Wb2ExQ1ZUaGZpQ3M1MzBiSzZtSzNrNkExeDVrTnk1ZjdhQ3lXanQ0azh1YkRNSnhfc2hWYU5XTXRMNnVnOUJBX3ljMC04eS04cDE3cUhKaUJnRXZtQVB0TldhcGVfUncxUTlnVUhTLTI2RjJ6SXZQWjZSRlNYUmxtb3RHY3NfS01MakJwRlozMnExb2JiOU1aTW1WM0tjeEJhWklRREpNeUFEc2FDb2lCeTI2UUtYMDVaeUFsSjZFeTk3MDF1d9IBmAJBVV95cUxNemE0RXBUUkNwUzl1X1ZqWWZfb0t0MFRaYW9sbjVKclZWNmR6X1ZlRnNMS1NRUlBGYjI1UE9UMklXY0E2MU0wc1l3cGY3RlZrY040ZjRXY3dyOXljc0xCb1dHdmJjaFVxc2JKTTl1U2Fic0V4WkxxVEhhWUpHM1doUG1HMHJwdDV5a0pVRVdQTENscjQ3MmZ5UG53bENhcWF3c3AzZi1VMlkwbDZRaHJzSXBQVFBQQTNjRk1vS04xTWhsTkpOSmRUY3h2M0E4bFU0U1hxbjhGZlhDelJaTmRmSW00alZNVVVkeWhHYnFTa1VYMFZQN05vd1YzbXZDUUNqNEVKMENObkZ0NElvcWdxYXRPcnYzaHdK?oc=5",
       "pubDate": "Fri, 09 Oct 2026 03:12:05 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 03:12:05 GMT",
       "areas": [],
@@ -1372,7 +1618,7 @@
       "summary": "Pune District : भीमा नदीत १३ ऑक्टोबरपर्यंत पाणी सोडा",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGtjcWhkWXB0eVF0TXIxTmI1U29KQjF3Tk93OUtRNFN0c2g5VmdmN3J3X2VOX0VpUDFFbHdTX2lQM0VCYjVvWkJIcnpNSkdsN0hVTHhfejVkV05LOGtZVmFjY2QtWS1iaTVRT3ZxejBsc1p5dXhzNk9lb3pkWDVjWVdpUm1odw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUdQWVcyX29DdWY2U3c5a041ZVNoVWo4ZjZ5YTdzRmZPUTRUNU1aUXRuRWZnVm9RMlFPUTJWZGtsNHVIcEkySmwzNnAxdlYyS2xmSE55WjlwS0MyR1p2alY3d1V2b2Z3RUwwdmpIYTZvWTBJRjlpcDl2aW9zY0pWNkljNjE?oc=5",
       "pubDate": "Fri, 09 Oct 2026 01:58:00 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 01:58:00 GMT",
       "areas": [],
@@ -1453,34 +1699,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "spicejet s temporary exit leaves flyers with costly dubai options many turn to mumbai",
-      "title": "SpiceJet’s temporary exit leaves Pune flyers with costly Dubai options, many turn to Mumbai",
-      "summary": "SpiceJet’s temporary exit leaves Pune flyers with costly Dubai options, many turn to Mumbai",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUkFTMkRQQzA5Q1JHMzl0bU9FckxiSFRfZzhjd1dGRnRmZm5obm9IVkxOVDRZU0pLTjNhUkdDek5vdzl5SXlNVXdtakZlNE9jdkpnamdOaGk3R1hjRTYxc2h3YnF6VzNSbWRfNGJOb3VZSFhnSDJmd25SZW9jVVlNYkdlWlNsbmI1YXRHUW5IRTFFVmVJNVZhQWpNRlpWN19Dd1c5Wm1UcFktZkZYdUg5LTNIN1h6THc4ZFZQcmRiZWRFUzlSeFhldUJkUjdfajNGTmFDbk95NFFWSkVvY0NlQmQyVXBEZXVGVjBlYWNIY01RWEnSAfgBQVVfeXFMUFpPTU5KLUMxamE5YU1XQ0xhNzc1OUxDUDNZbVhQQU12SnVBQlhLbktjTmxreF9oUS1RVVduV2lRWmxPRm8tRmZGNlh0OFFWb3kyMm8xTUdDRzZUaC1ORjdvNkJGS2hwOWU1MFQ0RVg1LTNGaXJmT1c4d1pGNkNfU0tiaVh0bmhaUmZJTW1JX1I3WHk2Q003dkxBVU1Jb2pDNlhHMTg2QVpzalRreGtZWkZBT0owb1g4ZERBR09PRml6eHd2ZGI3ZmZ4MW9tWlF6ZVcwUWVLNjFMQkxGQkU2YTE2YlZGaWdlUFZtNkhVa2ZLRElwdW01Rms?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 18:49:00 GMT",
-      "lastUpdated": "Thu, 08 Oct 2026 18:49:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 40,
-    "alerts": 10,
-    "news": 30
+    "total": 43,
+    "alerts": 11,
+    "news": 32
   },
-  "cleanedAt": "2026-10-09T17:15:43.719Z"
+  "cleanedAt": "2026-10-09T21:48:06.626Z"
 }
