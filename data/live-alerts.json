@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:08:42.585Z",
+  "generatedAt": "2026-10-10T21:54:29.793Z",
   "status": "ok",
   "alerts": [
     {
@@ -119,9 +119,9 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "market yard power cuts hit festive trade damage equipment",
-      "title": "Pune Market Yard Power Cuts Hit Festive Trade, Damage Equipment",
-      "summary": "Pune Market Yard Power Cuts Hit Festive Trade, Damage Equipment",
+      "id": "market yard power cuts disrupt festive trade",
+      "title": "Pune Market Yard Power Cuts Disrupt Festive Trade",
+      "summary": "Pune Market Yard Power Cuts Disrupt Festive Trade",
       "source": "Urban Acres",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1JQTmttS29HYWdJSG0wcmFudll4RzdIY0NidFdjbTg4WTNfR1ZIOC04OXRCV0VHcXBRWjVUQ1l4UkRybEZ5OEJLSjRmZXpzRU90LTlFNEVmOGZSZFBwTjdlaFpVUWlVOVV5V1ZZUmZMSVNkR21NRlBqOTJRaC14WlBPd0hCZ29fYlpjeVd3?oc=5",
@@ -148,6 +148,28 @@
       "correlation": [
         "Power supply impact possible."
       ]
+    },
+    {
+      "id": "regional daily weather report based on 0830 hours ist observations",
+      "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 11:07:20 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 11:07:20 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
     }
   ],
   "news": [
@@ -248,47 +270,14 @@
       ]
     },
     {
-      "id": "streetlight power supply test triggers traffic signal outage in",
-      "title": "Streetlight power supply test triggers traffic signal outage in Pune",
-      "summary": "Streetlight power supply test triggers traffic signal outage in Pune",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN29mS2hhVjBJX2t2aDhaM3pkSGNYQjdEMXJzSkU3TDljSzZKcmZFalZFR2hqZlVTUTdUUV9hZC00aTR6WDVWWGFWUTdzOUhNOG84c1dzLVRZR09tU2NvaUUtOGRKdmNjQk9GVHJfZVRKYTh2QS1fMW93Zi1rQURQZUM4dTBZa25qXzFobldEbFVCNlhIeHp1MmFaYzFxbGdJT2JzQmxuemhEYy1FeTZSR0hJbk5pQXljM3puRkRDWTBnbXpZNlp0QVctMEg2bEltb3BxcFlqWU0xTkpV0gHcAUFVX3lxTE03b2ZLaGFWMElfa3ZoOFozemRIY1hCN0QxcnNKRTdMOWNLNkpyZkVqVkVHaGpmVVNRN1RRX2FkLTRpNHpYNVZYYVZRN3M5SE04bzhzV3MtVFlHT21TY29pRS04ZEp2Y2NCT0ZUcl9lVEphOHZBLV8xb3dmLWtBRFBlQzh1MFlrbmpfMWhuV0RsVUI2WEh4enUyYVpjMXFsZ0lPYnNCbG56aERjLUV5NlJHSEluTmlBeWMzem5GRENZMGdtelk2WnRBVy0wSDZsSW1vcHFwWWpZTTFOSlU?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 19:15:00 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 19:15:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible.",
-        "Power supply impact possible."
-      ]
-    },
-    {
-      "id": "अशी क्रूरता पाहिली नाही गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न मृतांमध्ये दो",
-      "title": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
-      "summary": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
+      "id": "scooters 60 किमी मायलेज डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस अन् किंमतही कमी टॉप 5 बजेट sco",
+      "title": "Scooters: 60 किमी मायलेज, डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस, अन् किंमतही कमी! टॉप 5 बजेट Scooters",
+      "summary": "Scooters: 60 किमी मायलेज, डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस, अन् किंमतही कमी! टॉप 5 बजेट Scooters",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbWh5SVJUZlFlMXAxcV9icmxQSHBhVUdmejRGVTByN3daRVdNRUJ0WUpLNFZWM043dkstME9kV2xuVUtGbEN6eUpuOVJUWkZPQkNlbGFEYmlsUWotMGExWWlKOXg2bW1zcGJ0SkM0SWxJX3pzQlJkNnBqYV84YnJZRkFhMWVCcjZ1R1dpVXNNbDVrRkE0R0Zvd245MmtLNkFrQk13bk41c0ZTLWNSYmJqc01Kcm9sZTk3Tmp4Ym1qMjB4NUxjaW51Zno5V0dRemRuczJlZjU5V1J0MHdGcUZIMHBwSTBuOEk?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 15:04:00 GMT",
-      "lastUpdated": "Sat, 10 Oct 2026 15:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXpSTUY5TVU3emczZkt6YVpsVE9lMDlZNTNwSEVXdFRNbzhZOGZSYlZOSTJpaFVScl82RmxoWVFWc25HcExmcmZmRXYxdDRjcHhxMUF5YkhqcUhTOFp0cmw2aEljTkxpdXlrMW0yZmJMeVZqSzFEWmZBa2VGLXYzNEdsRHhTdVpDUllvbWpCWllTcnZYSlNlRUxGZnBGeEVyWGV1TlFXSkVqUDVqQm9XUlFlMkE5RUd3MU9ud1ZwdmRYNlhrU3hsYjBKZndoVjZ4eklpOU1Db0ZZRzV0dldHcUZNU2xWc0ZlaXNV?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 18:33:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 18:33:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -303,14 +292,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "nana patekar नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव निधनानंतर मराठी दिग्दर्शक का भडक",
-      "title": "Nana Patekar : 'नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव...', निधनानंतर मराठी दिग्दर्शक का भडकला?",
-      "summary": "Nana Patekar : 'नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव...', निधनानंतर मराठी दिग्दर्शक का भडकला?",
+      "id": "अशी क्रूरता पाहिली नाही गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न मृतांमध्ये दो",
+      "title": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
+      "summary": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQak5hS2RHSEV3d1JRM1BWblVUNTYybGdDVUJ4T3doRHFxaHFHdkdWWXZuLUtiSVV3NlBEaGV6RGh0anRfeldBWk5XWS1FSDdSU1dnRGhrdWFVZEpLMVBaOExXaXdOaTNuTFRjT0ozNzRWMi1lclhMYkhMSG9QaG9td2tlSG0wQ2NYMVdWNTA3T3pMUVk4QWt0NWdPd3VnNDNEZ19XYjh1cnU1REZzeEtGTUVTZG9IcTlRZUlFWXFSUkl1bXBrWTVnZUwwQWM1NjA?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 14:21:00 GMT",
-      "lastUpdated": "Sat, 10 Oct 2026 14:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbWh5SVJUZlFlMXAxcV9icmxQSHBhVUdmejRGVTByN3daRVdNRUJ0WUpLNFZWM043dkstME9kV2xuVUtGbEN6eUpuOVJUWkZPQkNlbGFEYmlsUWotMGExWWlKOXg2bW1zcGJ0SkM0SWxJX3pzQlJkNnBqYV84YnJZRkFhMWVCcjZ1R1dpVXNNbDVrRkE0R0Zvd245MmtLNkFrQk13bk41c0ZTLWNSYmJqc01Kcm9sZTk3Tmp4Ym1qMjB4NUxjaW51Zno5V0dRemRuczJlZjU5V1J0MHdGcUZIMHBwSTBuOEk?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 15:04:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 15:04:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -411,6 +400,31 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
+    },
+    {
+      "id": "chennai road collapses near metro site suv swallowed by 10 feet sinkhole",
+      "title": "Chennai Road Collapses Near Metro Site, SUV Swallowed By 10 Feet Sinkhole",
+      "summary": "Chennai Road Collapses Near Metro Site, SUV Swallowed By 10 Feet Sinkhole",
+      "source": "PUNE PULSE",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUM4c0VjRWUtZjVHb18zaW0yOG4yY0VabDBtV1JPNmlOVjk5eUdIOUpmTG5CZ3d5dXZoVS1Pc1VWcllJbzJiMURLclNvRHhwRWFFVVJEWDc3Q01DWldUMk56VGZuM21RV09uVGViY3ZmN3NENXBqeTVHNkdmelRob1JiNU13TllpNVdzYzVTTHhiNE1GMUl0dVRPYWwzM0lneVVJ?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 12:21:47 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 12:21:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "PUNE PULSE"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "maharashtra weather मुंबईसह या पाच जिल्ह्यांना यलो अलर्ट राज्यात उष्ण आणि दमट हवामानाचा अं",
@@ -897,6 +911,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "aajache rashibhavishya आर्थिक लाभ होणार व्यवसायात नवीन संधी चालून येणार फक्त ही चूक टाळा आ",
+      "title": "Aajache Rashibhavishya : आर्थिक लाभ होणार, व्यवसायात नवीन संधी चालून येणार, फक्त ही चूक टाळा, आजचं राशीभविष्य",
+      "summary": "Aajache Rashibhavishya : आर्थिक लाभ होणार, व्यवसायात नवीन संधी चालून येणार, फक्त ही चूक टाळा, आजचं राशीभविष्य",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdE5kb2NOWlYxbkhuOWpwV3h5ampyWGw4ZHpONnRhLXh2dng1OWJBbFNWSzFNTkV0NkY1NGdsWENBbllWWF9HSjJYeVV0MU9TMXU5dUlTcWJQUjdmdTJqSS1Hcm1CVDZmaFZOVGNEMzhKQk0zZndRa1FzMlBOeUNQQm84UnhoV3U4ek1aQ0hWN2RCQ1o3N21Xd0szMXJaSGZvY1RhYzNId2psMEFFNHNHTnBieGVaV0VTUzNZMXoyNGhvN1I1OGg0UWVFZkdGRHhkUjNnMVBHcHpDWGxVb2MwUFY2cXl1RXlqazdNSGNGY2k?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 01:31:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 01:31:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "gold price drop सोन्याचे दर 1 लाखाच्या खाली येणार का",
       "title": "Gold Price Drop : सोन्याचे दर 1 लाखाच्या खाली येणार का?",
       "summary": "Gold Price Drop : सोन्याचे दर 1 लाखाच्या खाली येणार का?",
@@ -988,15 +1024,15 @@
       "id": "maharashtra weather राज्यावर तिहेरी संकट पुढील काही तास महत्त्वाचे",
       "title": "Maharashtra Weather : राज्यावर तिहेरी संकट, पुढील काही तास महत्त्वाचे",
       "summary": "Maharashtra Weather : राज्यावर तिहेरी संकट, पुढील काही तास महत्त्वाचे",
-      "source": "Mumbaitak.in",
+      "source": "Mumbai Tak",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3NVY3VBWk1nd05aMVVEeUxYWUtWeEQ3dmVIR29QT0FkV0IybEdfSnFHR1hMNWxRMkVMTlpnSmNUMHpneEhTVDBaa0t3cFloTDRPV3ZuemV6VURxNFdTRnNsVDZwQXgzOFdlT2ctVGFMUmxYcVFzUUlhcUhTSWlkTGJDWjVyeG9LMVBkZm43d1dqMUNodUs1Yk9uQVcwRjFRTm93MXc0LXIzOF93Zm9NVnNqSW9KUFJFNXpscTJoVVFNRElETkg2bWtyZkcyRWMwUTMtamxzWVc5M2FPTmNIeHVB0gHnAUFVX3lxTE91MUNUWnhiX2htUlRDNC0wS0gxQ3N6N19TcmJ1aFJPSkdzOHdGUnlud05NN0lhT1RIQlNhejlzZzBWaXF3V1dJeXdTemdrd0ZaSDRYdldSTFhUd0xoRERYMDRjWHNONnd6Y1E5OHhpYU1YcENSRkExLVBjSWloZkZheWo3ZUt6YjdkNFNSVGVXS2gzQ05PVFpaa3I2ZGZCaW53eEJsaW5TYUUzamw1dDlKd3ppaEotZVhOQ1pTX2lwVG1UQlhZVkhzaE5DLWVaQWxwa0JQVTRhWUp5ekhFQmFFbGp6MWJTZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdTFDVFp4Yl9obVJUQzQtMEtIMUNzejdfU3JidWhST0pHczh3RlJ5bndOTTdJYU9USEJTYXo5c2cwVmlxd1dXSXl3U3pna3dGWkg0WHZXUkxYVHdMaEREWDA0Y1hzTjZ3emNROTh4aWFNWHBDUkZBMS1QY0lpaGZGYXlqN2VLemI3ZDRTUlRlV0toM0NOT1RaWmtyNmRmQmlud3hCbGluU2FFM2psNXQ5Snd6aWhKLWVYTkNaU19pcFRtVEJYWVZIc2hOQy1lWkFscGtCUFU0YVlKeXpIRUJhRWxqejFiU2fSAecBQVVfeXFMT3UxQ1RaeGJfaG1SVEM0LTBLSDFDc3o3X1NyYnVoUk9KR3M4d0ZSeW53Tk03SWFPVEhCU2F6OXNnMFZpcXdXV0l5d1N6Z2t3RlpINFh2V1JMWFR3TGhERFgwNGNYc042d3pjUTk4eGlhTVhwQ1JGQTEtUGNJaWhmRmF5ajdlS3piN2Q0U1JUZVdLaDNDTk9UWlprcjZkZkJpbnd4QmxpblNhRTNqbDV0OUp3emloSi1lWE5DWlNfaXBUbVRCWFlWSHNoTkMtZVpBbHBrQlBVNGFZSnl6SEVCYUVsanoxYlNn?oc=5",
       "pubDate": "Fri, 09 Oct 2026 23:30:33 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 23:30:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Mumbaitak.in"
+        "Mumbai Tak"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1122,9 +1158,9 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "market yard power cuts hit festive trade damage equipment",
-      "title": "Pune Market Yard Power Cuts Hit Festive Trade, Damage Equipment",
-      "summary": "Pune Market Yard Power Cuts Hit Festive Trade, Damage Equipment",
+      "id": "market yard power cuts disrupt festive trade",
+      "title": "Pune Market Yard Power Cuts Disrupt Festive Trade",
+      "summary": "Pune Market Yard Power Cuts Disrupt Festive Trade",
       "source": "Urban Acres",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1JQTmttS29HYWdJSG0wcmFudll4RzdIY0NidFdjbTg4WTNfR1ZIOC04OXRCV0VHcXBRWjVUQ1l4UkRybEZ5OEJLSjRmZXpzRU90LTlFNEVmOGZSZFBwTjdlaFpVUWlVOVV5V1ZZUmZMSVNkR21NRlBqOTJRaC14WlBPd0hCZ29fYlpjeVd3?oc=5",
@@ -1237,43 +1273,14 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "streetlight power supply test triggers traffic signal outage in",
-      "title": "Streetlight power supply test triggers traffic signal outage in Pune",
-      "summary": "Streetlight power supply test triggers traffic signal outage in Pune",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN29mS2hhVjBJX2t2aDhaM3pkSGNYQjdEMXJzSkU3TDljSzZKcmZFalZFR2hqZlVTUTdUUV9hZC00aTR6WDVWWGFWUTdzOUhNOG84c1dzLVRZR09tU2NvaUUtOGRKdmNjQk9GVHJfZVRKYTh2QS1fMW93Zi1rQURQZUM4dTBZa25qXzFobldEbFVCNlhIeHp1MmFaYzFxbGdJT2JzQmxuemhEYy1FeTZSR0hJbk5pQXljM3puRkRDWTBnbXpZNlp0QVctMEg2bEltb3BxcFlqWU0xTkpV0gHcAUFVX3lxTE03b2ZLaGFWMElfa3ZoOFozemRIY1hCN0QxcnNKRTdMOWNLNkpyZkVqVkVHaGpmVVNRN1RRX2FkLTRpNHpYNVZYYVZRN3M5SE04bzhzV3MtVFlHT21TY29pRS04ZEp2Y2NCT0ZUcl9lVEphOHZBLV8xb3dmLWtBRFBlQzh1MFlrbmpfMWhuV0RsVUI2WEh4enUyYVpjMXFsZ0lPYnNCbG56aERjLUV5NlJHSEluTmlBeWMzem5GRENZMGdtelk2WnRBVy0wSDZsSW1vcHFwWWpZTTFOSlU?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 19:15:00 GMT",
-      "lastUpdated": "Fri, 09 Oct 2026 19:15:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
-      "id": "अशी क्रूरता पाहिली नाही गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न मृतांमध्ये दो",
-      "title": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
-      "summary": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
+      "id": "scooters 60 किमी मायलेज डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस अन् किंमतही कमी टॉप 5 बजेट sco",
+      "title": "Scooters: 60 किमी मायलेज, डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस, अन् किंमतही कमी! टॉप 5 बजेट Scooters",
+      "summary": "Scooters: 60 किमी मायलेज, डिकीमध्ये 2 हेल्मेट बसेल इतका स्पेस, अन् किंमतही कमी! टॉप 5 बजेट Scooters",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbWh5SVJUZlFlMXAxcV9icmxQSHBhVUdmejRGVTByN3daRVdNRUJ0WUpLNFZWM043dkstME9kV2xuVUtGbEN6eUpuOVJUWkZPQkNlbGFEYmlsUWotMGExWWlKOXg2bW1zcGJ0SkM0SWxJX3pzQlJkNnBqYV84YnJZRkFhMWVCcjZ1R1dpVXNNbDVrRkE0R0Zvd245MmtLNkFrQk13bk41c0ZTLWNSYmJqc01Kcm9sZTk3Tmp4Ym1qMjB4NUxjaW51Zno5V0dRemRuczJlZjU5V1J0MHdGcUZIMHBwSTBuOEk?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 15:04:00 GMT",
-      "lastUpdated": "Sat, 10 Oct 2026 15:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXpSTUY5TVU3emczZkt6YVpsVE9lMDlZNTNwSEVXdFRNbzhZOGZSYlZOSTJpaFVScl82RmxoWVFWc25HcExmcmZmRXYxdDRjcHhxMUF5YkhqcUhTOFp0cmw2aEljTkxpdXlrMW0yZmJMeVZqSzFEWmZBa2VGLXYzNEdsRHhTdVpDUllvbWpCWllTcnZYSlNlRUxGZnBGeEVyWGV1TlFXSkVqUDVqQm9XUlFlMkE5RUd3MU9ud1ZwdmRYNlhrU3hsYjBKZndoVjZ4eklpOU1Db0ZZRzV0dldHcUZNU2xWc0ZlaXNV?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 18:33:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 18:33:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1288,14 +1295,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "nana patekar नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव निधनानंतर मराठी दिग्दर्शक का भडक",
-      "title": "Nana Patekar : 'नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव...', निधनानंतर मराठी दिग्दर्शक का भडकला?",
-      "summary": "Nana Patekar : 'नानांना ज्यांनी मित्र म्हटलं त्यांनी तरी याव...', निधनानंतर मराठी दिग्दर्शक का भडकला?",
+      "id": "अशी क्रूरता पाहिली नाही गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न मृतांमध्ये दो",
+      "title": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
+      "summary": "अशी क्रूरता पाहिली नाही, गर्भवती महिलेसह 9 जणांच्या हत्येने संपूर्ण शहर सुन्न, मृतांमध्ये दोन लहान मुलांचा समावेश, अमेरिकेतील भीषण गोळीबार",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQak5hS2RHSEV3d1JRM1BWblVUNTYybGdDVUJ4T3doRHFxaHFHdkdWWXZuLUtiSVV3NlBEaGV6RGh0anRfeldBWk5XWS1FSDdSU1dnRGhrdWFVZEpLMVBaOExXaXdOaTNuTFRjT0ozNzRWMi1lclhMYkhMSG9QaG9td2tlSG0wQ2NYMVdWNTA3T3pMUVk4QWt0NWdPd3VnNDNEZ19XYjh1cnU1REZzeEtGTUVTZG9IcTlRZUlFWXFSUkl1bXBrWTVnZUwwQWM1NjA?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 14:21:00 GMT",
-      "lastUpdated": "Sat, 10 Oct 2026 14:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbWh5SVJUZlFlMXAxcV9icmxQSHBhVUdmejRGVTByN3daRVdNRUJ0WUpLNFZWM043dkstME9kV2xuVUtGbEN6eUpuOVJUWkZPQkNlbGFEYmlsUWotMGExWWlKOXg2bW1zcGJ0SkM0SWxJX3pzQlJkNnBqYV84YnJZRkFhMWVCcjZ1R1dpVXNNbDVrRkE0R0Zvd245MmtLNkFrQk13bk41c0ZTLWNSYmJqc01Kcm9sZTk3Tmp4Ym1qMjB4NUxjaW51Zno5V0dRemRuczJlZjU5V1J0MHdGcUZIMHBwSTBuOEk?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 15:04:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 15:04:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1395,6 +1402,50 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "chennai road collapses near metro site suv swallowed by 10 feet sinkhole",
+      "title": "Chennai Road Collapses Near Metro Site, SUV Swallowed By 10 Feet Sinkhole",
+      "summary": "Chennai Road Collapses Near Metro Site, SUV Swallowed By 10 Feet Sinkhole",
+      "source": "PUNE PULSE",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUM4c0VjRWUtZjVHb18zaW0yOG4yY0VabDBtV1JPNmlOVjk5eUdIOUpmTG5CZ3d5dXZoVS1Pc1VWcllJbzJiMURLclNvRHhwRWFFVVJEWDc3Q01DWldUMk56VGZuM21RV09uVGViY3ZmN3NENXBqeTVHNkdmelRob1JiNU13TllpNVdzYzVTTHhiNE1GMUl0dVRPYWwzM0lneVVJ?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 12:21:47 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 12:21:47 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "PUNE PULSE"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "regional daily weather report based on 0830 hours ist observations",
+      "title": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "summary": "REGIONAL DAILY WEATHER REPORT (BASED ON 0830 HOURS IST OBSERVATIONS )",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 11:07:20 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 11:07:20 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
       "action": "No immediate action required."
     },
     {
@@ -1882,6 +1933,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "aajache rashibhavishya आर्थिक लाभ होणार व्यवसायात नवीन संधी चालून येणार फक्त ही चूक टाळा आ",
+      "title": "Aajache Rashibhavishya : आर्थिक लाभ होणार, व्यवसायात नवीन संधी चालून येणार, फक्त ही चूक टाळा, आजचं राशीभविष्य",
+      "summary": "Aajache Rashibhavishya : आर्थिक लाभ होणार, व्यवसायात नवीन संधी चालून येणार, फक्त ही चूक टाळा, आजचं राशीभविष्य",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdE5kb2NOWlYxbkhuOWpwV3h5ampyWGw4ZHpONnRhLXh2dng1OWJBbFNWSzFNTkV0NkY1NGdsWENBbllWWF9HSjJYeVV0MU9TMXU5dUlTcWJQUjdmdTJqSS1Hcm1CVDZmaFZOVGNEMzhKQk0zZndRa1FzMlBOeUNQQm84UnhoV3U4ek1aQ0hWN2RCQ1o3N21Xd0szMXJaSGZvY1RhYzNId2psMEFFNHNHTnBieGVaV0VTUzNZMXoyNGhvN1I1OGg0UWVFZkdGRHhkUjNnMVBHcHpDWGxVb2MwUFY2cXl1RXlqazdNSGNGY2k?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 01:31:00 GMT",
+      "lastUpdated": "Sat, 10 Oct 2026 01:31:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "gold price drop सोन्याचे दर 1 लाखाच्या खाली येणार का",
       "title": "Gold Price Drop : सोन्याचे दर 1 लाखाच्या खाली येणार का?",
       "summary": "Gold Price Drop : सोन्याचे दर 1 लाखाच्या खाली येणार का?",
@@ -1973,15 +2046,15 @@
       "id": "maharashtra weather राज्यावर तिहेरी संकट पुढील काही तास महत्त्वाचे",
       "title": "Maharashtra Weather : राज्यावर तिहेरी संकट, पुढील काही तास महत्त्वाचे",
       "summary": "Maharashtra Weather : राज्यावर तिहेरी संकट, पुढील काही तास महत्त्वाचे",
-      "source": "Mumbaitak.in",
+      "source": "Mumbai Tak",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3NVY3VBWk1nd05aMVVEeUxYWUtWeEQ3dmVIR29QT0FkV0IybEdfSnFHR1hMNWxRMkVMTlpnSmNUMHpneEhTVDBaa0t3cFloTDRPV3ZuemV6VURxNFdTRnNsVDZwQXgzOFdlT2ctVGFMUmxYcVFzUUlhcUhTSWlkTGJDWjVyeG9LMVBkZm43d1dqMUNodUs1Yk9uQVcwRjFRTm93MXc0LXIzOF93Zm9NVnNqSW9KUFJFNXpscTJoVVFNRElETkg2bWtyZkcyRWMwUTMtamxzWVc5M2FPTmNIeHVB0gHnAUFVX3lxTE91MUNUWnhiX2htUlRDNC0wS0gxQ3N6N19TcmJ1aFJPSkdzOHdGUnlud05NN0lhT1RIQlNhejlzZzBWaXF3V1dJeXdTemdrd0ZaSDRYdldSTFhUd0xoRERYMDRjWHNONnd6Y1E5OHhpYU1YcENSRkExLVBjSWloZkZheWo3ZUt6YjdkNFNSVGVXS2gzQ05PVFpaa3I2ZGZCaW53eEJsaW5TYUUzamw1dDlKd3ppaEotZVhOQ1pTX2lwVG1UQlhZVkhzaE5DLWVaQWxwa0JQVTRhWUp5ekhFQmFFbGp6MWJTZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdTFDVFp4Yl9obVJUQzQtMEtIMUNzejdfU3JidWhST0pHczh3RlJ5bndOTTdJYU9USEJTYXo5c2cwVmlxd1dXSXl3U3pna3dGWkg0WHZXUkxYVHdMaEREWDA0Y1hzTjZ3emNROTh4aWFNWHBDUkZBMS1QY0lpaGZGYXlqN2VLemI3ZDRTUlRlV0toM0NOT1RaWmtyNmRmQmlud3hCbGluU2FFM2psNXQ5Snd6aWhKLWVYTkNaU19pcFRtVEJYWVZIc2hOQy1lWkFscGtCUFU0YVlKeXpIRUJhRWxqejFiU2fSAecBQVVfeXFMT3UxQ1RaeGJfaG1SVEM0LTBLSDFDc3o3X1NyYnVoUk9KR3M4d0ZSeW53Tk03SWFPVEhCU2F6OXNnMFZpcXdXV0l5d1N6Z2t3RlpINFh2V1JMWFR3TGhERFgwNGNYc042d3pjUTk4eGlhTVhwQ1JGQTEtUGNJaWhmRmF5ajdlS3piN2Q0U1JUZVdLaDNDTk9UWlprcjZkZkJpbnd4QmxpblNhRTNqbDV0OUp3emloSi1lWE5DWlNfaXBUbVRCWFlWSHNoTkMtZVpBbHBrQlBVNGFZSnl6SEVCYUVsanoxYlNn?oc=5",
       "pubDate": "Fri, 09 Oct 2026 23:30:33 GMT",
       "lastUpdated": "Fri, 09 Oct 2026 23:30:33 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Mumbaitak.in"
+        "Mumbai Tak"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1993,9 +2066,9 @@
     }
   ],
   "summary": {
-    "total": 51,
+    "total": 52,
     "alerts": 14,
-    "news": 37
+    "news": 38
   },
-  "cleanedAt": "2026-10-10T18:08:42.596Z"
+  "cleanedAt": "2026-10-10T21:54:29.808Z"
 }
