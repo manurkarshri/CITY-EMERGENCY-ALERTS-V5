@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:27:07.541Z",
+  "generatedAt": "2026-10-13T00:55:31.522Z",
   "status": "ok",
   "alerts": [
     {
@@ -99,33 +99,6 @@
       ]
     },
     {
-      "id": "solapur fire incident डी मार्टसमोर फळ दुकानांना आग",
-      "title": "Solapur Fire Incident : डी-मार्टसमोर फळ दुकानांना आग",
-      "summary": "Solapur Fire Incident : डी-मार्टसमोर फळ दुकानांना आग",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaENTdWFOaGVLMm9JNTEyMU5YcldiN2pKZExGUlVSQ0VaakV2Q3J0TzFsRUNrWFpjeEtUaVByUGcyMDBqemxEU0o5WmVOOEx6QkhkUk9Fd2JYMlZhcjlUWU5rSm0xdURIMUVnbDVKSTdrTkJnNUh0VURkR3Y1WFRpcjJqVnNKcGt2U2lhZ1c1UWxVWXFQcXdvaDZTUWYwa2hwYXJvaFY3aDB6VEtRVmpBOHZTMNIBswFBVV95cUxOaENTdWFOaGVLMm9JNTEyMU5YcldiN2pKZExGUlVSQ0VaakV2Q3J0TzFsRUNrWFpjeEtUaVByUGcyMDBqemxEU0o5WmVOOEx6QkhkUk9Fd2JYMlZhcjlUWU5rSm0xdURIMUVnbDVKSTdrTkJnNUh0VURkR3Y1WFRpcjJqVnNKcGt2U2lhZ1c1UWxVWXFQcXdvaDZTUWYwa2hwYXJvaFY3aDB6VEtRVmpBOHZTMA?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 23:43:57 GMT",
-      "lastUpdated": "Sun, 11 Oct 2026 23:43:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
       "id": "school bus accident काळेवाडीत पोदार इंटरनॅशनल",
       "title": "Pune School Bus Accident: काळेवाडीत पोदार इंटरनॅशनल",
       "summary": "Pune School Bus Accident: काळेवाडीत पोदार इंटरनॅशनल",
@@ -208,6 +181,70 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "msedcl takes action against power theft in rural jalna",
+      "title": "MSEDCL takes action against power theft in rural Jalna",
+      "summary": "MSEDCL takes action against power theft in rural Jalna",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmlhZHN0dGs2NU1lVzhWeVlfdlAwM3VSUnRwUVpJZlVDRWt6U3owWXFmcTBuSl8tXzhReFZoOG1wQVdXdWQ1RlI5Nlo3NnZLeG9pZ21abUNERFRZWnVHb242T2VPSFVYS3RUZVFHWDZIX3FtSGJ5ZExYdUVRUUJoQjZxa3kzTlVvWWJ5cDk4dWRZM3VhMXp3WGowc2p1LVdPbXprdG80TTQ3bkFNODdGT193NF9oUGhrODl2Uk5NWk12UVJvcHFORFg3ZFppNk1Fczh2OXZ6Wkh4QdIB0gFBVV95cUxNckN5ckFZOUd6VU5wUXZtYjAyZE5WdnBSUHhsZC1vYUhqU2tPQXpjdm1qcExqVHpYclhqSzNrX2p6eUdzdmVUSlJsdWtuUVEteEh3WHpEQnQ2ekszZ1dMbTU1NmplSjBqVjJyUVlRZlU5WEF0OG9WYVFrTGRpd2JrVEZOVFI2eFFLYnZRQndvNjN4NmVWc1RZNUFzQXg5ZUt3WFhfdkRDeXR6aERJZUdOSTJOckhMX29YZUM5MmJ5eE15NUhUQUtIQVJYdFlZWG13dGc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:43:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:43:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
+    },
+    {
+      "id": "residents fume as ravet grapples with over 30 hour power outage",
+      "title": "Residents fume as Ravet grapples with over 30-hour power outage",
+      "summary": "Residents fume as Ravet grapples with over 30-hour power outage",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWp1MXdHUHdQeXJmUHl6b3ZBOG5nM0Y3Ql8tVWdPU0pRdkNEV21YWHBLZXZjTTdUckl4dkZjWmEzS2lfci10M2J2a3l6dk5kekJqU3otZ0pOajItTXNPY1c1Y2NlZUFiRzF1WTk3a1hkSDlzX0pkNFhNeFJwOXlzVEY2TEFPeXZBSVM0MVNaeFdoTGFuNHdwM0VwTk1laWpFWEdmVUdQWDdTandrVmhXRlN0SXdFQXdTSllYT3lOQVVOSzdVVzdoSXU0aDh0ajIz0gHWAUFVX3lxTE56eDRac2pra1RnYWF4bzV1RU1qNmxSdUxvc2k1NktUQWUtYWpfWi1ReTRKcFdZMGNGT2FncGRBMlhTLVZ1M0pQWnZ3U1F2V1N2Nm14WHJDYUtIZ0FIM01NWXpMQldsa3FiTUY1aWtDandzZ3JuWDNEdjVtT3VnSnVIc1pwM2VJZU51SGctRHo2S0xldkZxSUdwX3pKVFY4cXUyMzlBSm0yTENQYUowYURZa0QyMUJ6azl6emNwM0JzcnVnYndBelphVlJWOVVPNFVFenBHa2c?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:34:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:34:00 GMT",
+      "areas": [
+        "Ravet"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     },
     {
       "id": "saatvik green energy bags 100 cr msedcl contract for 5 000 solar water pumps",
@@ -422,36 +459,27 @@
       ]
     },
     {
-      "id": "three days after disruption restoration of traffic signals in still underway",
-      "title": "Three days after disruption, restoration of traffic signals in Pune still underway",
-      "summary": "Three days after disruption, restoration of traffic signals in Pune still underway",
-      "source": "The Times of India",
+      "id": "पिंपरी चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला",
+      "title": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
+      "summary": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
+      "source": "Instagram + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFVENV9ieHJ3TXFFdzFaNTdsRGsyT0dMUk1uN19Fc3k4RDhnNF9TSFAyc0FlOTlSNWhXT1NYNmF6N1VZZWh5bFVrdWlQMHhGV0p0QUl3R1pCU3JKTzNwOGJiTGdHOUZhNy01djNBR2dEa3NMa0dsMl94UlFWcEt6S0pYTlpJbmtKM0NWaTRxSFFnWDhvYXF0ejRxM3F0VTRGV0lrR1ppU0VMOFVsUHpfSVl6RENFU1hGMkVhVEZQNG9CRDRrY29YUDlHa2tpXzZYSjI2VmUwQWxqX1ZpUkw3WFBuMTktNlht0gHuAUFVX3lxTE05RklYMzVjQXdtYWZ3dmR3Z3d2N1hnNDIzTmxoQ0JiamxtNEZWNmpBLVZqZDZ4YmJiRWUzZzNWemFzTFg0OHptWm1KSmtRbHhsNnlnVnJxbjRhZWYxMDRmVmZEVV9oTUwxOElwNW00S0tlZEpwRGo1Rmh3VThwbUlPMWw2VDNBel9pUlcyU3NjdnZwTWNXd0pYQlF0ek1LalRaaGNGUk5aNFRqQ0ZHUGlBVUVtNnVmd3piQ0dFdlRSS2dyR2RlUTVaRFFtR3k4Rl8wSUFwaFYzSjJEeUM4NFpLLXdpR09WOVBhVGZMbUE?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 19:29:00 GMT",
-      "lastUpdated": "Sun, 11 Oct 2026 19:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSm5CS1R5SU5tLTdEUUtDNkVNb0tvakRtbmZ6WG1RQy04aXllcWZUbFVLdjl4blprcFVhaS14MWhOQXdlVlZ5Y0VRblVGbmNmVlhMVlFn?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:44:07 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 23:44:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Times of India"
+        "Instagram",
+        "Esakal"
       ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
+      "action": "No immediate action required."
     },
     {
       "id": "maharashtra in पुण्यातील mpsc चे आंदोलन स्थगित भीमनवार सक्तीच्या रजेवर",
@@ -477,18 +505,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे नवीन कात्रज बोगद्याजवळ भीषण अपघात उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्य",
-      "title": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
-      "summary": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
-      "source": "Instagram",
+      "id": "builder facing losses conspires with supervisor to steal friend s rs50 lakh",
+      "title": "Builder facing losses conspires with supervisor to steal friend’s Rs50 lakh",
+      "summary": "Builder facing losses conspires with supervisor to steal friend’s Rs50 lakh",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbS1PMFdTRTZIWEllODhHOGpSUzBSV0xBdUN5MjRjblVWU1NrM2JSaFB4Q0VqREJ5ZnYtNlA5NW1JV3hlVUxxdEUyVTVLWFUtR3c?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:19:43 GMT",
-      "lastUpdated": "Mon, 12 Oct 2026 17:19:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVV1Ym8tWDRJR2FvU3dkSGZOTkpqM3FJbHAwbnR2UTRlbXFuY1gxaEVfSDNGSjR2ZnJwVkxaRFpJU19uRl9mUE1TZUJoRXc4R3hGZHJua3Vya012YXgxV25OVl9VZUxKRTEzVjRGSGl3N3AyQkRiNlpWLXVHa1F5cWNJNWswTVE4U0lJUFVuZ2N6ZkR1M2xIcUlsVURDbVktSC15ZzZUd2U4NVpuWXREWWUyaEsyMUl3bWoxcVNtOUo0MGNZd0luc3hfS3dhMy1oVGxENDNXQmJEY1QtZThR0gHkAUFVX3lxTE1LMHlNM2E4RVpGUVRVVEFTVjd3SU9ERzd3UGx5UG9lOGI3VThIclN1WEQxb1EtZDg5TFNSRjI3Zkp6ZnV1aU5sWFZPcVQwSFN4M2lmN2psS3Q4TW5RV2xGUFh1eE1JN3NvYnBEcFpMNnh5WUxCQzJBejVKZVMxX1RvSUN3ZnJ0R0lyTzhqMzhHNU1WT05uTnRIa3VXS3lpeGt3aF9OUXJJcm5QNzhSZlpFdl9weFotazhsLWR4bzQ3MzRFUWNwaTRGYXd3d3Y4TjJRdTFnNU5WOTB5VUdxVmFWZ1ZrVw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:45:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Instagram"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -526,7 +554,7 @@
       "summary": "महाराष्ट्राच्या हवामानाबाबत धडकी भरवणारी अपडेट! मान्सूननंतर पहिल्यांदाच महाभयानक परिस्थिती, 13 वर्षात दुसऱ्यांदा असं घडलं",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX0cxSEx5ZDNEbnJXQzNWRElYRzdrNG5LbWxLOS1vcENmajVTUUF5OUdXa01WbzROVVFWUjdxZ1FwYU5nVUU5WlpaZHQ2MWc1V21hZXRWSkNuNjBreFNwd0h2VEdlMDRDemxZVFlPLVhYcFg0UGk5bEZmbTR4TllCbDlka3ZCejF2Q0hVSXBWM2FJM3RMRkJjd2xkSVpodllWS0J3ZWJpZmI1d2gxQm1NQ2FuaXBWRjgzTjFkeXhfS2V5dVU4NGhBWjRqemhlMVYwWjFSc3ZyNWdkenZhWjc3MVI4a2dadkQ4dUJpM3lmRGFwc2duSzZ1dk04UGM3ekx3M042YzVqU1NCZEFYQ2fSAZMCQVVfeXFMT0I2bVNOREFkbnpOdDNkRWViWEtrQW85bVVUR0RKd3BDMUpWdHRCSUlvcjZhQ0V1dURZM0VxZWZJRWJTU216WE5CYWxHNm9CSlNXdjB4ZFl4TEhGZVN1ZUwtQzVtaUxDa1NDOW9nN085eVNzSnpHRkl4dWh1NVlBYVpuejhNN3ZMcTNPUWM5WTlNd2lRVHRpdjR2SkoyenlvM3pIMHRiNl9jb1haeUZiYjJGWnRRQzd1U0NXLXJBS20zSFZSenhYc1B2YmRmcmk4NTBJa0tfRm9CWVJ0cFVmd2JnQ003aWR3clkwNmRRWGF4Z3c4Y3Z6Mm9VakhVSFZUa0FuZEo5YTJHWkdmVlg2MWRsYXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQjZtU05EQWRuek50M2RFZWJYS2tBbzltVVRHREp3cEMxSlZ0dEJJSW9yNmFDRXV1RFkzRXFlZklFYlNTbXpYTkJhbEc2b0JKU1d2MHhkWXhMSEZlU3VlTC1DNW1pTENrU0M5b2c3Tzl5U3NKekdGSXh1aHU1WUFhWm56OE03dkxxM09RYzlZOU13aVFUdGl2NHZKSjJ6eW8zekgwdGI2X2NvWFp5RmJiMkZadFFDN3VTQ1ctckFLbTNIVlJ6eFhzUHZiZGZyaTg1MElrS19Gb0JZUnRwVWZ3YmdDTTdpZHdyWTA2ZFFYYXhndzhjdnoyb1VqSFVIVlRrQW5kSjlhMkdaR2ZWWDYxZGxhd9IBkwJBVV95cUxPQjZtU05EQWRuek50M2RFZWJYS2tBbzltVVRHREp3cEMxSlZ0dEJJSW9yNmFDRXV1RFkzRXFlZklFYlNTbXpYTkJhbEc2b0JKU1d2MHhkWXhMSEZlU3VlTC1DNW1pTENrU0M5b2c3Tzl5U3NKekdGSXh1aHU1WUFhWm56OE03dkxxM09RYzlZOU13aVFUdGl2NHZKSjJ6eW8zekgwdGI2X2NvWFp5RmJiMkZadFFDN3VTQ1ctckFLbTNIVlJ6eFhzUHZiZGZyaTg1MElrS19Gb0JZUnRwVWZ3YmdDTTdpZHdyWTA2ZFFYYXhndzhjdnoyb1VqSFVIVlRrQW5kSjlhMkdaR2ZWWDYxZGxhdw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 16:07:11 GMT",
       "lastUpdated": "Mon, 12 Oct 2026 16:07:11 GMT",
       "areas": [],
@@ -555,6 +583,28 @@
       "region": "pune",
       "sources": [
         "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे नवीन कात्रज बोगद्याजवळ भीषण अपघात उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्य",
+      "title": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
+      "summary": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbS1PMFdTRTZIWEllODhHOGpSUzBSV0xBdUN5MjRjblVWU1NrM2JSaFB4Q0VqREJ5ZnYtNlA5NW1JV3hlVUxxdEUyVTVLWFUtR3c?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 15:00:31 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 15:00:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -621,28 +671,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पिंपरी चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला",
-      "title": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
-      "summary": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSm5CS1R5SU5tLTdEUUtDNkVNb0tvakRtbmZ6WG1RQy04aXllcWZUbFVLdjl4blprcFVhaS14MWhOQXdlVlZ5Y0VRblVGbmNmVlhMVlFn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:05:04 GMT",
-      "lastUpdated": "Mon, 12 Oct 2026 12:05:04 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -741,6 +769,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर इमर्जन्सी लँडिंग धक्कादायक हवेत उडणाऱ्या इंडिगो व",
+      "title": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर 'इमर्जन्सी' लँडिंग धक्कादायक! हवेत उडणाऱ्या इंडिगो विमानात पॉवर बँकेला अचानक आग; केबिन क्रूच्या सतर्कतेमुळे मोठा अनर्थ टळला, हैदराबादमध्ये आप",
+      "summary": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर 'इमर्जन्सी' लँडिंग धक्कादायक! हवेत उडणाऱ्या इंडिगो विमानात पॉवर बँकेला अचानक आग; केबिन क्रूच्या सतर्कतेमुळे मोठा अनर्थ टळला, हैदराबादमध्ये आप",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4amtpN200TFFQb0tRVWRCQ1YzT1VncFM0MXNzVjIwZTFyQmlqak5QdU50VzN6WC1IY1VZTjhaa0JpUFMxSlZVYlc0QVpCQVY2OXdhV09n?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 08:17:21 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 08:17:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "nitesh rane आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका नेमकं काय म्हणाले",
       "title": "Nitesh Rane | आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका, नेमकं काय म्हणाले?",
       "summary": "Nitesh Rane | आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका, नेमकं काय म्हणाले?",
@@ -775,6 +825,28 @@
       "region": "pune",
       "sources": [
         "Esakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबा",
+      "title": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबाई फुले पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर डिझेल कारला अचानक आग लाग",
+      "summary": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबाई फुले पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर डिझेल कारला अचानक आग लाग",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TmhVckt2WFNUdWttd2M5MFc2bDZRc0JJbTJKUXdOcVo3MTh6anY0WkJNMzd6d1ZydlhadHQ2X0tOaTJ5dVd1Nlo1SFl5bUJIRDBwbHZB?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:02:09 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 07:02:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1302,33 +1374,6 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
-      "id": "solapur fire incident डी मार्टसमोर फळ दुकानांना आग",
-      "title": "Solapur Fire Incident : डी-मार्टसमोर फळ दुकानांना आग",
-      "summary": "Solapur Fire Incident : डी-मार्टसमोर फळ दुकानांना आग",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaENTdWFOaGVLMm9JNTEyMU5YcldiN2pKZExGUlVSQ0VaakV2Q3J0TzFsRUNrWFpjeEtUaVByUGcyMDBqemxEU0o5WmVOOEx6QkhkUk9Fd2JYMlZhcjlUWU5rSm0xdURIMUVnbDVKSTdrTkJnNUh0VURkR3Y1WFRpcjJqVnNKcGt2U2lhZ1c1UWxVWXFQcXdvaDZTUWYwa2hwYXJvaFY3aDB6VEtRVmpBOHZTMNIBswFBVV95cUxOaENTdWFOaGVLMm9JNTEyMU5YcldiN2pKZExGUlVSQ0VaakV2Q3J0TzFsRUNrWFpjeEtUaVByUGcyMDBqemxEU0o5WmVOOEx6QkhkUk9Fd2JYMlZhcjlUWU5rSm0xdURIMUVnbDVKSTdrTkJnNUh0VURkR3Y1WFRpcjJqVnNKcGt2U2lhZ1c1UWxVWXFQcXdvaDZTUWYwa2hwYXJvaFY3aDB6VEtRVmpBOHZTMA?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 23:43:57 GMT",
-      "lastUpdated": "Sun, 11 Oct 2026 23:43:57 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
       "id": "school bus accident काळेवाडीत पोदार इंटरनॅशनल",
       "title": "Pune School Bus Accident: काळेवाडीत पोदार इंटरनॅशनल",
       "summary": "Pune School Bus Accident: काळेवाडीत पोदार इंटरनॅशनल",
@@ -1411,6 +1456,64 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "msedcl takes action against power theft in rural jalna",
+      "title": "MSEDCL takes action against power theft in rural Jalna",
+      "summary": "MSEDCL takes action against power theft in rural Jalna",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmlhZHN0dGs2NU1lVzhWeVlfdlAwM3VSUnRwUVpJZlVDRWt6U3owWXFmcTBuSl8tXzhReFZoOG1wQVdXdWQ1RlI5Nlo3NnZLeG9pZ21abUNERFRZWnVHb242T2VPSFVYS3RUZVFHWDZIX3FtSGJ5ZExYdUVRUUJoQjZxa3kzTlVvWWJ5cDk4dWRZM3VhMXp3WGowc2p1LVdPbXprdG80TTQ3bkFNODdGT193NF9oUGhrODl2Uk5NWk12UVJvcHFORFg3ZFppNk1Fczh2OXZ6Wkh4QdIB0gFBVV95cUxNckN5ckFZOUd6VU5wUXZtYjAyZE5WdnBSUHhsZC1vYUhqU2tPQXpjdm1qcExqVHpYclhqSzNrX2p6eUdzdmVUSlJsdWtuUVEteEh3WHpEQnQ2ekszZ1dMbTU1NmplSjBqVjJyUVlRZlU5WEF0OG9WYVFrTGRpd2JrVEZOVFI2eFFLYnZRQndvNjN4NmVWc1RZNUFzQXg5ZUt3WFhfdkRDeXR6aERJZUdOSTJOckhMX29YZUM5MmJ5eE15NUhUQUtIQVJYdFlZWG13dGc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:43:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:43:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
+      "id": "residents fume as ravet grapples with over 30 hour power outage",
+      "title": "Residents fume as Ravet grapples with over 30-hour power outage",
+      "summary": "Residents fume as Ravet grapples with over 30-hour power outage",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWp1MXdHUHdQeXJmUHl6b3ZBOG5nM0Y3Ql8tVWdPU0pRdkNEV21YWHBLZXZjTTdUckl4dkZjWmEzS2lfci10M2J2a3l6dk5kekJqU3otZ0pOajItTXNPY1c1Y2NlZUFiRzF1WTk3a1hkSDlzX0pkNFhNeFJwOXlzVEY2TEFPeXZBSVM0MVNaeFdoTGFuNHdwM0VwTk1laWpFWEdmVUdQWDdTandrVmhXRlN0SXdFQXdTSllYT3lOQVVOSzdVVzdoSXU0aDh0ajIz0gHWAUFVX3lxTE56eDRac2pra1RnYWF4bzV1RU1qNmxSdUxvc2k1NktUQWUtYWpfWi1ReTRKcFdZMGNGT2FncGRBMlhTLVZ1M0pQWnZ3U1F2V1N2Nm14WHJDYUtIZ0FIM01NWXpMQldsa3FiTUY1aWtDandzZ3JuWDNEdjVtT3VnSnVIc1pwM2VJZU51SGctRHo2S0xldkZxSUdwX3pKVFY4cXUyMzlBSm0yTENQYUowYURZa0QyMUJ6azl6emNwM0JzcnVnYndBelphVlJWOVVPNFVFenBHa2c?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:34:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:34:00 GMT",
+      "areas": [
+        "Ravet"
+      ],
+      "region": "pcmc",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
       "id": "nigdi crime मंदिरात अल्पवयीन मुलीवर अतिप्रसंगाचा प्रयत्न पुण्यातील निगडीत संताप",
@@ -1617,33 +1720,27 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "three days after disruption restoration of traffic signals in still underway",
-      "title": "Three days after disruption, restoration of traffic signals in Pune still underway",
-      "summary": "Three days after disruption, restoration of traffic signals in Pune still underway",
-      "source": "The Times of India",
+      "id": "पिंपरी चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला",
+      "title": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
+      "summary": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
+      "source": "Instagram + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFVENV9ieHJ3TXFFdzFaNTdsRGsyT0dMUk1uN19Fc3k4RDhnNF9TSFAyc0FlOTlSNWhXT1NYNmF6N1VZZWh5bFVrdWlQMHhGV0p0QUl3R1pCU3JKTzNwOGJiTGdHOUZhNy01djNBR2dEa3NMa0dsMl94UlFWcEt6S0pYTlpJbmtKM0NWaTRxSFFnWDhvYXF0ejRxM3F0VTRGV0lrR1ppU0VMOFVsUHpfSVl6RENFU1hGMkVhVEZQNG9CRDRrY29YUDlHa2tpXzZYSjI2VmUwQWxqX1ZpUkw3WFBuMTktNlht0gHuAUFVX3lxTE05RklYMzVjQXdtYWZ3dmR3Z3d2N1hnNDIzTmxoQ0JiamxtNEZWNmpBLVZqZDZ4YmJiRWUzZzNWemFzTFg0OHptWm1KSmtRbHhsNnlnVnJxbjRhZWYxMDRmVmZEVV9oTUwxOElwNW00S0tlZEpwRGo1Rmh3VThwbUlPMWw2VDNBel9pUlcyU3NjdnZwTWNXd0pYQlF0ek1LalRaaGNGUk5aNFRqQ0ZHUGlBVUVtNnVmd3piQ0dFdlRSS2dyR2RlUTVaRFFtR3k4Rl8wSUFwaFYzSjJEeUM4NFpLLXdpR09WOVBhVGZMbUE?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 19:29:00 GMT",
-      "lastUpdated": "Sun, 11 Oct 2026 19:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSm5CS1R5SU5tLTdEUUtDNkVNb0tvakRtbmZ6WG1RQy04aXllcWZUbFVLdjl4blprcFVhaS14MWhOQXdlVlZ5Y0VRblVGbmNmVlhMVlFn?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:44:07 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 23:44:07 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "The Times of India"
+        "Instagram",
+        "Esakal"
       ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": false,
-      "action": "Check route before starting travel."
+      "action": "No immediate action required."
     },
     {
       "id": "maharashtra in पुण्यातील mpsc चे आंदोलन स्थगित भीमनवार सक्तीच्या रजेवर",
@@ -1669,18 +1766,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुणे नवीन कात्रज बोगद्याजवळ भीषण अपघात उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्य",
-      "title": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
-      "summary": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
-      "source": "Instagram",
+      "id": "builder facing losses conspires with supervisor to steal friend s rs50 lakh",
+      "title": "Builder facing losses conspires with supervisor to steal friend’s Rs50 lakh",
+      "summary": "Builder facing losses conspires with supervisor to steal friend’s Rs50 lakh",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbS1PMFdTRTZIWEllODhHOGpSUzBSV0xBdUN5MjRjblVWU1NrM2JSaFB4Q0VqREJ5ZnYtNlA5NW1JV3hlVUxxdEUyVTVLWFUtR3c?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:19:43 GMT",
-      "lastUpdated": "Mon, 12 Oct 2026 17:19:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVV1Ym8tWDRJR2FvU3dkSGZOTkpqM3FJbHAwbnR2UTRlbXFuY1gxaEVfSDNGSjR2ZnJwVkxaRFpJU19uRl9mUE1TZUJoRXc4R3hGZHJua3Vya012YXgxV25OVl9VZUxKRTEzVjRGSGl3N3AyQkRiNlpWLXVHa1F5cWNJNWswTVE4U0lJUFVuZ2N6ZkR1M2xIcUlsVURDbVktSC15ZzZUd2U4NVpuWXREWWUyaEsyMUl3bWoxcVNtOUo0MGNZd0luc3hfS3dhMy1oVGxENDNXQmJEY1QtZThR0gHkAUFVX3lxTE1LMHlNM2E4RVpGUVRVVEFTVjd3SU9ERzd3UGx5UG9lOGI3VThIclN1WEQxb1EtZDg5TFNSRjI3Zkp6ZnV1aU5sWFZPcVQwSFN4M2lmN2psS3Q4TW5RV2xGUFh1eE1JN3NvYnBEcFpMNnh5WUxCQzJBejVKZVMxX1RvSUN3ZnJ0R0lyTzhqMzhHNU1WT05uTnRIa3VXS3lpeGt3aF9OUXJJcm5QNzhSZlpFdl9weFotazhsLWR4bzQ3MzRFUWNwaTRGYXd3d3Y4TjJRdTFnNU5WOTB5VUdxVmFWZ1ZrVw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:45:00 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 18:45:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Instagram"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1718,7 +1815,7 @@
       "summary": "महाराष्ट्राच्या हवामानाबाबत धडकी भरवणारी अपडेट! मान्सूननंतर पहिल्यांदाच महाभयानक परिस्थिती, 13 वर्षात दुसऱ्यांदा असं घडलं",
       "source": "Zee News",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX0cxSEx5ZDNEbnJXQzNWRElYRzdrNG5LbWxLOS1vcENmajVTUUF5OUdXa01WbzROVVFWUjdxZ1FwYU5nVUU5WlpaZHQ2MWc1V21hZXRWSkNuNjBreFNwd0h2VEdlMDRDemxZVFlPLVhYcFg0UGk5bEZmbTR4TllCbDlka3ZCejF2Q0hVSXBWM2FJM3RMRkJjd2xkSVpodllWS0J3ZWJpZmI1d2gxQm1NQ2FuaXBWRjgzTjFkeXhfS2V5dVU4NGhBWjRqemhlMVYwWjFSc3ZyNWdkenZhWjc3MVI4a2dadkQ4dUJpM3lmRGFwc2duSzZ1dk04UGM3ekx3M042YzVqU1NCZEFYQ2fSAZMCQVVfeXFMT0I2bVNOREFkbnpOdDNkRWViWEtrQW85bVVUR0RKd3BDMUpWdHRCSUlvcjZhQ0V1dURZM0VxZWZJRWJTU216WE5CYWxHNm9CSlNXdjB4ZFl4TEhGZVN1ZUwtQzVtaUxDa1NDOW9nN085eVNzSnpHRkl4dWh1NVlBYVpuejhNN3ZMcTNPUWM5WTlNd2lRVHRpdjR2SkoyenlvM3pIMHRiNl9jb1haeUZiYjJGWnRRQzd1U0NXLXJBS20zSFZSenhYc1B2YmRmcmk4NTBJa0tfRm9CWVJ0cFVmd2JnQ003aWR3clkwNmRRWGF4Z3c4Y3Z6Mm9VakhVSFZUa0FuZEo5YTJHWkdmVlg2MWRsYXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQjZtU05EQWRuek50M2RFZWJYS2tBbzltVVRHREp3cEMxSlZ0dEJJSW9yNmFDRXV1RFkzRXFlZklFYlNTbXpYTkJhbEc2b0JKU1d2MHhkWXhMSEZlU3VlTC1DNW1pTENrU0M5b2c3Tzl5U3NKekdGSXh1aHU1WUFhWm56OE03dkxxM09RYzlZOU13aVFUdGl2NHZKSjJ6eW8zekgwdGI2X2NvWFp5RmJiMkZadFFDN3VTQ1ctckFLbTNIVlJ6eFhzUHZiZGZyaTg1MElrS19Gb0JZUnRwVWZ3YmdDTTdpZHdyWTA2ZFFYYXhndzhjdnoyb1VqSFVIVlRrQW5kSjlhMkdaR2ZWWDYxZGxhd9IBkwJBVV95cUxPQjZtU05EQWRuek50M2RFZWJYS2tBbzltVVRHREp3cEMxSlZ0dEJJSW9yNmFDRXV1RFkzRXFlZklFYlNTbXpYTkJhbEc2b0JKU1d2MHhkWXhMSEZlU3VlTC1DNW1pTENrU0M5b2c3Tzl5U3NKekdGSXh1aHU1WUFhWm56OE03dkxxM09RYzlZOU13aVFUdGl2NHZKSjJ6eW8zekgwdGI2X2NvWFp5RmJiMkZadFFDN3VTQ1ctckFLbTNIVlJ6eFhzUHZiZGZyaTg1MElrS19Gb0JZUnRwVWZ3YmdDTTdpZHdyWTA2ZFFYYXhndzhjdnoyb1VqSFVIVlRrQW5kSjlhMkdaR2ZWWDYxZGxhdw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 16:07:11 GMT",
       "lastUpdated": "Mon, 12 Oct 2026 16:07:11 GMT",
       "areas": [],
@@ -1747,6 +1844,28 @@
       "region": "pune",
       "sources": [
         "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे नवीन कात्रज बोगद्याजवळ भीषण अपघात उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्य",
+      "title": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
+      "summary": "पुणे : नवीन कात्रज बोगद्याजवळ भीषण अपघात! उभ्या कंटेनरवर दुचाकी आदळून 22 वर्षीय तरुणीचा मृत्यू; मैत्रीण गंभीर जखमी पुणे : मुंबई-बेंगळुरू बाह्यवळण मार्गावर नवीन कात्रज बोगद्याजवळ थांबलेल्",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbS1PMFdTRTZIWEllODhHOGpSUzBSV0xBdUN5MjRjblVWU1NrM2JSaFB4Q0VqREJ5ZnYtNlA5NW1JV3hlVUxxdEUyVTVLWFUtR3c?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 15:00:31 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 15:00:31 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1813,28 +1932,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पिंपरी चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला",
-      "title": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
-      "summary": "पिंपरी-चिंचवडमध्ये स्कूल बसची दुभाजकाला जोरदार धडक; सुदैवाने विद्यार्थी नसल्याने अनर्थ टळला! पिंपरी-चिंचवडमधील काळेवाडी येथील तापकीर चौकाजवळ पोदार इंटरनॅशनल स्कूलच्या बसला अपघात झ",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSm5CS1R5SU5tLTdEUUtDNkVNb0tvakRtbmZ6WG1RQy04aXllcWZUbFVLdjl4blprcFVhaS14MWhOQXdlVlZ5Y0VRblVGbmNmVlhMVlFn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:05:04 GMT",
-      "lastUpdated": "Mon, 12 Oct 2026 12:05:04 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1933,6 +2030,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर इमर्जन्सी लँडिंग धक्कादायक हवेत उडणाऱ्या इंडिगो व",
+      "title": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर 'इमर्जन्सी' लँडिंग धक्कादायक! हवेत उडणाऱ्या इंडिगो विमानात पॉवर बँकेला अचानक आग; केबिन क्रूच्या सतर्कतेमुळे मोठा अनर्थ टळला, हैदराबादमध्ये आप",
+      "summary": "विमानात पॉवर बँकेला अचानक आग लागल्यानंतर 'इमर्जन्सी' लँडिंग धक्कादायक! हवेत उडणाऱ्या इंडिगो विमानात पॉवर बँकेला अचानक आग; केबिन क्रूच्या सतर्कतेमुळे मोठा अनर्थ टळला, हैदराबादमध्ये आप",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4amtpN200TFFQb0tRVWRCQ1YzT1VncFM0MXNzVjIwZTFyQmlqak5QdU50VzN6WC1IY1VZTjhaa0JpUFMxSlZVYlc0QVpCQVY2OXdhV09n?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 08:17:21 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 08:17:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "nitesh rane आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका नेमकं काय म्हणाले",
       "title": "Nitesh Rane | आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका, नेमकं काय म्हणाले?",
       "summary": "Nitesh Rane | आंदोलनावरुन नितेश राणेंची ठाकरे बंधूंवर टीका, नेमकं काय म्हणाले?",
@@ -1967,6 +2086,28 @@
       "region": "pune",
       "sources": [
         "Esakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबा",
+      "title": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबाई फुले पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर डिझेल कारला अचानक आग लाग",
+      "summary": "पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर कारला भीषण आग पुण्यातील सावित्रीबाई फुले पुणे विद्यापीठाच्या मुख्य प्रवेशद्वाराबाहेर टाटा हॅरियर डिझेल कारला अचानक आग लाग",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TmhVckt2WFNUdWttd2M5MFc2bDZRc0JJbTJKUXdOcVo3MTh6anY0WkJNMzd6d1ZydlhadHQ2X0tOaTJ5dVd1Nlo1SFl5bUJIRDBwbHZB?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:02:09 GMT",
+      "lastUpdated": "Mon, 12 Oct 2026 07:02:09 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2400,9 +2541,9 @@
     }
   ],
   "summary": {
-    "total": 55,
+    "total": 57,
     "alerts": 14,
-    "news": 41
+    "news": 43
   },
-  "cleanedAt": "2026-10-12T18:27:07.549Z"
+  "cleanedAt": "2026-10-13T00:55:31.529Z"
 }
