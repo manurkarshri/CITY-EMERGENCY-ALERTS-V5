@@ -1,100 +1,100 @@
 {
-  "generatedAt": "2026-10-15T11:50:22.125Z",
+  "generatedAt": "2026-10-15T16:04:46.714Z",
   "source": "Open-Meteo",
   "regions": {
-    "alandi": {
-      "label": "Alandi Area",
+    "saswad": {
+      "label": "Saswad Region",
       "error": true,
-      "message": "Open-Meteo failed for alandi: HTTP 429",
-      "updatedAt": "2026-10-15T11:50:21.143Z"
+      "message": "Open-Meteo failed for saswad: HTTP 429",
+      "updatedAt": "2026-10-15T16:04:46.255Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "error": true,
+      "message": "Open-Meteo failed for ranjangaon: HTTP 429",
+      "updatedAt": "2026-10-15T16:04:46.257Z"
     },
     "fursungi": {
       "label": "Fursungi / Uruli",
       "error": true,
       "message": "Open-Meteo failed for fursungi: HTTP 429",
-      "updatedAt": "2026-10-15T11:50:21.152Z"
+      "updatedAt": "2026-10-15T16:04:46.259Z"
     },
     "talegaon": {
       "label": "Talegaon Dabhade",
       "error": true,
       "message": "Open-Meteo failed for talegaon: HTTP 429",
-      "updatedAt": "2026-10-15T11:50:21.159Z"
-    },
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "error": true,
-      "message": "Open-Meteo failed for chakan: HTTP 429",
-      "updatedAt": "2026-10-15T11:50:21.162Z"
+      "updatedAt": "2026-10-15T16:04:46.263Z"
     },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 31.2,
-      "humidity": 31,
+      "temp": 26.7,
+      "humidity": 59,
       "rain": 0,
-      "wind": 7.8,
-      "gust": 27,
-      "code": 3,
+      "wind": 2,
+      "gust": 7.6,
+      "code": 2,
       "rainChance": 0,
-      "visibility": 19,
+      "visibility": 15,
       "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-10-15T11:50:21.575Z"
+      "updatedAt": "2026-10-15T16:04:46.389Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 31,
-      "humidity": 31,
+      "temp": 27.8,
+      "humidity": 42,
       "rain": 0,
-      "wind": 12.6,
-      "gust": 31.7,
-      "code": 3,
+      "wind": 2.7,
+      "gust": 11.9,
+      "code": 1,
       "rainChance": 0,
       "visibility": 19,
       "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-10-15T11:50:21.755Z"
+      "updatedAt": "2026-10-15T16:04:46.512Z"
+    },
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "temp": 25.9,
+      "humidity": 61,
+      "rain": 0,
+      "wind": 5.5,
+      "gust": 9,
+      "code": 3,
+      "rainChance": 0,
+      "visibility": 15,
+      "next6hRainMm": 0,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-10-15T16:04:46.599Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "temp": 25.4,
+      "humidity": 56,
+      "rain": 0,
+      "wind": 5.1,
+      "gust": 7.9,
+      "code": 2,
+      "rainChance": 0,
+      "visibility": 16,
+      "next6hRainMm": 0,
+      "source": "Open-Meteo",
+      "updatedAt": "2026-10-15T16:04:46.652Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
-      "temp": 27.9,
-      "humidity": 53,
+      "temp": 23.3,
+      "humidity": 70,
       "rain": 0,
-      "wind": 3.7,
-      "gust": 13.3,
-      "code": 3,
+      "wind": 2,
+      "gust": 4.7,
+      "code": 1,
       "rainChance": 0,
-      "visibility": 16,
+      "visibility": 14,
       "next6hRainMm": 0,
       "source": "Open-Meteo",
-      "updatedAt": "2026-10-15T11:50:21.948Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "temp": 28.9,
-      "humidity": 47,
-      "rain": 0,
-      "wind": 6.7,
-      "gust": 16.9,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-10-15T11:50:22.015Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "temp": 27.3,
-      "humidity": 57,
-      "rain": 0,
-      "wind": 4.4,
-      "gust": 16.9,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 18,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-10-15T11:50:22.125Z"
+      "updatedAt": "2026-10-15T16:04:46.713Z"
     }
   }
 }
