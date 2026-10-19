@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:37:24.729Z",
+  "generatedAt": "2026-10-19T21:54:31.945Z",
   "status": "ok",
   "alerts": [
     {
@@ -89,33 +89,6 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
-    },
-    {
-      "id": "karnataka fire incident अथणीत मॉलला भीषण आग",
-      "title": "Karnataka Fire Incident : अथणीत मॉलला भीषण आग",
-      "summary": "Karnataka Fire Incident : अथणीत मॉलला भीषण आग",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR05Xc0IzRHBsbzB0Y1FqRXFGVjNlWFNSR2hHNnp1TE5QRUZnZG1PekxDTlV2RWZhdGhicGhvc2NrR3BnXzZxMkEtN3F4YnROVUlJVldHSnBzWHFmYWZELWI1YUlRbVFWUTBMbE5qTTIwc3RFdnVFLU9yWVg3QlVoMUMzUm9IV3Q4WkxrRTZTQnM2NkJWanhfdWczTVh4aEhSTDlGbVpRZ25aOVB2aEHSAa4BQVVfeXFMT0dOV3NCM0RwbG8wdGNRakVxRlYzZVhTUkdoRzZ6dUxOUEVGZ2RtT3pMQ05VdkVmYXRoYnBob3Nja0dwZ182cTJBLTdxeGJ0TlVJSVZXR0pwc1hxZmFmRC1iNWFJUW1RVlEwTGxOak0yMHN0RXZ1RS1PcllYN0JVaDFDM1JvSFd0OFpMa0U2U0JzNjZCVmp4X3VnM01YeGhIUkw5Rm1aUWduWjlQdmhB?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:29:15 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 21:29:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
     }
   ],
   "news": [
@@ -202,6 +175,50 @@
         "TV9 Marathi"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "fdaची मोठी कारवाई ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर खवा जप्त",
+      "title": "FDAची मोठी कारवाई; ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर, खवा जप्त",
+      "summary": "FDAची मोठी कारवाई; ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर, खवा जप्त",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORklSaVc2ZGZ6T2l1TGxSOHRUU01mRXdqTUNyS01vYXRGY2stS0ZzcG1EVzBMSmo0bjFaWEVQMzNISzJxY3Zvd25rdG52dDhpVlQ3NXdJc1FneU1MdHZrYWxQMXJZNlZBYzN1emNnaG8wNTgySHBFenY3b2U4OU0wZDRrM2Q3UWFfei1ZczIya3RwOEc5N3F6NWZDTHU4UGVhMzUwT29XR250bmpUYTd5OXJpcU5mYWp0dFJRYjBmaG4tVG50RHo00gHHAUFVX3lxTE5GSVJpVzZkZnpPaXVMbFI4dFRTTWZFd2pNQ3JLTW9hdEZjay1LRnNwbURXMExKajRuMVpYRVAzM0hLMnFjdm93bmt0bnZ0OGlWVDc1d0lzUWd5TUx0dmthbFAxclk2VkFjM3V6Y2dobzA1ODJIcEV6djdvZTg5TTBkNGszZDdRYV96LVlzMjJrdHA4Rzk3cXo1ZkNMdThQZWEzNTBPb1dHbnRualRhN3k5cmlxTmZhanR0UlFiMGZobi1UbnREejQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:59:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 17:59:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ कोणत्या राज्यांसाठी हवामान विभागा",
+      "title": "Weather Update: उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ, कोणत्या राज्यांसाठी हवामान विभागानं दिला अलर्ट?",
+      "summary": "Weather Update: उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ, कोणत्या राज्यांसाठी हवामान विभागानं दिला अलर्ट?",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOUjFQY1BwTGZ1OG84TVhrQTR0dkxFTHpIelp3YVc2LV9Bd0Z5cU4zdGJMdnBaSlRoRW92bmJVclE0SG1LZXNXYXRSOFBGNzVxcGdtY3VweWFieU9IaVZCMGRLa0lGcWlVcmlPaTFxMGlGbjYzeTlDcVRqeDJtNXVpMGNIUE1uWHBJREpFUFBXcVVwWXRGT084MjFVLXlVZS1uRG1hVHA1OFVjS1g0cnF5YkRZUHhrQnlHZlcxYm05VkQ3VllEQ3E5NjhENk1VX2RkbHZuaTZKMURMTGlTRTdhcHpGbG84RnBnZFlRTFE5YnRMS3A0TV84dFNnSXZtT05hUlJTV0wwY3Y4clljUXAwci1EZjBjM1p2bW9XNFFCMFNjZWhGZHNucnZhMFlyNUtLTU9OQnlXeUFleklY0gG8AkFVX3lxTE5SMVBjUHBMZnU4bzhNWGtBNHR2TEVMekh6WndhVzYtX0F3RnlxTjN0Ykx2cFpKVGhFb3ZuYlVyUTRIbUtlc1dhdFI4UEY3NXFwZ21jdXB5YWJ5T0hpVkIwZEtrSUZxaVVyaU9pMXEwaUZuNjN5OUNxVGp4Mm01dWkwY0hQTW5YcElESkVQUFdxVXBZdEZPTzgyMVUteVVlLW5EbWFUcDU4VWNLWDRycXliRFlQeGtCeUdmVzFibTlWRDdWWURDcTk2OEQ2TVVfZGRsdm5pNkoxRExMaVNFN2FwekZsbzhGcGdkWVFMUTlidExLcDRNXzh0U2dJdm1PTmFSUlNXTDBjdjhyWWNRcDByLURmMGMzWnZtb1c0UUIwU2NlaEZkc25ydmEwWXI1S0tNT05CeVd5QWV6SVg?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:42:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 17:42:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -304,28 +321,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला फुले उचलण्यासाठी नागरिकांची झुंबड झेंडूच्या फुलांची ",
-      "title": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला; फुले उचलण्यासाठी नागरिकांची झुंबड! झेंडूच्या फुलांची वाहतूक करणारा टेम्पो रस्त्यावर उलटल्याची घटना समोर आली आहे. अपघातानंतर टेम्पोमधील झेंड",
-      "summary": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला; फुले उचलण्यासाठी नागरिकांची झुंबड! झेंडूच्या फुलांची वाहतूक करणारा टेम्पो रस्त्यावर उलटल्याची घटना समोर आली आहे. अपघातानंतर टेम्पोमधील झेंड",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVXktdnI5X0VLQ2ZyMExMRFNBZFRjUFFaRjJkNnhWNHVDM2E4WktKckxWa3hwcUVUeXdXaW5UYU83WlQ5VTd6cEhtelZ5bzhtcnBidWtn?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 14:24:49 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 14:24:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप ॲट्रॉसिटीची मागणी",
       "title": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप, ॲट्रॉसिटीची मागणी",
       "summary": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप, ॲट्रॉसिटीची मागणी",
@@ -354,8 +349,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeGp1d3NRd214d2VoNWN5UXozTWVNYUVDdzUwdFQ2WE9tbzkxdTRCRTI2WlZHRDF5dGhia2JRSXJQZ3Y1QUtDYlVJTGMwZDRZdlg1V0h5dm51YU1RWUVXMUhuOUVMWUl4cWVWckNSelBGOEJPLWFLN2pBYy1qX3hJVmxQOVQxSWJXT3YyN2lPbzhvUkJZaFV5STloQ3JXRnZYRDdmV2VoNkJUMHFOWEhDc1JxVG4tTGU4czdLSzJQWWc0VFVvZFhqSGlrRzJxbEw1YUpxQjNRQjhJY2NDV0ozZy05c3h2ajZKaktVSGFNb3dTQXViTkdLVXE5MEkzcVU?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:46:25 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 13:46:25 GMT",
+      "pubDate": "Mon, 19 Oct 2026 13:46:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 13:46:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -382,28 +377,6 @@
       "region": "pune",
       "sources": [
         "Maharashtra Desha महाराष्ट्र देशा"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे दुगड चौक झाला सिग्नलमुक्त मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल वा",
-      "title": "पुणे : दुगड चौक झाला सिग्नलमुक्त! मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल; वाहनचालकांना यू-टर्नचा वळसा पुणे : स्वारगेट ते कात्रज भूमिगत मेट्रो प्रकल्पाच्या कामामुळे",
-      "summary": "पुणे : दुगड चौक झाला सिग्नलमुक्त! मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल; वाहनचालकांना यू-टर्नचा वळसा पुणे : स्वारगेट ते कात्रज भूमिगत मेट्रो प्रकल्पाच्या कामामुळे",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jb3dEQjVEeDNWUmw3N0RHNk1Md0JwMEdfOWE1UlhJUkdDMUdGVUlnTWVURXBaWVBkU0ZjMzdfSVBtTGpwWjBRQ0wxaFBXYnBUZHc?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:07:59 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 13:07:59 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -733,63 +706,13 @@
       "summary": "राज्यातील ‘या’ चार भागात आज विजांच्या कडकडाटासह हलक्या ते मध्यम पावसाचा अंदाज",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORktwSGVZWnFhaFZobjYzT2Vxakd1V21NWjhxMC02RXdmVlpNZUMyT2Y0OUdXU0pZSjhmMVZCNFFyZklkeVBST1Rwdkt3Q2RvU2xkMWpZYTFCa2piaTkzbzZzbmNXMmVtSnpESlNBUEFrNzZKX3ZDRzZGM2lHM0NLQ1BfOUliUVpnV1gtd2R1QUZVVERUejdhRjBnSVNLSi1aZC01TV9XZzV3bWpaR0UzZFRrXzh1WnZjYWwyckprNHVoREpNWjhVVUNTQmp3ZUlTV1lzUXMwZU54eEFRYmJNcVdDTHZSckVIT3hma3VtM3pfZkQ5aTlhSzZZOXJ0Q19tN1lhR2RrNmdNRjlKMFRketIBlgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQdIBlgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQQ?oc=5",
       "pubDate": "Sun, 18 Oct 2026 23:01:25 GMT",
       "lastUpdated": "Sun, 18 Oct 2026 23:01:25 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "My Mahanagar"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rain alert कोल्हापूर पुणे साताऱ्यासह ११ जिल्ह्यांसाठी यलो अलर्ट",
-      "title": "Heavy Rain Alert | कोल्हापूर, पुणे, साताऱ्यासह ११ जिल्ह्यांसाठी ‘यलो अलर्ट’",
-      "summary": "Heavy Rain Alert | कोल्हापूर, पुणे, साताऱ्यासह ११ जिल्ह्यांसाठी ‘यलो अलर्ट’",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkFkaTZtMkpCUVBoT3g3cHNfYi00RDl4MW5nNXJvQkFtNWRrZVFGaU82cVFKdUptS1NJM1lrVG1MZkt4UUxEM18zd3VrTUxEa0dIc3gtRnZ0a3dNYlNKTmVnQ0lWMkh5c2s0ZEhqU3NEa013VVJvVVBTVjAzaTlqVFdSNUx1Wm1vY2dkZXFjSlZ1NlZQTFgtTGRfUTBoRXgtUktQN3d4UmNhNmJTckk4cGxmR1FZdExTbkw0dUY5eU15YWRq0gHSAUFVX3lxTFBlNUhlcjFQYU9vNVpmYThoOUNWeU1KY2hDSkdEcm9leGtzZXFud1poMGVJNm1IZXpkdm43c1BrWnpZRkpjTTZUOWNhVm9WYy1PSEZqY1dLMW1sZUsyaFB4Ql9QODhlVzVuaHVTVUVMcm0tNnR1VkI2R2pnWnRTbWZBODVBVHpyV01GY2lTb1FCemdxTm8wZG4xR0lPYmg5QkdHeU1FNlhWNEdSOXJoM3F4Y2JkWFVoV25laUlkZ01ILWd1QzVUNzZraG43TlFrVjBTUQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:00:45 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 21:00:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "as paddy losses mount mulshi maval farmers seek drought relief question assessment process",
-      "title": "As paddy losses mount, Mulshi & Maval farmers seek drought relief, question assessment process",
-      "summary": "As paddy losses mount, Mulshi & Maval farmers seek drought relief, question assessment process",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcjNXUE4xNkpuY3d5cE82VUp0Z0x4djZtSkZVZXhkYlZrNzJ2dnFzd1pDcVZkTGlkVHZKZWJGODYzZ1RJakJteDlLdllYNUx2TDdwN0paUWM3dUVNRHBBcHB1U2g1VE43NzNycFZXYThHaHhDdjhfZk5sbjEydEY4djh6WGhmNm5JT3k0M09vV0steGZOMTFYRzNCYTIyeFRMcnpfLTRncUFVRExFTHdFLXF0TmNHbWhaVTQ2elc0bkRlWHpjWWZQb3FodllWaWJMdUpvNWNiUE1BMW9VVFI3LU1LNi1YU1NIUExMSlB0Q2d6WmRsRnpjX2Vn0gH6AUFVX3lxTE9yM1dQTjE2Sm5jd3lwTzZVSnRnTHh2Nm1KRlVleGRiVms3MnZ2cXN3WkNxVmRMaWRUdkplYkY4NjNnVElqQm14OUt2WVg1THZMN3A3SlpRYzd1RU1EcEFwcHVTaDVUTjc3M3JwVldhOEdoeEN2OF9mTmxuMTJ0Rjh2OHpYaGY2bklPeTQzT29XSy14Zk4xMVhHM0JhMjJ4VExyel8tNGdxQVVETEVMd0UtcXROY0dtaFpVNDZ6VzRuRGVYemNZZlBvcWh2WVZpYkx1Sm81Y2JQTUExb1VUUjctTUs2LVhTU0hQTExKUHRDZ3paZGxGemNfZWc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 19:07:00 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 19:07:00 GMT",
-      "areas": [
-        "Maval",
-        "Mulshi"
-      ],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -887,33 +810,6 @@
       "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
-      "id": "karnataka fire incident अथणीत मॉलला भीषण आग",
-      "title": "Karnataka Fire Incident : अथणीत मॉलला भीषण आग",
-      "summary": "Karnataka Fire Incident : अथणीत मॉलला भीषण आग",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR05Xc0IzRHBsbzB0Y1FqRXFGVjNlWFNSR2hHNnp1TE5QRUZnZG1PekxDTlV2RWZhdGhicGhvc2NrR3BnXzZxMkEtN3F4YnROVUlJVldHSnBzWHFmYWZELWI1YUlRbVFWUTBMbE5qTTIwc3RFdnVFLU9yWVg3QlVoMUMzUm9IV3Q4WkxrRTZTQnM2NkJWanhfdWczTVh4aEhSTDlGbVpRZ25aOVB2aEHSAa4BQVVfeXFMT0dOV3NCM0RwbG8wdGNRakVxRlYzZVhTUkdoRzZ6dUxOUEVGZ2RtT3pMQ05VdkVmYXRoYnBob3Nja0dwZ182cTJBLTdxeGJ0TlVJSVZXR0pwc1hxZmFmRC1iNWFJUW1RVlEwTGxOak0yMHN0RXZ1RS1PcllYN0JVaDFDM1JvSFd0OFpMa0U2U0JzNjZCVmp4X3VnM01YeGhIUkw5Rm1aUWduWjlQdmhB?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:29:15 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 21:29:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
       "id": "chennai airport rain disruption delays 20 flights diverts indigo",
       "title": "Chennai Airport Rain Disruption Delays 20 Flights, Diverts IndiGo",
       "summary": "Chennai Airport Rain Disruption Delays 20 Flights, Diverts IndiGo",
@@ -990,6 +886,50 @@
         "TV9 Marathi"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "fdaची मोठी कारवाई ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर खवा जप्त",
+      "title": "FDAची मोठी कारवाई; ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर, खवा जप्त",
+      "summary": "FDAची मोठी कारवाई; ऐन सणासुदीच्या काळात पुण्यात १० टन पनीर, खवा जप्त",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORklSaVc2ZGZ6T2l1TGxSOHRUU01mRXdqTUNyS01vYXRGY2stS0ZzcG1EVzBMSmo0bjFaWEVQMzNISzJxY3Zvd25rdG52dDhpVlQ3NXdJc1FneU1MdHZrYWxQMXJZNlZBYzN1emNnaG8wNTgySHBFenY3b2U4OU0wZDRrM2Q3UWFfei1ZczIya3RwOEc5N3F6NWZDTHU4UGVhMzUwT29XR250bmpUYTd5OXJpcU5mYWp0dFJRYjBmaG4tVG50RHo00gHHAUFVX3lxTE5GSVJpVzZkZnpPaXVMbFI4dFRTTWZFd2pNQ3JLTW9hdEZjay1LRnNwbURXMExKajRuMVpYRVAzM0hLMnFjdm93bmt0bnZ0OGlWVDc1d0lzUWd5TUx0dmthbFAxclk2VkFjM3V6Y2dobzA1ODJIcEV6djdvZTg5TTBkNGszZDdRYV96LVlzMjJrdHA4Rzk3cXo1ZkNMdThQZWEzNTBPb1dHbnRualRhN3k5cmlxTmZhanR0UlFiMGZobi1UbnREejQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:59:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 17:59:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ कोणत्या राज्यांसाठी हवामान विभागा",
+      "title": "Weather Update: उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ, कोणत्या राज्यांसाठी हवामान विभागानं दिला अलर्ट?",
+      "summary": "Weather Update: उन्हाच्या तडाख्यात 9 राज्यात पाऊस घालणार धुमाकूळ, कोणत्या राज्यांसाठी हवामान विभागानं दिला अलर्ट?",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOUjFQY1BwTGZ1OG84TVhrQTR0dkxFTHpIelp3YVc2LV9Bd0Z5cU4zdGJMdnBaSlRoRW92bmJVclE0SG1LZXNXYXRSOFBGNzVxcGdtY3VweWFieU9IaVZCMGRLa0lGcWlVcmlPaTFxMGlGbjYzeTlDcVRqeDJtNXVpMGNIUE1uWHBJREpFUFBXcVVwWXRGT084MjFVLXlVZS1uRG1hVHA1OFVjS1g0cnF5YkRZUHhrQnlHZlcxYm05VkQ3VllEQ3E5NjhENk1VX2RkbHZuaTZKMURMTGlTRTdhcHpGbG84RnBnZFlRTFE5YnRMS3A0TV84dFNnSXZtT05hUlJTV0wwY3Y4clljUXAwci1EZjBjM1p2bW9XNFFCMFNjZWhGZHNucnZhMFlyNUtLTU9OQnlXeUFleklY0gG8AkFVX3lxTE5SMVBjUHBMZnU4bzhNWGtBNHR2TEVMekh6WndhVzYtX0F3RnlxTjN0Ykx2cFpKVGhFb3ZuYlVyUTRIbUtlc1dhdFI4UEY3NXFwZ21jdXB5YWJ5T0hpVkIwZEtrSUZxaVVyaU9pMXEwaUZuNjN5OUNxVGp4Mm01dWkwY0hQTW5YcElESkVQUFdxVXBZdEZPTzgyMVUteVVlLW5EbWFUcDU4VWNLWDRycXliRFlQeGtCeUdmVzFibTlWRDdWWURDcTk2OEQ2TVVfZGRsdm5pNkoxRExMaVNFN2FwekZsbzhGcGdkWVFMUTlidExLcDRNXzh0U2dJdm1PTmFSUlNXTDBjdjhyWWNRcDByLURmMGMzWnZtb1c0UUIwU2NlaEZkc25ydmEwWXI1S0tNT05CeVd5QWV6SVg?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:42:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 17:42:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1086,28 +1026,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला फुले उचलण्यासाठी नागरिकांची झुंबड झेंडूच्या फुलांची ",
-      "title": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला; फुले उचलण्यासाठी नागरिकांची झुंबड! झेंडूच्या फुलांची वाहतूक करणारा टेम्पो रस्त्यावर उलटल्याची घटना समोर आली आहे. अपघातानंतर टेम्पोमधील झेंड",
-      "summary": "झेंडूच्या फुलांनी भरलेला टेम्पो उलटला; फुले उचलण्यासाठी नागरिकांची झुंबड! झेंडूच्या फुलांची वाहतूक करणारा टेम्पो रस्त्यावर उलटल्याची घटना समोर आली आहे. अपघातानंतर टेम्पोमधील झेंड",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVXktdnI5X0VLQ2ZyMExMRFNBZFRjUFFaRjJkNnhWNHVDM2E4WktKckxWa3hwcUVUeXdXaW5UYU83WlQ5VTd6cEhtelZ5bzhtcnBidWtn?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 14:24:49 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 14:24:49 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप ॲट्रॉसिटीची मागणी",
       "title": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप, ॲट्रॉसिटीची मागणी",
       "summary": "आमदार सुनील शेळकेंवर मारहाणीचा आरोप, ॲट्रॉसिटीची मागणी",
@@ -1136,8 +1054,8 @@
       "source": "News18 Marathi",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeGp1d3NRd214d2VoNWN5UXozTWVNYUVDdzUwdFQ2WE9tbzkxdTRCRTI2WlZHRDF5dGhia2JRSXJQZ3Y1QUtDYlVJTGMwZDRZdlg1V0h5dm51YU1RWUVXMUhuOUVMWUl4cWVWckNSelBGOEJPLWFLN2pBYy1qX3hJVmxQOVQxSWJXT3YyN2lPbzhvUkJZaFV5STloQ3JXRnZYRDdmV2VoNkJUMHFOWEhDc1JxVG4tTGU4czdLSzJQWWc0VFVvZFhqSGlrRzJxbEw1YUpxQjNRQjhJY2NDV0ozZy05c3h2ajZKaktVSGFNb3dTQXViTkdLVXE5MEkzcVU?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:46:25 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 13:46:25 GMT",
+      "pubDate": "Mon, 19 Oct 2026 13:46:00 GMT",
+      "lastUpdated": "Mon, 19 Oct 2026 13:46:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1164,28 +1082,6 @@
       "region": "pune",
       "sources": [
         "Maharashtra Desha महाराष्ट्र देशा"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे दुगड चौक झाला सिग्नलमुक्त मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल वा",
-      "title": "पुणे : दुगड चौक झाला सिग्नलमुक्त! मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल; वाहनचालकांना यू-टर्नचा वळसा पुणे : स्वारगेट ते कात्रज भूमिगत मेट्रो प्रकल्पाच्या कामामुळे",
-      "summary": "पुणे : दुगड चौक झाला सिग्नलमुक्त! मेट्रोच्या कामामुळे सातारा रस्त्यावरील वाहतुकीत मोठे बदल; वाहनचालकांना यू-टर्नचा वळसा पुणे : स्वारगेट ते कात्रज भूमिगत मेट्रो प्रकल्पाच्या कामामुळे",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jb3dEQjVEeDNWUmw3N0RHNk1Md0JwMEdfOWE1UlhJUkdDMUdGVUlnTWVURXBaWVBkU0ZjMzdfSVBtTGpwWjBRQ0wxaFBXYnBUZHc?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:07:59 GMT",
-      "lastUpdated": "Mon, 19 Oct 2026 13:07:59 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1509,7 +1405,7 @@
       "summary": "राज्यातील ‘या’ चार भागात आज विजांच्या कडकडाटासह हलक्या ते मध्यम पावसाचा अंदाज",
       "source": "My Mahanagar",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORktwSGVZWnFhaFZobjYzT2Vxakd1V21NWjhxMC02RXdmVlpNZUMyT2Y0OUdXU0pZSjhmMVZCNFFyZklkeVBST1Rwdkt3Q2RvU2xkMWpZYTFCa2piaTkzbzZzbmNXMmVtSnpESlNBUEFrNzZKX3ZDRzZGM2lHM0NLQ1BfOUliUVpnV1gtd2R1QUZVVERUejdhRjBnSVNLSi1aZC01TV9XZzV3bWpaR0UzZFRrXzh1WnZjYWwyckprNHVoREpNWjhVVUNTQmp3ZUlTV1lzUXMwZU54eEFRYmJNcVdDTHZSckVIT3hma3VtM3pfZkQ5aTlhSzZZOXJ0Q19tN1lhR2RrNmdNRjlKMFRketIBlgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQdIBlgJBVV95cUxPa0RLY0NjVEpCdWU5UEIzYTNuOGI0c0xESkQ0a0w4NkZWeHZ0MDYzbG4tRUZHSUxJRS05a2dELTBCYnlFeTJPV2Y5LWxsRTQzazEtb2hONldrU0N3X0pGY21YMkFmYWtoVHRJNmx6Um1lY2hoOVRjX0w4U2ZBamJYdzZCT1R6dkRPRUpwdnNUSG9ZT2hNMHVoWWJsWTEyOTVkZzRYSWJoUUVlTWQ0cGp0cWw4cm9sdmxoenF4LVlUa2xLWG9ZUXNBTTNlMnB2elFOYmlpZ1NMMjNhdF95VGcwWnllSGxDbHJCVnVPRFdoWWtfSEotdkJrdVVlUU5sZ0haRkN1X2V6RERVRGFfN0RYNE5vZ1pQQQ?oc=5",
       "pubDate": "Sun, 18 Oct 2026 23:01:25 GMT",
       "lastUpdated": "Sun, 18 Oct 2026 23:01:25 GMT",
       "areas": [],
@@ -1524,59 +1420,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "heavy rain alert कोल्हापूर पुणे साताऱ्यासह ११ जिल्ह्यांसाठी यलो अलर्ट",
-      "title": "Heavy Rain Alert | कोल्हापूर, पुणे, साताऱ्यासह ११ जिल्ह्यांसाठी ‘यलो अलर्ट’",
-      "summary": "Heavy Rain Alert | कोल्हापूर, पुणे, साताऱ्यासह ११ जिल्ह्यांसाठी ‘यलो अलर्ट’",
-      "source": "Pudhari",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkFkaTZtMkpCUVBoT3g3cHNfYi00RDl4MW5nNXJvQkFtNWRrZVFGaU82cVFKdUptS1NJM1lrVG1MZkt4UUxEM18zd3VrTUxEa0dIc3gtRnZ0a3dNYlNKTmVnQ0lWMkh5c2s0ZEhqU3NEa013VVJvVVBTVjAzaTlqVFdSNUx1Wm1vY2dkZXFjSlZ1NlZQTFgtTGRfUTBoRXgtUktQN3d4UmNhNmJTckk4cGxmR1FZdExTbkw0dUY5eU15YWRq0gHSAUFVX3lxTFBlNUhlcjFQYU9vNVpmYThoOUNWeU1KY2hDSkdEcm9leGtzZXFud1poMGVJNm1IZXpkdm43c1BrWnpZRkpjTTZUOWNhVm9WYy1PSEZqY1dLMW1sZUsyaFB4Ql9QODhlVzVuaHVTVUVMcm0tNnR1VkI2R2pnWnRTbWZBODVBVHpyV01GY2lTb1FCemdxTm8wZG4xR0lPYmg5QkdHeU1FNlhWNEdSOXJoM3F4Y2JkWFVoV25laUlkZ01ILWd1QzVUNzZraG43TlFrVjBTUQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:00:45 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 21:00:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "as paddy losses mount mulshi maval farmers seek drought relief question assessment process",
-      "title": "As paddy losses mount, Mulshi & Maval farmers seek drought relief, question assessment process",
-      "summary": "As paddy losses mount, Mulshi & Maval farmers seek drought relief, question assessment process",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcjNXUE4xNkpuY3d5cE82VUp0Z0x4djZtSkZVZXhkYlZrNzJ2dnFzd1pDcVZkTGlkVHZKZWJGODYzZ1RJakJteDlLdllYNUx2TDdwN0paUWM3dUVNRHBBcHB1U2g1VE43NzNycFZXYThHaHhDdjhfZk5sbjEydEY4djh6WGhmNm5JT3k0M09vV0steGZOMTFYRzNCYTIyeFRMcnpfLTRncUFVRExFTHdFLXF0TmNHbWhaVTQ2elc0bkRlWHpjWWZQb3FodllWaWJMdUpvNWNiUE1BMW9VVFI3LU1LNi1YU1NIUExMSlB0Q2d6WmRsRnpjX2Vn0gH6AUFVX3lxTE9yM1dQTjE2Sm5jd3lwTzZVSnRnTHh2Nm1KRlVleGRiVms3MnZ2cXN3WkNxVmRMaWRUdkplYkY4NjNnVElqQm14OUt2WVg1THZMN3A3SlpRYzd1RU1EcEFwcHVTaDVUTjc3M3JwVldhOEdoeEN2OF9mTmxuMTJ0Rjh2OHpYaGY2bklPeTQzT29XSy14Zk4xMVhHM0JhMjJ4VExyel8tNGdxQVVETEVMd0UtcXROY0dtaFpVNDZ6VzRuRGVYemNZZlBvcWh2WVZpYkx1Sm81Y2JQTUExb1VUUjctTUs2LVhTU0hQTExKUHRDZ3paZGxGemNfZWc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 19:07:00 GMT",
-      "lastUpdated": "Sun, 18 Oct 2026 19:07:00 GMT",
-      "areas": [
-        "Maval",
-        "Mulshi"
-      ],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 44,
+    "total": 42,
     "alerts": 15,
-    "news": 29
+    "news": 27
   },
-  "cleanedAt": "2026-10-19T17:37:24.738Z"
+  "cleanedAt": "2026-10-19T21:54:31.958Z"
 }
