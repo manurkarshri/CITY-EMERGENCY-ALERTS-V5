@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:21:40.892Z",
+  "generatedAt": "2026-10-22T21:48:50.088Z",
   "status": "ok",
   "alerts": [
     {
@@ -34,6 +34,33 @@
       "correlation": [
         "Rain / waterlogging may affect travel."
       ]
+    },
+    {
+      "id": "read important alert mumbai fire brigade",
+      "title": "Read IMPORTANT ALERT: Mumbai Fire Brigade",
+      "summary": "Read IMPORTANT ALERT: Mumbai Fire Brigade",
+      "source": "Gallinews",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZHVTRnRlWkJaMXh6aWZWWkFGWDZ3OHFzS0RVWmxHMW1CTGZOdTBobTI3TWhhVTBQS09UOHRCM0RCNERXZ3ZGUGVBRnlqWE5Cb0xCRDFWMkFaZWlEMC1wMjJrQnpTN2R6N3c?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 08:23:29 GMT",
+      "lastUpdated": "Thu, 22 Oct 2026 08:23:29 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Gallinews"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "tamil nadu weather october 22 27 imd issues orange yellow alerts warns of heavy rains are ",
@@ -221,28 +248,6 @@
       "correlation": [
         "Road delay or diversion possible."
       ]
-    },
-    {
-      "id": "current status of dams in region 2026",
-      "title": "Current Status of Dams in Pune Region 2026",
-      "summary": "Current Status of Dams in Pune Region 2026",
-      "source": "PMC",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fb3JXQlVqWXJ5V2lEMzVnWFBlRExUaWc4QUc0WF91VmJKbFJJYVFSNnNtdHM0M2xEdUpOOE9YWkpTUUxSVzNUZUVQOTRUQlhmOXdZQlpwZHZWSFB1aWxpTHJwd1lIdnRMU21fcE55TmFlQQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 10:08:39 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 10:08:39 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "PMC"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
     }
   ],
   "news": [
@@ -307,94 +312,6 @@
       ]
     },
     {
-      "id": "traffic hit in south delhi as key flyover near airport closed temporarily",
-      "title": "Traffic hit in South Delhi as key flyover near airport closed temporarily",
-      "summary": "Traffic hit in South Delhi as key flyover near airport closed temporarily",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkRqN3I0cGl2MDY2SGh1NWtzVC0tMmlfUDBMUTR3bDBtRVBpWU41OGJZdmlSeTBJbGM5TWhfZjlXSGFoaDNidXZIaF94YUpPZWxPamNWdS1EUU51dXhKcFVOdzNZNG1ubGpDbG14VVQ1SEF1VExaMzgyODFCQmZVMFZqUlppazlHWWVaQ3hmVTdzZTh5dVZYVWcxX0JRWFRYTm1BQnZXanNjeU5Kdk5kQXFyUWFPZll6aFoyQUJWeW1FWjF4ZnNyWnR0ZGtBVnpYYnfSAdgBQVVfeXFMTlcyN3Y2OTE2RFBMNXROYmJzN1dGOVFHUF9XUlU4WWpkS2g1cDdzUVZjRnZoYlR4a0hPQ3RUcmpMRlZIUWpweHdfa1RGUVY5MEZJNWlHM3BkUUhQZ3J0VGIwRkxzZWU3N3RXTDZoTnlDeVRRRUV6QU1GOVVVUlhvODBYbWRCOENPWWgxVUtXaWp2ZXNLemVybTRMa29IS2NxeHFsXzRQZS1UUmFFdDkxZmd2UzVwaDBUNlRZRGJWMGsydEdwV2Q5OGRIeFFoY3pWZFE2MWIzNkgx?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:51:38 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:51:38 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "metro work prompts traffic changes in katraj market yard chowk area",
-      "title": "Metro work prompts traffic changes in Katraj & Market Yard Chowk area",
-      "summary": "Metro work prompts traffic changes in Katraj & Market Yard Chowk area",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXdrRTQxdVljMUtJMVNxa05iV1FpZjZqek53dWZCY0RIUDh5dWxKc2lUUzRPTl9fWHZFaTNhdGZVdW1RSE5jaGc0UV9iR2huNXVUd01wTlU4RGJCbWVnNVE0T3Nlc21oeFZUa3NlM2N4dlUxVEk0LUo0eUd2NmlMYjRCY0hSaHcyX000bHVtVFBtdmFJdVpqTDhZQmROZF9IeFBUaER0cWROQXlGSl9lQURjNURQN2VkWE42VnFkaHFSbmdrZ2V4MlRtb0c3VkhmQlQzNG1B0gHbAUFVX3lxTE00Rkhad2VfTXdGNXlSdkhCbnlwaTFhZVJTajBsanVuaGVidWRERUJXdzU5b3plUlN0bXVkSUtzaXAxblk3cU4wVU01QjJ0b0NkMFhfcVhpV0NsODdoRjVlQ2xaY1JwRVY1dlVVVlNTTktlUUFBUFJ1M0FjeXZjd1hGLUI1b2JFVTZYSDRCWXJ1YVgzV2h6S2FSMUVjMEdXNXR4Y1MzZTZWY1BKSkpJNk1ZMElBYnZ1ejdWSXNTVWZLeGFuOU93Z183aEtvUzFNOHBpcEtYNlg3UWlUaw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:53:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 18:53:00 GMT",
-      "areas": [
-        "Katraj"
-      ],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
-    },
-    {
-      "id": "पुणेकरांनो महत्त्वाची बातमी दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद पालखी महामार्ग",
-      "title": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "summary": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UU12SFk2ajI3aDhzSzJQalpDbXFQTUw4dWtBVW0xUUFpVXdiNVZXMXlOZDBDc1d3SXREVUZra1NuZlRUR3VEM3Uxc2tXYV9rX2c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "flyers protest at kolkata airport after 6 hr flight delay",
       "title": "Flyers protest at Kolkata airport after 6-hr flight delay",
       "summary": "Flyers protest at Kolkata airport after 6-hr flight delay",
@@ -454,6 +371,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता हायकोर्टाची टिप्पणी नेमकं प्रकरण क",
+      "title": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता; हायकोर्टाची टिप्पणी, नेमकं प्रकरण काय?",
+      "summary": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता; हायकोर्टाची टिप्पणी, नेमकं प्रकरण काय?",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQNHZZYTJncHh3ejBHajFjRXVOclhWd002NFladmEwWURaNmJkNkpyTjlWcDgwUHhILTh6MjRDRTJTWHRyWUxJZ1Q1a0tyY0hINUQ1akE2el9oaUhZdGthTGx0Z0sxWXJyRXlUTjk1bnlxSEc2NVpEQkRNcjJ3X1B6eE1LNjlwcVd1LWpDb2RiZHh2TVp2YTFOeUVRSjRjYzJ3Uzl4SkQ2ZGpWUEFpVzRGTmRZWTFReU0xeElXTHg2Z1Z2aUI3eVJaSkx0ZzZCRFFTTEhtNm5EZEltNEdZRnZMSE54WmZ6NXFLM0NPUGpSU2hqX3luQzBUSU02RURkQ0RjcTNiUi15MXdWNHJ4dEtNWmpndFA4bXJPeUZPUWllWnVSZ3dOTEozNVFFX044MDNrRGs4Y0Q3LW1kSENvcDFsWFIzYkJ5Yl94Y25lQzVmbUlRYlRjZ1dvMEZiMNIB2wJBVV95cUxQNHZZYTJncHh3ejBHajFjRXVOclhWd002NFladmEwWURaNmJkNkpyTjlWcDgwUHhILTh6MjRDRTJTWHRyWUxJZ1Q1a0tyY0hINUQ1akE2el9oaUhZdGthTGx0Z0sxWXJyRXlUTjk1bnlxSEc2NVpEQkRNcjJ3X1B6eE1LNjlwcVd1LWpDb2RiZHh2TVp2YTFOeUVRSjRjYzJ3Uzl4SkQ2ZGpWUEFpVzRGTmRZWTFReU0xeElXTHg2Z1Z2aUI3eVJaSkx0ZzZCRFFTTEhtNm5EZEltNEdZRnZMSE54WmZ6NXFLM0NPUGpSU2hqX3luQzBUSU02RURkQ0RjcTNiUi15MXdWNHJ4dEtNWmpndFA4bXJPeUZPUWllWnVSZ3dOTEozNVFFX044MDNrRGs4Y0Q3LW1kSENvcDFsWFIzYkJ5Yl94Y25lQzVmbUlRYlRjZ1dvMEZiMA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 15:06:00 GMT",
+      "lastUpdated": "Thu, 22 Oct 2026 15:06:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -767,7 +706,7 @@
       "summary": "Weather Update : दसऱ्यानंतर वातावरणात बदल! कुठे उष्णतेचा अलर्ट, तर कुठे पावसाचा अंदाज; हवामान विभागाकडून महत्त्वाची माहिती",
       "source": "Maharashtra Times",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQnVHdXc3ZGxVTUNVZ1BzQi1Td0IyOVB4ZGUwUWJnbEJMdFh2ejR0MzQ2eXNLSEVBMWUzcEhkUEx3YVgwRFAxU3F2cjJRLXpPMW9MTDh2VWpnejQzV2t0MzZjRjUzS3RfdkNjWVFKVWljcmVBb1h6am9VWTlNYjFDMS0zNkh1MW9vMHlMMUdyNjJ1WDd3cFduQ1A0aEJYbDBNTXhzM2p2SXQtSVFBVHlOUW9ZT01HRlMzTFhvUjFNSXBRN0NVampRbkl5TmwzZHZiSzh2XzBqTmNhWWJHU25HTXdic3VURWdPeC14M1dvbUNONlhMZ0FPd9IB-AFBVV95cUxQQnVHdXc3ZGxVTUNVZ1BzQi1Td0IyOVB4ZGUwUWJnbEJMdFh2ejR0MzQ2eXNLSEVBMWUzcEhkUEx3YVgwRFAxU3F2cjJRLXpPMW9MTDh2VWpnejQzV2t0MzZjRjUzS3RfdkNjWVFKVWljcmVBb1h6am9VWTlNYjFDMS0zNkh1MW9vMHlMMUdyNjJ1WDd3cFduQ1A0aEJYbDBNTXhzM2p2SXQtSVFBVHlOUW9ZT01HRlMzTFhvUjFNSXBRN0NVampRbkl5TmwzZHZiSzh2XzBqTmNhWWJHU25HTXdic3VURWdPeC14M1dvbUNONlhMZ0FPdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSUlZQ0xZcjN5ZGNXMXgxQVRuZXBqVVdzMGVQcEs3X3ZLRlNmYjlCUXFOYmpJVXdvNUNzWERnUVh1RnBWRlU2MmFBTzVJX0RDNUtPNkRqV1JNdDNkVTR0eV9MVm9mU3NXOE1rb0NTLXVrZFRCdVB5cXdtaGJlZWhUbmxEcVRTQ2UxRlphQ1c4X2NLOGg3MVhtWFc0SktrLUhSVW5CMlFkZTNSSVlhZ3lfUzZjclF4UUt1WWJTNHdnZkVvYXg1SktwY0VKYVdWUnVqRzJDblRRRWhjSzVEN25xSF9OVzBHLXZ4Sm9xUC1uU3U4NlnSAfgBQVVfeXFMUEJ1R3V3N2RsVU1DVWdQc0ItU3dCMjlQeGRlMFFiZ2xCTHRYdno0dDM0NnlzS0hFQTFlM3BIZFBMd2FYMERQMVNxdnIyUS16TzFvTEw4dlVqZ3o0M1drdDM2Y0Y1M0t0X3ZDY1lRSlVpY3JlQW9YempvVVk5TWIxQzEtMzZIdTFvbzB5TDFHcjYydVg3d3BXbkNQNGhCWGwwTU14czNqdkl0LUlRQVR5TlFvWU9NR0ZTM0xYb1IxTUlwUTdDVWpqUW5JeU5sM2R2Yks4dl8wak5jYVliR1NuR013YnN1VEVnT3gteDNXb21DTjZYTGdBT3c?oc=5",
       "pubDate": "Thu, 22 Oct 2026 04:21:41 GMT",
       "lastUpdated": "Thu, 22 Oct 2026 04:21:41 GMT",
       "areas": [],
@@ -967,50 +906,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "farmer activists critise govt for delay in providing drought relief",
-      "title": "Farmer activists critise govt for delay in providing drought relief",
-      "summary": "Farmer activists critise govt for delay in providing drought relief",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTZZdUhONTl1dVM1blNyUXRmVW9KZ3daaGFKVTJWMHpfOU1MY2ZFdnRWQWtZSEFyUlJQYmxOWnVYVUJYWENabG9malJuZ3BrLTgwOWZIMWFFNGRSajA3VG1Za2VfZHlDc05ULXM1VmM5M0RoNVFpYng1WWk4RzRVUXg4Q1ZVcGpqSUtzYk5sc0tJY0hPRzBENVdoRHBZSkxlMTJOWlN1ekx5ekZCWi1vZ0ZaTXNrS0wwMWZ2NVRobDNKXzMyU0dGRzNSVE9EdUpuZ3F5VjJR0gHbAUFVX3lxTE5ZRUxpaV9pdHpVS1ZJTnhUN05Fc1JmcnQ2Ml84VHliTGg4eXVlMjg4LVRJMmRaWE5ub2RKMjhlaDVmQ3BCSFA5a01maUNKMEVRSHRDQWJpU0tkX25zdF8wMUlRSFVSN0lXZVZVcThhTi11cG96ZmNRaFFlbVN3Q0o1Q3J2dVZWRDhlY3VyQ0ZTQTNFWXRCT0RObGxIN2NIcXpuMTlVSGQ0ZWdzU3ZwUXUwa1ozemRiT0FwTzF6aHgzZmlPZXF4SmNvQmxzVHh5d252TV9IeklxYjhnNA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:10:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:10:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "pmc urged to expand otp based system for water tankers across the city to curb malpractice",
-      "title": "PMC urged to expand OTP-based system for water tankers across the city to curb malpractice & improve acco",
-      "summary": "PMC urged to expand OTP-based system for water tankers across the city to curb malpractice & improve acco",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdDdrMzZOblFlUF9Pdmw5dlhuUDJqQ3BhV1loaDd3SmZFYkx3M2ZVZGkyak1CNF9NS1p0WW9WN2VfMnBPZmVZckFnVDFJZVNHQVVCTWo4VEtuU3g1NUJBMjBwWWlDRzFmNlFkX2FXRTRzODBWbkhNczVvRFQwS3ppMFgxM2ZHdlU2MFh6eDRDenN1MmxISDg3bHBuS2NXT2c0ZGh6N0pkY2FsVzlYTldDRGs0Q2dLX0NBcUdPaXFtWm9oRXo5dGs0bGlFMTBJZXJ0am9tWUExNnhzYVhPV1RXVGdrYzdKWjVUMkttU2Q5UE9NakRhQXBGMUwxZ0xfQWpFZkgwRW1RaklWTDZPYXlPSC1ka9IBmAJBVV95cUxPdXJiYjRNVzE2VWI2dVB4VUh2em5DVlJoLW43clJwZDNrNFFRNDRhal9oZUl4Um1SVXBmUlJaR2NyRGdiSWFRUlpZMW9BTENqT24xTTdyZU95VEtaTHhUVVlMVHdwSUFEMjN1aDlwYXNzX3Z5bEF0dlJRQVFXN3ZVUGlGMGYxTWdpRHhGMEhSVTJFeTBHZ2RWNi1oeDg1dFJNX2llWldNclNtMXNab3BWZDVfY2thZUZjZmg1aThrY2ltWllILVk3eUp4TjYxTmVqTGk4ZUxRNnplVU9xZVdPQlhOeUxIbC1vOHpFWDBFb0I1eThGU05HX3dMUWtSdUZva3dxUktPUG1KV2g5LS1ya2ZCUUFjMU1r?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:07:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1043,6 +938,33 @@
       "icon": "⛰️",
       "critical": true,
       "action": "Avoid ghat roads and check police updates."
+    },
+    {
+      "id": "read important alert mumbai fire brigade",
+      "title": "Read IMPORTANT ALERT: Mumbai Fire Brigade",
+      "summary": "Read IMPORTANT ALERT: Mumbai Fire Brigade",
+      "source": "Gallinews",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZHVTRnRlWkJaMXh6aWZWWkFGWDZ3OHFzS0RVWmxHMW1CTGZOdTBobTI3TWhhVTBQS09UOHRCM0RCNERXZ3ZGUGVBRnlqWE5Cb0xCRDFWMkFaZWlEMC1wMjJrQnpTN2R6N3c?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 08:23:29 GMT",
+      "lastUpdated": "Thu, 22 Oct 2026 08:23:29 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Gallinews"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
       "id": "tamil nadu weather october 22 27 imd issues orange yellow alerts warns of heavy rains are ",
@@ -1271,88 +1193,6 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "traffic hit in south delhi as key flyover near airport closed temporarily",
-      "title": "Traffic hit in South Delhi as key flyover near airport closed temporarily",
-      "summary": "Traffic hit in South Delhi as key flyover near airport closed temporarily",
-      "source": "The Indian Express",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkRqN3I0cGl2MDY2SGh1NWtzVC0tMmlfUDBMUTR3bDBtRVBpWU41OGJZdmlSeTBJbGM5TWhfZjlXSGFoaDNidXZIaF94YUpPZWxPamNWdS1EUU51dXhKcFVOdzNZNG1ubGpDbG14VVQ1SEF1VExaMzgyODFCQmZVMFZqUlppazlHWWVaQ3hmVTdzZTh5dVZYVWcxX0JRWFRYTm1BQnZXanNjeU5Kdk5kQXFyUWFPZll6aFoyQUJWeW1FWjF4ZnNyWnR0ZGtBVnpYYnfSAdgBQVVfeXFMTlcyN3Y2OTE2RFBMNXROYmJzN1dGOVFHUF9XUlU4WWpkS2g1cDdzUVZjRnZoYlR4a0hPQ3RUcmpMRlZIUWpweHdfa1RGUVY5MEZJNWlHM3BkUUhQZ3J0VGIwRkxzZWU3N3RXTDZoTnlDeVRRRUV6QU1GOVVVUlhvODBYbWRCOENPWWgxVUtXaWp2ZXNLemVybTRMa29IS2NxeHFsXzRQZS1UUmFFdDkxZmd2UzVwaDBUNlRZRGJWMGsydEdwV2Q5OGRIeFFoY3pWZFE2MWIzNkgx?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:51:38 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:51:38 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Indian Express"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
-      "id": "metro work prompts traffic changes in katraj market yard chowk area",
-      "title": "Metro work prompts traffic changes in Katraj & Market Yard Chowk area",
-      "summary": "Metro work prompts traffic changes in Katraj & Market Yard Chowk area",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXdrRTQxdVljMUtJMVNxa05iV1FpZjZqek53dWZCY0RIUDh5dWxKc2lUUzRPTl9fWHZFaTNhdGZVdW1RSE5jaGc0UV9iR2huNXVUd01wTlU4RGJCbWVnNVE0T3Nlc21oeFZUa3NlM2N4dlUxVEk0LUo0eUd2NmlMYjRCY0hSaHcyX000bHVtVFBtdmFJdVpqTDhZQmROZF9IeFBUaER0cWROQXlGSl9lQURjNURQN2VkWE42VnFkaHFSbmdrZ2V4MlRtb0c3VkhmQlQzNG1B0gHbAUFVX3lxTE00Rkhad2VfTXdGNXlSdkhCbnlwaTFhZVJTajBsanVuaGVidWRERUJXdzU5b3plUlN0bXVkSUtzaXAxblk3cU4wVU01QjJ0b0NkMFhfcVhpV0NsODdoRjVlQ2xaY1JwRVY1dlVVVlNTTktlUUFBUFJ1M0FjeXZjd1hGLUI1b2JFVTZYSDRCWXJ1YVgzV2h6S2FSMUVjMEdXNXR4Y1MzZTZWY1BKSkpJNk1ZMElBYnZ1ejdWSXNTVWZLeGFuOU93Z183aEtvUzFNOHBpcEtYNlg3UWlUaw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:53:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 18:53:00 GMT",
-      "areas": [
-        "Katraj"
-      ],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
-      ],
-      "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
-      "critical": false,
-      "action": "Check route before starting travel."
-    },
-    {
-      "id": "पुणेकरांनो महत्त्वाची बातमी दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद पालखी महामार्ग",
-      "title": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "summary": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UU12SFk2ajI3aDhzSzJQalpDbXFQTUw4dWtBVW0xUUFpVXdiNVZXMXlOZDBDc1d3SXREVUZra1NuZlRUR3VEM3Uxc2tXYV9rX2c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "flyers protest at kolkata airport after 6 hr flight delay",
       "title": "Flyers protest at Kolkata airport after 6-hr flight delay",
       "summary": "Flyers protest at Kolkata airport after 6-hr flight delay",
@@ -1409,6 +1249,28 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता हायकोर्टाची टिप्पणी नेमकं प्रकरण क",
+      "title": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता; हायकोर्टाची टिप्पणी, नेमकं प्रकरण काय?",
+      "summary": "बायकोने शारीरिक संबंध ठेवण्यास नकार देणं मानसिक क्रूरता; हायकोर्टाची टिप्पणी, नेमकं प्रकरण काय?",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQNHZZYTJncHh3ejBHajFjRXVOclhWd002NFladmEwWURaNmJkNkpyTjlWcDgwUHhILTh6MjRDRTJTWHRyWUxJZ1Q1a0tyY0hINUQ1akE2el9oaUhZdGthTGx0Z0sxWXJyRXlUTjk1bnlxSEc2NVpEQkRNcjJ3X1B6eE1LNjlwcVd1LWpDb2RiZHh2TVp2YTFOeUVRSjRjYzJ3Uzl4SkQ2ZGpWUEFpVzRGTmRZWTFReU0xeElXTHg2Z1Z2aUI3eVJaSkx0ZzZCRFFTTEhtNm5EZEltNEdZRnZMSE54WmZ6NXFLM0NPUGpSU2hqX3luQzBUSU02RURkQ0RjcTNiUi15MXdWNHJ4dEtNWmpndFA4bXJPeUZPUWllWnVSZ3dOTEozNVFFX044MDNrRGs4Y0Q3LW1kSENvcDFsWFIzYkJ5Yl94Y25lQzVmbUlRYlRjZ1dvMEZiMNIB2wJBVV95cUxQNHZZYTJncHh3ejBHajFjRXVOclhWd002NFladmEwWURaNmJkNkpyTjlWcDgwUHhILTh6MjRDRTJTWHRyWUxJZ1Q1a0tyY0hINUQ1akE2el9oaUhZdGthTGx0Z0sxWXJyRXlUTjk1bnlxSEc2NVpEQkRNcjJ3X1B6eE1LNjlwcVd1LWpDb2RiZHh2TVp2YTFOeUVRSjRjYzJ3Uzl4SkQ2ZGpWUEFpVzRGTmRZWTFReU0xeElXTHg2Z1Z2aUI3eVJaSkx0ZzZCRFFTTEhtNm5EZEltNEdZRnZMSE54WmZ6NXFLM0NPUGpSU2hqX3luQzBUSU02RURkQ0RjcTNiUi15MXdWNHJ4dEtNWmpndFA4bXJPeUZPUWllWnVSZ3dOTEozNVFFX044MDNrRGs4Y0Q3LW1kSENvcDFsWFIzYkJ5Yl94Y25lQzVmbUlRYlRjZ1dvMEZiMA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 15:06:00 GMT",
+      "lastUpdated": "Thu, 22 Oct 2026 15:06:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1617,28 +1479,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "current status of dams in region 2026",
-      "title": "Current Status of Dams in Pune Region 2026",
-      "summary": "Current Status of Dams in Pune Region 2026",
-      "source": "PMC",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fb3JXQlVqWXJ5V2lEMzVnWFBlRExUaWc4QUc0WF91VmJKbFJJYVFSNnNtdHM0M2xEdUpOOE9YWkpTUUxSVzNUZUVQOTRUQlhmOXdZQlpwZHZWSFB1aWxpTHJwd1lIdnRMU21fcE55TmFlQQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 10:08:39 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 10:08:39 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "PMC"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
-    {
       "id": "मुंबईची खबर चर्चगेट ते विरार अंडरग्राऊंड लोकल सुरु होणार काय आहे प्लॅन जाणून घ्या सविस्तर",
       "title": "मुंबईची खबर : चर्चगेट ते विरार अंडरग्राऊंड लोकल सुरु होणार? काय आहे प्लॅन? जाणून घ्या सविस्तर",
       "summary": "मुंबईची खबर : चर्चगेट ते विरार अंडरग्राऊंड लोकल सुरु होणार? काय आहे प्लॅन? जाणून घ्या सविस्तर",
@@ -1735,7 +1575,7 @@
       "summary": "Weather Update : दसऱ्यानंतर वातावरणात बदल! कुठे उष्णतेचा अलर्ट, तर कुठे पावसाचा अंदाज; हवामान विभागाकडून महत्त्वाची माहिती",
       "source": "Maharashtra Times",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQnVHdXc3ZGxVTUNVZ1BzQi1Td0IyOVB4ZGUwUWJnbEJMdFh2ejR0MzQ2eXNLSEVBMWUzcEhkUEx3YVgwRFAxU3F2cjJRLXpPMW9MTDh2VWpnejQzV2t0MzZjRjUzS3RfdkNjWVFKVWljcmVBb1h6am9VWTlNYjFDMS0zNkh1MW9vMHlMMUdyNjJ1WDd3cFduQ1A0aEJYbDBNTXhzM2p2SXQtSVFBVHlOUW9ZT01HRlMzTFhvUjFNSXBRN0NVampRbkl5TmwzZHZiSzh2XzBqTmNhWWJHU25HTXdic3VURWdPeC14M1dvbUNONlhMZ0FPd9IB-AFBVV95cUxQQnVHdXc3ZGxVTUNVZ1BzQi1Td0IyOVB4ZGUwUWJnbEJMdFh2ejR0MzQ2eXNLSEVBMWUzcEhkUEx3YVgwRFAxU3F2cjJRLXpPMW9MTDh2VWpnejQzV2t0MzZjRjUzS3RfdkNjWVFKVWljcmVBb1h6am9VWTlNYjFDMS0zNkh1MW9vMHlMMUdyNjJ1WDd3cFduQ1A0aEJYbDBNTXhzM2p2SXQtSVFBVHlOUW9ZT01HRlMzTFhvUjFNSXBRN0NVampRbkl5TmwzZHZiSzh2XzBqTmNhWWJHU25HTXdic3VURWdPeC14M1dvbUNONlhMZ0FPdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSUlZQ0xZcjN5ZGNXMXgxQVRuZXBqVVdzMGVQcEs3X3ZLRlNmYjlCUXFOYmpJVXdvNUNzWERnUVh1RnBWRlU2MmFBTzVJX0RDNUtPNkRqV1JNdDNkVTR0eV9MVm9mU3NXOE1rb0NTLXVrZFRCdVB5cXdtaGJlZWhUbmxEcVRTQ2UxRlphQ1c4X2NLOGg3MVhtWFc0SktrLUhSVW5CMlFkZTNSSVlhZ3lfUzZjclF4UUt1WWJTNHdnZkVvYXg1SktwY0VKYVdWUnVqRzJDblRRRWhjSzVEN25xSF9OVzBHLXZ4Sm9xUC1uU3U4NlnSAfgBQVVfeXFMUEJ1R3V3N2RsVU1DVWdQc0ItU3dCMjlQeGRlMFFiZ2xCTHRYdno0dDM0NnlzS0hFQTFlM3BIZFBMd2FYMERQMVNxdnIyUS16TzFvTEw4dlVqZ3o0M1drdDM2Y0Y1M0t0X3ZDY1lRSlVpY3JlQW9YempvVVk5TWIxQzEtMzZIdTFvbzB5TDFHcjYydVg3d3BXbkNQNGhCWGwwTU14czNqdkl0LUlRQVR5TlFvWU9NR0ZTM0xYb1IxTUlwUTdDVWpqUW5JeU5sM2R2Yks4dl8wak5jYVliR1NuR013YnN1VEVnT3gteDNXb21DTjZYTGdBT3c?oc=5",
       "pubDate": "Thu, 22 Oct 2026 04:21:41 GMT",
       "lastUpdated": "Thu, 22 Oct 2026 04:21:41 GMT",
       "areas": [],
@@ -1926,56 +1766,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "farmer activists critise govt for delay in providing drought relief",
-      "title": "Farmer activists critise govt for delay in providing drought relief",
-      "summary": "Farmer activists critise govt for delay in providing drought relief",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTZZdUhONTl1dVM1blNyUXRmVW9KZ3daaGFKVTJWMHpfOU1MY2ZFdnRWQWtZSEFyUlJQYmxOWnVYVUJYWENabG9malJuZ3BrLTgwOWZIMWFFNGRSajA3VG1Za2VfZHlDc05ULXM1VmM5M0RoNVFpYng1WWk4RzRVUXg4Q1ZVcGpqSUtzYk5sc0tJY0hPRzBENVdoRHBZSkxlMTJOWlN1ekx5ekZCWi1vZ0ZaTXNrS0wwMWZ2NVRobDNKXzMyU0dGRzNSVE9EdUpuZ3F5VjJR0gHbAUFVX3lxTE5ZRUxpaV9pdHpVS1ZJTnhUN05Fc1JmcnQ2Ml84VHliTGg4eXVlMjg4LVRJMmRaWE5ub2RKMjhlaDVmQ3BCSFA5a01maUNKMEVRSHRDQWJpU0tkX25zdF8wMUlRSFVSN0lXZVZVcThhTi11cG96ZmNRaFFlbVN3Q0o1Q3J2dVZWRDhlY3VyQ0ZTQTNFWXRCT0RObGxIN2NIcXpuMTlVSGQ0ZWdzU3ZwUXUwa1ozemRiT0FwTzF6aHgzZmlPZXF4SmNvQmxzVHh5d252TV9IeklxYjhnNA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:10:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:10:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "pmc urged to expand otp based system for water tankers across the city to curb malpractice",
-      "title": "PMC urged to expand OTP-based system for water tankers across the city to curb malpractice & improve acco",
-      "summary": "PMC urged to expand OTP-based system for water tankers across the city to curb malpractice & improve acco",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdDdrMzZOblFlUF9Pdmw5dlhuUDJqQ3BhV1loaDd3SmZFYkx3M2ZVZGkyak1CNF9NS1p0WW9WN2VfMnBPZmVZckFnVDFJZVNHQVVCTWo4VEtuU3g1NUJBMjBwWWlDRzFmNlFkX2FXRTRzODBWbkhNczVvRFQwS3ppMFgxM2ZHdlU2MFh6eDRDenN1MmxISDg3bHBuS2NXT2c0ZGh6N0pkY2FsVzlYTldDRGs0Q2dLX0NBcUdPaXFtWm9oRXo5dGs0bGlFMTBJZXJ0am9tWUExNnhzYVhPV1RXVGdrYzdKWjVUMkttU2Q5UE9NakRhQXBGMUwxZ0xfQWpFZkgwRW1RaklWTDZPYXlPSC1ka9IBmAJBVV95cUxPdXJiYjRNVzE2VWI2dVB4VUh2em5DVlJoLW43clJwZDNrNFFRNDRhal9oZUl4Um1SVXBmUlJaR2NyRGdiSWFRUlpZMW9BTENqT24xTTdyZU95VEtaTHhUVVlMVHdwSUFEMjN1aDlwYXNzX3Z5bEF0dlJRQVFXN3ZVUGlGMGYxTWdpRHhGMEhSVTJFeTBHZ2RWNi1oeDg1dFJNX2llWldNclNtMXNab3BWZDVfY2thZUZjZmg1aThrY2ltWllILVk3eUp4TjYxTmVqTGk4ZUxRNnplVU9xZVdPQlhOeUxIbC1vOHpFWDBFb0I1eThGU05HX3dMUWtSdUZva3dxUktPUG1KV2g5LS1ya2ZCUUFjMU1r?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:07:00 GMT",
-      "lastUpdated": "Wed, 21 Oct 2026 19:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 48,
+    "total": 44,
     "alerts": 16,
-    "news": 32
+    "news": 28
   },
-  "cleanedAt": "2026-10-22T18:21:40.902Z"
+  "cleanedAt": "2026-10-22T21:48:50.100Z"
 }
