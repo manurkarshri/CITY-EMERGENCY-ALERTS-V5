@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:17:54.714Z",
+  "generatedAt": "2026-10-23T19:24:31.457Z",
   "status": "ok",
   "alerts": [
     {
@@ -110,6 +110,38 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "msedcl flags power cuts due to road digging pmc to inspect",
+      "title": "MSEDCL flags power cuts due to road digging, PMC to inspect",
+      "summary": "MSEDCL flags power cuts due to road digging, PMC to inspect",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2ZlVG5RV00tOVRtRk9sWmxKcXk3Njg3OVdxTVFzRkJHTjFtNW9Ra1FrMlZSU21lamJMYVJkYjJldW9aX2Rsa0hVQ3djTW9Qb0x3dFJzcUtDb0NLNXVFQ2dIYUJMZDBIdU9NZ3JlV0lhR1haOVFNcktob2RSMkV4SWlSWG9hWmxuWTdkSGZ3SzhzUUItSTYzemJBYmVLazFtQUhEX29RX285YkVGRS1NcTVtNUl0VmxzaDNnNkxjTTduQW4zbV9ZWkhB0gHPAUFVX3lxTE9xSjNoRmRndk9Qd1J5dTBVbzFjZXIxRDBNbVVGSEo3LUM4RkJ1T01jdEpYblU2WHotOGxadDg0aU16WE1RUjRFNXVqNDZ2WDI5SEtpa3hNMm5HVXZZR2U4d21uN1p6ZEg4Qjl3ZEhMNFJqNERFTm42ZHI3YVNxcG1Rcm9MSjItSV82Z0l0OHNNWXBJeUF6blVVUFJhM2ljZUlqUXNpY19KOGRlZVVmTFhkeFBpTUljZXpQTVJYVXpQcEEtSGJmNGNabk1yS1FaWQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:15:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:15:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Road delay or diversion possible.",
+        "Power supply impact possible."
+      ]
     }
   ],
   "news": [
@@ -146,6 +178,94 @@
       "action": "Be cautious in the affected area."
     },
     {
+      "id": "state govt clears 47 65 crore for cctv project",
+      "title": "State govt clears ₹47.65 crore for Pune CCTV project",
+      "summary": "State govt clears ₹47.65 crore for Pune CCTV project",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW9LQTdudmZfMkNvUklOdkhYRzk3RXZlXzdma3BZUnlyYWk4SGJvY0M4OHRpWkhzVllEUUpBSF9jcHFJMEhHMjQtRGVuQzZZQUQ2XzBTNGZmczBHR1ZsSkM0UGZvYlA4dnF3QVB0TTJEQnM1QlhWMGdKbGxjdU9rY2s1Mk9EeXRGU1J0SnRNZ0t1RmVjaUV4bzFnZUZaMFFReXFPVXFVN2FSOWdBVTVLQkl3MjBQTVFWU0R6TDkyZjnSAcYBQVVfeXFMTm1YNllDSktYZnl3WlJBZ2YtWXFURzNWbldjbElZRkxoeTUxZUJvRmR2N2ZRaFBTUUtwTG5aYm1GMmZ3WGpkN1dzVVRxM1g2TEhYWXlDZEU5RWNKX3BrVnA5YzhCREVZUEJBaWxiRTBpeVpvOGNrYl9PU1FpVUlkR0FjeFpZTWY5bzUwUm1wNkF1RkNXUVJJX1pCOFhIZlpNX3Y2bUxyU2I4WE9wd2FhYUlubTJWcGhMREpDdDRMN0Eyc2JUNUFn?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:39:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "sule alleges use of spy pens for vote buying in mlc polls",
+      "title": "Sule alleges use of spy pens for vote buying in Pune MLC Polls",
+      "summary": "Sule alleges use of spy pens for vote buying in Pune MLC Polls",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX0JTRG5RUG9SV1h2ZG9XcXVkUS1Zc0tILTB2SURVV0dGMU9aSTB0cFdVUklta2Q5OE9Cb0VuZ2VMcWpZQ2Zhd0QzVDlyUDNHNDA1WGtlcUU4ZGo2Wk1JbWlMMU5BeWFiX2prQXJHR0JvTXdUQUU5cWUtUEFCRjNqM3dWT1NZaU9RYmY0S3JScFN3TmdKRGduWEZlYndzd1R5TE5XWFNkSW5GdVZPMmd4c3ljQ3hSX2VuSFBSdC1kQkJ4cUUtaEJEVWJPdjhYRG_SAdQBQVVfeXFMUGNWSEx2N0txNzFBTm5NT0NjbWE2dFp1RFpSSlpmdzlTbWNTcFdQNmF4NndfUzAwTUdLLUVrUWZKelpPSzl2RXdwZkNEeDY1NXVwUXdoR0otRk5samtLNXhiWFZEaUJQcVdtc0Zwc0lRYVhDbk1ud0k2cGNWMlM5enBOVnJ2aDFmY0JVdE0yRFhxd1RFMEdwakhKUmV1aFY3bGl2OWZlYlBMQnMyazRaOHFadUE5SHRtUnZaREJuZnVRZFZta0VJSFhfSFEySHQxLVNscDQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:35:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:35:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "doctors body seeks review of hindi film over negative portrayal",
+      "title": "Doctors’ body seeks review of Hindi film over negative portrayal",
+      "summary": "Doctors’ body seeks review of Hindi film over negative portrayal",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFcwRS0xMUtNa2xXZUI5MFViYTNMQkV2eVU1RzNoWGlhb2IyV2o1ODNUT0F1QU52Rk5JSE5VRmxMeF9MZXMxNkhZUnlOcG1QakhNRkFVbXFBelRrMWQ4cUFGNUlERFBwbWFCNHhCc2hoLWRVY1B4eUpqWHJvTlR1OEp3SzhsSUtuOUZCR21QbVVqR2ZxZmREMlFqZzVMQ25RcWNjOENaWVhOWUZzd3hvcE90OEVQdlI0T3V2Y3JRcWlPQUItSHRCZk9ReUtkMHhH0gHWAUFVX3lxTE9NcW1JWmxJLWRDNm8xSmVyUEdZZEhMTEdUcmJfQ1hWdUZWbTBNanBaTnZwLWoyZklCODNpVTluRzNHVjI2SW5KdHRtekUwWXZjMjZiUENGaEdUYUZMVkJvRkQ0YnZHSEdkYVFkclNYaVBoR051ZVFFSE5ocS1DTk10V0FOYVpTejM1WG02WldEWFlSM1R6cldHeFlremZsc3d1dmJFcUlOd09BUmNWM3N2eF9Oa1lLTzZrdEtsakpPY2o3cWpWM2ZXZlVWOTBpOXV1dzV4WkE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:17:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:17:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather पुणेकरांना उकाड्यापासून मिळणार दिलासा पुढील तीन दिवसांत कमाल तापमानात घट होण्याची ",
+      "title": "Pune Weather : पुणेकरांना उकाड्यापासून मिळणार दिलासा; पुढील तीन दिवसांत कमाल तापमानात घट होण्याची शक्यता",
+      "summary": "Pune Weather : पुणेकरांना उकाड्यापासून मिळणार दिलासा; पुढील तीन दिवसांत कमाल तापमानात घट होण्याची शक्यता",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWdMcWhHdlA0ek9DRUZ4UV8xSTlodzZOVTJhVVFDaHVZTjdpWXJ2WWE3VWd6ZHpMVEVRMEZUV3NTNVFySWotTU5GcVBmclB3U3ljZjhLZmlwbXBRNlhTR2RzYlBaYW5IM2ZRZHYzd3Q2cHY4eWItMEdHd2hNeUdRTTltRXJIcjQ1b0ZNd05vZXE5RFUycHlJc2VDNjZRR1JNa1JfR21VNm9uVnNJS19kQ3B1aXVaUQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 17:52:22 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 17:52:22 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "cyclone alert bay of bengal system may intensify by october 26 imd warns of heavy rain in ",
       "title": "Cyclone Alert: Bay of Bengal System May Intensify By October 26; IMD Warns Of Heavy Rain In These States",
       "summary": "Cyclone Alert: Bay of Bengal System May Intensify By October 26; IMD Warns Of Heavy Rain In These States",
@@ -172,17 +292,17 @@
     },
     {
       "id": "weather forecast राज्यात ऑक्टोबर हीट चा कडाका कायम कोकणात उष्ण व दमट हवेचा यलो अलर्ट",
-      "title": "Weather Forecast : राज्यात ‘ऑक्टोबर हीट’चा कडाका कायम; कोकणात उष्ण व दमट हवेचा ‘यलो अलर्ट",
-      "summary": "Weather Forecast : राज्यात ‘ऑक्टोबर हीट’चा कडाका कायम; कोकणात उष्ण व दमट हवेचा ‘यलो अलर्ट",
-      "source": "Dainik Prabhat",
+      "title": "Weather Forecast : राज्यात 'ऑक्टोबर हीट'चा कडाका कायम; कोकणात उष्ण व दमट हवेचा 'यलो अलर्ट",
+      "summary": "Weather Forecast : राज्यात 'ऑक्टोबर हीट'चा कडाका कायम; कोकणात उष्ण व दमट हवेचा 'यलो अलर्ट",
+      "source": "Dailyhunt",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlp3ZnFOZ00yYlU3OWFfcGd2eUUwam9jd0dmNzdfeWFSbDVtWm5zUGVlaF90dEdtbVVfNUdyWDBOalAwNkl2U0Z5Zl9KVU1ZaHl0bEtzb2ljOV8teDVyaUFfR1RScm4yNkJGSUxQN0RDcDgzMHgyczlGdlNGWEtNaWZIcGVmX2o1VWJtWE5PU2p4RUJFRExRWkxBSUI?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:12:00 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 14:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX1dZeF9xMC01VFlaR3FGQVkyNTZQRUFBMkhJV096alVLX0U3WkZtcTlnRUo4RkxEUTR5MlZpWlNOMGdRWVozS2FuVkhWRXhodkdpWnRHSVZWLTlpTlVhVzRia2F5SG5wbDFfeFd0aGlDNVd2ejJKTGxEWHR4YVFsZFNmVkhPLWV3WjBwdlhGVzRTVHhjYlVLWEczUW5wcTZNaGl4VWI3UFVDQk1OWHNhakt4WktaLVZJSVJqU2NGX2daSFRMVkc1N3dMYVRmeC1KS1VPTUJiY2Z1R04ySmx0VmdiajZhMEpHUEc5WHE5R0ZKa25KRnJYSVdXb0FGdXdLcGlVY1lycmFmR2poZEE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:24:57 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 14:24:57 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat"
+        "Dailyhunt"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -201,6 +321,28 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdEpxNjQ5dXlGc3dYT1ZhMW9wU3hvQWM4LTFLekZUdllRSEdRYXBELVlPVFR0UlR1TkM2emVvY05MVTI1ZjFLQjNSelNZUTRQZ3pzNEdEUEZ0dFRnUDlrci1aT1hBMlZPMk9Mekl4TGI3Y1FaMTZSZHFlLTNYMGZvWFdSaG11S3RobkxuTXI3TU52WmJQWDl1T3AxVHh2YTVOZW0xdlV6Sy1FVktORGFNUG1yTG4xNWRWRDdvTDZEekI5VURCc1ljSGxDTmZWU04xcktJWWlvcHM2QUJXUW1FZA?oc=5",
       "pubDate": "Fri, 23 Oct 2026 13:27:00 GMT",
       "lastUpdated": "Fri, 23 Oct 2026 13:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन सोन्याचा आहे की चांदीचा पुण्यात इथं भेटेल पाहायला",
+      "title": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन? सोन्याचा आहे की चांदीचा? पुण्यात इथं भेटेल पाहायला! Video",
+      "summary": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन? सोन्याचा आहे की चांदीचा? पुण्यात इथं भेटेल पाहायला! Video",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXY0bkVaeGV5SDZzdUNnUHdCRXpmUlRvSnlYenRwUW1YbHF4a1NMOGdlc3Y3emlpZWVYTlg2VkxIeE9UbVpPRWZGUmxPVmlpQThDWDJxYmxVTS1LZHBscGt0Y1RpWE9lUGY4Vk5wTGV4V1p3S2dGOTBqT09tcnlfUERqMk85dloxOXBOaE9WVzJxZ3pWQUFnc1pvYw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 12:35:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 12:35:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -281,6 +423,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra mlc election 2026 शिक्षक पदवीधरसाठी मतदान पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "title": "Maharashtra MLC Election 2026 | शिक्षक, पदवीधरसाठी मतदान, पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "summary": "Maharashtra MLC Election 2026 | शिक्षक, पदवीधरसाठी मतदान, पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0IwN2twWUlJQ3lnd05zaER0SmxXb3VKZ2xoOFM0Skd4SktIMlRfTUZYemp0cGIzN2dfNFF6Q3pveklOTFJWbVlOQ1ZuUGlyanNDdUUzRWw2UjNLamgzdDdVRjNBS2l5MkF3blJXajRvWWRKTUZsQ3M4cV9xc1J0WUdmakpjc21RWVRfTkRpTG4?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:21:06 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 09:21:06 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प बॅटरी बॅकअप धूळखात",
       "title": "Pune News: कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प; बॅटरी बॅकअप धूळखात",
       "summary": "Pune News: कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प; बॅटरी बॅकअप धूळखात",
@@ -325,28 +489,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "बातमी परिवर्तनाची मुलांच्या अहवालाने पूर थांबला योजना बदलल्या मदतकार्याचे मॉडेल तयार चेन्न",
-      "title": "बातमी परिवर्तनाची: मुलांच्या अहवालाने पूर थांबला, योजना बदलल्या; मदतकार्याचे मॉडेल तयार; चेन्नईत मुलांनी सर...",
-      "summary": "बातमी परिवर्तनाची: मुलांच्या अहवालाने पूर थांबला, योजना बदलल्या; मदतकार्याचे मॉडेल तयार; चेन्नईत मुलांनी सर...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOd1NERzZLVTR5dUtKaThXSGIzcUJqMWxmVE5HTEI0MnhVUVhBazkteTNfNFVZS2VWNzNubVl4N0dwRmZIbEJZcXlYUkt0MGxjVVMzUlBvSGdmbWdQS0hKV3hiSGtDRjJrcFk0NUVLdWs4UVprM3QweGYzMVFYWDdJNzVuZ0RVY3BnUEo5UXR0c3d5MlVZV0IyY3FkbFJkcG8xU3FFNUs4XzRvTTJ5TWJNek5RZHdNSy1vOXF1S2cyQjZ2LWpfbHZ6Z0VobTYzdUF6SUhoaHJJdVFJQTBGNmVlRzZTSXA4dm9uV0hFN0puMk95azUwbTB1VG1qWnV6dzlzYkU2RE1nZ2tKUmNReU1rLUxrc1hGdDNBMzF6NW9JZjh2VTBsZi1mc3gwRU9MS2ZXZ1I5MtIBugJBVV95cUxPWkp4V3FFdVQxRUxGYWl5TmN6bFZ3WXZrRzAzVmtscWNOY0pRSVhvaUUwdXBBaGF1U3BmR3hXSGtFVmdFSTJPQUh4dTlWNGJYbkJ0SDFPMlNqdWkyX2FIdUdXM0RRUE1PRW1SSDRDT2FGNFVKbG44WmNaVElrVzR0bFY3VU1MSFB5UnJjdk13UlRGRjUyRXRySjlDTW1qYlhWTnhlTHN1UUV5azJkNUZIdEJWbHlLaFBOM0NHSFRlM3dQSkdzam14NE5vaU9sQzBMblQzVVRvQVRZNjhGY1E0UzdmN19TVmR6V1VWTEpVd0MwWVpacGZoZUR4TDVIOF9wa2ZzUktyelFMODJYR0RiTG1ZLUJZVVV2RGVVYjdSSTFXVWVoZTBJT25RNnpUbzd2dWE4RVY2aXpBZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:37:31 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 06:37:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "hinjewadi metro आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी",
       "title": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
       "summary": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
@@ -381,6 +523,28 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra mlc election 2026 hasan mushrif यांनी मतदानाचा हक्क बजावला",
+      "title": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
+      "summary": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclpLeDBMc0RkTXd1eW81SkpkSHRyUV83WWhQQVAyWFdNV0ZUcDF4R3JHYWJZRHl0WGxYaHVBeFg3b2lXV2l3R3c2UmNKN3ZZaHpHbVgtdlJvbk5rbDNpdVhoQmN1a3IzSm9DcVVwampRd2lzbHdOckRDQmFQMTBTWFoxeUw3WGNvSkk4WGI4M0JMUFpaZ2Q4N25FU1VmbndIOGpJ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 04:14:26 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 04:14:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -504,6 +668,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "shukra pradosh आज शुक्र प्रदोष भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस काय करावं व",
+      "title": "Shukra Pradosh: आज शुक्र प्रदोष! भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस; काय करावं? व्रताचं महत्त्व, Video",
+      "summary": "Shukra Pradosh: आज शुक्र प्रदोष! भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस; काय करावं? व्रताचं महत्त्व, Video",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa3AxWEQ4c1RFWU82Z2hsQm9mNUZFb252eHc4cVRhdl9PMFkzTGg5WjZ1Y1JyWG5zbFFvRHNsMEpOM0c2V0lESzRNWmM3bmtIVXRzNS1tTFNqOWNzaTFBdG1vV2oyd0tOc3UyMXdWTWRyenljNXNzTFpJLW1mcGgzYnpDOW1zdjdza0NXR3pEMFdjWllhMFpzdUNIZjZXTjNpQ0RYQ3BRZVNPZFVYcHJRV2ZpZ25lNDVqS2dtVnNMcVJqQnNWVlJjT2xuYWdsWXVTcWc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 02:44:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 02:44:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "आंदोलनाला हिंसक वळण कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली पुणे बेंगलोर महामार्गावर",
       "title": "आंदोलनाला हिंसक वळण; कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली, पुणे बेंगलोर महामार्गावर आगीचे लोट",
       "summary": "आंदोलनाला हिंसक वळण; कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली, पुणे बेंगलोर महामार्गावर आगीचे लोट",
@@ -553,7 +739,7 @@
       "summary": "Maharashtra Weather Today (आजचे हवामान): 'ऑक्टोबर हिट'ने महाराष्ट्र तापला! मुंबईसह कोकणात यलो अलर्ट; 'या' 3 जि",
       "source": "Times Now Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGhUaGdLVXUxRktHRGczMEVpYmZFdWs1RHFCN0I0TzItbG1IRnRudlR3UVUtWGJYRE9tZjVyMmk3MFRlQnJuTmlhS25Va0pHQjZERFR4YXhzSExLaHgzWlc0VTZHZnlvMVdJYThUWHd6NWQxN1Bvb2dkazFJbHNOcG5tZjR2NDhNTEM1UWtNb2lyeUVka2ZCb2EtZVZRbjNFM25SM0ZXc09rRUM2YlllZEtvNl9QUDdwUG9PTDB1eEZQSndlc3dCS3ZSYVhQeXZLdG1Eby03REdXajRa0gHiAUFVX3lxTFA0dlFYVkJaakE3UzJDSkNJUXB4NkRCNVQ3R2wwdXV2ejllZEdkUF9hRUd3cFlzUnZEZ29NdFZzbDBYMUdPTGFxbXhqR1dxbGpsQjFxeUhDajNhY29QRVo3MXljbTF6eXROY0lyYWRlckM0eXpkMzNxRDgyVDBqdDhIOUpNVzQzREpYcExOc0kxVDdaUEpUU0dCOWJiNmlNVlBKeUR2dHpmUjMwZVdlcnlMdnp0cnB5cHltNnNHQ3laellNdGtzYXNLa3dKUnhFemdRVjdTbTlWNWVsTy0tQjZIc1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHZRWFZCWmpBN1MyQ0pDSVFweDZEQjVUN0dsMHV1dno5ZWRHZFBfYUVHd3BZc1J2RGdvTXRWc2wwWDFHT0xhcW14akdXcWxqbEIxcXlIQ2ozYWNvUEVaNzF5Y20xenl0TmNJcmFkZXJDNHl6ZDMzcUQ4MlQwanQ4SDlKTVc0M0RKWHBMTnNJMVQ3WlBKVFNHQjliYjZpTVZQSnlEdnR6ZlIzMGVXZXJ5THZ6dHJweXB5bTZzR0N5WnpZTXRrc2FzS2t3SlJ4RXpnUVY3U205VjVlbE8tLUI2SHNR0gHiAUFVX3lxTFA0dlFYVkJaakE3UzJDSkNJUXB4NkRCNVQ3R2wwdXV2ejllZEdkUF9hRUd3cFlzUnZEZ29NdFZzbDBYMUdPTGFxbXhqR1dxbGpsQjFxeUhDajNhY29QRVo3MXljbTF6eXROY0lyYWRlckM0eXpkMzNxRDgyVDBqdDhIOUpNVzQzREpYcExOc0kxVDdaUEpUU0dCOWJiNmlNVlBKeUR2dHpmUjMwZVdlcnlMdnp0cnB5cHltNnNHQ3laellNdGtzYXNLa3dKUnhFemdRVjdTbTlWNWVsTy0tQjZIc1E?oc=5",
       "pubDate": "Fri, 23 Oct 2026 01:59:42 GMT",
       "lastUpdated": "Fri, 23 Oct 2026 01:59:42 GMT",
       "areas": [],
@@ -651,50 +837,6 @@
       "region": "pune",
       "sources": [
         "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणेकरांनो महत्त्वाची बातमी दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद पालखी महामार्ग",
-      "title": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "summary": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UU12SFk2ajI3aDhzSzJQalpDbXFQTUw4dWtBVW0xUUFpVXdiNVZXMXlOZDBDc1d3SXREVUZra1NuZlRUR3VEM3Uxc2tXYV9rX2c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "flyers protest at kolkata airport after 6 hr flight delay",
-      "title": "Flyers protest at Kolkata airport after 6-hr flight delay",
-      "summary": "Flyers protest at Kolkata airport after 6-hr flight delay",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTlGc05HdUh6ZWlGZW9TWWhBWDhaRnBkSEhtM1FqUmhiQUdCSHBaRkhOQnh6OWNSNjZkajdrVTg5MlRiUDNUNnFKYlVhRHRWX0JtTFRud21YaDR2eXZSWHNacnpCYlo1SmZXNWFfZ1huV2ZNTE1jZnZqNTFfblZIQVp4ZVNIUkdFZzV6MzhvbkFTQWxjQWtCc2pWVVk2anE3T05LRWJid2pRazF6bWJBWnlKWkNvR0F4alJqdzF5RmRnTjgxc3dPSHBsV0rSAdIBQVVfeXFMTko4bnFtSzhERFVXUjNlcXdCb2xoMWVQd1p1SnNoQVRUSV92aVBwaFRTNThKeEpBYkxsTDI3TzZZX2RGTGd3TlVUQm5KYTNId19WblFyVzBsYmVBODBOUzU1SGxPRkV3SlRBMkFxUEFuN3o1SXJzb0M4YXIxS2Z5M0Vfb3VuQVU4N0JGNmlXbkVxUG14SHBHZDdoMzRwMUE4THZraXZhVHlXUk1kT3laN1NDdUFyQ3cxMnVENktDWVBXX2k1a19tMGRET2JfRkNHcWJR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:27:00 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 16:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -816,6 +958,34 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
+      "id": "msedcl flags power cuts due to road digging pmc to inspect",
+      "title": "MSEDCL flags power cuts due to road digging, PMC to inspect",
+      "summary": "MSEDCL flags power cuts due to road digging, PMC to inspect",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2ZlVG5RV00tOVRtRk9sWmxKcXk3Njg3OVdxTVFzRkJHTjFtNW9Ra1FrMlZSU21lamJMYVJkYjJldW9aX2Rsa0hVQ3djTW9Qb0x3dFJzcUtDb0NLNXVFQ2dIYUJMZDBIdU9NZ3JlV0lhR1haOVFNcktob2RSMkV4SWlSWG9hWmxuWTdkSGZ3SzhzUUItSTYzemJBYmVLazFtQUhEX29RX285YkVGRS1NcTVtNUl0VmxzaDNnNkxjTTduQW4zbV9ZWkhB0gHPAUFVX3lxTE9xSjNoRmRndk9Qd1J5dTBVbzFjZXIxRDBNbVVGSEo3LUM4RkJ1T01jdEpYblU2WHotOGxadDg0aU16WE1RUjRFNXVqNDZ2WDI5SEtpa3hNMm5HVXZZR2U4d21uN1p6ZEg4Qjl3ZEhMNFJqNERFTm42ZHI3YVNxcG1Rcm9MSjItSV82Z0l0OHNNWXBJeUF6blVVUFJhM2ljZUlqUXNpY19KOGRlZVVmTFhkeFBpTUljZXpQTVJYVXpQcEEtSGJmNGNabk1yS1FaWQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:15:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:15:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
       "id": "over 1000 flights delayed 58 cancelled in us on thursday amid bad weather what travellers ",
       "title": "Over 1000 flights delayed, 58 cancelled in US on Thursday amid bad weather: What travellers need to know a",
       "summary": "Over 1000 flights delayed, 58 cancelled in US on Thursday amid bad weather: What travellers need to know a",
@@ -848,6 +1018,94 @@
       "action": "Be cautious in the affected area."
     },
     {
+      "id": "state govt clears 47 65 crore for cctv project",
+      "title": "State govt clears ₹47.65 crore for Pune CCTV project",
+      "summary": "State govt clears ₹47.65 crore for Pune CCTV project",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW9LQTdudmZfMkNvUklOdkhYRzk3RXZlXzdma3BZUnlyYWk4SGJvY0M4OHRpWkhzVllEUUpBSF9jcHFJMEhHMjQtRGVuQzZZQUQ2XzBTNGZmczBHR1ZsSkM0UGZvYlA4dnF3QVB0TTJEQnM1QlhWMGdKbGxjdU9rY2s1Mk9EeXRGU1J0SnRNZ0t1RmVjaUV4bzFnZUZaMFFReXFPVXFVN2FSOWdBVTVLQkl3MjBQTVFWU0R6TDkyZjnSAcYBQVVfeXFMTm1YNllDSktYZnl3WlJBZ2YtWXFURzNWbldjbElZRkxoeTUxZUJvRmR2N2ZRaFBTUUtwTG5aYm1GMmZ3WGpkN1dzVVRxM1g2TEhYWXlDZEU5RWNKX3BrVnA5YzhCREVZUEJBaWxiRTBpeVpvOGNrYl9PU1FpVUlkR0FjeFpZTWY5bzUwUm1wNkF1RkNXUVJJX1pCOFhIZlpNX3Y2bUxyU2I4WE9wd2FhYUlubTJWcGhMREpDdDRMN0Eyc2JUNUFn?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:39:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "sule alleges use of spy pens for vote buying in mlc polls",
+      "title": "Sule alleges use of spy pens for vote buying in Pune MLC Polls",
+      "summary": "Sule alleges use of spy pens for vote buying in Pune MLC Polls",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX0JTRG5RUG9SV1h2ZG9XcXVkUS1Zc0tILTB2SURVV0dGMU9aSTB0cFdVUklta2Q5OE9Cb0VuZ2VMcWpZQ2Zhd0QzVDlyUDNHNDA1WGtlcUU4ZGo2Wk1JbWlMMU5BeWFiX2prQXJHR0JvTXdUQUU5cWUtUEFCRjNqM3dWT1NZaU9RYmY0S3JScFN3TmdKRGduWEZlYndzd1R5TE5XWFNkSW5GdVZPMmd4c3ljQ3hSX2VuSFBSdC1kQkJ4cUUtaEJEVWJPdjhYRG_SAdQBQVVfeXFMUGNWSEx2N0txNzFBTm5NT0NjbWE2dFp1RFpSSlpmdzlTbWNTcFdQNmF4NndfUzAwTUdLLUVrUWZKelpPSzl2RXdwZkNEeDY1NXVwUXdoR0otRk5samtLNXhiWFZEaUJQcVdtc0Zwc0lRYVhDbk1ud0k2cGNWMlM5enBOVnJ2aDFmY0JVdE0yRFhxd1RFMEdwakhKUmV1aFY3bGl2OWZlYlBMQnMyazRaOHFadUE5SHRtUnZaREJuZnVRZFZta0VJSFhfSFEySHQxLVNscDQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:35:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:35:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "doctors body seeks review of hindi film over negative portrayal",
+      "title": "Doctors’ body seeks review of Hindi film over negative portrayal",
+      "summary": "Doctors’ body seeks review of Hindi film over negative portrayal",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFcwRS0xMUtNa2xXZUI5MFViYTNMQkV2eVU1RzNoWGlhb2IyV2o1ODNUT0F1QU52Rk5JSE5VRmxMeF9MZXMxNkhZUnlOcG1QakhNRkFVbXFBelRrMWQ4cUFGNUlERFBwbWFCNHhCc2hoLWRVY1B4eUpqWHJvTlR1OEp3SzhsSUtuOUZCR21QbVVqR2ZxZmREMlFqZzVMQ25RcWNjOENaWVhOWUZzd3hvcE90OEVQdlI0T3V2Y3JRcWlPQUItSHRCZk9ReUtkMHhH0gHWAUFVX3lxTE9NcW1JWmxJLWRDNm8xSmVyUEdZZEhMTEdUcmJfQ1hWdUZWbTBNanBaTnZwLWoyZklCODNpVTluRzNHVjI2SW5KdHRtekUwWXZjMjZiUENGaEdUYUZMVkJvRkQ0YnZHSEdkYVFkclNYaVBoR051ZVFFSE5ocS1DTk10V0FOYVpTejM1WG02WldEWFlSM1R6cldHeFlremZsc3d1dmJFcUlOd09BUmNWM3N2eF9Oa1lLTzZrdEtsakpPY2o3cWpWM2ZXZlVWOTBpOXV1dzV4WkE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:17:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 18:17:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather पुणेकरांना उकाड्यापासून मिळणार दिलासा पुढील तीन दिवसांत कमाल तापमानात घट होण्याची ",
+      "title": "Pune Weather : पुणेकरांना उकाड्यापासून मिळणार दिलासा; पुढील तीन दिवसांत कमाल तापमानात घट होण्याची शक्यता",
+      "summary": "Pune Weather : पुणेकरांना उकाड्यापासून मिळणार दिलासा; पुढील तीन दिवसांत कमाल तापमानात घट होण्याची शक्यता",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWdMcWhHdlA0ek9DRUZ4UV8xSTlodzZOVTJhVVFDaHVZTjdpWXJ2WWE3VWd6ZHpMVEVRMEZUV3NTNVFySWotTU5GcVBmclB3U3ljZjhLZmlwbXBRNlhTR2RzYlBaYW5IM2ZRZHYzd3Q2cHY4eWItMEdHd2hNeUdRTTltRXJIcjQ1b0ZNd05vZXE5RFUycHlJc2VDNjZRR1JNa1JfR21VNm9uVnNJS19kQ3B1aXVaUQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 17:52:22 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 17:52:22 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "cyclone alert bay of bengal system may intensify by october 26 imd warns of heavy rain in ",
       "title": "Cyclone Alert: Bay of Bengal System May Intensify By October 26; IMD Warns Of Heavy Rain In These States",
       "summary": "Cyclone Alert: Bay of Bengal System May Intensify By October 26; IMD Warns Of Heavy Rain In These States",
@@ -871,17 +1129,17 @@
     },
     {
       "id": "weather forecast राज्यात ऑक्टोबर हीट चा कडाका कायम कोकणात उष्ण व दमट हवेचा यलो अलर्ट",
-      "title": "Weather Forecast : राज्यात ‘ऑक्टोबर हीट’चा कडाका कायम; कोकणात उष्ण व दमट हवेचा ‘यलो अलर्ट",
-      "summary": "Weather Forecast : राज्यात ‘ऑक्टोबर हीट’चा कडाका कायम; कोकणात उष्ण व दमट हवेचा ‘यलो अलर्ट",
-      "source": "Dainik Prabhat",
+      "title": "Weather Forecast : राज्यात 'ऑक्टोबर हीट'चा कडाका कायम; कोकणात उष्ण व दमट हवेचा 'यलो अलर्ट",
+      "summary": "Weather Forecast : राज्यात 'ऑक्टोबर हीट'चा कडाका कायम; कोकणात उष्ण व दमट हवेचा 'यलो अलर्ट",
+      "source": "Dailyhunt",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlp3ZnFOZ00yYlU3OWFfcGd2eUUwam9jd0dmNzdfeWFSbDVtWm5zUGVlaF90dEdtbVVfNUdyWDBOalAwNkl2U0Z5Zl9KVU1ZaHl0bEtzb2ljOV8teDVyaUFfR1RScm4yNkJGSUxQN0RDcDgzMHgyczlGdlNGWEtNaWZIcGVmX2o1VWJtWE5PU2p4RUJFRExRWkxBSUI?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:12:00 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 14:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX1dZeF9xMC01VFlaR3FGQVkyNTZQRUFBMkhJV096alVLX0U3WkZtcTlnRUo4RkxEUTR5MlZpWlNOMGdRWVozS2FuVkhWRXhodkdpWnRHSVZWLTlpTlVhVzRia2F5SG5wbDFfeFd0aGlDNVd2ejJKTGxEWHR4YVFsZFNmVkhPLWV3WjBwdlhGVzRTVHhjYlVLWEczUW5wcTZNaGl4VWI3UFVDQk1OWHNhakt4WktaLVZJSVJqU2NGX2daSFRMVkc1N3dMYVRmeC1KS1VPTUJiY2Z1R04ySmx0VmdiajZhMEpHUEc5WHE5R0ZKa25KRnJYSVdXb0FGdXdLcGlVY1lycmFmR2poZEE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:24:57 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 14:24:57 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat"
+        "Dailyhunt"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -900,6 +1158,28 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdEpxNjQ5dXlGc3dYT1ZhMW9wU3hvQWM4LTFLekZUdllRSEdRYXBELVlPVFR0UlR1TkM2emVvY05MVTI1ZjFLQjNSelNZUTRQZ3pzNEdEUEZ0dFRnUDlrci1aT1hBMlZPMk9Mekl4TGI3Y1FaMTZSZHFlLTNYMGZvWFdSaG11S3RobkxuTXI3TU52WmJQWDl1T3AxVHh2YTVOZW0xdlV6Sy1FVktORGFNUG1yTG4xNWRWRDdvTDZEekI5VURCc1ljSGxDTmZWU04xcktJWWlvcHM2QUJXUW1FZA?oc=5",
       "pubDate": "Fri, 23 Oct 2026 13:27:00 GMT",
       "lastUpdated": "Fri, 23 Oct 2026 13:27:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन सोन्याचा आहे की चांदीचा पुण्यात इथं भेटेल पाहायला",
+      "title": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन? सोन्याचा आहे की चांदीचा? पुण्यात इथं भेटेल पाहायला! Video",
+      "summary": "तुम्ही कधी पाहिलाय का 10 लाखांचा पेन? सोन्याचा आहे की चांदीचा? पुण्यात इथं भेटेल पाहायला! Video",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXY0bkVaeGV5SDZzdUNnUHdCRXpmUlRvSnlYenRwUW1YbHF4a1NMOGdlc3Y3emlpZWVYTlg2VkxIeE9UbVpPRWZGUmxPVmlpQThDWDJxYmxVTS1LZHBscGt0Y1RpWE9lUGY4Vk5wTGV4V1p3S2dGOTBqT09tcnlfUERqMk85dloxOXBOaE9WVzJxZ3pWQUFnc1pvYw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 12:35:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 12:35:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -980,6 +1260,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "maharashtra mlc election 2026 शिक्षक पदवीधरसाठी मतदान पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "title": "Maharashtra MLC Election 2026 | शिक्षक, पदवीधरसाठी मतदान, पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "summary": "Maharashtra MLC Election 2026 | शिक्षक, पदवीधरसाठी मतदान, पाच मतदारसंघातले अपडेट्स जाणून घ्या",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0IwN2twWUlJQ3lnd05zaER0SmxXb3VKZ2xoOFM0Skd4SktIMlRfTUZYemp0cGIzN2dfNFF6Q3pveklOTFJWbVlOQ1ZuUGlyanNDdUUzRWw2UjNLamgzdDdVRjNBS2l5MkF3blJXajRvWWRKTUZsQ3M4cV9xc1J0WUdmakpjc21RWVRfTkRpTG4?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:21:06 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 09:21:06 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प बॅटरी बॅकअप धूळखात",
       "title": "Pune News: कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प; बॅटरी बॅकअप धूळखात",
       "summary": "Pune News: कोंढव्यातील दुय्यम निबंधक कार्यालयात वीज गेली की काम ठप्प; बॅटरी बॅकअप धूळखात",
@@ -1024,28 +1326,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "बातमी परिवर्तनाची मुलांच्या अहवालाने पूर थांबला योजना बदलल्या मदतकार्याचे मॉडेल तयार चेन्न",
-      "title": "बातमी परिवर्तनाची: मुलांच्या अहवालाने पूर थांबला, योजना बदलल्या; मदतकार्याचे मॉडेल तयार; चेन्नईत मुलांनी सर...",
-      "summary": "बातमी परिवर्तनाची: मुलांच्या अहवालाने पूर थांबला, योजना बदलल्या; मदतकार्याचे मॉडेल तयार; चेन्नईत मुलांनी सर...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOd1NERzZLVTR5dUtKaThXSGIzcUJqMWxmVE5HTEI0MnhVUVhBazkteTNfNFVZS2VWNzNubVl4N0dwRmZIbEJZcXlYUkt0MGxjVVMzUlBvSGdmbWdQS0hKV3hiSGtDRjJrcFk0NUVLdWs4UVprM3QweGYzMVFYWDdJNzVuZ0RVY3BnUEo5UXR0c3d5MlVZV0IyY3FkbFJkcG8xU3FFNUs4XzRvTTJ5TWJNek5RZHdNSy1vOXF1S2cyQjZ2LWpfbHZ6Z0VobTYzdUF6SUhoaHJJdVFJQTBGNmVlRzZTSXA4dm9uV0hFN0puMk95azUwbTB1VG1qWnV6dzlzYkU2RE1nZ2tKUmNReU1rLUxrc1hGdDNBMzF6NW9JZjh2VTBsZi1mc3gwRU9MS2ZXZ1I5MtIBugJBVV95cUxPWkp4V3FFdVQxRUxGYWl5TmN6bFZ3WXZrRzAzVmtscWNOY0pRSVhvaUUwdXBBaGF1U3BmR3hXSGtFVmdFSTJPQUh4dTlWNGJYbkJ0SDFPMlNqdWkyX2FIdUdXM0RRUE1PRW1SSDRDT2FGNFVKbG44WmNaVElrVzR0bFY3VU1MSFB5UnJjdk13UlRGRjUyRXRySjlDTW1qYlhWTnhlTHN1UUV5azJkNUZIdEJWbHlLaFBOM0NHSFRlM3dQSkdzam14NE5vaU9sQzBMblQzVVRvQVRZNjhGY1E0UzdmN19TVmR6V1VWTEpVd0MwWVpacGZoZUR4TDVIOF9wa2ZzUktyelFMODJYR0RiTG1ZLUJZVVV2RGVVYjdSSTFXVWVoZTBJT25RNnpUbzd2dWE4RVY2aXpBZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:37:31 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 06:37:31 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "hinjewadi metro आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी",
       "title": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
       "summary": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
@@ -1080,6 +1360,28 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra mlc election 2026 hasan mushrif यांनी मतदानाचा हक्क बजावला",
+      "title": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
+      "summary": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclpLeDBMc0RkTXd1eW81SkpkSHRyUV83WWhQQVAyWFdNV0ZUcDF4R3JHYWJZRHl0WGxYaHVBeFg3b2lXV2l3R3c2UmNKN3ZZaHpHbVgtdlJvbk5rbDNpdVhoQmN1a3IzSm9DcVVwampRd2lzbHdOckRDQmFQMTBTWFoxeUw3WGNvSkk4WGI4M0JMUFpaZ2Q4N25FU1VmbndIOGpJ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 04:14:26 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 04:14:26 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1200,6 +1502,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "shukra pradosh आज शुक्र प्रदोष भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस काय करावं व",
+      "title": "Shukra Pradosh: आज शुक्र प्रदोष! भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस; काय करावं? व्रताचं महत्त्व, Video",
+      "summary": "Shukra Pradosh: आज शुक्र प्रदोष! भगवान शंकर आणि माता पार्वतीच्या पूजेचा खास दिवस; काय करावं? व्रताचं महत्त्व, Video",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa3AxWEQ4c1RFWU82Z2hsQm9mNUZFb252eHc4cVRhdl9PMFkzTGg5WjZ1Y1JyWG5zbFFvRHNsMEpOM0c2V0lESzRNWmM3bmtIVXRzNS1tTFNqOWNzaTFBdG1vV2oyd0tOc3UyMXdWTWRyenljNXNzTFpJLW1mcGgzYnpDOW1zdjdza0NXR3pEMFdjWllhMFpzdUNIZjZXTjNpQ0RYQ3BRZVNPZFVYcHJRV2ZpZ25lNDVqS2dtVnNMcVJqQnNWVlJjT2xuYWdsWXVTcWc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 02:44:00 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 02:44:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "आंदोलनाला हिंसक वळण कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली पुणे बेंगलोर महामार्गावर",
       "title": "आंदोलनाला हिंसक वळण; कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली, पुणे बेंगलोर महामार्गावर आगीचे लोट",
       "summary": "आंदोलनाला हिंसक वळण; कार्यकर्त्यांनी ऊस वाहतूक करणारी वाहनं पेटवली, पुणे बेंगलोर महामार्गावर आगीचे लोट",
@@ -1249,7 +1573,7 @@
       "summary": "Maharashtra Weather Today (आजचे हवामान): 'ऑक्टोबर हिट'ने महाराष्ट्र तापला! मुंबईसह कोकणात यलो अलर्ट; 'या' 3 जि",
       "source": "Times Now Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGhUaGdLVXUxRktHRGczMEVpYmZFdWs1RHFCN0I0TzItbG1IRnRudlR3UVUtWGJYRE9tZjVyMmk3MFRlQnJuTmlhS25Va0pHQjZERFR4YXhzSExLaHgzWlc0VTZHZnlvMVdJYThUWHd6NWQxN1Bvb2dkazFJbHNOcG5tZjR2NDhNTEM1UWtNb2lyeUVka2ZCb2EtZVZRbjNFM25SM0ZXc09rRUM2YlllZEtvNl9QUDdwUG9PTDB1eEZQSndlc3dCS3ZSYVhQeXZLdG1Eby03REdXajRa0gHiAUFVX3lxTFA0dlFYVkJaakE3UzJDSkNJUXB4NkRCNVQ3R2wwdXV2ejllZEdkUF9hRUd3cFlzUnZEZ29NdFZzbDBYMUdPTGFxbXhqR1dxbGpsQjFxeUhDajNhY29QRVo3MXljbTF6eXROY0lyYWRlckM0eXpkMzNxRDgyVDBqdDhIOUpNVzQzREpYcExOc0kxVDdaUEpUU0dCOWJiNmlNVlBKeUR2dHpmUjMwZVdlcnlMdnp0cnB5cHltNnNHQ3laellNdGtzYXNLa3dKUnhFemdRVjdTbTlWNWVsTy0tQjZIc1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHZRWFZCWmpBN1MyQ0pDSVFweDZEQjVUN0dsMHV1dno5ZWRHZFBfYUVHd3BZc1J2RGdvTXRWc2wwWDFHT0xhcW14akdXcWxqbEIxcXlIQ2ozYWNvUEVaNzF5Y20xenl0TmNJcmFkZXJDNHl6ZDMzcUQ4MlQwanQ4SDlKTVc0M0RKWHBMTnNJMVQ3WlBKVFNHQjliYjZpTVZQSnlEdnR6ZlIzMGVXZXJ5THZ6dHJweXB5bTZzR0N5WnpZTXRrc2FzS2t3SlJ4RXpnUVY3U205VjVlbE8tLUI2SHNR0gHiAUFVX3lxTFA0dlFYVkJaakE3UzJDSkNJUXB4NkRCNVQ3R2wwdXV2ejllZEdkUF9hRUd3cFlzUnZEZ29NdFZzbDBYMUdPTGFxbXhqR1dxbGpsQjFxeUhDajNhY29QRVo3MXljbTF6eXROY0lyYWRlckM0eXpkMzNxRDgyVDBqdDhIOUpNVzQzREpYcExOc0kxVDdaUEpUU0dCOWJiNmlNVlBKeUR2dHpmUjMwZVdlcnlMdnp0cnB5cHltNnNHQ3laellNdGtzYXNLa3dKUnhFemdRVjdTbTlWNWVsTy0tQjZIc1E?oc=5",
       "pubDate": "Fri, 23 Oct 2026 01:59:42 GMT",
       "lastUpdated": "Fri, 23 Oct 2026 01:59:42 GMT",
       "areas": [],
@@ -1352,56 +1676,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "पुणेकरांनो महत्त्वाची बातमी दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद पालखी महामार्ग",
-      "title": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "summary": "पुणेकरांनो, महत्त्वाची बातमी! दिवेघाटात शुक्रवारी दोन तास वाहतूक पूर्णपणे बंद; पालखी महामार्गाच्या रुंदीकरणासाठी होणार ब्लास्टिंग पुणे : पुणे-सासवड मार्गावरून प्रवास करणाऱ्या वाहनच",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UU12SFk2ajI3aDhzSzJQalpDbXFQTUw4dWtBVW0xUUFpVXdiNVZXMXlOZDBDc1d3SXREVUZra1NuZlRUR3VEM3Uxc2tXYV9rX2c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 17:23:44 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "flyers protest at kolkata airport after 6 hr flight delay",
-      "title": "Flyers protest at Kolkata airport after 6-hr flight delay",
-      "summary": "Flyers protest at Kolkata airport after 6-hr flight delay",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTlGc05HdUh6ZWlGZW9TWWhBWDhaRnBkSEhtM1FqUmhiQUdCSHBaRkhOQnh6OWNSNjZkajdrVTg5MlRiUDNUNnFKYlVhRHRWX0JtTFRud21YaDR2eXZSWHNacnpCYlo1SmZXNWFfZ1huV2ZNTE1jZnZqNTFfblZIQVp4ZVNIUkdFZzV6MzhvbkFTQWxjQWtCc2pWVVk2anE3T05LRWJid2pRazF6bWJBWnlKWkNvR0F4alJqdzF5RmRnTjgxc3dPSHBsV0rSAdIBQVVfeXFMTko4bnFtSzhERFVXUjNlcXdCb2xoMWVQd1p1SnNoQVRUSV92aVBwaFRTNThKeEpBYkxsTDI3TzZZX2RGTGd3TlVUQm5KYTNId19WblFyVzBsYmVBODBOUzU1SGxPRkV3SlRBMkFxUEFuN3o1SXJzb0M4YXIxS2Z5M0Vfb3VuQVU4N0JGNmlXbkVxUG14SHBHZDdoMzRwMUE4THZraXZhVHlXUk1kT3laN1NDdUFyQ3cxMnVENktDWVBXX2k1a19tMGRET2JfRkNHcWJR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:27:00 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 16:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 39,
+    "total": 44,
     "alerts": 13,
-    "news": 26
+    "news": 31
   },
-  "cleanedAt": "2026-10-23T15:17:54.728Z"
+  "cleanedAt": "2026-10-23T19:24:31.468Z"
 }
