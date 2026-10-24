@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:27:25.356Z",
+  "generatedAt": "2026-10-24T00:55:48.077Z",
   "status": "ok",
   "alerts": [
     {
@@ -82,6 +82,37 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "piravom ilanji road traffic diversion causes major disruption",
+      "title": "Piravom–Ilanji Road Traffic Diversion Causes Major Disruption",
+      "summary": "Piravom–Ilanji Road Traffic Diversion Causes Major Disruption",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0pJbnd5R2pyVVBmeEExelVzWHBMTXdBS1JlUjJBUTdpMWIybnRCYlZ2VEN3OTFrTXltazllZTdqbm5ocE5HYmxCTnJYZldxNWFCQTBxU0pkQ09mLWk3d01xRHkwNGlGamRRZFh6Rk1vQVlhbEZWZGt1bEhMaW5EYVJzMjB1U0IyVVdNN1VSNjI?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:39:50 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:39:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "satara college student dies by suicide after friend s fatal accident",
@@ -180,6 +211,40 @@
       ]
     },
     {
+      "id": "sinhagad road jam traps commuters in 4 km queue",
+      "title": "Pune Sinhagad Road Jam Traps Commuters in 4-Km Queue",
+      "summary": "Pune Sinhagad Road Jam Traps Commuters in 4-Km Queue",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVdUcEp5VktiZ3pJNGw3TzZlMWhsc0dMRloxY0ZxSDFPVnZmSVZqLW9QOU9oQVhxWU83WFpQSlVablFocC1sdThRM1lSMGpQMkxaYnljX05CU1MyM192Yk5mRWU4bGlSdW9EeXZzdkJFb2tldlgxZzM0T2ZhMk44Rw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:27:33 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:27:33 GMT",
+      "areas": [
+        "Sinhagad Road"
+      ],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
+    {
       "id": "baner police arrest 3 for hacking friend to death",
       "title": "Baner police arrest 3 for hacking friend to death",
       "summary": "Baner police arrest 3 for hacking friend to death",
@@ -208,6 +273,50 @@
       "icon": "🚓",
       "critical": false,
       "action": "Stay alert and follow police advisories."
+    },
+    {
+      "id": "maharashtra weather उत्तर कोकणात उष्ण दमट हवामान शक्य रत्नागिरी सिंधुदुर्ग सातारा कोल्हापू",
+      "title": "Maharashtra Weather Update: उत्तर कोकणात उष्ण, दमट हवामान शक्य; रत्नागिरी, सिंधुदुर्ग, सातारा, कोल्हापूरमध्ये विजांसह पावसाचा अंदाज",
+      "summary": "Maharashtra Weather Update: उत्तर कोकणात उष्ण, दमट हवामान शक्य; रत्नागिरी, सिंधुदुर्ग, सातारा, कोल्हापूरमध्ये विजांसह पावसाचा अंदाज",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDNTcHhRU0dHUWRUamhnSXd1ckljVXBiNmJBQmtldmZhLVdDaUtvUUZUTHlkZFlOSVhZUU4wN1VfOFR1U3dGalBCLWZOalpRYnpxbVYwZTNyNWZqMEJlclBIUGFfU1F6SVVzWDBpaThrRktQMk83T2xHMHlMRG9HQ050LXJDalI5SUxKWTFfMFhVRmhONGZPWWRIRkkteWpYUU1ZZ1BqcHFxekl1bk5xaXJR?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather राज्यात वातावरणात बदल या जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "title": "Maharashtra Weather : राज्यात वातावरणात बदल, 'या' जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "summary": "Maharashtra Weather : राज्यात वातावरणात बदल, 'या' जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "source": "MumbaiTak",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTUyTnNWTUVScWdZTzh3TTJ2WHg1SGlFZGpRZjF6VVFxOTNidU40RXc4MXdJU19EUmtqTk04bmxsZmRmTGJCVUpKMmROdUhfdjVqbkx2STZWajVndlBTcUVnRVFvc3c0YlBrVkpWMldXOVNLYmVfajJyOE40YXpGajUxTXBkeEY0ZWhfMWRQLVVBY3R5c2N3RWYtV08tUmQ4TnJlVnltRkZXcDJZUU1Vd2hhYkFLYzdIaEJJTTBnODlNQURDNkdjNUdFbmJpaVFFX3EyMzJHaTTSAdgBQVVfeXFMTmk1Mk5zVk1FUnFnWU84d00ydlh4NUhpRWRqUWYxelVRcTkzYnVONEV3ODF3SVNfRFJrak5NOG5sbGZkZkxiQlVKSjJkTnVIX3Y1am5Mdkk2Vmo1Z3ZQU3FFZ0VRb3N3NGJQa1ZKVjJXVzlTS2JlX2oycjhONGF6Rmo1MU1wZHhGNGVoXzFkUC1VQWN0eXNjd0VmLVdPLVJkOE5yZVZ5bUZGV3AyWVFNVXdoYWJBS2M3SGhCSU0wZzg5TUFEQzZHYzVHRW5iaWlRRV9xMjMyR2k0?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:30:07 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 23:30:07 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MumbaiTak"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "bizman faces road rage citizens blame it on lax policing on roads",
@@ -658,28 +767,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "hinjewadi metro आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी",
-      "title": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
-      "summary": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjQ4aDh5SUtuV2NWeFd6bWNveDJpTlh4ZmhPSEhNVE01eThGNXFlNFF1cVNNakRLYXgtT3V1MlZSXzQtZ09VazE0TjBaQTZvOWdsYXoxRkdEdFhkTE5TVDhOVkhWV0JuQmw4cWlYLTRhZ1BNVG43VXBOQzdUMUp5MXVXZFZXLWczblB4MUhKaHZVYTd2TkxvT0x6ZkM3NDdqOElQR2NYOElrZktuN2NPTVo0UkRDcG45S3RKelBlMm9ZNDhaUmMyVmhB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:03:00 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 06:03:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सासऱ्याशी वाद मध्यरात्री जावयाने दोन दुचाकी पेटवल्या हडपसर येथील घटना",
       "title": "सासऱ्याशी वाद, मध्यरात्री जावयाने दोन दुचाकी पेटवल्या! हडपसर येथील घटना",
       "summary": "सासऱ्याशी वाद, मध्यरात्री जावयाने दोन दुचाकी पेटवल्या! हडपसर येथील घटना",
@@ -692,28 +779,6 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra mlc election 2026 hasan mushrif यांनी मतदानाचा हक्क बजावला",
-      "title": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
-      "summary": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclpLeDBMc0RkTXd1eW81SkpkSHRyUV83WWhQQVAyWFdNV0ZUcDF4R3JHYWJZRHl0WGxYaHVBeFg3b2lXV2l3R3c2UmNKN3ZZaHpHbVgtdlJvbk5rbDNpdVhoQmN1a3IzSm9DcVVwampRd2lzbHdOckRDQmFQMTBTWFoxeUw3WGNvSkk4WGI4M0JMUFpaZ2Q4N25FU1VmbndIOGpJ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 04:14:26 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 04:14:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -945,53 +1010,6 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "tamil nadu heavy rainfall triggers school closures",
-      "title": "Tamil Nadu Heavy Rainfall Triggers School Closures",
-      "summary": "Tamil Nadu Heavy Rainfall Triggers School Closures",
-      "source": "Urban Acres",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUE1YaW9peEM1aE5KRUZaSDB2c1ZCeTRnODVyQWFLMmVvNEVoc28xSy1JZGF6MFZrSU9TSmE5TjVJbnhiY0t4UDhCSDF4YzVKYlY1MGkzM213VF80SE9Ia3ZTb2Y3MmtXOXFIblotek5TV0R2aXFLeTBrc2ZvS1UyUElPZmdpUFE1a0RRYS1qSFBDOXRvY1ZPaw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 00:16:41 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 00:16:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Urban Acres"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required.",
-      "correlation": [
-        "Rain / waterlogging may affect travel."
-      ]
-    },
-    {
-      "id": "weather उकाड्याचा तडाखा पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "title": "Weather Update: उकाड्याचा तडाखा! पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "summary": "Weather Update: उकाड्याचा तडाखा! पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0plaDhYQ0ozZHVETy1reFM0VmRWajRUMVZwY0JzY3YzR3IwcEVkdkZ4VEJTSGNnV0JkRnJCenJaYTcwMjRNZE9TS3FwWGdKaTU2ejJrdHpKZmdOX09sT1hJUXowWEZwN01fZDZKY1FIVGhRU1Y1dFJ6ODdfWjhtaDJkc2lTVlBmbjk0N0dsSkpRLUVuQnJqcW11TXlFSENSVEhidkQ0UUFTTmFndHpVa0tmejNYN3FTU1VNN2lPd0VRRUpNT1F0dWs5c9IBywFBVV95cUxNQ0plaDhYQ0ozZHVETy1reFM0VmRWajRUMVZwY0JzY3YzR3IwcEVkdkZ4VEJTSGNnV0JkRnJCenJaYTcwMjRNZE9TS3FwWGdKaTU2ejJrdHpKZmdOX09sT1hJUXowWEZwN01fZDZKY1FIVGhRU1Y1dFJ6ODdfWjhtaDJkc2lTVlBmbjk0N0dsSkpRLUVuQnJqcW11TXlFSENSVEhidkQ0UUFTTmFndHpVa0tmejNYN3FTU1VNN2lPd0VRRUpNT1F0dWs5cw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:41:01 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 23:41:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
@@ -1077,6 +1095,34 @@
       "action": "Avoid the area. Call 101 or 112 if nearby."
     },
     {
+      "id": "piravom ilanji road traffic diversion causes major disruption",
+      "title": "Piravom–Ilanji Road Traffic Diversion Causes Major Disruption",
+      "summary": "Piravom–Ilanji Road Traffic Diversion Causes Major Disruption",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0pJbnd5R2pyVVBmeEExelVzWHBMTXdBS1JlUjJBUTdpMWIybnRCYlZ2VEN3OTFrTXltazllZTdqbm5ocE5HYmxCTnJYZldxNWFCQTBxU0pkQ09mLWk3d01xRHkwNGlGamRRZFh6Rk1vQVlhbEZWZGt1bEhMaW5EYVJzMjB1U0IyVVdNN1VSNjI?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:39:50 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:39:50 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "road closure",
+        "route closure",
+        "blocked",
+        "diversion"
+      ],
+      "severity": "warning",
+      "category": "traffic",
+      "type": "Route Closure",
+      "icon": "🚧",
+      "critical": true,
+      "action": "Use alternate route and follow police diversion."
+    },
+    {
       "id": "satara college student dies by suicide after friend s fatal accident",
       "title": "Satara College Student Dies By Suicide After Friend’s Fatal Accident",
       "summary": "Satara College Student Dies By Suicide After Friend’s Fatal Accident",
@@ -1120,6 +1166,37 @@
         "The Times of India"
       ],
       "confidence": "Medium",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
+    },
+    {
+      "id": "sinhagad road jam traps commuters in 4 km queue",
+      "title": "Pune Sinhagad Road Jam Traps Commuters in 4-Km Queue",
+      "summary": "Pune Sinhagad Road Jam Traps Commuters in 4-Km Queue",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVdUcEp5VktiZ3pJNGw3TzZlMWhsc0dMRloxY0ZxSDFPVnZmSVZqLW9QOU9oQVhxWU83WFpQSlVablFocC1sdThRM1lSMGpQMkxaYnljX05CU1MyM192Yk5mRWU4bGlSdW9EeXZzdkJFb2tldlgxZzM0T2ZhMk44Rw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:27:33 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:27:33 GMT",
+      "areas": [
+        "Sinhagad Road"
+      ],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
       "w": [
         "traffic",
         "congestion",
@@ -1191,6 +1268,50 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
+      "id": "maharashtra weather उत्तर कोकणात उष्ण दमट हवामान शक्य रत्नागिरी सिंधुदुर्ग सातारा कोल्हापू",
+      "title": "Maharashtra Weather Update: उत्तर कोकणात उष्ण, दमट हवामान शक्य; रत्नागिरी, सिंधुदुर्ग, सातारा, कोल्हापूरमध्ये विजांसह पावसाचा अंदाज",
+      "summary": "Maharashtra Weather Update: उत्तर कोकणात उष्ण, दमट हवामान शक्य; रत्नागिरी, सिंधुदुर्ग, सातारा, कोल्हापूरमध्ये विजांसह पावसाचा अंदाज",
+      "source": "Agrowon",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDNTcHhRU0dHUWRUamhnSXd1ckljVXBiNmJBQmtldmZhLVdDaUtvUUZUTHlkZFlOSVhZUU4wN1VfOFR1U3dGalBCLWZOalpRYnpxbVYwZTNyNWZqMEJlclBIUGFfU1F6SVVzWDBpaThrRktQMk83T2xHMHlMRG9HQ050LXJDalI5SUxKWTFfMFhVRmhONGZPWWRIRkkteWpYUU1ZZ1BqcHFxekl1bk5xaXJR?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:30:00 GMT",
+      "lastUpdated": "Sat, 24 Oct 2026 00:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Agrowon"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "maharashtra weather राज्यात वातावरणात बदल या जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "title": "Maharashtra Weather : राज्यात वातावरणात बदल, 'या' जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "summary": "Maharashtra Weather : राज्यात वातावरणात बदल, 'या' जिल्ह्यांना उष्ण आणि दमट हवामानाचा यलो अलर्ट",
+      "source": "MumbaiTak",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTUyTnNWTUVScWdZTzh3TTJ2WHg1SGlFZGpRZjF6VVFxOTNidU40RXc4MXdJU19EUmtqTk04bmxsZmRmTGJCVUpKMmROdUhfdjVqbkx2STZWajVndlBTcUVnRVFvc3c0YlBrVkpWMldXOVNLYmVfajJyOE40YXpGajUxTXBkeEY0ZWhfMWRQLVVBY3R5c2N3RWYtV08tUmQ4TnJlVnltRkZXcDJZUU1Vd2hhYkFLYzdIaEJJTTBnODlNQURDNkdjNUdFbmJpaVFFX3EyMzJHaTTSAdgBQVVfeXFMTmk1Mk5zVk1FUnFnWU84d00ydlh4NUhpRWRqUWYxelVRcTkzYnVONEV3ODF3SVNfRFJrak5NOG5sbGZkZkxiQlVKSjJkTnVIX3Y1am5Mdkk2Vmo1Z3ZQU3FFZ0VRb3N3NGJQa1ZKVjJXVzlTS2JlX2oycjhONGF6Rmo1MU1wZHhGNGVoXzFkUC1VQWN0eXNjd0VmLVdPLVJkOE5yZVZ5bUZGV3AyWVFNVXdoYWJBS2M3SGhCSU0wZzg5TUFEQzZHYzVHRW5iaWlRRV9xMjMyR2k0?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:30:07 GMT",
+      "lastUpdated": "Fri, 23 Oct 2026 23:30:07 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MumbaiTak"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
     },
     {
       "id": "bizman faces road rage citizens blame it on lax policing on roads",
@@ -1635,28 +1756,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "hinjewadi metro आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी",
-      "title": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
-      "summary": "Hinjewadi Metro : आयटी कर्मचारी ट्रॅफिकमध्ये बेहाल अन् ३ महिन्यांपासून रिकामी धावतेय हिंजवडी मेट्रो! उद्घाटनाबाबत मोठी अपडेट",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjQ4aDh5SUtuV2NWeFd6bWNveDJpTlh4ZmhPSEhNVE01eThGNXFlNFF1cVNNakRLYXgtT3V1MlZSXzQtZ09VazE0TjBaQTZvOWdsYXoxRkdEdFhkTE5TVDhOVkhWV0JuQmw4cWlYLTRhZ1BNVG43VXBOQzdUMUp5MXVXZFZXLWczblB4MUhKaHZVYTd2TkxvT0x6ZkM3NDdqOElQR2NYOElrZktuN2NPTVo0UkRDcG45S3RKelBlMm9ZNDhaUmMyVmhB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:03:00 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 06:03:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सासऱ्याशी वाद मध्यरात्री जावयाने दोन दुचाकी पेटवल्या हडपसर येथील घटना",
       "title": "सासऱ्याशी वाद, मध्यरात्री जावयाने दोन दुचाकी पेटवल्या! हडपसर येथील घटना",
       "summary": "सासऱ्याशी वाद, मध्यरात्री जावयाने दोन दुचाकी पेटवल्या! हडपसर येथील घटना",
@@ -1669,28 +1768,6 @@
       "region": "pune",
       "sources": [
         "Pune Prime News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra mlc election 2026 hasan mushrif यांनी मतदानाचा हक्क बजावला",
-      "title": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
-      "summary": "Maharashtra MLC Election 2026 | Hasan Mushrif यांनी मतदानाचा हक्क बजावला",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclpLeDBMc0RkTXd1eW81SkpkSHRyUV83WWhQQVAyWFdNV0ZUcDF4R3JHYWJZRHl0WGxYaHVBeFg3b2lXV2l3R3c2UmNKN3ZZaHpHbVgtdlJvbk5rbDNpdVhoQmN1a3IzSm9DcVVwampRd2lzbHdOckRDQmFQMTBTWFoxeUw3WGNvSkk4WGI4M0JMUFpaZ2Q4N25FU1VmbndIOGpJ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 04:14:26 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 04:14:26 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1919,56 +1996,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "tamil nadu heavy rainfall triggers school closures",
-      "title": "Tamil Nadu Heavy Rainfall Triggers School Closures",
-      "summary": "Tamil Nadu Heavy Rainfall Triggers School Closures",
-      "source": "Urban Acres",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUE1YaW9peEM1aE5KRUZaSDB2c1ZCeTRnODVyQWFLMmVvNEVoc28xSy1JZGF6MFZrSU9TSmE5TjVJbnhiY0t4UDhCSDF4YzVKYlY1MGkzM213VF80SE9Ia3ZTb2Y3MmtXOXFIblotek5TV0R2aXFLeTBrc2ZvS1UyUElPZmdpUFE1a0RRYS1qSFBDOXRvY1ZPaw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 00:16:41 GMT",
-      "lastUpdated": "Fri, 23 Oct 2026 00:16:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Urban Acres"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather उकाड्याचा तडाखा पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "title": "Weather Update: उकाड्याचा तडाखा! पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "summary": "Weather Update: उकाड्याचा तडाखा! पाहा हवामान खात्याने नेमका कोकण विभागाला कोणता दिलाय इशारा",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0plaDhYQ0ozZHVETy1reFM0VmRWajRUMVZwY0JzY3YzR3IwcEVkdkZ4VEJTSGNnV0JkRnJCenJaYTcwMjRNZE9TS3FwWGdKaTU2ejJrdHpKZmdOX09sT1hJUXowWEZwN01fZDZKY1FIVGhRU1Y1dFJ6ODdfWjhtaDJkc2lTVlBmbjk0N0dsSkpRLUVuQnJqcW11TXlFSENSVEhidkQ0UUFTTmFndHpVa0tmejNYN3FTU1VNN2lPd0VRRUpNT1F0dWs5c9IBywFBVV95cUxNQ0plaDhYQ0ozZHVETy1reFM0VmRWajRUMVZwY0JzY3YzR3IwcEVkdkZ4VEJTSGNnV0JkRnJCenJaYTcwMjRNZE9TS3FwWGdKaTU2ejJrdHpKZmdOX09sT1hJUXowWEZwN01fZDZKY1FIVGhRU1Y1dFJ6ODdfWjhtaDJkc2lTVlBmbjk0N0dsSkpRLUVuQnJqcW11TXlFSENSVEhidkQ0UUFTTmFndHpVa0tmejNYN3FTU1VNN2lPd0VRRUpNT1F0dWs5cw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:41:01 GMT",
-      "lastUpdated": "Thu, 22 Oct 2026 23:41:01 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 50,
-    "alerts": 13,
-    "news": 37
+    "total": 48,
+    "alerts": 12,
+    "news": 36
   },
-  "cleanedAt": "2026-10-23T22:27:25.375Z"
+  "cleanedAt": "2026-10-24T00:55:48.093Z"
 }
