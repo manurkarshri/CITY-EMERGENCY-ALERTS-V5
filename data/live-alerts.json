@@ -1,34 +1,71 @@
 {
-  "generatedAt": "2026-10-27T18:49:54.599Z",
+  "generatedAt": "2026-10-27T22:47:37.567Z",
   "status": "ok",
   "alerts": [
     {
-      "id": "electric bus fire ends safely as 17 passengers escape",
-      "title": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
-      "summary": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
-      "source": "urbanacres.in + 1 more",
+      "id": "cyclone arnab kolkata rain kmc readies flood defences",
+      "title": "Cyclone Arnab Kolkata Rain: KMC Readies Flood Defences",
+      "summary": "Cyclone Arnab Kolkata Rain: KMC Readies Flood Defences",
+      "source": "urbanacres.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1EwWUZFMUswS0F6dzgxOUpMQ3pqNUJyU3JWTE52Z1BYNzg0M0tzeWIxXzVldmJUZXBvZHpXczk1Nm95cUhPYVFCQkhadDlYdVlrTWUwLXhJcFZlNXg1Mjdwd0lNNXZWNWVNZnpjSkU4RU4weDZUT2hLRm95Q0lFdnMzTUpVSVc2ajg0?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 00:47:13 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHlXWF90TmZ5UlV6U2JpZTNDNlhDZ1k0N3FSMmlDYlJ3RnB4LVZpaVlEU1FBdnMtV3djTERVRWR2Z01SRExrdDk5N2VuajNoTVVQV0RraUJOSVA2bGlPTmVVWk43ZHFJUVU1MlRFdk1ZNVJkR2M0OGtZZl9RSEtpUDY3NlNnMFNWTV92d1ZDaXhVZw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:58:36 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 18:58:36 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in",
-        "Urban Acres"
+        "urbanacres.in"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "w": [
-        "fire",
-        "blaze",
-        "smoke"
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
       ],
       "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
       "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
+    },
+    {
+      "id": "heavy rain gusty winds batter visakhapatnam trees uprooted roads flooded",
+      "title": "Heavy rain, gusty winds batter Visakhapatnam; trees uprooted, roads flooded",
+      "summary": "Heavy rain, gusty winds batter Visakhapatnam; trees uprooted, roads flooded",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzRHbHVMNHpqOXhiSGx1M21LVjFIVTZFekhTSUp0NzA1UGFkUllZV3RDZFBZa3FVSlJObjlxVGhVRUVucml1MmJ6Q2hESEtodUpZWV90T3JQd19lYjZjejRnMzdMdUxjejhCMGZvaE9tRFk2bDB4VlZTU25MdUJhNmZBenJVa1poT1loRWJXR3JTRVU5WHlzSFhDbjB5aG5IVnVuVUxMZldQTVFpRTQtNGYwWXlTSlZJX0I5Z2h6RmRBUFAwaTZIUXVvdjhJQ0VBcS15ZlhMeXVCSUhCdE9uS20xWkPSAeoBQVVfeXFMUFVUaF9wdTFjLWhDc0p6TXVyU2hWV09yX2NJZUhWdldxalYxWUlrZkE4VzBTTGlMOGJ4MmtTVVgxU2h3ZnVfWm5aT2ZqdjdFZy1ndGNKX2otUWEweVFSemQxRGFmZ0Q4UTB1Ykw1XzgwaFR0bXpCS2lzbWV6TnJXdU5BVUc0LWVoS2dYMWVLT2ZJazF0a29HZVFKbUF6Q3E3cW5MWEIteGJlNVJONU5aZnNnYjhtbWJra1hiWTlwZFRoa2JrNHFONExoRWdHbWZTckxQbnZ2bGFKb0VKSWhUUjdFbDlUcGtPZDlR?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 17:08:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 17:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads.",
+      "correlation": [
+        "Rain / waterlogging may affect travel.",
+        "Road delay or diversion possible."
+      ]
     },
     {
       "id": "school holiday october 28 are schools closed in andhra pradesh odisha and other states due",
@@ -151,6 +188,91 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
+      "id": "cyclone arnab landfall andhra coast tomorrow with 140 kmph winds 11 districts on red alert",
+      "title": "Cyclone Arnab Landfall Andhra Coast Tomorrow With 140 Kmph Winds; 11 Districts On Red Alert",
+      "summary": "Cyclone Arnab Landfall Andhra Coast Tomorrow With 140 Kmph Winds; 11 Districts On Red Alert",
+      "source": "Oneindia",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0w4ejhuYV9WbnpOdncwTEFxcUFCb0RyanJrd0tIWTBYU3lURGYyTjZRWnNESk03c1A3alVjNzN3UmVUVmpRSDVUOWxJVFg4LWRhNU1DTGM3QjFjQnhwaWcyZE5qZEdvOTRHM2hFc0ptaEJyZW9VZW9WMk9xbGw5clRUdHNuMjI3bmZxaWJlS2ZUMzNfRnZYWV9GWGdubWZHV0NFaGd2T1hWLXVlVXZjNUVhRXFzLUVFYkROUjlVNzZXMnduaU1pYzEydTFoejA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 03:54:40 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 03:54:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Oneindia"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "cyclone arnab tracker red alerts in andhra odisha as very severe storm nears coast landfal",
+      "title": "Cyclone Arnab tracker: Red alerts in Andhra, Odisha as ‘very severe’ storm nears coast; landfall likely on Oct 28",
+      "summary": "Cyclone Arnab tracker: Red alerts in Andhra, Odisha as ‘very severe’ storm nears coast; landfall likely on Oct 28",
+      "source": "Livemint",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYmhtZ1owb1E3VGR4MkZGS29aYXNMWjdTZHVkWFNsUmttVDVRUlNHVUV0eTR4RTVVVndsU01nNk5pYzBBNmtISmt4SG5pREhrdVBWR01iRGlJM3FfTGxLRVJfbzcxREhKaWFSTXczRnBMdnNOa1VNcFVJa0d5RGlvQ3Y3UEhOR2Fra2JKNWxjektlQmJGZi1rRTdoYW5tdHI2c3hPMi1zaHBGcVFLczE2Z19NRVhFdDNzTTEtb0tpV1NCOEdIWlhSVnZMeFFwUDllRi05Zlppd0ZVcEtnNFREWGhlZlNSZF9fMDNqRTlqWmswUDVlWnRR0gH8AUFVX3lxTE1YNmpHUEMxak1XcUF6Nlo5NEVPUVN2MzNsRHljZU1mdlg1d2Vrdk5yelNBWERXS19DS0dNeFN5YWx3SVZyd1BCcVZZU2VQMUJ5UWFmNE0wTkt4Rjh6QVptQkk5WmVvNEotMW9lRzlKcDlSQ2hvVEVtOW83VEtUdVZfdGQ0LXNFRnBZOTlZM0x0NWItTUlTQklmWlVSc1RTVGFZeGdFS3M2WEdSb0U2THNpYmVMTzZGQXpDTUI0MG9JVEpqb1VtRHJCT3NEWndmRkJCbWZZamRQSldHYW5vZFZOcjhZc3k5cVp0VVNJQXhQOWo5Vk96VmxIZjM4cg?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 01:41:53 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 01:41:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Livemint"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "electric bus fire ends safely as 17 passengers escape",
+      "title": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
+      "summary": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
+      "source": "urbanacres.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1EwWUZFMUswS0F6dzgxOUpMQ3pqNUJyU3JWTE52Z1BYNzg0M0tzeWIxXzVldmJUZXBvZHpXczk1Nm95cUhPYVFCQkhadDlYdVlrTWUwLXhJcFZlNXg1Mjdwd0lNNXZWNWVNZnpjSkU4RU4weDZUT2hLRm95Q0lFdnMzTUpVSVc2ajg0?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
       "id": "two msedcl wiremen die in separate accidents in jalgaon within 27 days",
       "title": "Two MSEDCL wiremen die in separate accidents in Jalgaon within 27 days",
       "summary": "Two MSEDCL wiremen die in separate accidents in Jalgaon within 27 days",
@@ -236,40 +358,42 @@
       "icon": "⚡",
       "critical": true,
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
-    },
-    {
-      "id": "power outage leaves 16 000 without electricity for six hours",
-      "title": "Pune Power Outage Leaves 16,000 Without Electricity for Six Hours",
-      "summary": "Pune Power Outage Leaves 16,000 Without Electricity for Six Hours",
-      "source": "Urban Acres",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnRLTUxhUW95SXJsZWNod0ZrZU02WEZ5c21udjNXQnFpc0Y2a2owaHpNS0V5Q09zR3pScHVIUTI4MkJmclFPa1poWFdmcjlyTzFKdF9vNmZZcHRmcVZGN3RoWHlSZ1RDN2E5UHdZa210Q0cxSVp2Y1c5blZYcXF3c29XdFBQUFlnbGJMNVcyWDA?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 19:39:55 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 19:39:55 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Urban Acres"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
-      "correlation": [
-        "Power supply impact possible."
-      ]
     }
   ],
   "news": [
+    {
+      "id": "bhopal traffic alert as metro work shuts ieti piplani road till november 17 4 lakh residen",
+      "title": "Bhopal Traffic Alert As Metro Work Shuts IETI–Piplani Road Till November 17, 4 Lakh Residents Face",
+      "summary": "Bhopal Traffic Alert As Metro Work Shuts IETI–Piplani Road Till November 17, 4 Lakh Residents Face",
+      "source": "Free Press Journal + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYVh3eENXenpsYmw1Yk9DRGdVdjBQemNyZ242enN3N0ZaczVfbXd2Sm9BTjdIbFVpQ3dwY2EwMWFESEtFaVd2YVpPRk8yRllVOGk5UDd4OTNtS2RhR081Tm85bXJHRGJFNmpLTUs3LUpXVjBYRkFELVhwUV9PY1pKWGYydTg3ejdadkU3YlZxTHdjb1lUOUpNdmxHUlhDYVpPeGlLYVctNGQ3djNuRFZ1NFFVTnQyTDBfcFJZcnhLcG5DM1NlTDVLRmVjTDZHX1Q0Z0NiMk9nY0RoWWpnZTNv0gHkAUFVX3lxTE9UU1p0ZUtrV0VZaTJXUkhuUVJ6V0RwSk52U05QQzl3R3YzMUhYeVpXS2RHVnUtZjlpN1VSNGR2MlZLbndObTk4X2pVcWV4QnZUd3VLYzdBMUoxZWRnZjVYMk1ET1VfbGx6cllUM0N1MkxJRkNKdS1RRU5KSDI4S0hOT1pldEhneFB6b3B0ckI3UVBXLXRmX2JnODhQeklEZlN0aGJIaWgyTlNvOTVJMkRGLTViZ2J0ZFJWazhOZFlDeVl6dzhIdUN0cFZQdGdwNm45TkpBWnE4b0NyZ0hZM2E1R0VENw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal",
+        "IMD"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel.",
+      "correlation": [
+        "Road delay or diversion possible."
+      ]
+    },
     {
       "id": "missing link traffic rules goods vehicles banned on mumbai expressway bypass from november",
       "title": "Missing Link Traffic Rules: Goods Vehicles Banned on Mumbai-Pune Expressway Bypass From November 1",
@@ -337,18 +461,18 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "pradeep purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी पोलीस प्रकरणाचा तपास करतील शिंदे",
-      "title": "Pradeep Purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी, पोलीस प्रकरणाचा तपास करतील-शिंदे",
-      "summary": "Pradeep Purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी, पोलीस प्रकरणाचा तपास करतील-शिंदे",
-      "source": "News18 Marathi",
+      "id": "odisha evacuates 48 000 shuts education institutes cancels trains as it braces for cyclone",
+      "title": "Odisha evacuates 48,000, shuts education institutes, cancels trains as it braces for Cyclone Arnab’s fury",
+      "summary": "Odisha evacuates 48,000, shuts education institutes, cancels trains as it braces for Cyclone Arnab’s fury",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDl3WnRVeHVXNjhKNEI0cXhOOG9JS2N5VTFhbWhaSm1XZVl5T2N0R3ZyamYwOUVjZ3otRnpFdDU4Q3pqSnJyTlQwOTd4RjNNemx6MTlsQlh2MVREdl9DRVk0a2RhYmlrNExseUpPYUFMVXBjd2VRdlRpcEJrRG1pQWNn?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:34:30 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 16:34:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUEcyUzZBN3I4a2duMGxLWW1wdjl6MEFvQklHZWVmcEVTMUxJbURtaTNSR1dGaC1DN3ZlVXY0VVd5VnRFOXVQRlZTNGdGbUlPdlg5OWE4ZUhGenJXTEVqWHpGTzRGOGM0V0t0aENmLXE4WlJOWE1TVnd0UG1EdTc3T3NSQmN6OHJjcVRJSXhjdEtneFdTN1Y1bDRjM3B1ZlB6ZWVqOWZGRWZsRnJPSDN3R285UUJOZnhrVHN0Y3VJU3llOV9WLXdhNkRYeUxWdXEwZzZqcXBadURuODltYTFJcXZxRjJzRDhrNFV1WldMQ19ka0liX1c1VjRoQ1hWOGU4a2VRdFF2UXZtYXRS0gGSAkFVX3lxTFB2aTE0bmVKbUtTMmh0UVFZREZjdzRNOFU1SFdpa3JGVFhXSS1PUW51S21qOEJMZ1dJQVNjX05IYXRPSS1EY1hiZ1c0T0tSQmNuWWlCb0ZFcm1FRHdIU2pOQmlSVmhuc2ZYSW1oNVNLUWEwRlNldF9vcFdGWlFfVU9PMnR0NjdrWWNOLXZhS25iVk1hN19zTi1PM2xwY1FpcGJsUW5vQkdIR3gwSVozU0EwcXpuaDhORURmd3dZc2xzWHRXc0lMSG1YaWV4R0JnSFQzNlJ5amlqRWFVRVZ6ME9pVWpJSmUwbU9seXJIVjd4VmswNkRncVlaUjFUMmF2UXNheWM4T21SMnRPMEFpOVJpcmc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:55:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 18:55:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -356,29 +480,10 @@
       "type": "Information",
       "icon": "ℹ️",
       "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर सचिन सानपांमुळे नवा ट्वि्स्ट भाजपची डोकेदुख",
-      "title": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर, सचिन सानपांमुळे नवा ट्वि्स्ट; भाजपची डोकेदुखी वाढण्याची शक्यता",
-      "summary": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर, सचिन सानपांमुळे नवा ट्वि्स्ट; भाजपची डोकेदुखी वाढण्याची शक्यता",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaGF2Zl80RXhIaEEwTWFuRVdCNGZMcUdJVW9zeW5VRllfZmVLYXd0VWFaWlVaZkFGM2Y5cy1tWkxibGg0TjhNNlNUWlZ2V1hUSTZWTk4wSGtYdFN6a0MxdWZhN2dZZkNMaU5jZmxWMmU4Z01IRVZoakpDYkcyd0xHQ0tXdnZiUjdkV19LR3JSX0pwbEZSZ0MybHF3alRXY0tXYzV4c3Y4VG9yMTBta2FZcXd0czBjaEoxVFRyR0ljREZTdWZGb21QM2ZEaHNRX1NaVFc2WmVpSXBVaDFiLUVjNExzWm5JTHRPTlQ2eUJxWW9ISnZvWW1ueGQ4WHo0Zw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 15:29:36 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 15:29:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
+      "action": "No immediate action required.",
+      "correlation": [
+        "Rain / waterlogging may affect travel."
+      ]
     },
     {
       "id": "maharashtra rain ऑक्टोबरच्या शेवटी वार फिरलं उद्या राज्यातील या जिल्ह्यांमध्ये",
@@ -497,28 +602,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "chhatrapati sambhajinagar mlc election result प्रतापसिंह पाटील आघाडीवर महायुतीच्या चव्हाणा",
-      "title": "Chhatrapati Sambhajinagar MLC Election Result |प्रतापसिंह पाटील आघाडीवर,महायुतीच्या चव्हाणांना धक्का",
-      "summary": "Chhatrapati Sambhajinagar MLC Election Result |प्रतापसिंह पाटील आघाडीवर,महायुतीच्या चव्हाणांना धक्का",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1hHcnJ1ODBWQlFURlRZeWdxQk9LZFAydG9ndHVxd2YxWC1GVnExNjhPcTh3N3JJOEJKS1BJMU00UzNQeXFKR243UWlDWlJNcmVxTzlzY3NUWXUxcnZ3NlhBRE1fWVFaT0cwbk5KblhJOVV0S2daTXQwZUZxQjFkeG1uME9IYnVqZXcwUlBfVmRrMUdpQ2NRMnk2dkU5d285dmRtNGpB?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 12:34:50 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 12:34:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "pimpri chinchwad water crisis दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण",
       "title": "Pimpri Chinchwad Water Crisis: दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण चोरतंय?",
       "summary": "Pimpri Chinchwad Water Crisis: दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण चोरतंय?",
@@ -566,50 +649,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather tomorrow उद्याचे हवामान विदर्भात पावसाचा इशारा गडचिरोलीला ऑरेंज अलर्ट ",
-      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विदर्भात पावसाचा इशारा; गडचिरोलीला ऑरेंज अलर्ट, उर्वरित महाराष्",
-      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विदर्भात पावसाचा इशारा; गडचिरोलीला ऑरेंज अलर्ट, उर्वरित महाराष्",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWHV4N1I5U2p3REhJQTI5Yncyc3l6WTVYM0pNd0I0QjcxWWNTYW4yUmFsaHhsYldMS19rQUdtWDgxTE1udjZhVW80WGEwdXFfeS1hVWdkOWwtazA2TGhlbmJmTVk3YmNTeDlXZ0F3SWczOFNPUHNfQ0NIQ2xmeV85dGlkdHBwdm1TU2FhZG4xZXhIWFoyWk5hb0toNWwtOVc5UWx3SjNxRlJPSnlCemxKd3BSRXR1bGc5R043S1pnVlVCNTNhMjZZTjg0bElDdXBwU3o4M1pfVHhFU2pETkVuOF9qWnRiRWFVUEtjSE1qeUlOQjNvd2V3dVVoSXNJNktVdGNPNjZHeGtIV1pTalJyVWpRZktIVWfSAZcCQVVfeXFMTlh1eDdSOVNqd0RISUEyOWJ3MnN5elk1WDNKTXdCNEI3MVljU2FuMlJhbGh4bGJXTEtfa0FHbVg4MUxNbnY2YVVvNFhhMHVxX3ktYVVnZDlsLWswNkxoZW5iZk1ZN2JjU3g5V2dBd0lnMzhTT1BzX0NDSENsZnlfOXRpZHRwcHZtU1NhYWRuMWV4SFhaMlpOYW9LaDVsLTlXOVFsd0ozcUZST0p5QnpsSndwUkV0dWxnOUdON0taZ1ZVQjUzYTI2WU44NGxJQ3VwcFN6ODNaX1R4RVNqRE5Fbjhfalp0YkVhVVBLY0hNanlJTkIzb3dld3VVaElzSTZLVXRjTzY2R3hrSFdaU2pSclVqUWZLSFVn?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 11:03:45 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 11:03:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mlc election result पुण्यात अद्यापही मतमोजणीला सुरुवात नाही पदवीधर शिक्षक मतदारांमुळे विलं",
-      "title": "Pune MLC Election Result | पुण्यात अद्यापही मतमोजणीला सुरुवात नाही, पदवीधर-शिक्षक मतदारांमुळे विलंब",
-      "summary": "Pune MLC Election Result | पुण्यात अद्यापही मतमोजणीला सुरुवात नाही, पदवीधर-शिक्षक मतदारांमुळे विलंब",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTh2Vy1NSzJ0UXE5dUxXTzBNZ0plSWZDNW5NdWxqRFJERUhtdmp1RDlVR0VmMnVtQ01Gc2FvRm00ZVIyaE5uc2hSWUtqYkdHd3FjdkNzbGc3dW1scHNTdUV1eDRweGludVRzaWZhUU5JX0R5WTV5bkJxeVBHaUp1WWcwbzRfQ2VMbFE?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 10:57:45 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 10:57:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
       "title": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
       "summary": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
@@ -622,28 +661,6 @@
       "region": "pune",
       "sources": [
         "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "chhatrapati sambhajinagar मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर नेमकं काय घडतंय",
-      "title": "Chhatrapati Sambhajinagar | मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर, नेमकं काय घडतंय?",
-      "summary": "Chhatrapati Sambhajinagar | मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर, नेमकं काय घडतंय?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOU9zRkdOc2lTRll3Qmk4THJzMjVrZUJHM2x2YkFXZG9BcXZQVjFuY1RSQzJOeGNiLTdyWGpsUEprVTMxeWVuVlVObFRtc0JMTVZ5SXJ1MWl1VmFhSDJiM3JtWTJ1dE1ZaFl5dXlaSVJUa0JscHhSTzlUdU9JUXljLVE5OVgyY3BuRThB?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 10:47:35 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 10:47:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -796,28 +813,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRlVJWXNOaDZmOUVyR3F1U3RPU0M4ZEZHZm5XMllTSnVqYU9kUG9hVkszV1BoVjFLQ3ZDa0oyOU5ucWszZ2Fuc0lMSUF0WWJWbmZkelI3R3dpT0RXSnZtNUc5WGJROEFKZGNFcXliYnQ3OFl3Nl9PQV9TS1d0V01NWWRmVUFMMm5YYjZnY3JMbF9selRST2JyS2s5dERaczBwYnF6N2FBR1kyWlM1MUtOZVI4SDRyY0kwejBMMDBvU2NuMzRrbXB2S0N6YkpfMTVyWExKNkRaOUxWRWYzSDVTSHhsQVRadw?oc=5",
       "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT",
       "lastUpdated": "Tue, 27 Oct 2026 07:08:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mlc election results 2026 मतमोजणीपूर्वी गोंधळ त्या कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं",
-      "title": "Pune MLC Election Results 2026 | मतमोजणीपूर्वी गोंधळ, 'त्या' कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं?",
-      "summary": "Pune MLC Election Results 2026 | मतमोजणीपूर्वी गोंधळ, 'त्या' कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMk1DeEh3dW1Qbk5ZQ3RPeFFsX0VTdkVpaVBJbHA1RDlhdXJfVFo3S3BaWmZTT0NIXzVoS1VCOWVLN1RDLVYwWjN0SmtQcU9TZHdCZ3RJdFpGWjBzd0t1T2xPb0ZKM1I2UEhPTlBleWV3a1M1YW9yWHJKelJPZEV1TF9zREIxVjhabFc2MExBallPQQ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 06:48:46 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 06:48:46 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1044,9 +1039,9 @@
       "summary": "'अर्णव'मुळे पावसासाठी अनुकूल वातावरण; कोकण किनारपट्टीवर हलक्या सरींचा अंदाज",
       "source": "NavShakti",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRG5aSzBweldLRmt4eDE5dXdBamIwSlctVlhwR2h2UDF1aGt6T2J0ZGk3LTNWSFJjQjZOU0tzUnVrc2ZyTmJ5WU05dUZZakVQY050SmNtYzl1UmpBS3lrWTRDSkZzOTZfcFVhWUs2QUlidUlXWGdzRmY5SGg2RzFVTGNCdFhBZ0VCdHpSdzAxdk1DR2xOQk1TMHJuSDk4cFdFSVFtSzgtSlRiT3NtMUtJdVl6ZGdqRmxmOHZmTEtadHg0TG80QTdhNVByaGQwdHp0LW1iMmR0MnJoRlFYaHfSAd4BQVVfeXFMTURuWkswcHpXS0ZreHgxOXV3QWpiMEpXLVZYcEdodlAxdWhrek9idGRpNy0zVkhSY0I2TlNLc1J1a3Nmck5ieVlNOXVGWWpFUGNOdEpjbWM5dVJqQUt5a1k0Q0pGczk2X3BVYVlLNkFJYnVJV1hnc0ZmOUhoNkcxVUxjQnRYQWdFQnR6UncwMXZNQ0dsTkJNUzBybkg5OHBXRUlRbUs4LUpUYk9zbTFLSXVZemRnakZsZjh2ZkxLWnR4NExvNEE3YTVQcmhkMHR6dC1tYjJkdDJyaEZRWGh3?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 02:54:00 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 02:54:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTZSbE9ud1pLXzhXeU9aZFIyQl9oZTB4YkJTRk9nZDNBTjBQbVY1R3ZDTGlTUUpVaVNzNTJDamZwVGRsMXpucndDU3V4bjhSZzhvb2RwZlB6TnpYU0U5TTJEMnQyUjRGdExSMVhQT2ZlN0ZUNUQ5Y1JrRS1oRG1Tb0J4RXVqR2RVTlAwaWJWRjdJZTY0dkhyYXVidFdDUmFuWFg2Y1h0VTR2RmdHa3NhU01yZ194WktDdy1sb1lrbVpiTG01blM2SDJadG02NExr0gHeAUFVX3lxTE1EblpLMHB6V0tGa3h4MTl1d0FqYjBKVy1WWHBHaHZQMXVoa3pPYnRkaTctM1ZIUmNCNk5TS3NSdWtzZnJOYnlZTTl1RllqRVBjTnRKY21jOXVSakFLeWtZNENKRnM5Nl9wVWFZSzZBSWJ1SVdYZ3NGZjlIaDZHMVVMY0J0WEFnRUJ0elJ3MDF2TUNHbE5CTVMwcm5IOThwV0VJUW1LOC1KVGJPc20xS0l1WXpkZ2pGbGY4dmZMS1p0eDRMbzRBN2E1UHJoZDB0enQtbWIyZHQycmhGUVhodw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 02:54:47 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 02:54:47 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1263,80 +1258,66 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "iiser removes umar khalid s book from library to avoid unrest",
-      "title": "IISER Pune removes Umar Khalid's book from library ‘to avoid unrest’",
-      "summary": "IISER Pune removes Umar Khalid's book from library ‘to avoid unrest’",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZEprNk1WMEJQbXp2Y0h1YzBLcVhERWdxajdzbnFESDBYQWJMM0xHZWIwdVQ5YjFfaDc3aW5GZWpydUtfRHMxRG5ydFJDbVFxUm1fVnRHa1B3MDB1dEl5cUJuNmQ4UTB5bG14eVZ2SHU3TFdfNlEzZV9RY3BGTjFoYV9iQnhTaDE4Y3dvc2NyNEIwWFR0VjZqWk1xeklnSmlxQ3NZVXo1XzFQTmo1WXN0andXS21ybjJ4eUlLa2tTLUJQZXRWdTZ4d2ZKY3BNTGI3a3Zz0gHYAUFVX3lxTE83cU1kcmZEY0dVenJvSnRSQno2T0tQb3lSOTFKOFJhMWtWM0RsQVN5M0NYZGo1ajM3bVRDNktzLVVDLWpBRjZlMmFVLWg0SHFsbXU0MVZVNllxMmlYbG9JOFVwLVVldDRJLWx3UzYtTl9uUklYN1dCRDctMExQbWlCRWExU2JjU2hJX2ZNaHhXT1A4YXphNkZva28yNmxVeXRPUGc2WEhlcm5sdVNoc3dUUUVxeHh3THRnNXp3Mzdod29UREFxY1Bpcjc4V0pXdkhYeTc5NkJrZw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 20:08:00 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 20:08:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "goods vehicles to remain barred from connecting link after 6 month trial",
-      "title": "Goods vehicles to remain barred from Connecting Link after 6-month trial",
-      "summary": "Goods vehicles to remain barred from Connecting Link after 6-month trial",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmZZZjFCRnZ2UV9LR3BSTHNiV0g2TVRTWUdKRjlDclJsMjBJQ294UVJ6YkpxTTZmTWlVaGVaQmhoVDRpbEgzTTN6c0lCbk5MeE40ODB1OUtQdDRfdUEyaVp3OWVmODFJMTBxVWFGT0RqMkpuM2dLSko2azZNbm1zWXlweHZWeW1Zb3F1SmpxbG1ZcHhDYldOMVFjYzl5b19aQ1JONVp1VlBtcmlzVjNlRms4N0lsOWFNT2ZxS2lxdm9Xa0U4amZpR25zZjBYZ2dWMHJvUTc4alA1TF9O0gHiAUFVX3lxTE1ndklhWHl0T045c3l0R1dpNTR4Q1gyN25sZHlYNnhUWnNPcm56RkJHeVBIR2czZDh1QVRuN1pUWFd2OXNSN00xR3B1N1ZYUnRVN1VFd1E0N3VTbG5aUENwaVpHS1lzaWNDb3k4Q1oxRUF6MUZDQ3dVcklOOHMzX2c2WEZVazROcUFITWFHc2MzS2NlSEVLR2VkTDJSTUkzdVIxQzFZM3hwVVNrRUd1SENyQVhQdV9vZlJpalQ1M2dyTGc1bFBXWWVaTVFzLUdadU5mM0JpMkdUVnpETnZ0bnhFbVE?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 19:20:00 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 19:20:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "incidents": [
     {
-      "id": "electric bus fire ends safely as 17 passengers escape",
-      "title": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
-      "summary": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
-      "source": "urbanacres.in + 1 more",
+      "id": "cyclone arnab kolkata rain kmc readies flood defences",
+      "title": "Cyclone Arnab Kolkata Rain: KMC Readies Flood Defences",
+      "summary": "Cyclone Arnab Kolkata Rain: KMC Readies Flood Defences",
+      "source": "urbanacres.in",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1EwWUZFMUswS0F6dzgxOUpMQ3pqNUJyU3JWTE52Z1BYNzg0M0tzeWIxXzVldmJUZXBvZHpXczk1Nm95cUhPYVFCQkhadDlYdVlrTWUwLXhJcFZlNXg1Mjdwd0lNNXZWNWVNZnpjSkU4RU4weDZUT2hLRm95Q0lFdnMzTUpVSVc2ajg0?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 00:47:13 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHlXWF90TmZ5UlV6U2JpZTNDNlhDZ1k0N3FSMmlDYlJ3RnB4LVZpaVlEU1FBdnMtV3djTERVRWR2Z01SRExrdDk5N2VuajNoTVVQV0RraUJOSVA2bGlPTmVVWk43ZHFJUVU1MlRFdk1ZNVJkR2M0OGtZZl9RSEtpUDY3NlNnMFNWTV92d1ZDaXhVZw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:58:36 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 18:58:36 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "urbanacres.in",
-        "Urban Acres"
+        "urbanacres.in"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
       "w": [
-        "fire",
-        "blaze",
-        "smoke"
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
       ],
       "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
       "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
+      "action": "Avoid low-lying areas, river banks and flooded roads."
+    },
+    {
+      "id": "heavy rain gusty winds batter visakhapatnam trees uprooted roads flooded",
+      "title": "Heavy rain, gusty winds batter Visakhapatnam; trees uprooted, roads flooded",
+      "summary": "Heavy rain, gusty winds batter Visakhapatnam; trees uprooted, roads flooded",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzRHbHVMNHpqOXhiSGx1M21LVjFIVTZFekhTSUp0NzA1UGFkUllZV3RDZFBZa3FVSlJObjlxVGhVRUVucml1MmJ6Q2hESEtodUpZWV90T3JQd19lYjZjejRnMzdMdUxjejhCMGZvaE9tRFk2bDB4VlZTU25MdUJhNmZBenJVa1poT1loRWJXR3JTRVU5WHlzSFhDbjB5aG5IVnVuVUxMZldQTVFpRTQtNGYwWXlTSlZJX0I5Z2h6RmRBUFAwaTZIUXVvdjhJQ0VBcS15ZlhMeXVCSUhCdE9uS20xWkPSAeoBQVVfeXFMUFVUaF9wdTFjLWhDc0p6TXVyU2hWV09yX2NJZUhWdldxalYxWUlrZkE4VzBTTGlMOGJ4MmtTVVgxU2h3ZnVfWm5aT2ZqdjdFZy1ndGNKX2otUWEweVFSemQxRGFmZ0Q4UTB1Ykw1XzgwaFR0bXpCS2lzbWV6TnJXdU5BVUc0LWVoS2dYMWVLT2ZJazF0a29HZVFKbUF6Q3E3cW5MWEIteGJlNVJONU5aZnNnYjhtbWJra1hiWTlwZFRoa2JrNHFONExoRWdHbWZTckxQbnZ2bGFKb0VKSWhUUjdFbDlUcGtPZDlR?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 17:08:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 17:08:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "dam release",
+        "river overflow",
+        "flood warning",
+        "flood",
+        "water level"
+      ],
+      "severity": "emergency",
+      "category": "flood",
+      "type": "Flood Alert",
+      "icon": "🌊",
+      "critical": true,
+      "action": "Avoid low-lying areas, river banks and flooded roads."
     },
     {
       "id": "school holiday october 28 are schools closed in andhra pradesh odisha and other states due",
@@ -1455,6 +1436,91 @@
       "action": "Follow official instructions and avoid unnecessary travel."
     },
     {
+      "id": "cyclone arnab landfall andhra coast tomorrow with 140 kmph winds 11 districts on red alert",
+      "title": "Cyclone Arnab Landfall Andhra Coast Tomorrow With 140 Kmph Winds; 11 Districts On Red Alert",
+      "summary": "Cyclone Arnab Landfall Andhra Coast Tomorrow With 140 Kmph Winds; 11 Districts On Red Alert",
+      "source": "Oneindia",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0w4ejhuYV9WbnpOdncwTEFxcUFCb0RyanJrd0tIWTBYU3lURGYyTjZRWnNESk03c1A3alVjNzN3UmVUVmpRSDVUOWxJVFg4LWRhNU1DTGM3QjFjQnhwaWcyZE5qZEdvOTRHM2hFc0ptaEJyZW9VZW9WMk9xbGw5clRUdHNuMjI3bmZxaWJlS2ZUMzNfRnZYWV9GWGdubWZHV0NFaGd2T1hWLXVlVXZjNUVhRXFzLUVFYkROUjlVNzZXMnduaU1pYzEydTFoejA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 03:54:40 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 03:54:40 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Oneindia"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "cyclone arnab tracker red alerts in andhra odisha as very severe storm nears coast landfal",
+      "title": "Cyclone Arnab tracker: Red alerts in Andhra, Odisha as ‘very severe’ storm nears coast; landfall likely on Oct 28",
+      "summary": "Cyclone Arnab tracker: Red alerts in Andhra, Odisha as ‘very severe’ storm nears coast; landfall likely on Oct 28",
+      "source": "Livemint",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYmhtZ1owb1E3VGR4MkZGS29aYXNMWjdTZHVkWFNsUmttVDVRUlNHVUV0eTR4RTVVVndsU01nNk5pYzBBNmtISmt4SG5pREhrdVBWR01iRGlJM3FfTGxLRVJfbzcxREhKaWFSTXczRnBMdnNOa1VNcFVJa0d5RGlvQ3Y3UEhOR2Fra2JKNWxjektlQmJGZi1rRTdoYW5tdHI2c3hPMi1zaHBGcVFLczE2Z19NRVhFdDNzTTEtb0tpV1NCOEdIWlhSVnZMeFFwUDllRi05Zlppd0ZVcEtnNFREWGhlZlNSZF9fMDNqRTlqWmswUDVlWnRR0gH8AUFVX3lxTE1YNmpHUEMxak1XcUF6Nlo5NEVPUVN2MzNsRHljZU1mdlg1d2Vrdk5yelNBWERXS19DS0dNeFN5YWx3SVZyd1BCcVZZU2VQMUJ5UWFmNE0wTkt4Rjh6QVptQkk5WmVvNEotMW9lRzlKcDlSQ2hvVEVtOW83VEtUdVZfdGQ0LXNFRnBZOTlZM0x0NWItTUlTQklmWlVSc1RTVGFZeGdFS3M2WEdSb0U2THNpYmVMTzZGQXpDTUI0MG9JVEpqb1VtRHJCT3NEWndmRkJCbWZZamRQSldHYW5vZFZOcjhZc3k5cVp0VVNJQXhQOWo5Vk96VmxIZjM4cg?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 01:41:53 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 01:41:53 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Livemint"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "red alert",
+        "school closed",
+        "schools closed",
+        "college closed",
+        "orange alert"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Public Weather Alert",
+      "icon": "🚨",
+      "critical": true,
+      "action": "Follow official instructions and avoid unnecessary travel."
+    },
+    {
+      "id": "electric bus fire ends safely as 17 passengers escape",
+      "title": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
+      "summary": "Pune Electric Bus Fire Ends Safely as 17 Passengers Escape",
+      "source": "urbanacres.in",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1EwWUZFMUswS0F6dzgxOUpMQ3pqNUJyU3JWTE52Z1BYNzg0M0tzeWIxXzVldmJUZXBvZHpXczk1Nm95cUhPYVFCQkhadDlYdVlrTWUwLXhJcFZlNXg1Mjdwd0lNNXZWNWVNZnpjSkU4RU4weDZUT2hLRm95Q0lFdnMzTUpVSVc2ajg0?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "urbanacres.in"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
       "id": "two msedcl wiremen die in separate accidents in jalgaon within 27 days",
       "title": "Two MSEDCL wiremen die in separate accidents in Jalgaon within 27 days",
       "summary": "Two MSEDCL wiremen die in separate accidents in Jalgaon within 27 days",
@@ -1509,6 +1575,36 @@
       "icon": "🚧",
       "critical": true,
       "action": "Use alternate route and follow police diversion."
+    },
+    {
+      "id": "bhopal traffic alert as metro work shuts ieti piplani road till november 17 4 lakh residen",
+      "title": "Bhopal Traffic Alert As Metro Work Shuts IETI–Piplani Road Till November 17, 4 Lakh Residents Face",
+      "summary": "Bhopal Traffic Alert As Metro Work Shuts IETI–Piplani Road Till November 17, 4 Lakh Residents Face",
+      "source": "Free Press Journal + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYVh3eENXenpsYmw1Yk9DRGdVdjBQemNyZ242enN3N0ZaczVfbXd2Sm9BTjdIbFVpQ3dwY2EwMWFESEtFaVd2YVpPRk8yRllVOGk5UDd4OTNtS2RhR081Tm85bXJHRGJFNmpLTUs3LUpXVjBYRkFELVhwUV9PY1pKWGYydTg3ejdadkU3YlZxTHdjb1lUOUpNdmxHUlhDYVpPeGlLYVctNGQ3djNuRFZ1NFFVTnQyTDBfcFJZcnhLcG5DM1NlTDVLRmVjTDZHX1Q0Z0NiMk9nY0RoWWpnZTNv0gHkAUFVX3lxTE9UU1p0ZUtrV0VZaTJXUkhuUVJ6V0RwSk52U05QQzl3R3YzMUhYeVpXS2RHVnUtZjlpN1VSNGR2MlZLbndObTk4X2pVcWV4QnZUd3VLYzdBMUoxZWRnZjVYMk1ET1VfbGx6cllUM0N1MkxJRkNKdS1RRU5KSDI4S0hOT1pldEhneFB6b3B0ckI3UVBXLXRmX2JnODhQeklEZlN0aGJIaWgyTlNvOTVJMkRGLTViZ2J0ZFJWazhOZFlDeVl6dzhIdUN0cFZQdGdwNm45TkpBWnE4b0NyZ0hZM2E1R0VENw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Free Press Journal",
+        "IMD"
+      ],
+      "confidence": "Medium",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
+      "critical": false,
+      "action": "Check route before starting travel."
     },
     {
       "id": "missing link traffic rules goods vehicles banned on mumbai expressway bypass from november",
@@ -1602,68 +1698,18 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "power outage leaves 16 000 without electricity for six hours",
-      "title": "Pune Power Outage Leaves 16,000 Without Electricity for Six Hours",
-      "summary": "Pune Power Outage Leaves 16,000 Without Electricity for Six Hours",
-      "source": "Urban Acres",
+      "id": "odisha evacuates 48 000 shuts education institutes cancels trains as it braces for cyclone",
+      "title": "Odisha evacuates 48,000, shuts education institutes, cancels trains as it braces for Cyclone Arnab’s fury",
+      "summary": "Odisha evacuates 48,000, shuts education institutes, cancels trains as it braces for Cyclone Arnab’s fury",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnRLTUxhUW95SXJsZWNod0ZrZU02WEZ5c21udjNXQnFpc0Y2a2owaHpNS0V5Q09zR3pScHVIUTI4MkJmclFPa1poWFdmcjlyTzFKdF9vNmZZcHRmcVZGN3RoWHlSZ1RDN2E5UHdZa210Q0cxSVp2Y1c5blZYcXF3c29XdFBQUFlnbGJMNVcyWDA?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 19:39:55 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 19:39:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUEcyUzZBN3I4a2duMGxLWW1wdjl6MEFvQklHZWVmcEVTMUxJbURtaTNSR1dGaC1DN3ZlVXY0VVd5VnRFOXVQRlZTNGdGbUlPdlg5OWE4ZUhGenJXTEVqWHpGTzRGOGM0V0t0aENmLXE4WlJOWE1TVnd0UG1EdTc3T3NSQmN6OHJjcVRJSXhjdEtneFdTN1Y1bDRjM3B1ZlB6ZWVqOWZGRWZsRnJPSDN3R285UUJOZnhrVHN0Y3VJU3llOV9WLXdhNkRYeUxWdXEwZzZqcXBadURuODltYTFJcXZxRjJzRDhrNFV1WldMQ19ka0liX1c1VjRoQ1hWOGU4a2VRdFF2UXZtYXRS0gGSAkFVX3lxTFB2aTE0bmVKbUtTMmh0UVFZREZjdzRNOFU1SFdpa3JGVFhXSS1PUW51S21qOEJMZ1dJQVNjX05IYXRPSS1EY1hiZ1c0T0tSQmNuWWlCb0ZFcm1FRHdIU2pOQmlSVmhuc2ZYSW1oNVNLUWEwRlNldF9vcFdGWlFfVU9PMnR0NjdrWWNOLXZhS25iVk1hN19zTi1PM2xwY1FpcGJsUW5vQkdIR3gwSVozU0EwcXpuaDhORURmd3dZc2xzWHRXc0lMSG1YaWV4R0JnSFQzNlJ5amlqRWFVRVZ6ME9pVWpJSmUwbU9seXJIVjd4VmswNkRncVlaUjFUMmF2UXNheWM4T21SMnRPMEFpOVJpcmc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:55:00 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 18:55:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Urban Acres"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "power",
-        "electricity",
-        "outage",
-        "msedcl"
-      ],
-      "severity": "watch",
-      "category": "power",
-      "type": "Power Update",
-      "icon": "⚡",
-      "critical": true,
-      "action": "Avoid fallen wires and contact MSEDCL for hazards."
-    },
-    {
-      "id": "pradeep purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी पोलीस प्रकरणाचा तपास करतील शिंदे",
-      "title": "Pradeep Purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी, पोलीस प्रकरणाचा तपास करतील-शिंदे",
-      "summary": "Pradeep Purnekar प्रकरणात मीनाक्षी शिंदेंची 7 तास चौकशी, पोलीस प्रकरणाचा तपास करतील-शिंदे",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDl3WnRVeHVXNjhKNEI0cXhOOG9JS2N5VTFhbWhaSm1XZVl5T2N0R3ZyamYwOUVjZ3otRnpFdDU4Q3pqSnJyTlQwOTd4RjNNemx6MTlsQlh2MVREdl9DRVk0a2RhYmlrNExseUpPYUFMVXBjd2VRdlRpcEJrRG1pQWNn?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:34:30 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 16:34:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर सचिन सानपांमुळे नवा ट्वि्स्ट भाजपची डोकेदुख",
-      "title": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर, सचिन सानपांमुळे नवा ट्वि्स्ट; भाजपची डोकेदुखी वाढण्याची शक्यता",
-      "summary": "पुणे शिक्षक मतदारसंघात महायुतीत काँटे की टक्कर, सचिन सानपांमुळे नवा ट्वि्स्ट; भाजपची डोकेदुखी वाढण्याची शक्यता",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaGF2Zl80RXhIaEEwTWFuRVdCNGZMcUdJVW9zeW5VRllfZmVLYXd0VWFaWlVaZkFGM2Y5cy1tWkxibGg0TjhNNlNUWlZ2V1hUSTZWTk4wSGtYdFN6a0MxdWZhN2dZZkNMaU5jZmxWMmU4Z01IRVZoakpDYkcyd0xHQ0tXdnZiUjdkV19LR3JSX0pwbEZSZ0MybHF3alRXY0tXYzV4c3Y4VG9yMTBta2FZcXd0czBjaEoxVFRyR0ljREZTdWZGb21QM2ZEaHNRX1NaVFc2WmVpSXBVaDFiLUVjNExzWm5JTHRPTlQ2eUJxWW9ISnZvWW1ueGQ4WHo0Zw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 15:29:36 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 15:29:36 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1784,28 +1830,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "chhatrapati sambhajinagar mlc election result प्रतापसिंह पाटील आघाडीवर महायुतीच्या चव्हाणा",
-      "title": "Chhatrapati Sambhajinagar MLC Election Result |प्रतापसिंह पाटील आघाडीवर,महायुतीच्या चव्हाणांना धक्का",
-      "summary": "Chhatrapati Sambhajinagar MLC Election Result |प्रतापसिंह पाटील आघाडीवर,महायुतीच्या चव्हाणांना धक्का",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1hHcnJ1ODBWQlFURlRZeWdxQk9LZFAydG9ndHVxd2YxWC1GVnExNjhPcTh3N3JJOEJKS1BJMU00UzNQeXFKR243UWlDWlJNcmVxTzlzY3NUWXUxcnZ3NlhBRE1fWVFaT0cwbk5KblhJOVV0S2daTXQwZUZxQjFkeG1uME9IYnVqZXcwUlBfVmRrMUdpQ2NRMnk2dkU5d285dmRtNGpB?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 12:34:50 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 12:34:50 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "pimpri chinchwad water crisis दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण",
       "title": "Pimpri Chinchwad Water Crisis: दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण चोरतंय?",
       "summary": "Pimpri Chinchwad Water Crisis: दररोज ४०५ एमएलडी पाणी सोडले जाते मग पिंपरी चिंचवडचे पाणी कोण चोरतंय?",
@@ -1853,50 +1877,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "maharashtra weather tomorrow उद्याचे हवामान विदर्भात पावसाचा इशारा गडचिरोलीला ऑरेंज अलर्ट ",
-      "title": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विदर्भात पावसाचा इशारा; गडचिरोलीला ऑरेंज अलर्ट, उर्वरित महाराष्",
-      "summary": "Maharashtra Weather Tomorrow (उद्याचे हवामान): विदर्भात पावसाचा इशारा; गडचिरोलीला ऑरेंज अलर्ट, उर्वरित महाराष्",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWHV4N1I5U2p3REhJQTI5Yncyc3l6WTVYM0pNd0I0QjcxWWNTYW4yUmFsaHhsYldMS19rQUdtWDgxTE1udjZhVW80WGEwdXFfeS1hVWdkOWwtazA2TGhlbmJmTVk3YmNTeDlXZ0F3SWczOFNPUHNfQ0NIQ2xmeV85dGlkdHBwdm1TU2FhZG4xZXhIWFoyWk5hb0toNWwtOVc5UWx3SjNxRlJPSnlCemxKd3BSRXR1bGc5R043S1pnVlVCNTNhMjZZTjg0bElDdXBwU3o4M1pfVHhFU2pETkVuOF9qWnRiRWFVUEtjSE1qeUlOQjNvd2V3dVVoSXNJNktVdGNPNjZHeGtIV1pTalJyVWpRZktIVWfSAZcCQVVfeXFMTlh1eDdSOVNqd0RISUEyOWJ3MnN5elk1WDNKTXdCNEI3MVljU2FuMlJhbGh4bGJXTEtfa0FHbVg4MUxNbnY2YVVvNFhhMHVxX3ktYVVnZDlsLWswNkxoZW5iZk1ZN2JjU3g5V2dBd0lnMzhTT1BzX0NDSENsZnlfOXRpZHRwcHZtU1NhYWRuMWV4SFhaMlpOYW9LaDVsLTlXOVFsd0ozcUZST0p5QnpsSndwUkV0dWxnOUdON0taZ1ZVQjUzYTI2WU44NGxJQ3VwcFN6ODNaX1R4RVNqRE5Fbjhfalp0YkVhVVBLY0hNanlJTkIzb3dld3VVaElzSTZLVXRjTzY2R3hrSFdaU2pSclVqUWZLSFVn?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 11:03:45 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 11:03:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mlc election result पुण्यात अद्यापही मतमोजणीला सुरुवात नाही पदवीधर शिक्षक मतदारांमुळे विलं",
-      "title": "Pune MLC Election Result | पुण्यात अद्यापही मतमोजणीला सुरुवात नाही, पदवीधर-शिक्षक मतदारांमुळे विलंब",
-      "summary": "Pune MLC Election Result | पुण्यात अद्यापही मतमोजणीला सुरुवात नाही, पदवीधर-शिक्षक मतदारांमुळे विलंब",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTh2Vy1NSzJ0UXE5dUxXTzBNZ0plSWZDNW5NdWxqRFJERUhtdmp1RDlVR0VmMnVtQ01Gc2FvRm00ZVIyaE5uc2hSWUtqYkdHd3FjdkNzbGc3dW1scHNTdUV1eDRweGludVRzaWZhUU5JX0R5WTV5bkJxeVBHaUp1WWcwbzRfQ2VMbFE?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 10:57:45 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 10:57:45 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
       "title": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
       "summary": "सिद्धपुरात शेतकऱ्यांनी फिरवला उसावर नांगर",
@@ -1909,28 +1889,6 @@
       "region": "pune",
       "sources": [
         "Esakal"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "chhatrapati sambhajinagar मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर नेमकं काय घडतंय",
-      "title": "Chhatrapati Sambhajinagar | मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर, नेमकं काय घडतंय?",
-      "summary": "Chhatrapati Sambhajinagar | मराठवाड्यात पदवीधरमध्ये सतीश चव्हाण आघाडीवर, नेमकं काय घडतंय?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOU9zRkdOc2lTRll3Qmk4THJzMjVrZUJHM2x2YkFXZG9BcXZQVjFuY1RSQzJOeGNiLTdyWGpsUEprVTMxeWVuVlVObFRtc0JMTVZ5SXJ1MWl1VmFhSDJiM3JtWTJ1dE1ZaFl5dXlaSVJUa0JscHhSTzlUdU9JUXljLVE5OVgyY3BuRThB?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 10:47:35 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 10:47:35 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2083,28 +2041,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRlVJWXNOaDZmOUVyR3F1U3RPU0M4ZEZHZm5XMllTSnVqYU9kUG9hVkszV1BoVjFLQ3ZDa0oyOU5ucWszZ2Fuc0lMSUF0WWJWbmZkelI3R3dpT0RXSnZtNUc5WGJROEFKZGNFcXliYnQ3OFl3Nl9PQV9TS1d0V01NWWRmVUFMMm5YYjZnY3JMbF9selRST2JyS2s5dERaczBwYnF6N2FBR1kyWlM1MUtOZVI4SDRyY0kwejBMMDBvU2NuMzRrbXB2S0N6YkpfMTVyWExKNkRaOUxWRWYzSDVTSHhsQVRadw?oc=5",
       "pubDate": "Tue, 27 Oct 2026 07:08:00 GMT",
       "lastUpdated": "Tue, 27 Oct 2026 07:08:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "mlc election results 2026 मतमोजणीपूर्वी गोंधळ त्या कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं",
-      "title": "Pune MLC Election Results 2026 | मतमोजणीपूर्वी गोंधळ, 'त्या' कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं?",
-      "summary": "Pune MLC Election Results 2026 | मतमोजणीपूर्वी गोंधळ, 'त्या' कागदाच्या चिठ्ठीवर काय लिहिलेलं होतं?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMk1DeEh3dW1Qbk5ZQ3RPeFFsX0VTdkVpaVBJbHA1RDlhdXJfVFo3S3BaWmZTT0NIXzVoS1VCOWVLN1RDLVYwWjN0SmtQcU9TZHdCZ3RJdFpGWjBzd0t1T2xPb0ZKM1I2UEhPTlBleWV3a1M1YW9yWHJKelJPZEV1TF9zREIxVjhabFc2MExBallPQQ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 06:48:46 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 06:48:46 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2322,9 +2258,9 @@
       "summary": "'अर्णव'मुळे पावसासाठी अनुकूल वातावरण; कोकण किनारपट्टीवर हलक्या सरींचा अंदाज",
       "source": "NavShakti",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRG5aSzBweldLRmt4eDE5dXdBamIwSlctVlhwR2h2UDF1aGt6T2J0ZGk3LTNWSFJjQjZOU0tzUnVrc2ZyTmJ5WU05dUZZakVQY050SmNtYzl1UmpBS3lrWTRDSkZzOTZfcFVhWUs2QUlidUlXWGdzRmY5SGg2RzFVTGNCdFhBZ0VCdHpSdzAxdk1DR2xOQk1TMHJuSDk4cFdFSVFtSzgtSlRiT3NtMUtJdVl6ZGdqRmxmOHZmTEtadHg0TG80QTdhNVByaGQwdHp0LW1iMmR0MnJoRlFYaHfSAd4BQVVfeXFMTURuWkswcHpXS0ZreHgxOXV3QWpiMEpXLVZYcEdodlAxdWhrek9idGRpNy0zVkhSY0I2TlNLc1J1a3Nmck5ieVlNOXVGWWpFUGNOdEpjbWM5dVJqQUt5a1k0Q0pGczk2X3BVYVlLNkFJYnVJV1hnc0ZmOUhoNkcxVUxjQnRYQWdFQnR6UncwMXZNQ0dsTkJNUzBybkg5OHBXRUlRbUs4LUpUYk9zbTFLSXVZemRnakZsZjh2ZkxLWnR4NExvNEE3YTVQcmhkMHR6dC1tYjJkdDJyaEZRWGh3?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 02:54:00 GMT",
-      "lastUpdated": "Tue, 27 Oct 2026 02:54:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTZSbE9ud1pLXzhXeU9aZFIyQl9oZTB4YkJTRk9nZDNBTjBQbVY1R3ZDTGlTUUpVaVNzNTJDamZwVGRsMXpucndDU3V4bjhSZzhvb2RwZlB6TnpYU0U5TTJEMnQyUjRGdExSMVhQT2ZlN0ZUNUQ5Y1JrRS1oRG1Tb0J4RXVqR2RVTlAwaWJWRjdJZTY0dkhyYXVidFdDUmFuWFg2Y1h0VTR2RmdHa3NhU01yZ194WktDdy1sb1lrbVpiTG01blM2SDJadG02NExr0gHeAUFVX3lxTE1EblpLMHB6V0tGa3h4MTl1d0FqYjBKVy1WWHBHaHZQMXVoa3pPYnRkaTctM1ZIUmNCNk5TS3NSdWtzZnJOYnlZTTl1RllqRVBjTnRKY21jOXVSakFLeWtZNENKRnM5Nl9wVWFZSzZBSWJ1SVdYZ3NGZjlIaDZHMVVMY0J0WEFnRUJ0elJ3MDF2TUNHbE5CTVMwcm5IOThwV0VJUW1LOC1KVGJPc20xS0l1WXpkZ2pGbGY4dmZMS1p0eDRMbzRBN2E1UHJoZDB0enQtbWIyZHQycmhGUVhodw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 02:54:47 GMT",
+      "lastUpdated": "Tue, 27 Oct 2026 02:54:47 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -2535,56 +2471,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "iiser removes umar khalid s book from library to avoid unrest",
-      "title": "IISER Pune removes Umar Khalid's book from library ‘to avoid unrest’",
-      "summary": "IISER Pune removes Umar Khalid's book from library ‘to avoid unrest’",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZEprNk1WMEJQbXp2Y0h1YzBLcVhERWdxajdzbnFESDBYQWJMM0xHZWIwdVQ5YjFfaDc3aW5GZWpydUtfRHMxRG5ydFJDbVFxUm1fVnRHa1B3MDB1dEl5cUJuNmQ4UTB5bG14eVZ2SHU3TFdfNlEzZV9RY3BGTjFoYV9iQnhTaDE4Y3dvc2NyNEIwWFR0VjZqWk1xeklnSmlxQ3NZVXo1XzFQTmo1WXN0andXS21ybjJ4eUlLa2tTLUJQZXRWdTZ4d2ZKY3BNTGI3a3Zz0gHYAUFVX3lxTE83cU1kcmZEY0dVenJvSnRSQno2T0tQb3lSOTFKOFJhMWtWM0RsQVN5M0NYZGo1ajM3bVRDNktzLVVDLWpBRjZlMmFVLWg0SHFsbXU0MVZVNllxMmlYbG9JOFVwLVVldDRJLWx3UzYtTl9uUklYN1dCRDctMExQbWlCRWExU2JjU2hJX2ZNaHhXT1A4YXphNkZva28yNmxVeXRPUGc2WEhlcm5sdVNoc3dUUUVxeHh3THRnNXp3Mzdod29UREFxY1Bpcjc4V0pXdkhYeTc5NkJrZw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 20:08:00 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 20:08:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "goods vehicles to remain barred from connecting link after 6 month trial",
-      "title": "Goods vehicles to remain barred from Connecting Link after 6-month trial",
-      "summary": "Goods vehicles to remain barred from Connecting Link after 6-month trial",
-      "source": "The Times of India",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmZZZjFCRnZ2UV9LR3BSTHNiV0g2TVRTWUdKRjlDclJsMjBJQ294UVJ6YkpxTTZmTWlVaGVaQmhoVDRpbEgzTTN6c0lCbk5MeE40ODB1OUtQdDRfdUEyaVp3OWVmODFJMTBxVWFGT0RqMkpuM2dLSko2azZNbm1zWXlweHZWeW1Zb3F1SmpxbG1ZcHhDYldOMVFjYzl5b19aQ1JONVp1VlBtcmlzVjNlRms4N0lsOWFNT2ZxS2lxdm9Xa0U4amZpR25zZjBYZ2dWMHJvUTc4alA1TF9O0gHiAUFVX3lxTE1ndklhWHl0T045c3l0R1dpNTR4Q1gyN25sZHlYNnhUWnNPcm56RkJHeVBIR2czZDh1QVRuN1pUWFd2OXNSN00xR3B1N1ZYUnRVN1VFd1E0N3VTbG5aUENwaVpHS1lzaWNDb3k4Q1oxRUF6MUZDQ3dVcklOOHMzX2c2WEZVazROcUFITWFHc2MzS2NlSEVLR2VkTDJSTUkzdVIxQzFZM3hwVVNrRUd1SENyQVhQdV9vZlJpalQ1M2dyTGc1bFBXWWVaTVFzLUdadU5mM0JpMkdUVnpETnZ0bnhFbVE?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 19:20:00 GMT",
-      "lastUpdated": "Mon, 26 Oct 2026 19:20:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "The Times of India"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 63,
-    "alerts": 18,
-    "news": 45
+    "total": 58,
+    "alerts": 20,
+    "news": 38
   },
-  "cleanedAt": "2026-10-27T18:49:54.612Z"
+  "cleanedAt": "2026-10-27T22:47:37.691Z"
 }
