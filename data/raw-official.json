@@ -1,27 +1,34 @@
 {
-  "generatedAt": "2026-11-06T11:15:29.105Z",
+  "generatedAt": "2026-11-06T18:10:04.190Z",
   "items": [
     {
-      "id": "sdw warnings india meteorological department",
-      "title": "SDW Warnings | India Meteorological Department",
-      "summary": "SDW Warnings | India Meteorological Department",
+      "id": "highway forecast",
+      "title": "Highway Forecast",
+      "summary": "Highway Forecast",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3OXRNMWJOcVpadjRfazBEUTBBWVJ6ZGV2Ym1zZlVLX1FQdk1tTGlOLXZsRGZmbVJNOVR2dHNJUlJyVFZzenoxakJxbkg4Rnd1cXRPUjA1cHFYZl9XU1oxU2dIcS0yc3VZSmlmUGN5NTBQYVUz?oc=5",
-      "pubDate": "Tue, 03 Sep 2024 14:53:28 GMT",
-      "lastUpdated": "Tue, 03 Sep 2024 14:53:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NTJLTGwtRDRLMEIxZ1BJZlJFd3pBOWVJcWRUQnUzN1FSTWlwSmRUWG1oT2RVUDlqd2lmWVBFNGlVbDZxYTFKRW1mRlVnNUkybHVZRXBEUDM1VlRNUUhGTUt1YXJid0U?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:03:37 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:03:37 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "IMD"
       ],
       "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
+      "w": [
+        "traffic",
+        "congestion",
+        "jam",
+        "expressway",
+        "highway"
+      ],
+      "severity": "watch",
+      "category": "traffic",
+      "type": "Traffic Update",
+      "icon": "🚦",
       "critical": true,
-      "action": "No immediate action required."
+      "action": "Check route before starting travel."
     },
     {
       "id": "rainfall information all india districts",
@@ -90,14 +97,36 @@
       "action": "No immediate action required."
     },
     {
-      "id": "cyclone information",
-      "title": "Cyclone Information",
-      "summary": "Cyclone Information",
+      "id": "radar",
+      "title": "RADAR",
+      "summary": "RADAR",
+      "source": "Mumbai - IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYNzlQTDdCV002ZWRTUFdjQkhxZTJwc29WVzhfNVhmci1wOWVkS2VfbHlWaXBONWpsYWZiNnl4UjZMYWZFaUFVOGF4ZTZUUGdYSmpSb3ItWTh6cWpnZzZreF9JamFlcjg?oc=5",
+      "pubDate": "Tue, 06 Jun 2023 17:27:24 GMT",
+      "lastUpdated": "Tue, 06 Jun 2023 17:27:24 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Mumbai - IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "s weather report reported on 0830 ist",
+      "title": "Today's Weather Report (Reported on 0830 IST)",
+      "summary": "Today's Weather Report (Reported on 0830 IST)",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2M1NjT0FUdktlcml5QWdLajBnazRPejdTR21oMnZtWFBtYjdzSmYtNktDZ2hWVl9WanFrRG5oQ1FrYUREU2J2VUU3STQybmNvZzBsUDJfRlRFM2FXTW5mckQxVFFULUtGcGpN?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:03:49 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:03:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RNzJkYmpWQjM0ZEVqMG1HX1dfLUVGRTg3UUt5QjNyN0JUWnpCZng1cmlvZm1WU2JtcGdEUjREcGRZRUczYVpVOHF4amVNVHptbm5ZM2xCdHRUNjVkUWtHcjdLY1ppaEoxU25oRExFT2E1RkRMd25QU2ZKNHo?oc=5",
+      "pubDate": "Sat, 27 Aug 2022 17:51:48 GMT",
+      "lastUpdated": "Sat, 27 Aug 2022 17:51:48 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -110,57 +139,6 @@
       "icon": "ℹ️",
       "critical": true,
       "action": "No immediate action required."
-    },
-    {
-      "id": "warnings",
-      "title": "Warnings",
-      "summary": "Warnings",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUnR3Y3o2ZWRsSUxNVTZpenVLN2JWMVBFcmFEXzNuaHRSV1o5YTZHNnVFZ3BVdnhqZUljZDJsWkNDQUpKc0c0VFhkNWwxcUYzck1BUWNLVVh5STlLUWpMSkY4TmxnTW5qbGhwTS1lVVFKSWs4REs0?oc=5",
-      "pubDate": "Wed, 29 Mar 2023 13:43:30 GMT",
-      "lastUpdated": "Wed, 29 Mar 2023 13:43:30 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": true,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "flash flood bulletin",
-      "title": "Flash Flood Bulletin",
-      "summary": "Flash Flood Bulletin",
-      "source": "IMD",
-      "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uYlFTRENWVHlMcGZoRmtEUXBBdGtqa1BBd0RuNHdmUDloczlxQ2hTbi1uMTNBMlpKWWR3R1kxOFg4YkIwZ3oxaWdGUlRhM1Z5RG9tMHQyMm1UUGwzRGpJUHI5dDE0NFJqY1M0?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:03:51 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:03:51 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "IMD"
-      ],
-      "confidence": "High",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
-      "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
     }
   ]
 }
