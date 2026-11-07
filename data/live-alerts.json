@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:21:04.793Z",
+  "generatedAt": "2026-11-07T02:58:18.710Z",
   "status": "ok",
   "alerts": [
     {
@@ -28,6 +28,33 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "landslide closes jalan rawang kuala selangor in gombak",
+      "title": "Landslide closes Jalan Rawang-Kuala Selangor in Gombak",
+      "summary": "Landslide closes Jalan Rawang-Kuala Selangor in Gombak",
+      "source": "NST Online",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFktRzI3OXdBUExCaC1PbHd2VmhPekRyTldsRnFkeHJDUGZpVXZtcWh2UFBoakllM2Y1ZElHdVlMUGUtZGhQbTltZHM4TFBlY3lZdnNHN1RtZVhzMU1UM2pBXzVhR0VJWWxRV2hEQkE5d3U5RVJVbVpKYnFlN2tpTnVGdi1nbFJkeDFGNExPQnhrbnlrd1ZBTlpxQXQ5azloTDFRaE9oa9IBrAFBVV95cUxOdm5mTUFYWGdtZnZDdkNQdlZuYjZZRm44UjNRSGtNdEFuMFVLVl9UTUsyMDNtQ0VuczZ3YlZRdDNQakZ6bThodHk1N0doVHFuZTVmdFRvZ2x2MVVNdTA0UnRySGU4aVluWFNibW1qNVF6Nkhhd1hfZGZwV09IMTk2bjhNc1dLV1pWVy1rSm81M2lGT1pUamtwNXhzTm1XbzFVTkFJNFliX3RxdXpX?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:28:30 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 15:28:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "NST Online"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "massive fire at south delhi kia showroom leaves seven injured 15 rescued",
@@ -177,6 +204,34 @@
       ]
     },
     {
+      "id": "crime विद्युत रोहित्र चोरट्यांच्या निशाण्यावर ३० किलो तांब्याची कॉइल लंपास",
+      "title": "Crime News : विद्युत रोहित्र चोरट्यांच्या निशाण्यावर; ३० किलो तांब्याची कॉइल लंपास",
+      "summary": "Crime News : विद्युत रोहित्र चोरट्यांच्या निशाण्यावर; ३० किलो तांब्याची कॉइल लंपास",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEh3eEF4TTh5Sk9BSjRlY3J6UEU3R2l6MGJuR3VGcGtGRDFWSGtXU2toT1lDMFJvSDVBUkFjcDEzbkI3U3RyZ3JVNm5BSEt0RUsxUjhTV1ZMNzQzUHBwOTdkSWNzNVdkcExvNjYwRlFTc3cyX0VFTmpySVFQdjJIR1oxc2pDYi02ejYydHBsY1RNS3BEamhkMk1BWjdGQQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 06:11:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 06:11:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
+      ],
+      "severity": "watch",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
+      "critical": false,
+      "action": "Stay alert and follow police advisories."
+    },
+    {
       "id": "crime वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय सासू लता अन् नेपाळ ला पळून",
       "title": "Pune Crime : वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय, सासू लता अन् 'नेपाळ'ला पळून जाणाऱ्या निलेश चव्हाणला मोठा दिलासा!",
       "summary": "Pune Crime : वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय, सासू लता अन् 'नेपाळ'ला पळून जाणाऱ्या निलेश चव्हाणला मोठा दिलासा!",
@@ -205,21 +260,87 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "weather alert ऐन दिवाळीत वारं फिरलं वारं पावसाबाबत नको तोच इशारा हवामान विभागाचा अलर्ट",
-      "title": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
-      "summary": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
-      "source": "TV9 Marathi + 1 more",
+      "id": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान महावितरणची तक्रार वाकड ब्रिज ते चांदणी चौ",
+      "title": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान: महावितरणची तक्रार; वाकड ब्रिज ते चांदणी चौकादरम्यान कंत्र...",
+      "summary": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान: महावितरणची तक्रार; वाकड ब्रिज ते चांदणी चौकादरम्यान कंत्र...",
+      "source": "Divya Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1UtIB-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1Ug?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 03:25:21 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1JUS0FxQkRvM255OGtTMk5MMWJYb1pVcUNDd1VhcXRPcElVQndLS2F6UTRUN1FfU0ZWWFBmTHFmR290OTY2Qm5HSzJJX3ItWDdFQWROUDhLU0UxbnNwbzUwaEJJd3dsdDdGVmVSejU4V21hbDdyVHYtLWZHZVBobHRua0V4X1RkNWIzbGNVbjc5aUlxbEl3YzBUbnp4RmQ4SVM5X3A5czl6WEtkeG1Od0stNTVTUW1uNS10ZXE2QS04RmZHMFBSWDlEMjM4VTlfbXM2emhCZGZEUdIB3wFBVV95cUxNZTY2eTEtS3phaENXdW9zX3ZZY3pMa01JRU9HTXE2SXIxTkJ6WGtDOTdpUGUzNEJtZFZzUHBNRTVnbkFUZDJESzM5LS1NSG44RFRfS3JEZDlWclZZcEVubkNENy1QQXdvU2h6UGdTblpOLWtNR0xBTmxIV0Z0UlhmaWxKMW1VRVR1aDA4eEpleE1McWxEMVRWS3NTaXdqY0NNVjRDdFJUb0Z4eVhxQjFiLVI3MmFuaGNxdWE3elRmdGRwZm5GbFpqczlSYVZOekVhUnMyNlNSYXV4RGJLVGVF?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 00:33:29 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 00:33:29 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi",
-        "News18 Marathi"
+        "Divya Marathi",
+        "Civic Mirror"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather अल निनोचा प्रभाव वाढला समुद्राचं तापमानही तापलं महाराष्ट्रातील हवामानावर काय होणार",
+      "title": "Weather Update: अल निनोचा प्रभाव वाढला, समुद्राचं तापमानही तापलं! महाराष्ट्रातील हवामानावर काय होणार परिणाम?",
+      "summary": "Weather Update: अल निनोचा प्रभाव वाढला, समुद्राचं तापमानही तापलं! महाराष्ट्रातील हवामानावर काय होणार परिणाम?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZxY1AydGhidW5TOWphbnJKUERPeTF0d0N0MENHdEQteVl5V2RCM2JNSzJHdUxaXzEtWnVwVmlYdm5MaU9nR2tmZXpSVmowVDN3MkVLbmdyUGxnUVR3YkRPQWs5NVVzN2VFZENtY25lUkhKbFoxRHR2OUtTT2hOaHNQRHZCSkpCeWNvMjZTVTlMREJRamdmRzNIM3ItakU1d2hTMVJoNE5DakZEbDZzMA?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:36:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "सोलापूर पुणे महामार्गावर काळाचा घाला अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी आजोबा सून नात",
+      "title": "सोलापूर-पुणे महामार्गावर काळाचा घाला: अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी, आजोबा, सून, नातवाचा जागीच मृत्यू, कंटेनरच्या धडकेत कुटुंब उद्ध्वस्त",
+      "summary": "सोलापूर-पुणे महामार्गावर काळाचा घाला: अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी, आजोबा, सून, नातवाचा जागीच मृत्यू, कंटेनरच्या धडकेत कुटुंब उद्ध्वस्त",
+      "source": "mahanews.live",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TUzYwNldwSXlKZ0tRb1RMMFlMV2ZrSjU4ZDc4dU9GdjRTdFk0Rkx3ekhHNTVwdDNPNkdncnJFb0VhUQ?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:22:46 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:22:46 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "mahanews.live"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert दिवसा उन्हाचा चटका रात्री हुडहुडी ऐन दिवाळीत हवा बदलली महाराष्ट्रातलं आजचं अ",
+      "title": "Weather Alert: दिवसा उन्हाचा चटका, रात्री हुडहुडी! ऐन दिवाळीत हवा बदलली, महाराष्ट्रातलं आजचं अपडेट",
+      "summary": "Weather Alert: दिवसा उन्हाचा चटका, रात्री हुडहुडी! ऐन दिवाळीत हवा बदलली, महाराष्ट्रातलं आजचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjJHckltalZvQkZ4RG1sOWRZWDQ3WWpGQlNjT3J6aU5JVWlqVzhnWDV6dTFjd2YzYWlJTmljaFlUd3hyUDQwU19WNV9WUkZ2ZUhFcWwzUUZlVEIwTk95UXJhVXQyZmhWMlpsd25OSXlwdmpFZzRPWWZfXzI0akZCVnh0RXJHcWpma3JCU3ZXSXdPS243Ml96bldSelRWQUtUY1czaXlVU3dLNDg4c1VnTGkwcXl2Q05ja1RvQUgwSjZDSUlfcU5NMjg2TXZ3QlY4cF9SVWt4bVJmT09yWUEzTHV4SEc1MUxJNWZqemxB?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:21:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:21:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -240,6 +361,28 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "विद्येच्या माहेरघरात स्त्रीशक्ती चा डंका जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित",
+      "title": "विद्येच्या माहेरघरात 'स्त्रीशक्ती'चा डंका; जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित पुणे मेट्रोची वैशिष्ट्ये",
+      "summary": "विद्येच्या माहेरघरात 'स्त्रीशक्ती'चा डंका; जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित पुणे मेट्रोची वैशिष्ट्ये",
+      "source": "ETV Bharat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFkMklBdWZxNER3V05kZmh1eFJJcUYxT0FNaFVsOERxd0Y0c2RrRU5fWnBlN2ZCLWZGVWFNTGczcUk3VE9UY1lENndycmlmaXltT1UtT3ZoS2pjYU1pVzk4bkVET0Y4c0N5RkVieE5VSHZ0N2Q5OWFibllVaFdlaU9fTGRSaTBZUFFMaTRLbk4wcGRBSHBfazhNbW1uUHd0eENsSUlzR0tPMkE0QkQzejhabVZIQkEydmJacNIBwgFBVV95cUxPSzRmbGJLOFNyZXVNVmhSTXJCMEdodE1qcEhra1pibGJxTnN3QVg0T1N5QXZGQXRkc3hPb1FUMXlxaDFrRmN4cWtoaWtHOENIZFdZUG1QSlVPX0pjRy1ub3U2bnVnd3dWcDlRbEpjSElWTVJQdmlhOWY2YU1YdkNOcWt2aEp6ZmxhZHZmVExDdkRHSkF5dlkzM2VFY0tZUzdSNHZmenhGR21hdDllQVNWYmU2My16UUpUalpXUXhJRlhGdw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:17:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 17:17:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ETV Bharat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -407,6 +550,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "परवानगी नसताना पती मुलाच्या शाळेत गेला पुण्यातील पत्नीची पोलिसात धाव सासरच्यांना शिकवला धड",
+      "title": "Pune News: परवानगी नसताना पती मुलाच्या शाळेत गेला; पुण्यातील पत्नीची पोलिसात धाव, सासरच्यांना शिकवला धडा",
+      "summary": "Pune News: परवानगी नसताना पती मुलाच्या शाळेत गेला; पुण्यातील पत्नीची पोलिसात धाव, सासरच्यांना शिकवला धडा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTVJU1puandtVnBGRWFSLVZCZk5uUmVkS3VodWJuQnB5NHRCMlRZQnFzVXkyUHJpcDd5cW5ubFlNdkpoRXg1VDVvV3haRHBNdzNKdEU4MExiUWtpRzJQWEo3anZTZ0pxSE1QaEc5c1JIX0VMOWpaa0hoUDNmUHB3YXlMUElGa2RqU1hkMHZGd3pMdWo0ZkRwWHhxSl9WQVhLT1lFc1p0enFKSHhZT2FJNW5VelV2eVVXQ0dxR3o3MUJJcWdCSjFELWw4emRpT0Iwa211TXZTUQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 07:53:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 07:53:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "दिवाळीच्या पहिल्याच दिवशी चाकण शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
       "title": "दिवाळीच्या पहिल्याच दिवशी चाकण-शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
       "summary": "दिवाळीच्या पहिल्याच दिवशी चाकण-शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
@@ -441,28 +606,6 @@
       "region": "pune",
       "sources": [
         "Pudhari News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार",
-      "title": "Pune : महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान, कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार…",
-      "summary": "Pune : महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान, कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार…",
-      "source": "Civic Mirror",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUE5TDZuZTdQZ3o2TV9ya2tHVUtXc0lXZFVsZVktbnBHZl9RSzdqTVYwTXUtc3JXRDZPTXkwd0k1eGh5VEYxRXczbjNqOWM5dkVrNXhUWFBNWTF2cTRfd1Z1TWlDMFBibVVUcThhaHJkUGlmLVItdGpTWFFSSkMxV003Uy1jd19PYVBMejVobVZPX1hpZENYc2RhWW8xSFd0cG9IN3JwX1lrcVZ1VDYzRkp3S0JqRDFiVG90VGdjZjNFVEJRa1R6UlptQkJKM00?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 06:43:20 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 06:43:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Civic Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -605,6 +748,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "weather alert ऐन दिवाळीत वारं फिरलं वारं पावसाबाबत नको तोच इशारा हवामान विभागाचा अलर्ट",
+      "title": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
+      "summary": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
+      "source": "TV9 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1UtIB-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1Ug?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "TV9 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा प्रफुल पटेल आणि शरद पवारांची भेट",
       "title": "Video: \"पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा\", प्रफुल पटेल आणि शरद पवारांची भेट",
       "summary": "Video: \"पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा\", प्रफुल पटेल आणि शरद पवारांची भेट",
@@ -617,72 +782,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather आजचे हवामान 6 नोव्हेंबर दिवाळीच्या आनंदात पाऊस बाधा ठरणार महाराष्ट्रात",
-      "title": "Maharashtra Weather Today (आजचे हवामान, 6 नोव्हेंबर): दिवाळीच्या आनंदात पाऊस बाधा ठरणार? महाराष्ट्रात 24 तासां",
-      "summary": "Maharashtra Weather Today (आजचे हवामान, 6 नोव्हेंबर): दिवाळीच्या आनंदात पाऊस बाधा ठरणार? महाराष्ट्रात 24 तासां",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUFplc1RuaHAtd2NjS3lwMnVvbFJUa3BydUxCZlI1VTB5T0VodHNFamNmNVI2blFIdHVxcjhGUFNLQ0F0UGVFRUtHOUxXZzI1d1lwdWJDbnI0WGx0WHhjckZzWTFMSU5qSkJaYmtya0EzTlE3czBHSUVfYm1EcllFVEhEdEJRT253NWZXcUNJeGtBbWJCNXBFYk1LLWd4RVhUM1BVTGFHZU9UcEtPY2o0U0gtTFhXbUJOdWlHZFR4UzNMNEVHSEFXckdXc19xZFRYZHhQdGVib2dXMGMzaVc0TDZ1VldYYkNPaktxM091aVpMX3liUEtCS05ETHh6dWpuUGEtcGRtbGtFRU14RkQ4N9IBlgJBVV95cUxOSmxIeGdMRldyNXhidmZjZGxuclY4WVdMbE1VVFpoQVNnVkJhY0NtMjhvNGtZYldxRkJ4VFFMejBQZTluTGN2TDJjZDZFcE42UFgtSG1lWnk2YkVtYmw5VVpQYWowbXBGUzVIVWRFcFZ3dGhyR3JnOEtfbE43ejhXOHJFVFA5R2dUVC1FaDl0TWNjX182TTNGTWJFSU4xaFdhODlEVkY0dHFmdE84eTFYaXcwMHNIN2ozY1BUNWF3VUpFWUhYNlZDc0xVR0lPSzBWM2I3dmdkUUtqSVVxQzN4UFpBekJ3dVZoSkhfRFRMSlM3c2VzQkp1ZmR0X3ljaVRMbmJNY1Yya1JTUDJUWkI4SjBXTlV1UQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 02:42:38 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 02:42:38 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather report मुंबई ठाणे पुणेकरांनो लक्ष द्या पाहा पावसाची किती शक्यता",
-      "title": "Weather Report: मुंबई, ठाणे, पुणेकरांनो लक्ष द्या! पाहा पावसाची किती शक्यता?",
-      "summary": "Weather Report: मुंबई, ठाणे, पुणेकरांनो लक्ष द्या! पाहा पावसाची किती शक्यता?",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTnE5T3p1bnZ5UUdlSVIyNWZmWDdkSkc5b05MdEhlZkZhSzRpV042cEY3b1NyLWtjemhCOGVFbnpZTVFhTUtaNXRjd2xYNjkyaGpzcksydlh0Y25LS0VlRnkzaEFqZm9NSkdtREd6WUJTYUlqY1JOVnRKbUxYalF5NEpyV29VOFJtUjM0YXdZUnVPajVDcmlfUnRKMDd6bjc0OWtsRTk4Rlg3Y0JVcXJQd3RScjRvdGxiM0ZWaTE4OTdVMDlhZF8xUUdUbTlaNUsySWVmLXBjZXJDZ0hKMGRXaTdHVDbSAeQBQVVfeXFMTk5xOU96dW52eVFHZUlSMjVmZlg3ZEpHOW9OTHRIZWZGYUs0aVdONnBGN29Tci1rY3poQjhlRW56WU1RYU1LWjV0Y3dsWDY5Mmhqc3JLMnZYdGNuS0tFZUZ5M2hBamZvTUpHbURHellCU2FJamNSTlZ0Sm1MWGpReTRKcldvVThSbVIzNGF3WVJ1T2o1Q3JpX1J0SjA3em43NDlrbEU5OEZYN2NCVXFyUHd0UnI0b3RsYjNGVmkxODk3VTA5YWRfMVFHVG05WjVLMkllZi1wY2VyQ2dISjBkV2k3R1Q2?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:41:02 GMT",
-      "lastUpdated": "Thu, 05 Nov 2026 23:41:02 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jaykumar gore नदीकाठच्या गावांना दिवसाआड वीज",
-      "title": "Jaykumar Gore : नदीकाठच्या गावांना दिवसाआड वीज",
-      "summary": "Jaykumar Gore : नदीकाठच्या गावांना दिवसाआड वीज",
-      "source": "Pudhari News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjJFQ25aUHpBaWtvMEdQd0dNUlBaOU84VTBoOTJMbmlFczZrY0VqcHdnbGc3ZE5jRjYxZ1QtanNSVEQ3b1d0bUlrbk5OZVNZU0NmVmNpMnRVXzB5eF8xUmwxX0lkZGp3WkZkTGJyNXBqY0V1eGpQNjZYaDhySW5UcExCSmU0WUpzWkthM0d6bTlwOWNaeVkxSk0xVEVfbl85bDQ4dEJpSzc3ZFhMX2VLSWEzYUw4UWJienNDU2Jmdm1peVhZ0gHEAUFVX3lxTFA2MkVDblpQekFpa28wR1B3R01SUFo5TzhVMGg5MkxuaUVzNmtjRWpwd2dsZzdkTmNGNjFnVC1qc1JURDdvV3RtSWtuTk5lU1lTQ2ZWY2kydFVfMHl4XzFSbDFfSWRkandaRmRMYnI1cGpjRXV4alA2NlhoOHJJblRwTEJKZTRZSnNaS2EzR3ptOXA5Y1p5WTFKTTFURV9uXzlsNDh0QmlLNzdkWExfZUtJYTNhTDhRYmJ6c0NTYmZ2bWl5WFk?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:33:23 GMT",
-      "lastUpdated": "Thu, 05 Nov 2026 23:33:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari News"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -720,6 +819,33 @@
       "icon": "🔥",
       "critical": true,
       "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "landslide closes jalan rawang kuala selangor in gombak",
+      "title": "Landslide closes Jalan Rawang-Kuala Selangor in Gombak",
+      "summary": "Landslide closes Jalan Rawang-Kuala Selangor in Gombak",
+      "source": "NST Online",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFktRzI3OXdBUExCaC1PbHd2VmhPekRyTldsRnFkeHJDUGZpVXZtcWh2UFBoakllM2Y1ZElHdVlMUGUtZGhQbTltZHM4TFBlY3lZdnNHN1RtZVhzMU1UM2pBXzVhR0VJWWxRV2hEQkE5d3U5RVJVbVpKYnFlN2tpTnVGdi1nbFJkeDFGNExPQnhrbnlrd1ZBTlpxQXQ5azloTDFRaE9oa9IBrAFBVV95cUxOdm5mTUFYWGdtZnZDdkNQdlZuYjZZRm44UjNRSGtNdEFuMFVLVl9UTUsyMDNtQ0VuczZ3YlZRdDNQakZ6bThodHk1N0doVHFuZTVmdFRvZ2x2MVVNdTA0UnRySGU4aVluWFNibW1qNVF6Nkhhd1hfZGZwV09IMTk2bjhNc1dLV1pWVy1rSm81M2lGT1pUamtwNXhzTm1XbzFVTkFJNFliX3RxdXpX?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:28:30 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 15:28:30 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "NST Online"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "landslide",
+        "ghat",
+        "rockfall"
+      ],
+      "severity": "emergency",
+      "category": "weather",
+      "type": "Landslide",
+      "icon": "⛰️",
+      "critical": true,
+      "action": "Avoid ghat roads and check police updates."
     },
     {
       "id": "massive fire at south delhi kia showroom leaves seven injured 15 rescued",
@@ -861,6 +987,34 @@
       "action": "Check route before starting travel."
     },
     {
+      "id": "crime विद्युत रोहित्र चोरट्यांच्या निशाण्यावर ३० किलो तांब्याची कॉइल लंपास",
+      "title": "Crime News : विद्युत रोहित्र चोरट्यांच्या निशाण्यावर; ३० किलो तांब्याची कॉइल लंपास",
+      "summary": "Crime News : विद्युत रोहित्र चोरट्यांच्या निशाण्यावर; ३० किलो तांब्याची कॉइल लंपास",
+      "source": "Dainik Prabhat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEh3eEF4TTh5Sk9BSjRlY3J6UEU3R2l6MGJuR3VGcGtGRDFWSGtXU2toT1lDMFJvSDVBUkFjcDEzbkI3U3RyZ3JVNm5BSEt0RUsxUjhTV1ZMNzQzUHBwOTdkSWNzNVdkcExvNjYwRlFTc3cyX0VFTmpySVFQdjJIR1oxc2pDYi02ejYydHBsY1RNS3BEamhkMk1BWjdGQQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 06:11:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 06:11:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
+      ],
+      "severity": "watch",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
+      "critical": false,
+      "action": "Stay alert and follow police advisories."
+    },
+    {
       "id": "crime वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय सासू लता अन् नेपाळ ला पळून",
       "title": "Pune Crime : वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय, सासू लता अन् 'नेपाळ'ला पळून जाणाऱ्या निलेश चव्हाणला मोठा दिलासा!",
       "summary": "Pune Crime : वैष्णवी हगवणे प्रकरणात मुंबई उच्च न्यायालयाचा मोठा निर्णय, सासू लता अन् 'नेपाळ'ला पळून जाणाऱ्या निलेश चव्हाणला मोठा दिलासा!",
@@ -889,21 +1043,87 @@
       "action": "Stay alert and follow police advisories."
     },
     {
-      "id": "weather alert ऐन दिवाळीत वारं फिरलं वारं पावसाबाबत नको तोच इशारा हवामान विभागाचा अलर्ट",
-      "title": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
-      "summary": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
-      "source": "TV9 Marathi + 1 more",
+      "id": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान महावितरणची तक्रार वाकड ब्रिज ते चांदणी चौ",
+      "title": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान: महावितरणची तक्रार; वाकड ब्रिज ते चांदणी चौकादरम्यान कंत्र...",
+      "summary": "महामार्गाच्या कामात भूमिगत वीजवाहिन्यांचे नुकसान: महावितरणची तक्रार; वाकड ब्रिज ते चांदणी चौकादरम्यान कंत्र...",
+      "source": "Divya Marathi + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1UtIB-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1Ug?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 03:25:21 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1JUS0FxQkRvM255OGtTMk5MMWJYb1pVcUNDd1VhcXRPcElVQndLS2F6UTRUN1FfU0ZWWFBmTHFmR290OTY2Qm5HSzJJX3ItWDdFQWROUDhLU0UxbnNwbzUwaEJJd3dsdDdGVmVSejU4V21hbDdyVHYtLWZHZVBobHRua0V4X1RkNWIzbGNVbjc5aUlxbEl3YzBUbnp4RmQ4SVM5X3A5czl6WEtkeG1Od0stNTVTUW1uNS10ZXE2QS04RmZHMFBSWDlEMjM4VTlfbXM2emhCZGZEUdIB3wFBVV95cUxNZTY2eTEtS3phaENXdW9zX3ZZY3pMa01JRU9HTXE2SXIxTkJ6WGtDOTdpUGUzNEJtZFZzUHBNRTVnbkFUZDJESzM5LS1NSG44RFRfS3JEZDlWclZZcEVubkNENy1QQXdvU2h6UGdTblpOLWtNR0xBTmxIV0Z0UlhmaWxKMW1VRVR1aDA4eEpleE1McWxEMVRWS3NTaXdqY0NNVjRDdFJUb0Z4eVhxQjFiLVI3MmFuaGNxdWE3elRmdGRwZm5GbFpqczlSYVZOekVhUnMyNlNSYXV4RGJLVGVF?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 00:33:29 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 00:33:29 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "TV9 Marathi",
-        "News18 Marathi"
+        "Divya Marathi",
+        "Civic Mirror"
       ],
       "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather अल निनोचा प्रभाव वाढला समुद्राचं तापमानही तापलं महाराष्ट्रातील हवामानावर काय होणार",
+      "title": "Weather Update: अल निनोचा प्रभाव वाढला, समुद्राचं तापमानही तापलं! महाराष्ट्रातील हवामानावर काय होणार परिणाम?",
+      "summary": "Weather Update: अल निनोचा प्रभाव वाढला, समुद्राचं तापमानही तापलं! महाराष्ट्रातील हवामानावर काय होणार परिणाम?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZxY1AydGhidW5TOWphbnJKUERPeTF0d0N0MENHdEQteVl5V2RCM2JNSzJHdUxaXzEtWnVwVmlYdm5MaU9nR2tmZXpSVmowVDN3MkVLbmdyUGxnUVR3YkRPQWs5NVVzN2VFZENtY25lUkhKbFoxRHR2OUtTT2hOaHNQRHZCSkpCeWNvMjZTVTlMREJRamdmRzNIM3ItakU1d2hTMVJoNE5DakZEbDZzMA?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:36:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:36:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "सोलापूर पुणे महामार्गावर काळाचा घाला अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी आजोबा सून नात",
+      "title": "सोलापूर-पुणे महामार्गावर काळाचा घाला: अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी, आजोबा, सून, नातवाचा जागीच मृत्यू, कंटेनरच्या धडकेत कुटुंब उद्ध्वस्त",
+      "summary": "सोलापूर-पुणे महामार्गावर काळाचा घाला: अक्कलकोटला देवदर्शनासाठी निघालेल्या आजी, आजोबा, सून, नातवाचा जागीच मृत्यू, कंटेनरच्या धडकेत कुटुंब उद्ध्वस्त",
+      "source": "mahanews.live",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TUzYwNldwSXlKZ0tRb1RMMFlMV2ZrSjU4ZDc4dU9GdjRTdFk0Rkx3ekhHNTVwdDNPNkdncnJFb0VhUQ?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:22:46 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:22:46 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "mahanews.live"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert दिवसा उन्हाचा चटका रात्री हुडहुडी ऐन दिवाळीत हवा बदलली महाराष्ट्रातलं आजचं अ",
+      "title": "Weather Alert: दिवसा उन्हाचा चटका, रात्री हुडहुडी! ऐन दिवाळीत हवा बदलली, महाराष्ट्रातलं आजचं अपडेट",
+      "summary": "Weather Alert: दिवसा उन्हाचा चटका, रात्री हुडहुडी! ऐन दिवाळीत हवा बदलली, महाराष्ट्रातलं आजचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjJHckltalZvQkZ4RG1sOWRZWDQ3WWpGQlNjT3J6aU5JVWlqVzhnWDV6dTFjd2YzYWlJTmljaFlUd3hyUDQwU19WNV9WUkZ2ZUhFcWwzUUZlVEIwTk95UXJhVXQyZmhWMlpsd25OSXlwdmpFZzRPWWZfXzI0akZCVnh0RXJHcWpma3JCU3ZXSXdPS243Ml96bldSelRWQUtUY1czaXlVU3dLNDg4c1VnTGkwcXl2Q05ja1RvQUgwSjZDSUlfcU5NMjg2TXZ3QlY4cF9SVWt4bVJmT09yWUEzTHV4SEc1MUxJNWZqemxB?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:21:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 02:21:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -924,6 +1144,28 @@
       "region": "pune",
       "sources": [
         "Divya Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "विद्येच्या माहेरघरात स्त्रीशक्ती चा डंका जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित",
+      "title": "विद्येच्या माहेरघरात 'स्त्रीशक्ती'चा डंका; जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित पुणे मेट्रोची वैशिष्ट्ये",
+      "summary": "विद्येच्या माहेरघरात 'स्त्रीशक्ती'चा डंका; जाणून घ्या देशातील पहिल्या 100 टक्के महिला संचलित पुणे मेट्रोची वैशिष्ट्ये",
+      "source": "ETV Bharat",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFkMklBdWZxNER3V05kZmh1eFJJcUYxT0FNaFVsOERxd0Y0c2RrRU5fWnBlN2ZCLWZGVWFNTGczcUk3VE9UY1lENndycmlmaXltT1UtT3ZoS2pjYU1pVzk4bkVET0Y4c0N5RkVieE5VSHZ0N2Q5OWFibllVaFdlaU9fTGRSaTBZUFFMaTRLbk4wcGRBSHBfazhNbW1uUHd0eENsSUlzR0tPMkE0QkQzejhabVZIQkEydmJacNIBwgFBVV95cUxPSzRmbGJLOFNyZXVNVmhSTXJCMEdodE1qcEhra1pibGJxTnN3QVg0T1N5QXZGQXRkc3hPb1FUMXlxaDFrRmN4cWtoaWtHOENIZFdZUG1QSlVPX0pjRy1ub3U2bnVnd3dWcDlRbEpjSElWTVJQdmlhOWY2YU1YdkNOcWt2aEp6ZmxhZHZmVExDdkRHSkF5dlkzM2VFY0tZUzdSNHZmenhGR21hdDllQVNWYmU2My16UUpUalpXUXhJRlhGdw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:17:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 17:17:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ETV Bharat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1088,6 +1330,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "परवानगी नसताना पती मुलाच्या शाळेत गेला पुण्यातील पत्नीची पोलिसात धाव सासरच्यांना शिकवला धड",
+      "title": "Pune News: परवानगी नसताना पती मुलाच्या शाळेत गेला; पुण्यातील पत्नीची पोलिसात धाव, सासरच्यांना शिकवला धडा",
+      "summary": "Pune News: परवानगी नसताना पती मुलाच्या शाळेत गेला; पुण्यातील पत्नीची पोलिसात धाव, सासरच्यांना शिकवला धडा",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTVJU1puandtVnBGRWFSLVZCZk5uUmVkS3VodWJuQnB5NHRCMlRZQnFzVXkyUHJpcDd5cW5ubFlNdkpoRXg1VDVvV3haRHBNdzNKdEU4MExiUWtpRzJQWEo3anZTZ0pxSE1QaEc5c1JIX0VMOWpaa0hoUDNmUHB3YXlMUElGa2RqU1hkMHZGd3pMdWo0ZkRwWHhxSl9WQVhLT1lFc1p0enFKSHhZT2FJNW5VelV2eVVXQ0dxR3o3MUJJcWdCSjFELWw4emRpT0Iwa211TXZTUQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 07:53:00 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 07:53:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "दिवाळीच्या पहिल्याच दिवशी चाकण शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
       "title": "दिवाळीच्या पहिल्याच दिवशी चाकण-शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
       "summary": "दिवाळीच्या पहिल्याच दिवशी चाकण-शिक्रापूर महामार्गावर वाहतूक कोंडीचा फटका",
@@ -1122,28 +1386,6 @@
       "region": "pune",
       "sources": [
         "Pudhari News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार",
-      "title": "Pune : महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान, कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार…",
-      "summary": "Pune : महामार्गाच्या कामात वीजवाहिन्यांचे नुकसान, कंत्राटदाराविरोधात बावधन पोलिसांत तक्रार…",
-      "source": "Civic Mirror",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUE5TDZuZTdQZ3o2TV9ya2tHVUtXc0lXZFVsZVktbnBHZl9RSzdqTVYwTXUtc3JXRDZPTXkwd0k1eGh5VEYxRXczbjNqOWM5dkVrNXhUWFBNWTF2cTRfd1Z1TWlDMFBibVVUcThhaHJkUGlmLVItdGpTWFFSSkMxV003Uy1jd19PYVBMejVobVZPX1hpZENYc2RhWW8xSFd0cG9IN3JwX1lrcVZ1VDYzRkp3S0JqRDFiVG90VGdjZjNFVEJRa1R6UlptQkJKM00?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 06:43:20 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 06:43:20 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Civic Mirror"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1286,6 +1528,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "weather alert ऐन दिवाळीत वारं फिरलं वारं पावसाबाबत नको तोच इशारा हवामान विभागाचा अलर्ट",
+      "title": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
+      "summary": "Weather Alert : ऐन दिवाळीत वारं फिरलं वारं, पावसाबाबत नको तोच इशारा, हवामान विभागाचा अलर्ट..",
+      "source": "TV9 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1UtIB-AFBVV95cUxOdWxuN040d1RBNlVxRTB3ZVVCdGpBZEFlVExqeGs0MlpaTWliWG1mQTZ2RzVuN01fRjJuOUFkS29BeHNvcEs2RHJkclZjbk5CMGdXYkF6bERMMzlfWXI2SEtZQWJKMlh4ZzJmNmJrenIyYzFjelZQd3BWNjY0ZUNrOV9hdXV6QTA1NXozcUR5b3k3YVAtRmlsaWRhREJQZjgzbEFaMG1pbHZ6MW54UGxDaEgzQWVIWW0yWkpkanNOMk9IQWw3bXA1MC03bkFqOFE5R0J6ZmpCUnVvaG9GQU9IRVJUSHNiZEZQZWkzWjFISUEzd19QaGN1Ug?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "lastUpdated": "Fri, 06 Nov 2026 03:25:21 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "TV9 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा प्रफुल पटेल आणि शरद पवारांची भेट",
       "title": "Video: \"पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा\", प्रफुल पटेल आणि शरद पवारांची भेट",
       "summary": "Video: \"पटेलांच्या दिल्ली दौऱ्यांबाबात चर्चा\", प्रफुल पटेल आणि शरद पवारांची भेट",
@@ -1306,78 +1570,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather आजचे हवामान 6 नोव्हेंबर दिवाळीच्या आनंदात पाऊस बाधा ठरणार महाराष्ट्रात",
-      "title": "Maharashtra Weather Today (आजचे हवामान, 6 नोव्हेंबर): दिवाळीच्या आनंदात पाऊस बाधा ठरणार? महाराष्ट्रात 24 तासां",
-      "summary": "Maharashtra Weather Today (आजचे हवामान, 6 नोव्हेंबर): दिवाळीच्या आनंदात पाऊस बाधा ठरणार? महाराष्ट्रात 24 तासां",
-      "source": "Times Now Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUFplc1RuaHAtd2NjS3lwMnVvbFJUa3BydUxCZlI1VTB5T0VodHNFamNmNVI2blFIdHVxcjhGUFNLQ0F0UGVFRUtHOUxXZzI1d1lwdWJDbnI0WGx0WHhjckZzWTFMSU5qSkJaYmtya0EzTlE3czBHSUVfYm1EcllFVEhEdEJRT253NWZXcUNJeGtBbWJCNXBFYk1LLWd4RVhUM1BVTGFHZU9UcEtPY2o0U0gtTFhXbUJOdWlHZFR4UzNMNEVHSEFXckdXc19xZFRYZHhQdGVib2dXMGMzaVc0TDZ1VldYYkNPaktxM091aVpMX3liUEtCS05ETHh6dWpuUGEtcGRtbGtFRU14RkQ4N9IBlgJBVV95cUxOSmxIeGdMRldyNXhidmZjZGxuclY4WVdMbE1VVFpoQVNnVkJhY0NtMjhvNGtZYldxRkJ4VFFMejBQZTluTGN2TDJjZDZFcE42UFgtSG1lWnk2YkVtYmw5VVpQYWowbXBGUzVIVWRFcFZ3dGhyR3JnOEtfbE43ejhXOHJFVFA5R2dUVC1FaDl0TWNjX182TTNGTWJFSU4xaFdhODlEVkY0dHFmdE84eTFYaXcwMHNIN2ozY1BUNWF3VUpFWUhYNlZDc0xVR0lPSzBWM2I3dmdkUUtqSVVxQzN4UFpBekJ3dVZoSkhfRFRMSlM3c2VzQkp1ZmR0X3ljaVRMbmJNY1Yya1JTUDJUWkI4SjBXTlV1UQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 02:42:38 GMT",
-      "lastUpdated": "Fri, 06 Nov 2026 02:42:38 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Times Now Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "weather report मुंबई ठाणे पुणेकरांनो लक्ष द्या पाहा पावसाची किती शक्यता",
-      "title": "Weather Report: मुंबई, ठाणे, पुणेकरांनो लक्ष द्या! पाहा पावसाची किती शक्यता?",
-      "summary": "Weather Report: मुंबई, ठाणे, पुणेकरांनो लक्ष द्या! पाहा पावसाची किती शक्यता?",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTnE5T3p1bnZ5UUdlSVIyNWZmWDdkSkc5b05MdEhlZkZhSzRpV042cEY3b1NyLWtjemhCOGVFbnpZTVFhTUtaNXRjd2xYNjkyaGpzcksydlh0Y25LS0VlRnkzaEFqZm9NSkdtREd6WUJTYUlqY1JOVnRKbUxYalF5NEpyV29VOFJtUjM0YXdZUnVPajVDcmlfUnRKMDd6bjc0OWtsRTk4Rlg3Y0JVcXJQd3RScjRvdGxiM0ZWaTE4OTdVMDlhZF8xUUdUbTlaNUsySWVmLXBjZXJDZ0hKMGRXaTdHVDbSAeQBQVVfeXFMTk5xOU96dW52eVFHZUlSMjVmZlg3ZEpHOW9OTHRIZWZGYUs0aVdONnBGN29Tci1rY3poQjhlRW56WU1RYU1LWjV0Y3dsWDY5Mmhqc3JLMnZYdGNuS0tFZUZ5M2hBamZvTUpHbURHellCU2FJamNSTlZ0Sm1MWGpReTRKcldvVThSbVIzNGF3WVJ1T2o1Q3JpX1J0SjA3em43NDlrbEU5OEZYN2NCVXFyUHd0UnI0b3RsYjNGVmkxODk3VTA5YWRfMVFHVG05WjVLMkllZi1wY2VyQ2dISjBkV2k3R1Q2?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:41:02 GMT",
-      "lastUpdated": "Thu, 05 Nov 2026 23:41:02 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "jaykumar gore नदीकाठच्या गावांना दिवसाआड वीज",
-      "title": "Jaykumar Gore : नदीकाठच्या गावांना दिवसाआड वीज",
-      "summary": "Jaykumar Gore : नदीकाठच्या गावांना दिवसाआड वीज",
-      "source": "Pudhari News",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjJFQ25aUHpBaWtvMEdQd0dNUlBaOU84VTBoOTJMbmlFczZrY0VqcHdnbGc3ZE5jRjYxZ1QtanNSVEQ3b1d0bUlrbk5OZVNZU0NmVmNpMnRVXzB5eF8xUmwxX0lkZGp3WkZkTGJyNXBqY0V1eGpQNjZYaDhySW5UcExCSmU0WUpzWkthM0d6bTlwOWNaeVkxSk0xVEVfbl85bDQ4dEJpSzc3ZFhMX2VLSWEzYUw4UWJienNDU2Jmdm1peVhZ0gHEAUFVX3lxTFA2MkVDblpQekFpa28wR1B3R01SUFo5TzhVMGg5MkxuaUVzNmtjRWpwd2dsZzdkTmNGNjFnVC1qc1JURDdvV3RtSWtuTk5lU1lTQ2ZWY2kydFVfMHl4XzFSbDFfSWRkandaRmRMYnI1cGpjRXV4alA2NlhoOHJJblRwTEJKZTRZSnNaS2EzR3ptOXA5Y1p5WTFKTTFURV9uXzlsNDh0QmlLNzdkWExfZUtJYTNhTDhRYmJ6c0NTYmZ2bWl5WFk?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:33:23 GMT",
-      "lastUpdated": "Thu, 05 Nov 2026 23:33:23 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Pudhari News"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 34,
-    "alerts": 10,
-    "news": 24
+    "total": 39,
+    "alerts": 12,
+    "news": 27
   },
-  "cleanedAt": "2026-11-06T23:21:04.804Z"
+  "cleanedAt": "2026-11-07T02:58:18.720Z"
 }
