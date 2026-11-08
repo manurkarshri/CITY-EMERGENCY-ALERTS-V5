@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-11-08T10:57:20.631Z",
+  "generatedAt": "2026-11-08T16:55:19.567Z",
   "status": "ok",
   "alerts": [
+    {
+      "id": "hyderabad fire incidents put emergency services on high alert",
+      "title": "Hyderabad Fire Incidents Put Emergency Services on High Alert",
+      "summary": "Hyderabad Fire Incidents Put Emergency Services on High Alert",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWpMS0NPX1ZaS3NERnppZlBqRjl6MmE0U25UZ1kyY0pQa2VoYlZUdHdxLTZPcHlCUkFHMVp3SW9TVmJlVlZMT2NNSWJBeGJTSkk2dGlrY0xmbHU3dFAwcGxkb3FMUk5QQjIyZkNWajNFcEQwWDdVQlZhSDJiX196Y1prUGNRRTNLaTA3Vg?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:41:38 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 15:41:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
     {
       "id": "mumbai fire breaks out at kamgar stadium in dadar west no injuries reported",
       "title": "Mumbai: Fire Breaks Out At Kamgar Stadium In Dadar West; No Injuries Reported",
@@ -44,33 +71,6 @@
       "region": "pune",
       "sources": [
         "Lokmat Times"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "fire पुण्यात फुटपाथवर अचानक लागली आग कात्रज कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्",
-      "title": "Pune Fire News: पुण्यात फुटपाथवर अचानक लागली आग! कात्रज-कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्ये पसरली भीती, नेमकं काय घडलं?",
-      "summary": "Pune Fire News: पुण्यात फुटपाथवर अचानक लागली आग! कात्रज-कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्ये पसरली भीती, नेमकं काय घडलं?",
-      "source": "ABP Majha",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOa09CRUtMenZhSnN6UnNTRERSbkVETDRyNENoQkNkWFF6c0tXaG9ma3JYZ2JIYU5tYUlLdVZfTHFGN0NxbUhodUpQWjRtWFJIZmZ3T1JfYjd0WmMwT1lmeHBlZlZweWpEVDJuVEZjVk92Zmo4UVNZVFRUMW5xdml1RHg0d3hJTDctUnI1cFo1aVNoQU4wazdzZ0VSMGNGWFowTzY4UlhBRkpIaGhpbzVKX1hKWHJLTkREcnVLbEZuN3A5Z2xlV1I0R1pYNG9hRmk2YmFFTzJEVEZ6U2VhRmhYWkU3OExyZVEtZGtmTUUzU01wRE9Zc1lqM2JlUkp3czNoQXdCR1pGOUNCcFVnaHNJbTFCM0NtdWZtOEVCWHVFZ05tTFRUWHhUVTlKdUVNV0pkLXBBY3RR0gG7AkFVX3lxTE9JOHFMclA3SW5YVVBDX0ZfWHhMMUZLWFdKQzBMa0xRRjl1cm4zaUdjZ2FPWUo4YTRkUEtiWUxZdmtWbmEtMmFYYXFOTFNqLUlyYUFHYmVheWVoLWJpMlI0SWVZZXAtQVJNLUx0Y294UHdLN08xU0lPb3dQMXNqek5KOGJ4OHV0YjBsM2U1NFo1NzRSMnFNYXZxVGJjbW04NjVyLUt6RTMzdmh5dVk2R05mYmdLdW1ZaklUVGNqVkhDeVE3Ylp6UGlTQTNLZHl5c2Fuemo2TDNyMmtRZlZMdUdrR2dYSlItYVIzMlVkazFldFBtOTVvT2xsRGhTN0ZSYlVpRUR6VklVaGhwTW45ZTdzaXlJVFM5YTBjRjJ2U0NXcG0yUWZqZGprYUZkOWVONURWVE9VcjF2eFZWMA?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 11:00:08 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 11:00:08 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "ABP Majha"
       ],
       "confidence": "Single source",
       "w": [
@@ -144,21 +144,156 @@
   ],
   "news": [
     {
-      "id": "weather alert ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट हवामानात मोठा बदल",
-      "title": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
-      "summary": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "पुण्यात आगीच्या ३० हून अधिक घटना फटाक्यांच्या ठिणग्यांमुळे झाडे घरे दुकाने आणि गोदामे पेटल",
+      "title": "पुण्यात आगीच्या ३० हून अधिक घटना; फटाक्यांच्या ठिणग्यांमुळे झाडे, घरे, दुकाने आणि गोदामे पेटली; अग्निशमन दलाची धावपळ",
+      "summary": "पुण्यात आगीच्या ३० हून अधिक घटना; फटाक्यांच्या ठिणग्यांमुळे झाडे, घरे, दुकाने आणि गोदामे पेटली; अग्निशमन दलाची धावपळ",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Z3eG1vVnd3TFhucTBqZVZIQWVKel8zLWZ2bkQyNXlnWmFfZ1Y3UTNISDB5emZ6NmFuaWhRVjUxWDFqT2duUmR3UGU2cTI1WVBxRUdPV2RQN3VFOVU2MjV2TUpWUG4xdzZkSHoyaEMxcEZXODF4MWFqQU9uMF80eUE5VzZubXpvSzFJU3cwMXNsVktleU0tag?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 17:08:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 17:08:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0tuMVZ2YmlGZTh3c3BZU3l2dEZGcmNIMUxDaGJRaWlqRmFGT0VNdnpvTXQ3M0ZoZUZVTkFQXy1DbWRrTFNiaUs3TVNrNTZONzh3Ml82RW9tWE42aXNBYVZEeEdQWHg5Zks4Q3FQMXNsdThGMEk5OUJXVDRKYjh4a3hfUFdDSXRRU2F5OFZnc1hBLTJ2a1FoWE5zTVNRQlBtbm95cms4Y1NEX2IxM3psY01qdmptMGw5WVhXOWdxbFNlcDQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:42:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 16:42:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "water storage falls 5 56 tmc below last year in khadakwasla system",
+      "title": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "summary": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFdYdS1EbktwSDluaVM5eWxiaERLU0NkNkpZWkZDR1pTQnZOdWNfNF9EVThDMWF0OVZtNGNaSktXc2JLYUY2am5mZ3Bpa2VOYUlZQXRfcVhheEVBUkxQN3YwUWdNSV8zTzhsaWxvdzNpYVVQLXVQNW94cjFzb05pMTFKSURnV2tha0Vkd0NMVENuM0tYSGR0NS1n?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:06:32 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 16:06:32 GMT",
+      "areas": [
+        "Khadakwasla"
+      ],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert सकाळी थंडी दुपारी ऊन ऐन दिवाळीत हवा बदलली imd चं महत्त्वाचं अपडेट",
+      "title": "Weather Alert: सकाळी थंडी, दुपारी ऊन, ऐन दिवाळीत हवा बदलली, IMD चं महत्त्वाचं अपडेट",
+      "summary": "Weather Alert: सकाळी थंडी, दुपारी ऊन, ऐन दिवाळीत हवा बदलली, IMD चं महत्त्वाचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUnV4UmcxSGFSUkhzVUE4VkdBNVhrMHR5UGRSMm9HeC1FODgwdm9vUHBucU5qN05nWGoyaWVTMEIzc2hZcWlSY1E4SWZqWUlRU2ZOb0NmVXFMV3kwUVVLdWpCZFNRSUZaR3B3WGFDaDkwVDdvOEN0ejd4NHBiaFhtbDBkaUlNSUtwS08xN1dSTUUxSWpUTWRBaExsWGRZQWo5cXg5SnJlVXdFc2VnUjFjNTlpVDQ1MG9NZmg5OHFkX3pPUU1kTmI5MkxjQlV4aVkzY0dhSHlFU1ZBUVhrMV9UR0RVN2cxUQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:24:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 15:24:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
         "News18 Marathi"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "deccan queen तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ दापोडीजवळील",
+      "title": "Pune Deccan Queen: तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ, दापोडीजवळील घटनेचे PHOTOS",
+      "summary": "Pune Deccan Queen: तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ, दापोडीजवळील घटनेचे PHOTOS",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlR4ckpnRmtFOENlclhCSUpGT1dWWlhWTUN6WFVacVdHUEJMYl9Vd3k5WVlWY3ppa3dIaUJhSzU1UVZaemNjRG9XanFMZUhFeU03SHVhMWNVSTZ2RmVOaHlUODdTZmx4MllieEFQNzU5T3ZUdFNqckZWRDVpN0U1RmhpNzBraDFLTnRmNENadHY2R1l3SFFmcDlnSzNNbjdGVjE2Y3l4dkxpbllEWVJFRDQ3TGdCaUVXTHdRcGVYUW9DdUpuMXBkRVZscFYyRXpudU0xSy16cENBNklrZXp3ZmlHMi1EZw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:23:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 14:23:00 GMT",
+      "areas": [
+        "Deccan"
+      ],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मुंबई दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई दादर पश्चिम येथील कामगार स्टेडियम ",
+      "title": "मुंबई: दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई : दादर पश्चिम येथील कामगार स्टेडियम परिसरात रविवारी (८ नोव्हेंबर) सकाळी १०:१४ च्या सुमारास आग लागली. परिसरातील लाकूड आणि बांबूच्",
+      "summary": "मुंबई: दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई : दादर पश्चिम येथील कामगार स्टेडियम परिसरात रविवारी (८ नोव्हेंबर) सकाळी १०:१४ च्या सुमारास आग लागली. परिसरातील लाकूड आणि बांबूच्",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fT0FvcXlhMU94RVp3UHZMT19mQTc0dVJSSWdNQVBuWm9BeUdrNVo0SUFnWFpkUXZsajZHa0NwVDlzOWJReHlFVkU1dzVXZFFRUHg5RlVR?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 13:45:43 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 13:45:43 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "car insurance फटाक्यामुळे कारला लागली आग मग अशा वेळी इन्शुरन्स क्लेम करता येतो का",
+      "title": "Car Insurance: फटाक्यामुळे कारला लागली आग, मग अशा वेळी इन्शुरन्स क्लेम करता येतो का?",
+      "summary": "Car Insurance: फटाक्यामुळे कारला लागली आग, मग अशा वेळी इन्शुरन्स क्लेम करता येतो का?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEZuMTkzcWJmS3pNSVdMY2JIV3ZqX0w3WVdHLUdqZFZtdnlleEphZzlVVkE0cEZzVVVyeGt2aTl3WVZxcWc5dmpsQ2lIZlJ0VzJ1b3pwbUFCQkExdVFCLU9ZS3kwUXRjVUliMEJtWE5kcUNNVmhQUDRsQmZreWxFNkVFOVZjbDBmRG1xeUlENlpRLXAtZjZiamtCM2JBSkxXY1BhNUdmS1dLcTR5b1MzQkcySl9wZUI5dTRCN0tNWHJpOXE4?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 11:47:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 11:47:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुण्यात नेमकं काय घडलं फुटपाथवर अचानक आग परिसरात काही काळ भीतीचं वातावरण",
+      "title": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
+      "summary": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -172,9 +307,9 @@
       "summary": "पुणेकरांनो सावधान...! काकडे वस्तीत फुटपाथवर अचानक आग; वारंवारच्या वीज समस्यांमुळे नागरिक संतप्त",
       "source": "Lokmat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHE4RndURzRPSWVfbGVvTExoWTd5ZmM5b1AxR2hqbVQ3MTRic2NHX05SSjZLSFBEcjVWVk5WSk9DRHFmOFo5dGZqUXZWeWNfZHJBdjZCdVdYMzYtRXgwajdLTG5fUzRQQmJKaXd4c0RTaHlfQjRlcEpMY3RIVXRsNWZoSnZaTjRyY1Ryc045a3RUdVRBMkVSX0ZQQ0FXcTM5OGtHbXdfb19hVTBXbFRyeGpnUEhDaTVOUzI5OXdOODJsYzFwNGNYamJzcjhzTV9GTXJaNEU1eXREcFY5OW05dXpFOVhBQzg1M0RmWndR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:56:14 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 09:56:14 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -233,6 +368,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुण्यात नोकरी महिनाभरावर लग्न पत्रिकाही छापल्या दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा ",
+      "title": "पुण्यात नोकरी, महिनाभरावर लग्न, पत्रिकाही छापल्या, दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा करुण अंत",
+      "summary": "पुण्यात नोकरी, महिनाभरावर लग्न, पत्रिकाही छापल्या, दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा करुण अंत",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbGdBanpvUVQ2R01TSEdLUnc4ajdSOC1OUHAzdW5EYW5mTTJFY29MTTNSSGVybUViVWxGLWwyMmZ6elVmTWRoTEhReXJlOEdPcGZSOEg4M1k5UkVBWjV0ZFdWdzU3bjRwMTJ3akZKMmxKX1FYbWFIUEppRXo4ZldlLV9ET3d3UnNhWlVQUUFCNFRPQnlMRnFPVXVSY284aUxtZkRhUGpSXzFyNGM0c1c4TnZrM05SUVpCb2l5dDJjTEVzWkQxbW9IN1Y4NnA5dzUwem9EUmluak5ZWFRQREJoVHBRY2MwNWZvblJBNUxZOA?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 03:41:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 03:41:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "nagar dam water storage नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा उन्हाळ्याची चिंता वाढली",
       "title": "Nagar Dam Water Storage: नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा; उन्हाळ्याची चिंता वाढली",
       "summary": "Nagar Dam Water Storage: नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा; उन्हाळ्याची चिंता वाढली",
@@ -255,28 +412,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते के",
-      "title": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "summary": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHhIcmpUTXpRMFpCV3FuRVhGSDV1T1RLNWFRWThwSGgzTXMwNEhsSnFUUldoRHRJaDQ5X0dxV1cybG02RzB3dnhFZjg5X1Vtd216czZ4SDFCZFRzUUhwMjhhNGNlMVFuRHV4ZFhrZG1oZ3U1b0hRdVp6MjZ2MmVKbDFZU0NZYmVCZWw3MTBhbWpuQUZpbTAwelVPLVhiLVZ2Zm9uUDl0TEJwY2llbXBjYkRTcmtJWGxBQ2J4TjNhdi0?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "weather alert दिवाळीत हुडहुडी महाराष्ट्रातील वातावरणात पुन्हा उलटफेर आजचं हवामान अपडेट",
       "title": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
       "summary": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
@@ -285,28 +420,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdHctWUpzd1YybWRSMlZYb25yVXNiSHhLdHVMWWUzZlljVlpETFZGTndFYUxkV2NORHg2aDNtcTZKMVdEWmtvbzdrOHBWWV9JQXdZRXBLNUZITDllRXVuVHYwNUR2TDVSNGJhRnlNeHlreENtVnd3YWZlamVBamtjYWFMZ3h2RFgxekRnUElnQy1Zb0t3U0VaUWVDVzVzcS1wbU5TTkZVQzZKUnVIZEdTUU5Dem1uOWhsbFdhSlY1dHJCM2l3VzloR2hzWUhlaUYwY3FOX2xtVEVsU1BNclBEckJ6MnBZazNyOElrMHFKM1RveVZBeVByeTFmc2pqT01XVnY3MlJydG4?oc=5",
       "pubDate": "Sun, 08 Nov 2026 02:05:00 GMT",
       "lastUpdated": "Sun, 08 Nov 2026 02:05:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "निर्दयी लेक तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला पुण्यातील हादरवून सोडणारी घटना",
-      "title": "Pune News: निर्दयी लेक! तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला, पुण्यातील हादरवून सोडणारी घटना",
-      "summary": "Pune News: निर्दयी लेक! तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला, पुण्यातील हादरवून सोडणारी घटना",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVRlU1ZVSFVZQ1FYTDgzV1VOblRqS3JXOU5LRndQRmZQUnB1VWNwYTljV1ZtVjVKclhQUXdwQUhrTE9QN29hN25TRjBBWjFzSExKakhZdkVBeWJYd2ZlaVZZSFlwNVdUeG9TSmU1VHJHNzIzM09nY25PalIxSkhNS19jdVQ4N1IyWkg0QU9WcEtpVEY4c0M4SXZoQXpfUm1qREd3OGJPUVhXWXJUb1lOYW1RMlh4QnAtQWFPbg?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 01:09:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 01:09:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -343,84 +456,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात द्वारका चौकात महिलेला चिरडले शरीराचे ज",
-      "title": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात, द्वारका चौकात महिलेला चिरडले; शरीराचे जागेवर दोन तुकडे",
-      "summary": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात, द्वारका चौकात महिलेला चिरडले; शरीराचे जागेवर दोन तुकडे",
-      "source": "News18 Marathi",
+      "id": "weather alert ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट हवामानात मोठा बदल",
+      "title": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
+      "summary": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeVJKdFZHNjVlbEM5MVZTb1Q3akVfWXdrZTJEWHJ0Uy00UTB3aER3SEtHYVBrcFR4OW5ETlFqaTNRSHdsd0ZOWUVuTmtFOHREbTJyVEwwUDRsLTdJNWQyLUpaa082VndNNUFuTV91ckhpWWdKNnBCcFVRVjR0aEJZRGVzZmcyR2F2QURRSVZ3dUVUTk1aR0RMMGxoWTlpRWNFS0pxdzMyMmtjVkd0WVdIRXdpSG5ZOVRSMEw0Y01KMFFYdHpyU0NBTm5ZcEJhUGRrTlpDamt5RGUxaGZFcVVtWkN4Y204blZSN0xNWHhzVWpKWTJTSlAtR2taRF9rR1BuclhqbXJrX3VEa3RONmMxaWFRS1lPQQ?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:17:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 14:17:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Z3eG1vVnd3TFhucTBqZVZIQWVKel8zLWZ2bkQyNXlnWmFfZ1Y3UTNISDB5emZ6NmFuaWhRVjUxWDFqT2duUmR3UGU2cTI1WVBxRUdPV2RQN3VFOVU2MjV2TUpWUG4xdzZkSHoyaEMxcEZXODF4MWFqQU9uMF80eUE5VzZubXpvSzFJU3cwMXNsVktleU0tag?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 17:08:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 17:08:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "धक्कादायक ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा यू टर्न हवामान खात्याचा मोठा इशारा",
-      "title": "धक्कादायक! ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा-यू टर्न; हवामान खात्याचा मोठा इशारा!",
-      "summary": "धक्कादायक! ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा-यू टर्न; हवामान खात्याचा मोठा इशारा!",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTRlTVA2ODRnQWNOTERIX2VwQUt3Zjh0NUlabEstZ0ZNbTQ3ZEtTVXhxdzktVnhZc1JnaldmWUNTTFRNUWdTOEhIMU40V0hvbGZtbnQtVmM1T3ZkNU11a3A1akN0SjZyQ1BqSlM3NGpDWl9CdFFEd0NNRFJRc1NOaTVteW16d25sTDJvZ3NiTGdHU2RRdERYcUFuT2czS0FlVFBmVzkxZ2Q3a0VCLXA4VXo5QjJkdVpTOEVHSExTT3FkcHAtOGV0VVYza3E?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:06:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 14:06:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना",
-      "title": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग! फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना : शहरातील फटाक्यांच्या दुकानाला भीषण आग लागल्याची घटना समोर आली आहे. आग लागल्या",
-      "summary": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग! फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना : शहरातील फटाक्यांच्या दुकानाला भीषण आग लागल्याची घटना समोर आली आहे. आग लागल्या",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McDdObk0zRm5BNkxBZWFUNmlScUp1aTZ1T1Fvd3RUemwxYjJZYllIVWRrRkFRMC0xR3RWOHFBRUNLbjNhUmlUVHVnM25PWEVheDFJSnh3?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 13:07:15 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 13:07:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महावितरणची अभय योजना",
-      "title": "महावितरणची अभय योजना",
-      "summary": "महावितरणची अभय योजना",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHo5dk1CTDBlNnBMWkpuTDBYVTVENF9ZamNBSUtOZEFsamcxRmtlVFoxTUxWaEh0QXZra2hqMUpXTG5EMnBqSWJnQTJ1dWpfSWxYVGxzNnlSRDZNa3MyZTA1VFBaSmtqNFg3dWljR2ZsRTJNUC1yekI2Wk5jb0xrMWNJQ2hEUzg2SDJ6WWpVTG1MekdyTUFmZ3o1X2ZoOTDSAZ8BQVVfeXFMT3B6OXZNQkwwZTZwTFpKbkwwWFU1RDRfWWpjQUlLTmRBbGpnMUZrZVRaMU1MVmhIdEF2a2toajFKV0xuRDJwakliZ0EydXVqX0lsWFRsczZ5UkQ2TWtzMmUwNVRQWkprajRYN3VpY0dmbEUyTVAtcnpCNlpOY29MazFjSUNoRFM4NkgyellqVUxtTHpHck1BZmd6NV9maDkw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 12:27:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 12:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
+        "Dainik Prabhat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -432,6 +479,33 @@
     }
   ],
   "incidents": [
+    {
+      "id": "hyderabad fire incidents put emergency services on high alert",
+      "title": "Hyderabad Fire Incidents Put Emergency Services on High Alert",
+      "summary": "Hyderabad Fire Incidents Put Emergency Services on High Alert",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWpMS0NPX1ZaS3NERnppZlBqRjl6MmE0U25UZ1kyY0pQa2VoYlZUdHdxLTZPcHlCUkFHMVp3SW9TVmJlVlZMT2NNSWJBeGJTSkk2dGlrY0xmbHU3dFAwcGxkb3FMUk5QQjIyZkNWajNFcEQwWDdVQlZhSDJiX196Y1prUGNRRTNLaTA3Vg?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:41:38 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 15:41:38 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
     {
       "id": "mumbai fire breaks out at kamgar stadium in dadar west no injuries reported",
       "title": "Mumbai: Fire Breaks Out At Kamgar Stadium In Dadar West; No Injuries Reported",
@@ -474,33 +548,6 @@
       "region": "pune",
       "sources": [
         "Lokmat Times"
-      ],
-      "confidence": "Single source",
-      "w": [
-        "fire",
-        "blaze",
-        "smoke"
-      ],
-      "severity": "emergency",
-      "category": "fire",
-      "type": "Fire",
-      "icon": "🔥",
-      "critical": true,
-      "action": "Avoid the area. Call 101 or 112 if nearby."
-    },
-    {
-      "id": "fire पुण्यात फुटपाथवर अचानक लागली आग कात्रज कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्",
-      "title": "Pune Fire News: पुण्यात फुटपाथवर अचानक लागली आग! कात्रज-कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्ये पसरली भीती, नेमकं काय घडलं?",
-      "summary": "Pune Fire News: पुण्यात फुटपाथवर अचानक लागली आग! कात्रज-कोंढव्यात केबलच्या शॉर्टसर्किटमुळे नागरिकांमध्ये पसरली भीती, नेमकं काय घडलं?",
-      "source": "ABP Majha",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOa09CRUtMenZhSnN6UnNTRERSbkVETDRyNENoQkNkWFF6c0tXaG9ma3JYZ2JIYU5tYUlLdVZfTHFGN0NxbUhodUpQWjRtWFJIZmZ3T1JfYjd0WmMwT1lmeHBlZlZweWpEVDJuVEZjVk92Zmo4UVNZVFRUMW5xdml1RHg0d3hJTDctUnI1cFo1aVNoQU4wazdzZ0VSMGNGWFowTzY4UlhBRkpIaGhpbzVKX1hKWHJLTkREcnVLbEZuN3A5Z2xlV1I0R1pYNG9hRmk2YmFFTzJEVEZ6U2VhRmhYWkU3OExyZVEtZGtmTUUzU01wRE9Zc1lqM2JlUkp3czNoQXdCR1pGOUNCcFVnaHNJbTFCM0NtdWZtOEVCWHVFZ05tTFRUWHhUVTlKdUVNV0pkLXBBY3RR0gG7AkFVX3lxTE9JOHFMclA3SW5YVVBDX0ZfWHhMMUZLWFdKQzBMa0xRRjl1cm4zaUdjZ2FPWUo4YTRkUEtiWUxZdmtWbmEtMmFYYXFOTFNqLUlyYUFHYmVheWVoLWJpMlI0SWVZZXAtQVJNLUx0Y294UHdLN08xU0lPb3dQMXNqek5KOGJ4OHV0YjBsM2U1NFo1NzRSMnFNYXZxVGJjbW04NjVyLUt6RTMzdmh5dVk2R05mYmdLdW1ZaklUVGNqVkhDeVE3Ylp6UGlTQTNLZHl5c2Fuemo2TDNyMmtRZlZMdUdrR2dYSlItYVIzMlVkazFldFBtOTVvT2xsRGhTN0ZSYlVpRUR6VklVaGhwTW45ZTdzaXlJVFM5YTBjRjJ2U0NXcG0yUWZqZGprYUZkOWVONURWVE9VcjF2eFZWMA?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 11:00:08 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 11:00:08 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "ABP Majha"
       ],
       "confidence": "Single source",
       "w": [
@@ -572,21 +619,156 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
-      "id": "weather alert ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट हवामानात मोठा बदल",
-      "title": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
-      "summary": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
-      "source": "Dainik Prabhat + 1 more",
+      "id": "पुण्यात आगीच्या ३० हून अधिक घटना फटाक्यांच्या ठिणग्यांमुळे झाडे घरे दुकाने आणि गोदामे पेटल",
+      "title": "पुण्यात आगीच्या ३० हून अधिक घटना; फटाक्यांच्या ठिणग्यांमुळे झाडे, घरे, दुकाने आणि गोदामे पेटली; अग्निशमन दलाची धावपळ",
+      "summary": "पुण्यात आगीच्या ३० हून अधिक घटना; फटाक्यांच्या ठिणग्यांमुळे झाडे, घरे, दुकाने आणि गोदामे पेटली; अग्निशमन दलाची धावपळ",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Z3eG1vVnd3TFhucTBqZVZIQWVKel8zLWZ2bkQyNXlnWmFfZ1Y3UTNISDB5emZ6NmFuaWhRVjUxWDFqT2duUmR3UGU2cTI1WVBxRUdPV2RQN3VFOVU2MjV2TUpWUG4xdzZkSHoyaEMxcEZXODF4MWFqQU9uMF80eUE5VzZubXpvSzFJU3cwMXNsVktleU0tag?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 17:08:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 17:08:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0tuMVZ2YmlGZTh3c3BZU3l2dEZGcmNIMUxDaGJRaWlqRmFGT0VNdnpvTXQ3M0ZoZUZVTkFQXy1DbWRrTFNiaUs3TVNrNTZONzh3Ml82RW9tWE42aXNBYVZEeEdQWHg5Zks4Q3FQMXNsdThGMEk5OUJXVDRKYjh4a3hfUFdDSXRRU2F5OFZnc1hBLTJ2a1FoWE5zTVNRQlBtbm95cms4Y1NEX2IxM3psY01qdmptMGw5WVhXOWdxbFNlcDQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:42:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 16:42:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
+        "Dainik Prabhat"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "water storage falls 5 56 tmc below last year in khadakwasla system",
+      "title": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "summary": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "source": "Urban Acres",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFdYdS1EbktwSDluaVM5eWxiaERLU0NkNkpZWkZDR1pTQnZOdWNfNF9EVThDMWF0OVZtNGNaSktXc2JLYUY2am5mZ3Bpa2VOYUlZQXRfcVhheEVBUkxQN3YwUWdNSV8zTzhsaWxvdzNpYVVQLXVQNW94cjFzb05pMTFKSURnV2tha0Vkd0NMVENuM0tYSGR0NS1n?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:06:32 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 16:06:32 GMT",
+      "areas": [
+        "Khadakwasla"
+      ],
+      "region": "pune",
+      "sources": [
+        "Urban Acres"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather alert सकाळी थंडी दुपारी ऊन ऐन दिवाळीत हवा बदलली imd चं महत्त्वाचं अपडेट",
+      "title": "Weather Alert: सकाळी थंडी, दुपारी ऊन, ऐन दिवाळीत हवा बदलली, IMD चं महत्त्वाचं अपडेट",
+      "summary": "Weather Alert: सकाळी थंडी, दुपारी ऊन, ऐन दिवाळीत हवा बदलली, IMD चं महत्त्वाचं अपडेट",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUnV4UmcxSGFSUkhzVUE4VkdBNVhrMHR5UGRSMm9HeC1FODgwdm9vUHBucU5qN05nWGoyaWVTMEIzc2hZcWlSY1E4SWZqWUlRU2ZOb0NmVXFMV3kwUVVLdWpCZFNRSUZaR3B3WGFDaDkwVDdvOEN0ejd4NHBiaFhtbDBkaUlNSUtwS08xN1dSTUUxSWpUTWRBaExsWGRZQWo5cXg5SnJlVXdFc2VnUjFjNTlpVDQ1MG9NZmg5OHFkX3pPUU1kTmI5MkxjQlV4aVkzY0dhSHlFU1ZBUVhrMV9UR0RVN2cxUQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:24:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 15:24:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
         "News18 Marathi"
       ],
-      "confidence": "Medium",
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "deccan queen तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ दापोडीजवळील",
+      "title": "Pune Deccan Queen: तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ, दापोडीजवळील घटनेचे PHOTOS",
+      "summary": "Pune Deccan Queen: तुडुंब भरून धावणाऱ्या डेक्कन क्वीन एक्स्प्रेससोबत टळला मोठा अनर्थ, दापोडीजवळील घटनेचे PHOTOS",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlR4ckpnRmtFOENlclhCSUpGT1dWWlhWTUN6WFVacVdHUEJMYl9Vd3k5WVlWY3ppa3dIaUJhSzU1UVZaemNjRG9XanFMZUhFeU03SHVhMWNVSTZ2RmVOaHlUODdTZmx4MllieEFQNzU5T3ZUdFNqckZWRDVpN0U1RmhpNzBraDFLTnRmNENadHY2R1l3SFFmcDlnSzNNbjdGVjE2Y3l4dkxpbllEWVJFRDQ3TGdCaUVXTHdRcGVYUW9DdUpuMXBkRVZscFYyRXpudU0xSy16cENBNklrZXp3ZmlHMi1EZw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:23:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 14:23:00 GMT",
+      "areas": [
+        "Deccan"
+      ],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "मुंबई दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई दादर पश्चिम येथील कामगार स्टेडियम ",
+      "title": "मुंबई: दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई : दादर पश्चिम येथील कामगार स्टेडियम परिसरात रविवारी (८ नोव्हेंबर) सकाळी १०:१४ च्या सुमारास आग लागली. परिसरातील लाकूड आणि बांबूच्",
+      "summary": "मुंबई: दादरमध्ये कामगार क्रीडा भवन परिसरात भीषण आग मुंबई : दादर पश्चिम येथील कामगार स्टेडियम परिसरात रविवारी (८ नोव्हेंबर) सकाळी १०:१४ च्या सुमारास आग लागली. परिसरातील लाकूड आणि बांबूच्",
+      "source": "Instagram",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fT0FvcXlhMU94RVp3UHZMT19mQTc0dVJSSWdNQVBuWm9BeUdrNVo0SUFnWFpkUXZsajZHa0NwVDlzOWJReHlFVkU1dzVXZFFRUHg5RlVR?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 13:45:43 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 13:45:43 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Instagram"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "car insurance फटाक्यामुळे कारला लागली आग मग अशा वेळी इन्शुरन्स क्लेम करता येतो का",
+      "title": "Car Insurance: फटाक्यामुळे कारला लागली आग, मग अशा वेळी इन्शुरन्स क्लेम करता येतो का?",
+      "summary": "Car Insurance: फटाक्यामुळे कारला लागली आग, मग अशा वेळी इन्शुरन्स क्लेम करता येतो का?",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEZuMTkzcWJmS3pNSVdMY2JIV3ZqX0w3WVdHLUdqZFZtdnlleEphZzlVVkE0cEZzVVVyeGt2aTl3WVZxcWc5dmpsQ2lIZlJ0VzJ1b3pwbUFCQkExdVFCLU9ZS3kwUXRjVUliMEJtWE5kcUNNVmhQUDRsQmZreWxFNkVFOVZjbDBmRG1xeUlENlpRLXAtZjZiamtCM2JBSkxXY1BhNUdmS1dLcTR5b1MzQkcySl9wZUI5dTRCN0tNWHJpOXE4?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 11:47:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 11:47:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "पुण्यात नेमकं काय घडलं फुटपाथवर अचानक आग परिसरात काही काळ भीतीचं वातावरण",
+      "title": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
+      "summary": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
+      "source": "Lokmat.com",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Lokmat.com"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -600,9 +782,9 @@
       "summary": "पुणेकरांनो सावधान...! काकडे वस्तीत फुटपाथवर अचानक आग; वारंवारच्या वीज समस्यांमुळे नागरिक संतप्त",
       "source": "Lokmat.com",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHE4RndURzRPSWVfbGVvTExoWTd5ZmM5b1AxR2hqbVQ3MTRic2NHX05SSjZLSFBEcjVWVk5WSk9DRHFmOFo5dGZqUXZWeWNfZHJBdjZCdVdYMzYtRXgwajdLTG5fUzRQQmJKaXd4c0RTaHlfQjRlcEpMY3RIVXRsNWZoSnZaTjRyY1Ryc045a3RUdVRBMkVSX0ZQQ0FXcTM5OGtHbXdfb19hVTBXbFRyeGpnUEhDaTVOUzI5OXdOODJsYzFwNGNYamJzcjhzTV9GTXJaNEU1eXREcFY5OW05dXpFOVhBQzg1M0RmWndR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:56:14 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 09:56:14 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -661,6 +843,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "पुण्यात नोकरी महिनाभरावर लग्न पत्रिकाही छापल्या दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा ",
+      "title": "पुण्यात नोकरी, महिनाभरावर लग्न, पत्रिकाही छापल्या, दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा करुण अंत",
+      "summary": "पुण्यात नोकरी, महिनाभरावर लग्न, पत्रिकाही छापल्या, दिवाळीला घरी जाताना कोल्हापूरच्या तरुणाचा करुण अंत",
+      "source": "News18 Marathi",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbGdBanpvUVQ2R01TSEdLUnc4ajdSOC1OUHAzdW5EYW5mTTJFY29MTTNSSGVybUViVWxGLWwyMmZ6elVmTWRoTEhReXJlOEdPcGZSOEg4M1k5UkVBWjV0ZFdWdzU3bjRwMTJ3akZKMmxKX1FYbWFIUEppRXo4ZldlLV9ET3d3UnNhWlVQUUFCNFRPQnlMRnFPVXVSY284aUxtZkRhUGpSXzFyNGM0c1c4TnZrM05SUVpCb2l5dDJjTEVzWkQxbW9IN1Y4NnA5dzUwem9EUmluak5ZWFRQREJoVHBRY2MwNWZvblJBNUxZOA?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 03:41:00 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 03:41:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "News18 Marathi"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "nagar dam water storage नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा उन्हाळ्याची चिंता वाढली",
       "title": "Nagar Dam Water Storage: नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा; उन्हाळ्याची चिंता वाढली",
       "summary": "Nagar Dam Water Storage: नगर जिल्ह्यातील धरणांत ६७ टक्के पाणीसाठा; उन्हाळ्याची चिंता वाढली",
@@ -683,28 +887,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते के",
-      "title": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "summary": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHhIcmpUTXpRMFpCV3FuRVhGSDV1T1RLNWFRWThwSGgzTXMwNEhsSnFUUldoRHRJaDQ5X0dxV1cybG02RzB3dnhFZjg5X1Vtd216czZ4SDFCZFRzUUhwMjhhNGNlMVFuRHV4ZFhrZG1oZ3U1b0hRdVp6MjZ2MmVKbDFZU0NZYmVCZWw3MTBhbWpuQUZpbTAwelVPLVhiLVZ2Zm9uUDl0TEJwY2llbXBjYkRTcmtJWGxBQ2J4TjNhdi0?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "weather alert दिवाळीत हुडहुडी महाराष्ट्रातील वातावरणात पुन्हा उलटफेर आजचं हवामान अपडेट",
       "title": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
       "summary": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
@@ -713,28 +895,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdHctWUpzd1YybWRSMlZYb25yVXNiSHhLdHVMWWUzZlljVlpETFZGTndFYUxkV2NORHg2aDNtcTZKMVdEWmtvbzdrOHBWWV9JQXdZRXBLNUZITDllRXVuVHYwNUR2TDVSNGJhRnlNeHlreENtVnd3YWZlamVBamtjYWFMZ3h2RFgxekRnUElnQy1Zb0t3U0VaUWVDVzVzcS1wbU5TTkZVQzZKUnVIZEdTUU5Dem1uOWhsbFdhSlY1dHJCM2l3VzloR2hzWUhlaUYwY3FOX2xtVEVsU1BNclBEckJ6MnBZazNyOElrMHFKM1RveVZBeVByeTFmc2pqT01XVnY3MlJydG4?oc=5",
       "pubDate": "Sun, 08 Nov 2026 02:05:00 GMT",
       "lastUpdated": "Sun, 08 Nov 2026 02:05:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "निर्दयी लेक तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला पुण्यातील हादरवून सोडणारी घटना",
-      "title": "Pune News: निर्दयी लेक! तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला, पुण्यातील हादरवून सोडणारी घटना",
-      "summary": "Pune News: निर्दयी लेक! तो वाद अन् डोक्यात फावडं घालून बापाचा जीव घेतला, पुण्यातील हादरवून सोडणारी घटना",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVRlU1ZVSFVZQ1FYTDgzV1VOblRqS3JXOU5LRndQRmZQUnB1VWNwYTljV1ZtVjVKclhQUXdwQUhrTE9QN29hN25TRjBBWjFzSExKakhZdkVBeWJYd2ZlaVZZSFlwNVdUeG9TSmU1VHJHNzIzM09nY25PalIxSkhNS19jdVQ4N1IyWkg0QU9WcEtpVEY4c0M4SXZoQXpfUm1qREd3OGJPUVhXWXJUb1lOYW1RMlh4QnAtQWFPbg?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 01:09:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 01:09:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -771,84 +931,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात द्वारका चौकात महिलेला चिरडले शरीराचे ज",
-      "title": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात, द्वारका चौकात महिलेला चिरडले; शरीराचे जागेवर दोन तुकडे",
-      "summary": "लक्ष्मीपूजनच्या पूर्वसंध्येला नाशिकमध्ये भीषण अपघात, द्वारका चौकात महिलेला चिरडले; शरीराचे जागेवर दोन तुकडे",
-      "source": "News18 Marathi",
+      "id": "weather alert ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट हवामानात मोठा बदल",
+      "title": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
+      "summary": "Weather Alert : ऐन दिवाळीत महाराष्ट्रावर दुहेरी संकट; हवामानात मोठा बदल",
+      "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeVJKdFZHNjVlbEM5MVZTb1Q3akVfWXdrZTJEWHJ0Uy00UTB3aER3SEtHYVBrcFR4OW5ETlFqaTNRSHdsd0ZOWUVuTmtFOHREbTJyVEwwUDRsLTdJNWQyLUpaa082VndNNUFuTV91ckhpWWdKNnBCcFVRVjR0aEJZRGVzZmcyR2F2QURRSVZ3dUVUTk1aR0RMMGxoWTlpRWNFS0pxdzMyMmtjVkd0WVdIRXdpSG5ZOVRSMEw0Y01KMFFYdHpyU0NBTm5ZcEJhUGRrTlpDamt5RGUxaGZFcVVtWkN4Y204blZSN0xNWHhzVWpKWTJTSlAtR2taRF9rR1BuclhqbXJrX3VEa3RONmMxaWFRS1lPQQ?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:17:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 14:17:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Z3eG1vVnd3TFhucTBqZVZIQWVKel8zLWZ2bkQyNXlnWmFfZ1Y3UTNISDB5emZ6NmFuaWhRVjUxWDFqT2duUmR3UGU2cTI1WVBxRUdPV2RQN3VFOVU2MjV2TUpWUG4xdzZkSHoyaEMxcEZXODF4MWFqQU9uMF80eUE5VzZubXpvSzFJU3cwMXNsVktleU0tag?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 17:08:00 GMT",
+      "lastUpdated": "Sat, 07 Nov 2026 17:08:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "धक्कादायक ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा यू टर्न हवामान खात्याचा मोठा इशारा",
-      "title": "धक्कादायक! ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा-यू टर्न; हवामान खात्याचा मोठा इशारा!",
-      "summary": "धक्कादायक! ऐन दिवाळीत महाराष्ट्राच्या हवामानाचा महा-यू टर्न; हवामान खात्याचा मोठा इशारा!",
-      "source": "Prahaar.in",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTRlTVA2ODRnQWNOTERIX2VwQUt3Zjh0NUlabEstZ0ZNbTQ3ZEtTVXhxdzktVnhZc1JnaldmWUNTTFRNUWdTOEhIMU40V0hvbGZtbnQtVmM1T3ZkNU11a3A1akN0SjZyQ1BqSlM3NGpDWl9CdFFEd0NNRFJRc1NOaTVteW16d25sTDJvZ3NiTGdHU2RRdERYcUFuT2czS0FlVFBmVzkxZ2Q3a0VCLXA4VXo5QjJkdVpTOEVHSExTT3FkcHAtOGV0VVYza3E?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:06:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 14:06:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Prahaar.in"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना",
-      "title": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग! फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना : शहरातील फटाक्यांच्या दुकानाला भीषण आग लागल्याची घटना समोर आली आहे. आग लागल्या",
-      "summary": "जालन्यात फटाक्यांच्या दुकानाला भीषण आग! फटाक्यांच्या स्फोटांच्या आवाजाने परिसरात खळबळ जालना : शहरातील फटाक्यांच्या दुकानाला भीषण आग लागल्याची घटना समोर आली आहे. आग लागल्या",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McDdObk0zRm5BNkxBZWFUNmlScUp1aTZ1T1Fvd3RUemwxYjJZYllIVWRrRkFRMC0xR3RWOHFBRUNLbjNhUmlUVHVnM25PWEVheDFJSnh3?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 13:07:15 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 13:07:15 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "महावितरणची अभय योजना",
-      "title": "महावितरणची अभय योजना",
-      "summary": "महावितरणची अभय योजना",
-      "source": "Esakal",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHo5dk1CTDBlNnBMWkpuTDBYVTVENF9ZamNBSUtOZEFsamcxRmtlVFoxTUxWaEh0QXZra2hqMUpXTG5EMnBqSWJnQTJ1dWpfSWxYVGxzNnlSRDZNa3MyZTA1VFBaSmtqNFg3dWljR2ZsRTJNUC1yekI2Wk5jb0xrMWNJQ2hEUzg2SDJ6WWpVTG1MekdyTUFmZ3o1X2ZoOTDSAZ8BQVVfeXFMT3B6OXZNQkwwZTZwTFpKbkwwWFU1RDRfWWpjQUlLTmRBbGpnMUZrZVRaMU1MVmhIdEF2a2toajFKV0xuRDJwakliZ0EydXVqX0lsWFRsczZ5UkQ2TWtzMmUwNVRQWkprajRYN3VpY0dmbEUyTVAtcnpCNlpOY29MazFjSUNoRFM4NkgyellqVUxtTHpHck1BZmd6NV9maDkw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 12:27:00 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 12:27:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Esakal"
+        "Dainik Prabhat"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -860,9 +954,9 @@
     }
   ],
   "summary": {
-    "total": 21,
-    "alerts": 8,
-    "news": 13
+    "total": 24,
+    "alerts": 9,
+    "news": 15
   },
-  "cleanedAt": "2026-11-08T10:57:20.636Z"
+  "cleanedAt": "2026-11-08T16:55:19.579Z"
 }
