@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T20:55:42.036Z",
+  "generatedAt": "2026-11-09T00:25:38.750Z",
   "status": "ok",
   "alerts": [
     {
@@ -18,6 +18,33 @@
         "ETV Bharat"
       ],
       "confidence": "Medium",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "3 dead as firecracker accidents blazes hit cities across india on diwali",
+      "title": "3 dead as firecracker accidents, blazes hit cities across India on Diwali",
+      "summary": "3 dead as firecracker accidents, blazes hit cities across India on Diwali",
+      "source": "India Today",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2cwTTVRTFdicmVhaE50dVNYSEFYNzI4RW5FZHlOMWliMHJaclYtSkM0TXkzdksxRE92QzV2WDl0VURPci1WSGFuN0F1RTFLSUR6YjlfLXU1eHRpNG9DVlVvVzlDSlI4Z0ZuRURrYWhfVU5KdU8xMHBHRFNmY1hoYUpVWW1IWXBBYTJ6bDk0N2lNbzY4bjdyckVIc29ZRXVIM3lOazRfZ3djbThWREVCbElSdXFHSzB1bU15V0xaMXVOZlozUkZBOXplalJnQdIB0wFBVV95cUxPUmFMU0lqOHo3Q2FTT1lYcjRqMkFwSzNpRVBCdmpFSGE3c2VlMEhVVVZ4SHhiaFRMZmlRUEEycVhWcEZOV1BYeUJjMmhNVjZvMG5vWHNXZjVCWnFZeGRSZUUxUC02cHhiSlFSZmlLaDd5aXhURXlIaWZiTWFoLXZnajJ2Vnl3UG0yT2RRYVRWTDdLVXJlSUVsSVFseWRtQnhEWFFfTVFmTGpZLUFORElxaThrNzI3X3VhWlV4QkJEWTFfRlBmVDlLLUo4RWVuRnRoeTVJ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 22:37:49 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 22:37:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Today"
+      ],
+      "confidence": "Single source",
       "w": [
         "fire",
         "blaze",
@@ -171,6 +198,28 @@
   ],
   "news": [
     {
+      "id": "maharashtra weather राज्यातील हवामानात मोठा बदल बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदा",
+      "title": "Maharashtra Weather : राज्यातील हवामानात मोठा बदल, बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदाज",
+      "summary": "Maharashtra Weather : राज्यातील हवामानात मोठा बदल, बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदाज",
+      "source": "MumbaiTak",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTBJbXZJbXF6bElFVjI2RFhNcnZscTNFUHhFSkg5Y1NvanEtZFZkWENXMmJxSDRaZDE3c0VhS0RoeTVNdGtQbF93UG5KV3V4c1FiajlJNzRDZ3J3ZDVZU09LLURkWTNVaDFZaEZZUG5kbm9rT2xzQ1RESGIyX3YtLUdXVk4tenpkZGNzbURfaW5Bd3VBZEpJeEFQTndFWTNfc3lRSGlQM1VSV1hTamxvOE41MGUxQjRpbW5Cd3p30gG-AUFVX3lxTE9hMEltdkltcXpsSUVWMjZEWE1ydmxxM0VQeEVKSDljU29qcS1kVmRYQ1cyYnFINFpkMTdzRWFLRGh5NU10a1BsX3dQbkpXdXhzUWJqOUk3NENncndkNVlTT0stRGRZM1VoMVloRllQbmRub2tPbHNDVERIYjJfdi0tR1dWTi16emRkY3NtRF9pbkF3dUFkSkl4QVBOd0VZM19zeVFIaVAzVVJXWFNqbG84TjUwZTFCNGltbkJ3enc?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 23:30:12 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 23:30:12 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MumbaiTak"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुणे आतषबाजीमुळे २४ ठिकाणी आग अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
       "title": "पुणे: आतषबाजीमुळे २४ ठिकाणी आग, अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
       "summary": "पुणे: आतषबाजीमुळे २४ ठिकाणी आग, अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
@@ -215,9 +264,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "water storage falls 5 56 tmc below last year in khadakwasla system",
-      "title": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
-      "summary": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "id": "khadakwasla dam water storage falls 5 56 tmc in",
+      "title": "Khadakwasla Dam Water Storage Falls 5.56 TMC in Pune",
+      "summary": "Khadakwasla Dam Water Storage Falls 5.56 TMC in Pune",
       "source": "Urban Acres",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFdYdS1EbktwSDluaVM5eWxiaERLU0NkNkpZWkZDR1pTQnZOdWNfNF9EVThDMWF0OVZtNGNaSktXc2JLYUY2am5mZ3Bpa2VOYUlZQXRfcVhheEVBUkxQN3YwUWdNSV8zTzhsaWxvdzNpYVVQLXVQNW94cjFzb05pMTFKSURnV2tha0Vkd0NMVENuM0tYSGR0NS1n?oc=5",
@@ -341,28 +390,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुण्यात नेमकं काय घडलं फुटपाथवर अचानक आग परिसरात काही काळ भीतीचं वातावरण",
-      "title": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
-      "summary": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -505,28 +532,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते के",
-      "title": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "summary": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHhIcmpUTXpRMFpCV3FuRVhGSDV1T1RLNWFRWThwSGgzTXMwNEhsSnFUUldoRHRJaDQ5X0dxV1cybG02RzB3dnhFZjg5X1Vtd216czZ4SDFCZFRzUUhwMjhhNGNlMVFuRHV4ZFhrZG1oZ3U1b0hRdVp6MjZ2MmVKbDFZU0NZYmVCZWw3MTBhbWpuQUZpbTAwelVPLVhiLVZ2Zm9uUDl0TEJwY2llbXBjYkRTcmtJWGxBQ2J4TjNhdi0?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "weather alert दिवाळीत हुडहुडी महाराष्ट्रातील वातावरणात पुन्हा उलटफेर आजचं हवामान अपडेट",
       "title": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
       "summary": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
@@ -539,28 +544,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather दिवाळीच्या तोंडावर हवामान बदललं राज्यावर दुहेरी संकट",
-      "title": "Maharashtra Weather : दिवाळीच्या तोंडावर हवामान बदललं, राज्यावर दुहेरी संकट",
-      "summary": "Maharashtra Weather : दिवाळीच्या तोंडावर हवामान बदललं, राज्यावर दुहेरी संकट",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGo0SWtBZDBFa0FsTm90NWtLbjhJdmZZTzJObXEwZUlUZmNFSXZpTjNxc0dkTWI1R2lGMUJyTVU4ZE9kOGZUV1dnSEVBLXRGaVBNWEdVX3BCZDJuS21tNGRIRW82M0xSUWdFczFiRkpmckxjdnpsY2JJeHpZTnd1VDdCRzV4TUNhMm15cl8wRlNvZ0hMRk5wT1N3VVdVc0l6c0ZZdEZkTlUyQV9jdGZ5SjUzRGpVNHEtM1d4S1Z30gG-AUFVX3lxTE5oajRJa0FkMEVrQWxOb3Q1a0tuOEl2ZllPMk5tcTBlSVRmY0VJdmlOM3FzR2RNYjVHaUYxQnJNVThkT2Q4ZlRXV2dIRUEtdEZpUE1YR1VfcEJkMm5LbW00ZEhFbzYzTFJRZ0VzMWJGSmZyTGN2emxjYkl4ellOd3VUN0JHNXhNQ2EybXlyXzBGU29nSExGTnBPU3dVV1VzSXpzRll0RmROVTJBX2N0ZnlKNTNEalU0cS0zV3hLVnc?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 23:30:33 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 23:30:33 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -588,6 +571,33 @@
         "ETV Bharat"
       ],
       "confidence": "Medium",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
+      "id": "3 dead as firecracker accidents blazes hit cities across india on diwali",
+      "title": "3 dead as firecracker accidents, blazes hit cities across India on Diwali",
+      "summary": "3 dead as firecracker accidents, blazes hit cities across India on Diwali",
+      "source": "India Today",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2cwTTVRTFdicmVhaE50dVNYSEFYNzI4RW5FZHlOMWliMHJaclYtSkM0TXkzdksxRE92QzV2WDl0VURPci1WSGFuN0F1RTFLSUR6YjlfLXU1eHRpNG9DVlVvVzlDSlI4Z0ZuRURrYWhfVU5KdU8xMHBHRFNmY1hoYUpVWW1IWXBBYTJ6bDk0N2lNbzY4bjdyckVIc29ZRXVIM3lOazRfZ3djbThWREVCbElSdXFHSzB1bU15V0xaMXVOZlozUkZBOXplalJnQdIB0wFBVV95cUxPUmFMU0lqOHo3Q2FTT1lYcjRqMkFwSzNpRVBCdmpFSGE3c2VlMEhVVVZ4SHhiaFRMZmlRUEEycVhWcEZOV1BYeUJjMmhNVjZvMG5vWHNXZjVCWnFZeGRSZUUxUC02cHhiSlFSZmlLaDd5aXhURXlIaWZiTWFoLXZnajJ2Vnl3UG0yT2RRYVRWTDdLVXJlSUVsSVFseWRtQnhEWFFfTVFmTGpZLUFORElxaThrNzI3X3VhWlV4QkJEWTFfRlBmVDlLLUo4RWVuRnRoeTVJ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 22:37:49 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 22:37:49 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "India Today"
+      ],
+      "confidence": "Single source",
       "w": [
         "fire",
         "blaze",
@@ -739,6 +749,28 @@
       "action": "Avoid fallen wires and contact MSEDCL for hazards."
     },
     {
+      "id": "maharashtra weather राज्यातील हवामानात मोठा बदल बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदा",
+      "title": "Maharashtra Weather : राज्यातील हवामानात मोठा बदल, बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदाज",
+      "summary": "Maharashtra Weather : राज्यातील हवामानात मोठा बदल, बहुतांश जिल्ह्यांना कोरड्या हवामानाचा अंदाज",
+      "source": "MumbaiTak",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTBJbXZJbXF6bElFVjI2RFhNcnZscTNFUHhFSkg5Y1NvanEtZFZkWENXMmJxSDRaZDE3c0VhS0RoeTVNdGtQbF93UG5KV3V4c1FiajlJNzRDZ3J3ZDVZU09LLURkWTNVaDFZaEZZUG5kbm9rT2xzQ1RESGIyX3YtLUdXVk4tenpkZGNzbURfaW5Bd3VBZEpJeEFQTndFWTNfc3lRSGlQM1VSV1hTamxvOE41MGUxQjRpbW5Cd3p30gG-AUFVX3lxTE9hMEltdkltcXpsSUVWMjZEWE1ydmxxM0VQeEVKSDljU29qcS1kVmRYQ1cyYnFINFpkMTdzRWFLRGh5NU10a1BsX3dQbkpXdXhzUWJqOUk3NENncndkNVlTT0stRGRZM1VoMVloRllQbmRub2tPbHNDVERIYjJfdi0tR1dWTi16emRkY3NtRF9pbkF3dUFkSkl4QVBOd0VZM19zeVFIaVAzVVJXWFNqbG84TjUwZTFCNGltbkJ3enc?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 23:30:12 GMT",
+      "lastUpdated": "Sun, 08 Nov 2026 23:30:12 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "MumbaiTak"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
       "id": "पुणे आतषबाजीमुळे २४ ठिकाणी आग अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
       "title": "पुणे: आतषबाजीमुळे २४ ठिकाणी आग, अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
       "summary": "पुणे: आतषबाजीमुळे २४ ठिकाणी आग, अग्निशामक दलाच्या तत्परतेमुळे आग आटोक्यात",
@@ -783,9 +815,9 @@
       "action": "No immediate action required."
     },
     {
-      "id": "water storage falls 5 56 tmc below last year in khadakwasla system",
-      "title": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
-      "summary": "Pune Water Storage Falls 5.56 TMC Below Last Year in Khadakwasla System",
+      "id": "khadakwasla dam water storage falls 5 56 tmc in",
+      "title": "Khadakwasla Dam Water Storage Falls 5.56 TMC in Pune",
+      "summary": "Khadakwasla Dam Water Storage Falls 5.56 TMC in Pune",
       "source": "Urban Acres",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFdYdS1EbktwSDluaVM5eWxiaERLU0NkNkpZWkZDR1pTQnZOdWNfNF9EVThDMWF0OVZtNGNaSktXc2JLYUY2am5mZ3Bpa2VOYUlZQXRfcVhheEVBUkxQN3YwUWdNSV8zTzhsaWxvdzNpYVVQLXVQNW94cjFzb05pMTFKSURnV2tha0Vkd0NMVENuM0tYSGR0NS1n?oc=5",
@@ -909,28 +941,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "पुण्यात नेमकं काय घडलं फुटपाथवर अचानक आग परिसरात काही काळ भीतीचं वातावरण",
-      "title": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
-      "summary": "पुण्यात नेमकं काय घडलं? फुटपाथवर अचानक आग, परिसरात काही काळ भीतीचं वातावरण",
-      "source": "Lokmat.com",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQek1ndWVZQlRJREk0YmpSdWo4VVVkdzdzQi1rSC1WWW03Z19yYVdBYVZEX3RSSVIxc2xidkZsSVN1SFZQSl9EaS1oVlVIUVpGNXlsQ21hLTZTQklCdGNTaVdIM3lncG0tYWlTdEFPblV6Y05kWEhrOU1XZUcyQUg3Z1V5OFNraDRtOWZfa2dXUGQ1WURITC1CTENqVEVIb0tyb2ppS2hLUkc5M3VPZWpmR2l6Q250Q1F5T1R2UWdzc2YxTUl4Ymlkc0doUVdld2xESHQ2LVBwYUlYSUd4b3JmS1Z1RHFodVJR0gHuAUFVX3lxTFBMcThGd1RHNE9JZV9sZW9MTGhZN3lmYzlvUDFHaGptVDcxNGJzY0dfTlJKNktIUERyNVZWTlZKT0NEcWY4Wjl0ZmpRdlZ5Y19kckF2NkJ1V1gzNi1FeDBqN0tMbl9TNFBCYkppd3hzRFNoeV9CNGVwSkxjdEhVdGw1ZmhKdlpONHJjVHJzTjlrdFR1VEEyRVJfRlBDQVdxMzk4a0dtd19vX2FVMFdsVHJ4amdQSENpNU5TMjk5d044MmxjMXA0Y1hqYnNyOHNNX0ZNclo0RTV5dERwVjk5bTl1ekU5WEFDODUzRGZad1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 09:58:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Lokmat.com"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1073,28 +1083,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते के",
-      "title": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "summary": "Pune News: पुण्यात पबमध्ये नाचताना शर्ट काढल्यानं बिनसलं; तरुणीसह चौघांनी ऋतिकसोबत रस्त्यातच नको ते केलं, आता अटक",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHhIcmpUTXpRMFpCV3FuRVhGSDV1T1RLNWFRWThwSGgzTXMwNEhsSnFUUldoRHRJaDQ5X0dxV1cybG02RzB3dnhFZjg5X1Vtd216czZ4SDFCZFRzUUhwMjhhNGNlMVFuRHV4ZFhrZG1oZ3U1b0hRdVp6MjZ2MmVKbDFZU0NZYmVCZWw3MTBhbWpuQUZpbTAwelVPLVhiLVZ2Zm9uUDl0TEJwY2llbXBjYkRTcmtJWGxBQ2J4TjNhdi0?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "lastUpdated": "Sun, 08 Nov 2026 02:07:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "weather alert दिवाळीत हुडहुडी महाराष्ट्रातील वातावरणात पुन्हा उलटफेर आजचं हवामान अपडेट",
       "title": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
       "summary": "Weather Alert: दिवाळीत हुडहुडी! महाराष्ट्रातील वातावरणात पुन्हा उलटफेर, आजचं हवामान अपडेट",
@@ -1115,34 +1103,12 @@
       "icon": "ℹ️",
       "critical": false,
       "action": "No immediate action required."
-    },
-    {
-      "id": "maharashtra weather दिवाळीच्या तोंडावर हवामान बदललं राज्यावर दुहेरी संकट",
-      "title": "Maharashtra Weather : दिवाळीच्या तोंडावर हवामान बदललं, राज्यावर दुहेरी संकट",
-      "summary": "Maharashtra Weather : दिवाळीच्या तोंडावर हवामान बदललं, राज्यावर दुहेरी संकट",
-      "source": "MumbaiTak",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGo0SWtBZDBFa0FsTm90NWtLbjhJdmZZTzJObXEwZUlUZmNFSXZpTjNxc0dkTWI1R2lGMUJyTVU4ZE9kOGZUV1dnSEVBLXRGaVBNWEdVX3BCZDJuS21tNGRIRW82M0xSUWdFczFiRkpmckxjdnpsY2JJeHpZTnd1VDdCRzV4TUNhMm15cl8wRlNvZ0hMRk5wT1N3VVdVc0l6c0ZZdEZkTlUyQV9jdGZ5SjUzRGpVNHEtM1d4S1Z30gG-AUFVX3lxTE5oajRJa0FkMEVrQWxOb3Q1a0tuOEl2ZllPMk5tcTBlSVRmY0VJdmlOM3FzR2RNYjVHaUYxQnJNVThkT2Q4ZlRXV2dIRUEtdEZpUE1YR1VfcEJkMm5LbW00ZEhFbzYzTFJRZ0VzMWJGSmZyTGN2emxjYkl4ellOd3VUN0JHNXhNQ2EybXlyXzBGU29nSExGTnBPU3dVV1VzSXpzRll0RmROVTJBX2N0ZnlKNTNEalU0cS0zV3hLVnc?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 23:30:33 GMT",
-      "lastUpdated": "Sat, 07 Nov 2026 23:30:33 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "MumbaiTak"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
     }
   ],
   "summary": {
-    "total": 28,
-    "alerts": 10,
-    "news": 18
+    "total": 27,
+    "alerts": 11,
+    "news": 16
   },
-  "cleanedAt": "2026-11-08T20:55:42.041Z"
+  "cleanedAt": "2026-11-09T00:25:38.761Z"
 }
