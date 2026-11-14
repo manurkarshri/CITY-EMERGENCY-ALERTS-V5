@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-11-14T09:41:48.714Z",
+  "generatedAt": "2026-11-14T16:17:39.780Z",
   "source": "Open-Meteo",
   "regions": {
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 30.3,
-      "humidity": 20,
-      "rain": 0,
-      "wind": 3.4,
-      "gust": 19.1,
-      "code": 1,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.453Z"
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.777Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 30.2,
-      "humidity": 20,
-      "rain": 0,
-      "wind": 6.4,
-      "gust": 23.4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.464Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.777Z"
+    },
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.778Z"
     },
     "alandi": {
       "label": "Alandi Area",
-      "temp": 29.5,
-      "humidity": 25,
-      "rain": 0,
-      "wind": 8.7,
-      "gust": 21.2,
-      "code": 1,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.549Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.778Z"
     },
     "chakan": {
       "label": "Chakan Industrial Cluster",
-      "temp": 29.4,
-      "humidity": 25,
-      "rain": 0,
-      "wind": 6,
-      "gust": 18.4,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.572Z"
-    },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "temp": 28.8,
-      "humidity": 26,
-      "rain": 0,
-      "wind": 5.2,
-      "gust": 18.4,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 17,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.575Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.779Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
-      "temp": 27.4,
-      "humidity": 32,
-      "rain": 0,
-      "wind": 6,
-      "gust": 17.6,
-      "code": 1,
-      "rainChance": 0,
-      "visibility": 17,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.596Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.779Z"
     },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
-      "temp": 30.3,
-      "humidity": 21,
-      "rain": 0,
-      "wind": 6.4,
-      "gust": 22.3,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.677Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "temp": 27,
-      "humidity": 28,
-      "rain": 0,
-      "wind": 8.5,
-      "gust": 22,
-      "code": 1,
-      "rainChance": 0,
-      "visibility": 18,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.685Z"
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.779Z"
     },
     "ranjangaon": {
       "label": "Ranjangaon Zone",
-      "temp": 28.1,
-      "humidity": 28,
-      "rain": 0,
-      "wind": 6.3,
-      "gust": 19.1,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T09:41:48.714Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.779Z"
+    },
+    "saswad": {
+      "label": "Saswad Region",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-14T16:17:39.780Z"
     }
   }
 }
