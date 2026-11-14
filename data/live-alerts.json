@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-11-14T16:17:39.788Z",
+  "generatedAt": "2026-11-14T20:50:31.345Z",
   "status": "ok",
   "alerts": [
+    {
+      "id": "pmc may follow mumbai in curbing aerial fireworks",
+      "title": "PMC may follow Mumbai in curbing aerial fireworks",
+      "summary": "PMC may follow Mumbai in curbing aerial fireworks",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXRiSktuQy1uNnNDdGlpZHM4S2V0cUhRY0Zla1JrSC1LU1J5aVRQa3lqYXM5aHpjeDBaUkJGbEtiMzVsbFNtRXRrMFVkdmRQLXdmOFV2WGRjSVVwR19KY1hKRXIzN1Y0LTg4bDkyaFNuRTBjOVEtYUpBRnMtTXU5Vm1YTG1zdUdhX013M2ZfUFp0TFFMaE5hUldLN3dGQmNNb1BvSXVtN2taazl4ZjZOUy13MjJfdTRDd29lR2Rn0gHDAUFVX3lxTFB2d2ctcDMwZ0FmR0NaT2N6dDJncW9xTXdXWWZDZ0h0cm1HQ2Z6RU1HXzcwcmZTLVprTlpVNGl6QzdtWEZqVmNBaHVZV0hvM2lSUVVlTmx5cTI1eTNmbXRPVEU5SjhoY2JPMVh6NU1zZkRDNFpGTWM2T2pQTkNWaWQ4eXhfRkpCdWc5TksxdlFKS2FXcnZjQkxZeFZBTm1HcWl3SGdBMnlKMDl0UWxhS0pldmhKb1g5TS1hb2NSNG5uOEMwbw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 19:06:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 19:06:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
     {
       "id": "ajintha ghat accident अजिंठा घाटात अपघातामुळे ११ तास वाहतूक विस्कळीत",
       "title": "Ajintha Ghat Accident : अजिंठा घाटात अपघातामुळे ११ तास वाहतूक विस्कळीत",
@@ -84,40 +111,67 @@
       "icon": "🚑",
       "critical": false,
       "action": "Expect delays. Avoid the affected road if possible."
+    },
+    {
+      "id": "65 of nagpur s water supply hangs on a single vulnerable power line",
+      "title": "65% Of Nagpur’s Water Supply Hangs On A Single, Vulnerable Power Line",
+      "summary": "65% Of Nagpur’s Water Supply Hangs On A Single, Vulnerable Power Line",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPczdsT01oMko4WWNnVnFrOUtxRGZzbUpfMmpzdjAzZmdwbnVVOFF1RWtzWmR5RkxTaFZ0QWtKUUxEamI5cUJmZm1UOFpQWEJMVDZLbUVNeUFaNEZEbllycmU0VVBsbHREbGdkODBFNklGa29DajB2MkhqdVRoa1VuWWtfeXFQSXFHMXlqaVBWR0RQNk1qX3BDTVhkdXNXQWNCUW9jU0VNdmIzeHZZNGpwWWpzWS1ydzVXVDFDWjdHaFpqRXBxMFpOWnZ5amJyR3NIVUZBdTNPMNIB3AFBVV95cUxOX0ltUHVTX1U3NnpPNGktd0QtVjlMQjlDd0VZZVZTOXNHWU1yWDY5bHhqbUVCNU11MmNUZzNzczFMZFlaZnBTTkl4aTY5LWJxd0lhOXhBYWJKSXZYekdZY1c4Vjg1MThXY3JRb0NLMW9NZ0RsYks4VG1KbU9iSGdxZ2xaci1JamNoMnlmZDAzZkl6QmQweFlRTnFZN0VjY09acEo0ajliQVdIXzJueVozQXhVVG51aUw4bWh5SVhKcVJLR251d1pSbVUtZm01eGlVTm1HaHhPNXJtX0Ru?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 19:11:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 19:11:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
+      ],
+      "severity": "watch",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards.",
+      "correlation": [
+        "Power supply impact possible."
+      ]
     }
   ],
   "news": [
     {
-      "id": "रन फॉर युनिटी मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल फर्ग्युसन गणेशखिंड आणि पाषाण रस्",
-      "title": "‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल; फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद | Pune Traffic Update News",
-      "summary": "‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल; फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद | Pune Traffic Update News",
-      "source": "Esakal",
+      "id": "khadak police arrest 4 for jewellery theft after 10 000km chase across maharashtra up utta",
+      "title": "Khadak police arrest 4 for jewellery theft after 10,000km chase across Maharashtra, UP & Uttarakhand",
+      "summary": "Khadak police arrest 4 for jewellery theft after 10,000km chase across Maharashtra, UP & Uttarakhand",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTNING4xN21xZXZRdkN0R0F5aFN1dlpMU3ZQZ2Q1NlR1NlN3OXJKdmp4bWJFQXVkdlFMeVI0SmtDTWFfQml6SzF5d3RQSkpjSlZ1YkZBT2k4TG9zWC1wYUM0UEE1WFNsbm5pOGhGWHN1YnY4aXdqblQ5Q3I3S25qZlFLV0gxRDQyN2ZzeW5MdXBULUY4YWF1a3dPUzd2eGFZZmt2LVhfbXJVaWFXSl9aQi1qWkFRdTctOVA4UkI5RmJMSFlJbk5QQmJfeTJvMl83REd2YmJYeldVQjEtRXUxQmRxdTNBWVpmWWt1Tjc4T3hRd1BIOUdOYg?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 14:51:37 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVlhyZDB6MnBYSTh2V2xKTWVQSlJPb2pabkxhU3ROT1FNZi1Ydkp3cTh0Q1poQ1NHZC1Rc2xBbnV5SzhaOVdwSUs2SlZlcG5mV3RmREtLTDVMZG5JRzNSVWRLTDVHTTM5QXI3NEFMUHJNSmtxaC1XRDRSNEJ1UVRidll2OTFhZ0stRVJEQXoyMm9VX2hOak50Z3dNTFZGbjVhNElnVUhwb2VpSklwVU5LM0ZHX1ZTTmd4U1dDNk5MVmQ1RHBLdnhJX255dFVFWFdkVzBtUDJFTzVINGN5VGlNcTRPYTF5UlN6UjhQREd1eG5VTlA3aElwb1VrZ1rSAYICQVVfeXFMTnJWYWtCXzlrOTBmaVp1QnJGMmRqU0tNQUN5Ujh4QnR5R2NrZmw4TnZJMWpfNml6cnR2clVURERVclh3TXBFR3hCRjVWUXhCMFhVaE1NZkdIbXFlTHFITUl2b1ZiYUFFTXJsSnUyMHpoSmlVeTQtODJNVzlKMk1KaVVyNHBmdHp6SElNaWZEcEwzU1Q0MTQ5UVZIaHZJZkJXZVhaN3Y3cVBQM3daQVZqdWNoWEhRTUk3Q1VBWTNUYmFxMTFfMXdsSm14X2VFdk5lMDNtWW1IY3h0M0ZJcGdacHFJRldiRHJIQjNBWF9tMi1jOUg4QjJPMTlnSDdFVjJCbEhR?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 18:53:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 18:53:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
       ],
       "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
       "critical": false,
-      "action": "Check route before starting travel.",
-      "correlation": [
-        "Road delay or diversion possible."
-      ]
+      "action": "Stay alert and follow police advisories."
     },
     {
       "id": "traffic updates due to amit shah s visit there are traffic restrictions in the city",
@@ -126,8 +180,8 @@
       "source": "पोलीसनामा",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRmN5blJtb19IVmFLN0pTZ2VNdVlwV2JkNHEwbWdNdlB3aEYzV1lZUDVPcEw3c3plT1VTeG8wNWtMWHA3dVR1WWxmSnV3c2s1cUdsWjVMT0RzeHN5LUhfbUJMWVBNdml2NlF0Mmpaelc4Z3pnNXNxS3QwTmlIZEZmVTdnUXVSX3d6d0ZPNVFIMHEydmpXS04xZThwc045cnBHc0UxQkRrTDBrYkc1REhqRXhMNTAxcDFxRlZaTURDOWIxWURQclJkNHR1UGxrb2FuUzdRQnhmcTdyZ29iQ0FJZnIwbmlQRkpLREJqbHVlcGdUSks5SWZsb1kxbXlsWXl0?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 12:17:36 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 12:17:36 GMT",
+      "pubDate": "Sat, 14 Nov 2026 16:46:06 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 16:46:06 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -271,24 +325,110 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "title": "Pune News : अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "summary": "Pune News : अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "source": "Dainik Prabhat + 4 more",
+      "id": "पुणे अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल जाणून घ्या कुठे नो प",
+      "title": "पुणे : अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल; जाणून घ्या कुठे नो-पार्किंग, कोणते रस्ते बंद? पुणे : केंद्रीय गृहमंत्री अमित शहा यांच्या दौऱ्यानिमित्त रविवारी, १",
+      "summary": "पुणे : अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल; जाणून घ्या कुठे नो-पार्किंग, कोणते रस्ते बंद? पुणे : केंद्रीय गृहमंत्री अमित शहा यांच्या दौऱ्यानिमित्त रविवारी, १",
+      "source": "Instagram + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFBVRzRjb0thWjFHN19sX0JrYUpoS2RhTWN6SnB2eG9GR3drZ2FtLVpTb0dwQy1KRS0yTzQxbDhaXzV2R1FQTzd5RHl6dzcxMjJDdUc4NXB6cjRZSXV4Y0ZXa2E2RFBBcXVrekNPTlpodnRKSmU2d00zSnRHR2E4dG1kVQ?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 15:57:00 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 15:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhSTdYeS1LY0R4UG1NOTl4Q2twWXRKVmVOYU5IWHNQN09vXzlOY241amVRTjk0Z0ZYcDFHUS1iSGlJYndHWE1DVzBZZFpaa2ZHc0E?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 17:59:03 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 17:59:03 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
-        "Esakal",
-        "Lokmat.com",
         "Instagram",
+        "Dainik Prabhat"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "title": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "summary": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "source": "Esakal + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5UXhqbURna012NGNfRzFxLXNiWjlBSkh6eXlQTjNvamo1TVZSNmVNV1lCQVZIWE1nWFhZa3JBSmhXWTV6X19WUlkzTWcwS19tdDN3X2pDY2dCREJLd1ktb0p6dWRMdVkyV3hSLU54Q1F5RjjSAXhBVV95cUxPcUl0ZzhvR0p1RkJnc1FFN1llVVdYQ2dPT1c1WnRSZS15T0VfYTM2YkFqY0djNzlLeFE0dmRaenBhUDRFekhjazlMVmhjaGN0Z1R6WEZTUVdIOF9nbGs1ZkJLdkppSEppR3VMUkwtMDN2a3VkRDlMRVE?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:07:07 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 15:07:07 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal",
         "Divya Marathi"
       ],
-      "confidence": "High",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस १६ राज्यांसाठी पावसाचा अलर्ट",
+      "title": "Weather Update: सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस; १६ राज्यांसाठी पावसाचा अलर्ट",
+      "summary": "Weather Update: सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस; १६ राज्यांसाठी पावसाचा अलर्ट",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcExCVFhFcjR0LU5nT2l6UmNBQnZuTnpSbXMtaTR5SWFGNWlCRVNCeUdwNlM5Uy1wWHpFbTduR3c0WU1uaV9vYjE1UWZjbVBnaFNYQ2RvalBwdFNzY28xcmpKRlNYbkJGcThaejd6ZE9JZFk3Q0gwcGNqbHNJQTBNcG1tR0hROEpGV2lTUEZ3REREeXlZQ3F6NTE2M2ZZYTdLU1g0cXdpSXVHRVFPdDZUYW1pMDR6S2ROTU5fY19vVFNiQjJTenNjUFhwUjZNZ1FkTGY4MFBIMTVzbzVycnBjRmk4SDJYSk5lWTRnQWI0dG9NU2R2NG83ME1VbzNBWkVqNzkzWE9kQW5Nb3hMRjJScDZvU3hQb1BEQnllZFFaU3otQlRGWlZUMzkxYkVuMGpNeWFMM3l2ZDF0aVR4UnhN0gG_AkFVX3lxTFBwTEJUWEVyNHQtTmdPaXpSY0FCdm5OelJtcy1pNHlJYUY1aUJFU0J5R3A2UzlTLXBYekVtN25HdzRZTW5pX29iMTVRZmNtUGdoU1hDZG9qUHB0U3NjbzFyakpGU1huQkZxOFp6N3pkT0lkWTdDSDBwY2psc0lBME1wbW1HSFE4SkZXaVNQRndERER5eVlDcXo1MTYzZllhN0tTWDRxd2lJdUdFUU90NlRhbWkwNHpLZE5NTl9jX29UU2JCMlN6c2NQWHBSNk1nUWRMZjgwUEgxNXNvNXJycGNGaThIMlhKTmVZNGdBYjR0b01TZHY0bzcwTVVvM0FaRWo3OTNYT2RBbk1veExGMlJwNm9TeFBvUERCeWVkUVpTei1CVEZaVlQzOTFiRW4wak15YUwzeXZkMXRpVHhSeE0?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:40:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 16:40:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग व्हॅन जळून खाक कराडमध्ये धक्कादायक घटना",
+      "title": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग, व्हॅन जळून खाक, कराडमध्ये धक्कादायक घटना",
+      "summary": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग, व्हॅन जळून खाक, कराडमध्ये धक्कादायक घटना",
+      "source": "ABP Majha",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEk4Y0pkSEtCYnBPLW5BQXBoTkFqYjNQX0tVQ3ppT0JVS0xxRHJHTmhDV1M5RzloN0NwYzZ4cjAxV2JNX19Kd1FDYlpGYlVNZGJzckhQTTM2cW92Q3B0S2pMOEhPME5vZlJmX2tndEg0U0FEMFlEMUI4RUVVdHViM0dqUjFUTkMtYkxvTDE2MW14VEhVR1Y1dUVzTExuRmp4RjBfVGJhTGktbVNxZE9YRUN3MVBUejDSAbcBQVVfeXFMTmRJOGNKZEhLQmJwTy1uQUFwaE5BamIzUF9LVUN6aU9CVUtMcURyR05oQ1dTOUc5aDdDcGM2eHIwMVdiTV9fSndRQ2JaRmJVTWRic3JIUE0zNnFvdkNwdEtqTDhITzBOb2ZSZl9rZ3RINFNBRDBZRDFCOEVFVXR1YjNHalIxVE5DLWJMb0wxNjFteFRIVUdWNXVFc0xMbkZqeEYwX1RiYUxpLW1TcWRPWEVDdzFQVHow?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:15:39 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 15:15:39 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ABP Majha"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "run for unity marathon रन फॉर युनिटी मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल पहाटेपासून सकाळी ",
+      "title": "Run For Unity Marathon : ‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल; पहाटेपासून सकाळी दहापर्यंत फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद",
+      "summary": "Run For Unity Marathon : ‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल; पहाटेपासून सकाळी दहापर्यंत फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTNING4xN21xZXZRdkN0R0F5aFN1dlpMU3ZQZ2Q1NlR1NlN3OXJKdmp4bWJFQXVkdlFMeVI0SmtDTWFfQml6SzF5d3RQSkpjSlZ1YkZBT2k4TG9zWC1wYUM0UEE1WFNsbm5pOGhGWHN1YnY4aXdqblQ5Q3I3S25qZlFLV0gxRDQyN2ZzeW5MdXBULUY4YWF1a3dPUzd2eGFZZmt2LVhfbXJVaWFXSl9aQi1qWkFRdTctOVA4UkI5RmJMSFlJbk5QQmJfeTJvMl83REd2YmJYeldVQjEtRXUxQmRxdTNBWVpmWWt1Tjc4T3hRd1BIOUdOYg?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -385,28 +525,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक बुलढाण्यात अनेक वाहनांची धडक बुलढाण",
-      "title": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक, बुलढाण्यात अनेक वाहनांची धडक बुलढाणा जिल्ह्यातील समृद्धी महामार्गावर दुसरबीड टोलनाक्याजवळ शुक्रवारी, १३ नोव्हेंबरला ट्रकने र",
-      "summary": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक, बुलढाण्यात अनेक वाहनांची धडक बुलढाणा जिल्ह्यातील समृद्धी महामार्गावर दुसरबीड टोलनाक्याजवळ शुक्रवारी, १३ नोव्हेंबरला ट्रकने र",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adHVTN215aGFwQTZ0cGlTVk5fb3BSTmlVOG93cnBpUzdtbVVBSHFwXzRsWXFtWDBIdllxcWVzckRrMlJGZ0JTWkJTZWxSSWdtQll5b2Vn?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 12:55:22 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 12:55:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "success story पतीची नोकरी गेली अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड आता ए",
       "title": "Success Story : पतीची नोकरी गेली, अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड, आता एवढी कमाई, Video",
       "summary": "Success Story : पतीची नोकरी गेली, अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड, आता एवढी कमाई, Video",
@@ -456,7 +574,7 @@
       "summary": "मुख्य विद्युत वाहिनीचा ‘जम्प’ तुटल्याने शेतकऱ्याचा ऊस जळून खाक; मोरगाव-लोणी भापकर फिडरवरील ११ गावांचा वीजपुरवठा खंडित",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGVnQXI0akdBcTMtNm5FY19xRS1ORVBDYS1lbXZUc3QxaGY0WmpSOGZidEtsYTQwUUNiSjBvTDN0NmxnUzg2V1laNnNYRm1wd2dabEMwNFJJZVRnNkwyNUFxS3hHZWZ6ZDlvT0hKSllIQnNNT3hUdEFFMTZjQ2hLdEpyeElxMHBrdTl1THB1MTFldw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzlNNnY0RmR6Qnpud3dqVTdXNUE1Qk5FeUhfTjdUellOSzZFZWg1c0xvWENXMkI0Z0QtOFBCdnRyNXp6WHRWY3BaY044aEluWnVOR05ab2E1R21QWTBVeldYZWFqcTdmSDgySE4zN1VFMG4wZGtwU2oyMXZuUFppSzNYWDVvVFVPSEZwaFVxcXdxcU0?oc=5",
       "pubDate": "Sat, 14 Nov 2026 10:24:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 10:24:00 GMT",
       "areas": [],
@@ -588,7 +706,7 @@
       "summary": "Nashik News: छठपूजेनिमित्त नाशिकच्या वाहतुकीत मोठे बदल, गैरसोय टाळण्यासाठी पाहा पर्यायी मार्ग",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnVQTm5RX21VQmRhck81eHNUbmdGeDd3aEY3RlFkeGVGSVFPTWtLNE83ZWgxSVJtRmwwZG1tOXVHNzhXUGhNSWZabEM0SVg1R0xOZVhQRm9uYmZEQzFwdlFzYlk4Q0p6TldXVVZSYU1obV9HWWhOdGtlUlo1N1JidU5GdFlSTlVWTTFyUHJsdkxidjNFMHRQZW53Mkl4NDl0S1JlWmQyaEpSM05C?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzFiMm1kdFhmU2hmMC0tZ0FzS293dGJIU0FXTmx4NXN1U2hoenlGTHZqVk5TYlhnX1A3NHF2QnE4YmhrUU9rYTFNM3RDYXVHZERWWHR2SHRWRXBBaEJUcU9xNGV3RmxHYXpyR244OU93aHRFQkN4VWF1QWJMQTVVbnFsNUVLOUNpQk9veUZzWnVTRzdWbTB4cW1IOE5hTFk1V0wzT1VaWGJfRUdK?oc=5",
       "pubDate": "Sat, 14 Nov 2026 06:53:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 06:53:00 GMT",
       "areas": [],
@@ -679,28 +797,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlVLdkZnbGRVejVZdVVJb21yT3drdXRIbjItbWFySXRyR1A1R1VLTkVHaE5vYkhKUFk2UlhSYVMwR1Z0aV9ETkJ2ejZCZkIwbFE5Wng1QzJGakw3cUJnRk82eGRMcWZzVTFsdWlwWWktd1E3TTBSLUJnMUdUWXU3RURhcEFiY0kzd05UbENTTzBERGhRNzBLazh4QXlpbTdTYWJXVVpRd1duOVBxQ2h0cWd6N0ZkT3I1cHM0eU02X1hWTlo4SmdtYU5zcUdiN1BZ?oc=5",
       "pubDate": "Sat, 14 Nov 2026 04:57:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 04:57:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "वसई विरार रेल्वे मार्गावर मृत्यूचा सापळा 17 तासांत पाच जणांचा गेला जीव मुंबईत लोकलमध्ये नक",
-      "title": "वसई-विरार रेल्वे मार्गावर मृत्यूचा सापळा, 17 तासांत पाच जणांचा गेला जीव, मुंबईत लोकलमध्ये नक्की काय घडतंय?",
-      "summary": "वसई-विरार रेल्वे मार्गावर मृत्यूचा सापळा, 17 तासांत पाच जणांचा गेला जीव, मुंबईत लोकलमध्ये नक्की काय घडतंय?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaVROVFhxSVVwaG5ybmFZNVVPQjBCd3JoZ3EtRkh2dHhmU3BTMzllR195T3E3Qmc4dHo2NjNmN2FqSGkzWGJmTDI0ck51TWNCeFY2SndwdFo0TXlvMnNFWUJnd2JTdnRvMFdIb2ZTcjJHTUhIZnozMHYxRG5tZ09UYkhUT1NNQ0ttOE1LdThfT2pja1VRa196VHFHV25MRlpPT0k4RFBteTlDUGFGMnpJMXFhc1BwenBpbVhnaGVrVE56b1k1TFMxV2xmc3ZuclBfZVJPMFNMOEd0NkZZbmFiQ2ItV2REdkxYdWc4SHRBcw?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 04:50:00 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 04:50:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -815,28 +911,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या ताथवडे पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा ख",
-      "title": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
-      "summary": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZ0ZHhxZURiZFJxanpobXdKZnZUNDJqaWM4QjdlMWFBY1BRY25VOEstY2hzRTliLTFZTHJHb3B6ZncyLUVnVU1zcHI2OXhzQ0s4S1lPQ3RlS1F6ajZ0QkkxaVloWnVsbVJwMDVSWGpGLU5WcEdfQnU0elJlX01hd2ZTU2NzWThLYU84WkpTWU1GaGdtSVJwRk1xeGVocmI4ckMwRWdZSjBCVXp0STUxMFl0Rmc4N2RxaFFYZVhVV3JPNUnSAcgBQVVfeXFMUFh2M3lSd0lBUUhnbldFbUM3UXVYNzVvaXJ3QkozUFhBTWVveHM1Z2JCRlZTNlFxanN0YXNoc1QwQkQ3VFFHWHc1NTNDVC1GX0gycTFzNDBHeGFrX2EyOGVtbjlyMkkwY1B1TnJPMldEdHNQOUdBNGR5S0czZS04LWVrYnZTUllMUktxNDc2eHgzQTB4Ym52YkRzVm5fcjBIQ3MtV2VpWkVNNTlRQlFWbVBSRE9XdVEzTzRLV1N3VDVEc1FMN0hsUGk?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 03:27:41 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 03:27:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1023,20 +1097,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ katraj dairy",
-      "title": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ | Katraj Dairy",
-      "summary": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ | Katraj Dairy",
-      "source": "Maharashtra Desha महाराष्ट्र देशा",
+      "id": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या ताथवडे पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा ख",
+      "title": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
+      "summary": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRklvS3RTX0FRRkRYUWZFd3YtRmRhVkRyal9ZaXNQYkh5VmVoVnp1M1lobERVakNHY2xINHFObUQ1TDZpamhCSm1hUTA2Ti1CcmVxMzJnVUxVeGVKaHJFaFF5OW4zLTk0Mk9ta01PRXY?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 16:51:12 GMT",
-      "lastUpdated": "Fri, 13 Nov 2026 16:51:12 GMT",
-      "areas": [
-        "Katraj"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZ0ZHhxZURiZFJxanpobXdKZnZUNDJqaWM4QjdlMWFBY1BRY25VOEstY2hzRTliLTFZTHJHb3B6ZncyLUVnVU1zcHI2OXhzQ0s4S1lPQ3RlS1F6ajZ0QkkxaVloWnVsbVJwMDVSWGpGLU5WcEdfQnU0elJlX01hd2ZTU2NzWThLYU84WkpTWU1GaGdtSVJwRk1xeGVocmI4ckMwRWdZSjBCVXp0STUxMFl0Rmc4N2RxaFFYZVhVV3JPNUnSAcgBQVVfeXFMUFh2M3lSd0lBUUhnbldFbUM3UXVYNzVvaXJ3QkozUFhBTWVveHM1Z2JCRlZTNlFxanN0YXNoc1QwQkQ3VFFHWHc1NTNDVC1GX0gycTFzNDBHeGFrX2EyOGVtbjlyMkkwY1B1TnJPMldEdHNQOUdBNGR5S0czZS04LWVrYnZTUllMUktxNDc2eHgzQTB4Ym52YkRzVm5fcjBIQ3MtV2VpWkVNNTlRQlFWbVBSRE9XdVEzTzRLV1N3VDVEc1FMN0hsUGk?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 22:34:05 GMT",
+      "lastUpdated": "Fri, 13 Nov 2026 22:34:05 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Desha महाराष्ट्र देशा"
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -1049,6 +1121,33 @@
   ],
   "incidents": [
     {
+      "id": "pmc may follow mumbai in curbing aerial fireworks",
+      "title": "PMC may follow Mumbai in curbing aerial fireworks",
+      "summary": "PMC may follow Mumbai in curbing aerial fireworks",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXRiSktuQy1uNnNDdGlpZHM4S2V0cUhRY0Zla1JrSC1LU1J5aVRQa3lqYXM5aHpjeDBaUkJGbEtiMzVsbFNtRXRrMFVkdmRQLXdmOFV2WGRjSVVwR19KY1hKRXIzN1Y0LTg4bDkyaFNuRTBjOVEtYUpBRnMtTXU5Vm1YTG1zdUdhX013M2ZfUFp0TFFMaE5hUldLN3dGQmNNb1BvSXVtN2taazl4ZjZOUy13MjJfdTRDd29lR2Rn0gHDAUFVX3lxTFB2d2ctcDMwZ0FmR0NaT2N6dDJncW9xTXdXWWZDZ0h0cm1HQ2Z6RU1HXzcwcmZTLVprTlpVNGl6QzdtWEZqVmNBaHVZV0hvM2lSUVVlTmx5cTI1eTNmbXRPVEU5SjhoY2JPMVh6NU1zZkRDNFpGTWM2T2pQTkNWaWQ4eXhfRkpCdWc5TksxdlFKS2FXcnZjQkxZeFZBTm1HcWl3SGdBMnlKMDl0UWxhS0pldmhKb1g5TS1hb2NSNG5uOEMwbw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 19:06:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 19:06:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "fire",
+        "blaze",
+        "smoke"
+      ],
+      "severity": "emergency",
+      "category": "fire",
+      "type": "Fire",
+      "icon": "🔥",
+      "critical": true,
+      "action": "Avoid the area. Call 101 or 112 if nearby."
+    },
+    {
       "id": "ajintha ghat accident अजिंठा घाटात अपघातामुळे ११ तास वाहतूक विस्कळीत",
       "title": "Ajintha Ghat Accident : अजिंठा घाटात अपघातामुळे ११ तास वाहतूक विस्कळीत",
       "summary": "Ajintha Ghat Accident : अजिंठा घाटात अपघातामुळे ११ तास वाहतूक विस्कळीत",
@@ -1132,33 +1231,60 @@
       "action": "Expect delays. Avoid the affected road if possible."
     },
     {
-      "id": "रन फॉर युनिटी मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल फर्ग्युसन गणेशखिंड आणि पाषाण रस्",
-      "title": "‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल; फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद | Pune Traffic Update News",
-      "summary": "‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी पुण्यात वाहतुकीत बदल; फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद | Pune Traffic Update News",
-      "source": "Esakal",
+      "id": "65 of nagpur s water supply hangs on a single vulnerable power line",
+      "title": "65% Of Nagpur’s Water Supply Hangs On A Single, Vulnerable Power Line",
+      "summary": "65% Of Nagpur’s Water Supply Hangs On A Single, Vulnerable Power Line",
+      "source": "The Times of India",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTNING4xN21xZXZRdkN0R0F5aFN1dlpMU3ZQZ2Q1NlR1NlN3OXJKdmp4bWJFQXVkdlFMeVI0SmtDTWFfQml6SzF5d3RQSkpjSlZ1YkZBT2k4TG9zWC1wYUM0UEE1WFNsbm5pOGhGWHN1YnY4aXdqblQ5Q3I3S25qZlFLV0gxRDQyN2ZzeW5MdXBULUY4YWF1a3dPUzd2eGFZZmt2LVhfbXJVaWFXSl9aQi1qWkFRdTctOVA4UkI5RmJMSFlJbk5QQmJfeTJvMl83REd2YmJYeldVQjEtRXUxQmRxdTNBWVpmWWt1Tjc4T3hRd1BIOUdOYg?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 14:51:37 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPczdsT01oMko4WWNnVnFrOUtxRGZzbUpfMmpzdjAzZmdwbnVVOFF1RWtzWmR5RkxTaFZ0QWtKUUxEamI5cUJmZm1UOFpQWEJMVDZLbUVNeUFaNEZEbllycmU0VVBsbHREbGdkODBFNklGa29DajB2MkhqdVRoa1VuWWtfeXFQSXFHMXlqaVBWR0RQNk1qX3BDTVhkdXNXQWNCUW9jU0VNdmIzeHZZNGpwWWpzWS1ydzVXVDFDWjdHaFpqRXBxMFpOWnZ5amJyR3NIVUZBdTNPMNIB3AFBVV95cUxOX0ltUHVTX1U3NnpPNGktd0QtVjlMQjlDd0VZZVZTOXNHWU1yWDY5bHhqbUVCNU11MmNUZzNzczFMZFlaZnBTTkl4aTY5LWJxd0lhOXhBYWJKSXZYekdZY1c4Vjg1MThXY3JRb0NLMW9NZ0RsYks4VG1KbU9iSGdxZ2xaci1JamNoMnlmZDAzZkl6QmQweFlRTnFZN0VjY09acEo0ajliQVdIXzJueVozQXhVVG51aUw4bWh5SVhKcVJLR251d1pSbVUtZm01eGlVTm1HaHhPNXJtX0Ru?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 19:11:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 19:11:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Esakal"
+        "The Times of India"
       ],
       "confidence": "Single source",
       "w": [
-        "traffic",
-        "congestion",
-        "jam",
-        "expressway",
-        "highway"
+        "power",
+        "electricity",
+        "outage",
+        "msedcl"
       ],
       "severity": "watch",
-      "category": "traffic",
-      "type": "Traffic Update",
-      "icon": "🚦",
+      "category": "power",
+      "type": "Power Update",
+      "icon": "⚡",
+      "critical": true,
+      "action": "Avoid fallen wires and contact MSEDCL for hazards."
+    },
+    {
+      "id": "khadak police arrest 4 for jewellery theft after 10 000km chase across maharashtra up utta",
+      "title": "Khadak police arrest 4 for jewellery theft after 10,000km chase across Maharashtra, UP & Uttarakhand",
+      "summary": "Khadak police arrest 4 for jewellery theft after 10,000km chase across Maharashtra, UP & Uttarakhand",
+      "source": "The Times of India",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVlhyZDB6MnBYSTh2V2xKTWVQSlJPb2pabkxhU3ROT1FNZi1Ydkp3cTh0Q1poQ1NHZC1Rc2xBbnV5SzhaOVdwSUs2SlZlcG5mV3RmREtLTDVMZG5JRzNSVWRLTDVHTTM5QXI3NEFMUHJNSmtxaC1XRDRSNEJ1UVRidll2OTFhZ0stRVJEQXoyMm9VX2hOak50Z3dNTFZGbjVhNElnVUhwb2VpSklwVU5LM0ZHX1ZTTmd4U1dDNk5MVmQ1RHBLdnhJX255dFVFWFdkVzBtUDJFTzVINGN5VGlNcTRPYTF5UlN6UjhQREd1eG5VTlA3aElwb1VrZ1rSAYICQVVfeXFMTnJWYWtCXzlrOTBmaVp1QnJGMmRqU0tNQUN5Ujh4QnR5R2NrZmw4TnZJMWpfNml6cnR2clVURERVclh3TXBFR3hCRjVWUXhCMFhVaE1NZkdIbXFlTHFITUl2b1ZiYUFFTXJsSnUyMHpoSmlVeTQtODJNVzlKMk1KaVVyNHBmdHp6SElNaWZEcEwzU1Q0MTQ5UVZIaHZJZkJXZVhaN3Y3cVBQM3daQVZqdWNoWEhRTUk3Q1VBWTNUYmFxMTFfMXdsSm14X2VFdk5lMDNtWW1IY3h0M0ZJcGdacHFJRldiRHJIQjNBWF9tMi1jOUg4QjJPMTlnSDdFVjJCbEhR?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 18:53:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 18:53:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "The Times of India"
+      ],
+      "confidence": "Single source",
+      "w": [
+        "theft",
+        "crime",
+        "robbery",
+        "arrest"
+      ],
+      "severity": "watch",
+      "category": "safety",
+      "type": "Safety News",
+      "icon": "🚓",
       "critical": false,
-      "action": "Check route before starting travel."
+      "action": "Stay alert and follow police advisories."
     },
     {
       "id": "traffic updates due to amit shah s visit there are traffic restrictions in the city",
@@ -1167,8 +1293,8 @@
       "source": "पोलीसनामा",
       "sourceClass": "news",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRmN5blJtb19IVmFLN0pTZ2VNdVlwV2JkNHEwbWdNdlB3aEYzV1lZUDVPcEw3c3plT1VTeG8wNWtMWHA3dVR1WWxmSnV3c2s1cUdsWjVMT0RzeHN5LUhfbUJMWVBNdml2NlF0Mmpaelc4Z3pnNXNxS3QwTmlIZEZmVTdnUXVSX3d6d0ZPNVFIMHEydmpXS04xZThwc045cnBHc0UxQkRrTDBrYkc1REhqRXhMNTAxcDFxRlZaTURDOWIxWURQclJkNHR1UGxrb2FuUzdRQnhmcTdyZ29iQ0FJZnIwbmlQRkpLREJqbHVlcGdUSks5SWZsb1kxbXlsWXl0?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 12:17:36 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 12:17:36 GMT",
+      "pubDate": "Sat, 14 Nov 2026 16:46:06 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 16:46:06 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1306,24 +1432,110 @@
       "action": "Check route before starting travel."
     },
     {
-      "id": "अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "title": "Pune News : अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "summary": "Pune News : अमित शहा यांच्या दौऱ्यानिमित्त वाहतूक बदल",
-      "source": "Dainik Prabhat + 4 more",
+      "id": "पुणे अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल जाणून घ्या कुठे नो प",
+      "title": "पुणे : अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल; जाणून घ्या कुठे नो-पार्किंग, कोणते रस्ते बंद? पुणे : केंद्रीय गृहमंत्री अमित शहा यांच्या दौऱ्यानिमित्त रविवारी, १",
+      "summary": "पुणे : अमित शहांच्या दौऱ्यामुळे 15 आणि 16 नोव्हेंबरला वाहतूकीत मोठे बदल; जाणून घ्या कुठे नो-पार्किंग, कोणते रस्ते बंद? पुणे : केंद्रीय गृहमंत्री अमित शहा यांच्या दौऱ्यानिमित्त रविवारी, १",
+      "source": "Instagram + 1 more",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFBVRzRjb0thWjFHN19sX0JrYUpoS2RhTWN6SnB2eG9GR3drZ2FtLVpTb0dwQy1KRS0yTzQxbDhaXzV2R1FQTzd5RHl6dzcxMjJDdUc4NXB6cjRZSXV4Y0ZXa2E2RFBBcXVrekNPTlpodnRKSmU2d00zSnRHR2E4dG1kVQ?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 15:57:00 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 15:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhSTdYeS1LY0R4UG1NOTl4Q2twWXRKVmVOYU5IWHNQN09vXzlOY241amVRTjk0Z0ZYcDFHUS1iSGlJYndHWE1DVzBZZFpaa2ZHc0E?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 17:59:03 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 17:59:03 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
-        "Dainik Prabhat",
-        "Esakal",
-        "Lokmat.com",
         "Instagram",
+        "Dainik Prabhat"
+      ],
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "title": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "summary": "अमित शहा यांच्या दौऱ्यानिमित्त पुण्यात दोन दिवस वाहतूक बदल",
+      "source": "Esakal + 1 more",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5UXhqbURna012NGNfRzFxLXNiWjlBSkh6eXlQTjNvamo1TVZSNmVNV1lCQVZIWE1nWFhZa3JBSmhXWTV6X19WUlkzTWcwS19tdDN3X2pDY2dCREJLd1ktb0p6dWRMdVkyV3hSLU54Q1F5RjjSAXhBVV95cUxPcUl0ZzhvR0p1RkJnc1FFN1llVVdYQ2dPT1c1WnRSZS15T0VfYTM2YkFqY0djNzlLeFE0dmRaenBhUDRFekhjazlMVmhjaGN0Z1R6WEZTUVdIOF9nbGs1ZkJLdkppSEppR3VMUkwtMDN2a3VkRDlMRVE?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:07:07 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 15:07:07 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal",
         "Divya Marathi"
       ],
-      "confidence": "High",
+      "confidence": "Medium",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "weather सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस १६ राज्यांसाठी पावसाचा अलर्ट",
+      "title": "Weather Update: सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस; १६ राज्यांसाठी पावसाचा अलर्ट",
+      "summary": "Weather Update: सोसाट्याच्या वाऱ्यासह कोसळणार धुव्वाधार पाऊस; १६ राज्यांसाठी पावसाचा अलर्ट",
+      "source": "Saam Tv",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcExCVFhFcjR0LU5nT2l6UmNBQnZuTnpSbXMtaTR5SWFGNWlCRVNCeUdwNlM5Uy1wWHpFbTduR3c0WU1uaV9vYjE1UWZjbVBnaFNYQ2RvalBwdFNzY28xcmpKRlNYbkJGcThaejd6ZE9JZFk3Q0gwcGNqbHNJQTBNcG1tR0hROEpGV2lTUEZ3REREeXlZQ3F6NTE2M2ZZYTdLU1g0cXdpSXVHRVFPdDZUYW1pMDR6S2ROTU5fY19vVFNiQjJTenNjUFhwUjZNZ1FkTGY4MFBIMTVzbzVycnBjRmk4SDJYSk5lWTRnQWI0dG9NU2R2NG83ME1VbzNBWkVqNzkzWE9kQW5Nb3hMRjJScDZvU3hQb1BEQnllZFFaU3otQlRGWlZUMzkxYkVuMGpNeWFMM3l2ZDF0aVR4UnhN0gG_AkFVX3lxTFBwTEJUWEVyNHQtTmdPaXpSY0FCdm5OelJtcy1pNHlJYUY1aUJFU0J5R3A2UzlTLXBYekVtN25HdzRZTW5pX29iMTVRZmNtUGdoU1hDZG9qUHB0U3NjbzFyakpGU1huQkZxOFp6N3pkT0lkWTdDSDBwY2psc0lBME1wbW1HSFE4SkZXaVNQRndERER5eVlDcXo1MTYzZllhN0tTWDRxd2lJdUdFUU90NlRhbWkwNHpLZE5NTl9jX29UU2JCMlN6c2NQWHBSNk1nUWRMZjgwUEgxNXNvNXJycGNGaThIMlhKTmVZNGdBYjR0b01TZHY0bzcwTVVvM0FaRWo3OTNYT2RBbk1veExGMlJwNm9TeFBvUERCeWVkUVpTei1CVEZaVlQzOTFiRW4wak15YUwzeXZkMXRpVHhSeE0?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:40:00 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 16:40:00 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Saam Tv"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग व्हॅन जळून खाक कराडमध्ये धक्कादायक घटना",
+      "title": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग, व्हॅन जळून खाक, कराडमध्ये धक्कादायक घटना",
+      "summary": "संशयित आरोपींना घेऊन जाणाऱ्या पोलीस व्हॅनला आग, व्हॅन जळून खाक, कराडमध्ये धक्कादायक घटना",
+      "source": "ABP Majha",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEk4Y0pkSEtCYnBPLW5BQXBoTkFqYjNQX0tVQ3ppT0JVS0xxRHJHTmhDV1M5RzloN0NwYzZ4cjAxV2JNX19Kd1FDYlpGYlVNZGJzckhQTTM2cW92Q3B0S2pMOEhPME5vZlJmX2tndEg0U0FEMFlEMUI4RUVVdHViM0dqUjFUTkMtYkxvTDE2MW14VEhVR1Y1dUVzTExuRmp4RjBfVGJhTGktbVNxZE9YRUN3MVBUejDSAbcBQVVfeXFMTmRJOGNKZEhLQmJwTy1uQUFwaE5BamIzUF9LVUN6aU9CVUtMcURyR05oQ1dTOUc5aDdDcGM2eHIwMVdiTV9fSndRQ2JaRmJVTWRic3JIUE0zNnFvdkNwdEtqTDhITzBOb2ZSZl9rZ3RINFNBRDBZRDFCOEVFVXR1YjNHalIxVE5DLWJMb0wxNjFteFRIVUdWNXVFc0xMbkZqeEYwX1RiYUxpLW1TcWRPWEVDdzFQVHow?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:15:39 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 15:15:39 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "ABP Majha"
+      ],
+      "confidence": "Single source",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": false,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "run for unity marathon रन फॉर युनिटी मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल पहाटेपासून सकाळी ",
+      "title": "Run For Unity Marathon : ‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल; पहाटेपासून सकाळी दहापर्यंत फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद",
+      "summary": "Run For Unity Marathon : ‘रन फॉर युनिटी’ मॅरेथॉननिमित्त रविवारी वाहतुकीत बदल; पहाटेपासून सकाळी दहापर्यंत फर्ग्युसन, गणेशखिंड आणि पाषाण रस्ता बंद",
+      "source": "Esakal",
+      "sourceClass": "news",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTNING4xN21xZXZRdkN0R0F5aFN1dlpMU3ZQZ2Q1NlR1NlN3OXJKdmp4bWJFQXVkdlFMeVI0SmtDTWFfQml6SzF5d3RQSkpjSlZ1YkZBT2k4TG9zWC1wYUM0UEE1WFNsbm5pOGhGWHN1YnY4aXdqblQ5Q3I3S25qZlFLV0gxRDQyN2ZzeW5MdXBULUY4YWF1a3dPUzd2eGFZZmt2LVhfbXJVaWFXSl9aQi1qWkFRdTctOVA4UkI5RmJMSFlJbk5QQmJfeTJvMl83REd2YmJYeldVQjEtRXUxQmRxdTNBWVpmWWt1Tjc4T3hRd1BIOUdOYg?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "lastUpdated": "Sat, 14 Nov 2026 14:51:37 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Esakal"
+      ],
+      "confidence": "Single source",
       "severity": "advisory",
       "category": "general",
       "type": "Information",
@@ -1420,28 +1632,6 @@
       "action": "No immediate action required."
     },
     {
-      "id": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक बुलढाण्यात अनेक वाहनांची धडक बुलढाण",
-      "title": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक, बुलढाण्यात अनेक वाहनांची धडक बुलढाणा जिल्ह्यातील समृद्धी महामार्गावर दुसरबीड टोलनाक्याजवळ शुक्रवारी, १३ नोव्हेंबरला ट्रकने र",
-      "summary": "समृद्धी महामार्गावर उभ्या वाहनांच्या रांगेत घुसला ट्रक, बुलढाण्यात अनेक वाहनांची धडक बुलढाणा जिल्ह्यातील समृद्धी महामार्गावर दुसरबीड टोलनाक्याजवळ शुक्रवारी, १३ नोव्हेंबरला ट्रकने र",
-      "source": "Instagram",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adHVTN215aGFwQTZ0cGlTVk5fb3BSTmlVOG93cnBpUzdtbVVBSHFwXzRsWXFtWDBIdllxcWVzckRrMlJGZ0JTWkJTZWxSSWdtQll5b2Vn?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 12:55:22 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 12:55:22 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Instagram"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
       "id": "success story पतीची नोकरी गेली अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड आता ए",
       "title": "Success Story : पतीची नोकरी गेली, अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड, आता एवढी कमाई, Video",
       "summary": "Success Story : पतीची नोकरी गेली, अश्विनी यांनी धाडस दाखवत उभारला ड्रेस मटेरियलचा ब्रँड, आता एवढी कमाई, Video",
@@ -1491,7 +1681,7 @@
       "summary": "मुख्य विद्युत वाहिनीचा ‘जम्प’ तुटल्याने शेतकऱ्याचा ऊस जळून खाक; मोरगाव-लोणी भापकर फिडरवरील ११ गावांचा वीजपुरवठा खंडित",
       "source": "Dainik Prabhat",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGVnQXI0akdBcTMtNm5FY19xRS1ORVBDYS1lbXZUc3QxaGY0WmpSOGZidEtsYTQwUUNiSjBvTDN0NmxnUzg2V1laNnNYRm1wd2dabEMwNFJJZVRnNkwyNUFxS3hHZWZ6ZDlvT0hKSllIQnNNT3hUdEFFMTZjQ2hLdEpyeElxMHBrdTl1THB1MTFldw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzlNNnY0RmR6Qnpud3dqVTdXNUE1Qk5FeUhfTjdUellOSzZFZWg1c0xvWENXMkI0Z0QtOFBCdnRyNXp6WHRWY3BaY044aEluWnVOR05ab2E1R21QWTBVeldYZWFqcTdmSDgySE4zN1VFMG4wZGtwU2oyMXZuUFppSzNYWDVvVFVPSEZwaFVxcXdxcU0?oc=5",
       "pubDate": "Sat, 14 Nov 2026 10:24:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 10:24:00 GMT",
       "areas": [],
@@ -1623,7 +1813,7 @@
       "summary": "Nashik News: छठपूजेनिमित्त नाशिकच्या वाहतुकीत मोठे बदल, गैरसोय टाळण्यासाठी पाहा पर्यायी मार्ग",
       "source": "News18 Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnVQTm5RX21VQmRhck81eHNUbmdGeDd3aEY3RlFkeGVGSVFPTWtLNE83ZWgxSVJtRmwwZG1tOXVHNzhXUGhNSWZabEM0SVg1R0xOZVhQRm9uYmZEQzFwdlFzYlk4Q0p6TldXVVZSYU1obV9HWWhOdGtlUlo1N1JidU5GdFlSTlVWTTFyUHJsdkxidjNFMHRQZW53Mkl4NDl0S1JlWmQyaEpSM05C?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzFiMm1kdFhmU2hmMC0tZ0FzS293dGJIU0FXTmx4NXN1U2hoenlGTHZqVk5TYlhnX1A3NHF2QnE4YmhrUU9rYTFNM3RDYXVHZERWWHR2SHRWRXBBaEJUcU9xNGV3RmxHYXpyR244OU93aHRFQkN4VWF1QWJMQTVVbnFsNUVLOUNpQk9veUZzWnVTRzdWbTB4cW1IOE5hTFk1V0wzT1VaWGJfRUdK?oc=5",
       "pubDate": "Sat, 14 Nov 2026 06:53:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 06:53:00 GMT",
       "areas": [],
@@ -1714,28 +1904,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlVLdkZnbGRVejVZdVVJb21yT3drdXRIbjItbWFySXRyR1A1R1VLTkVHaE5vYkhKUFk2UlhSYVMwR1Z0aV9ETkJ2ejZCZkIwbFE5Wng1QzJGakw3cUJnRk82eGRMcWZzVTFsdWlwWWktd1E3TTBSLUJnMUdUWXU3RURhcEFiY0kzd05UbENTTzBERGhRNzBLazh4QXlpbTdTYWJXVVpRd1duOVBxQ2h0cWd6N0ZkT3I1cHM0eU02X1hWTlo4SmdtYU5zcUdiN1BZ?oc=5",
       "pubDate": "Sat, 14 Nov 2026 04:57:00 GMT",
       "lastUpdated": "Sat, 14 Nov 2026 04:57:00 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "वसई विरार रेल्वे मार्गावर मृत्यूचा सापळा 17 तासांत पाच जणांचा गेला जीव मुंबईत लोकलमध्ये नक",
-      "title": "वसई-विरार रेल्वे मार्गावर मृत्यूचा सापळा, 17 तासांत पाच जणांचा गेला जीव, मुंबईत लोकलमध्ये नक्की काय घडतंय?",
-      "summary": "वसई-विरार रेल्वे मार्गावर मृत्यूचा सापळा, 17 तासांत पाच जणांचा गेला जीव, मुंबईत लोकलमध्ये नक्की काय घडतंय?",
-      "source": "News18 Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaVROVFhxSVVwaG5ybmFZNVVPQjBCd3JoZ3EtRkh2dHhmU3BTMzllR195T3E3Qmc4dHo2NjNmN2FqSGkzWGJmTDI0ck51TWNCeFY2SndwdFo0TXlvMnNFWUJnd2JTdnRvMFdIb2ZTcjJHTUhIZnozMHYxRG5tZ09UYkhUT1NNQ0ttOE1LdThfT2pja1VRa196VHFHV25MRlpPT0k4RFBteTlDUGFGMnpJMXFhc1BwenBpbVhnaGVrVE56b1k1TFMxV2xmc3ZuclBfZVJPMFNMOEd0NkZZbmFiQ2ItV2REdkxYdWc4SHRBcw?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 04:50:00 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 04:50:00 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -1850,28 +2018,6 @@
       "region": "pune",
       "sources": [
         "News18 Marathi"
-      ],
-      "confidence": "Single source",
-      "severity": "advisory",
-      "category": "general",
-      "type": "Information",
-      "icon": "ℹ️",
-      "critical": false,
-      "action": "No immediate action required."
-    },
-    {
-      "id": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या ताथवडे पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा ख",
-      "title": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
-      "summary": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
-      "source": "Divya Marathi",
-      "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZ0ZHhxZURiZFJxanpobXdKZnZUNDJqaWM4QjdlMWFBY1BRY25VOEstY2hzRTliLTFZTHJHb3B6ZncyLUVnVU1zcHI2OXhzQ0s4S1lPQ3RlS1F6ajZ0QkkxaVloWnVsbVJwMDVSWGpGLU5WcEdfQnU0elJlX01hd2ZTU2NzWThLYU84WkpTWU1GaGdtSVJwRk1xeGVocmI4ckMwRWdZSjBCVXp0STUxMFl0Rmc4N2RxaFFYZVhVV3JPNUnSAcgBQVVfeXFMUFh2M3lSd0lBUUhnbldFbUM3UXVYNzVvaXJ3QkozUFhBTWVveHM1Z2JCRlZTNlFxanN0YXNoc1QwQkQ3VFFHWHc1NTNDVC1GX0gycTFzNDBHeGFrX2EyOGVtbjlyMkkwY1B1TnJPMldEdHNQOUdBNGR5S0czZS04LWVrYnZTUllMUktxNDc2eHgzQTB4Ym52YkRzVm5fcjBIQ3MtV2VpWkVNNTlRQlFWbVBSRE9XdVEzTzRLV1N3VDVEc1FMN0hsUGk?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 03:27:41 GMT",
-      "lastUpdated": "Sat, 14 Nov 2026 03:27:41 GMT",
-      "areas": [],
-      "region": "pune",
-      "sources": [
-        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2058,20 +2204,18 @@
       "action": "No immediate action required."
     },
     {
-      "id": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ katraj dairy",
-      "title": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ | Katraj Dairy",
-      "summary": "कात्रज दुधाच्या दरात ४ रुपयांची वाढ | Katraj Dairy",
-      "source": "Maharashtra Desha महाराष्ट्र देशा",
+      "id": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या ताथवडे पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा ख",
+      "title": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
+      "summary": "कचरा जाळल्याने भूमिगत वीजवाहिन्या जळाल्या: ताथवडे-पुनावळेतील 16 हजार ग्राहकांचा वीजपुरवठा खंडित, दुरुस्ती स...",
+      "source": "Divya Marathi",
       "sourceClass": "news",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRklvS3RTX0FRRkRYUWZFd3YtRmRhVkRyal9ZaXNQYkh5VmVoVnp1M1lobERVakNHY2xINHFObUQ1TDZpamhCSm1hUTA2Ti1CcmVxMzJnVUxVeGVKaHJFaFF5OW4zLTk0Mk9ta01PRXY?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 16:51:12 GMT",
-      "lastUpdated": "Fri, 13 Nov 2026 16:51:12 GMT",
-      "areas": [
-        "Katraj"
-      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZ0ZHhxZURiZFJxanpobXdKZnZUNDJqaWM4QjdlMWFBY1BRY25VOEstY2hzRTliLTFZTHJHb3B6ZncyLUVnVU1zcHI2OXhzQ0s4S1lPQ3RlS1F6ajZ0QkkxaVloWnVsbVJwMDVSWGpGLU5WcEdfQnU0elJlX01hd2ZTU2NzWThLYU84WkpTWU1GaGdtSVJwRk1xeGVocmI4ckMwRWdZSjBCVXp0STUxMFl0Rmc4N2RxaFFYZVhVV3JPNUnSAcgBQVVfeXFMUFh2M3lSd0lBUUhnbldFbUM3UXVYNzVvaXJ3QkozUFhBTWVveHM1Z2JCRlZTNlFxanN0YXNoc1QwQkQ3VFFHWHc1NTNDVC1GX0gycTFzNDBHeGFrX2EyOGVtbjlyMkkwY1B1TnJPMldEdHNQOUdBNGR5S0czZS04LWVrYnZTUllMUktxNDc2eHgzQTB4Ym52YkRzVm5fcjBIQ3MtV2VpWkVNNTlRQlFWbVBSRE9XdVEzTzRLV1N3VDVEc1FMN0hsUGk?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 22:34:05 GMT",
+      "lastUpdated": "Fri, 13 Nov 2026 22:34:05 GMT",
+      "areas": [],
       "region": "pune",
       "sources": [
-        "Maharashtra Desha महाराष्ट्र देशा"
+        "Divya Marathi"
       ],
       "confidence": "Single source",
       "severity": "advisory",
@@ -2083,9 +2227,9 @@
     }
   ],
   "summary": {
-    "total": 49,
-    "alerts": 8,
-    "news": 41
+    "total": 53,
+    "alerts": 11,
+    "news": 42
   },
-  "cleanedAt": "2026-11-14T16:17:39.793Z"
+  "cleanedAt": "2026-11-14T20:50:31.352Z"
 }
