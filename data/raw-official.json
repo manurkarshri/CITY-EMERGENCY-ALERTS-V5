@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:35:22.273Z",
+  "generatedAt": "2026-11-15T07:24:55.197Z",
   "items": [
     {
       "id": "bay of bengal",
@@ -46,14 +46,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "nowcast",
-      "title": "Nowcast",
-      "summary": "Nowcast",
+      "id": "regional forecast for next 5 days",
+      "title": "Regional Forecast for Next 5 Days",
+      "summary": "Regional Forecast for Next 5 Days",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZTB6X1FfMER6eEFfTXo0aEZ2VEY5YVFlTkVBLXp2U3R1UXBOWUhfYU1Bc0lCNzlxcmstMWpOaUVEQ1VNRVQyMDBvSktVRVBWNXZQcHBuQU1fRW10RUpIdmFwTFlTeFZ1Ql9kaTZZYkZmUQ?oc=5",
-      "pubDate": "Sun, 28 Jul 2019 01:34:12 GMT",
-      "lastUpdated": "Sun, 28 Jul 2019 01:34:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Qa1FvSzE0MG55Rll3REhvX3pod0VPYXd2b19zUi1nNXozLTFYS1VBM3hmRmk1TDJaSHRVNkNVZlBfNHNCNXhvbkxtRExESmRPYzhLZTd6UVlsZw?oc=5",
+      "pubDate": "Sat, 27 Aug 2022 17:33:50 GMT",
+      "lastUpdated": "Sat, 27 Aug 2022 17:33:50 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -68,14 +68,14 @@
       "action": "No immediate action required."
     },
     {
-      "id": "agromet advisory services",
-      "title": "AGROMET ADVISORY SERVICES",
-      "summary": "AGROMET ADVISORY SERVICES",
+      "id": "nowcast",
+      "title": "Nowcast",
+      "summary": "Nowcast",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTXYyYXpZRmI0SmlseUNDOEx4bmhyVS1maFN5UUg3Sm1JMDg0VFRyeXIwS1BENWxCV2c3YmV5cVNKdXh6alRkWDdsQXNyN2o4N3ZDM3llZkJFX1BpZ2ZSNlRoODhoSGJ6bFhEVDBzZ05LZ1VtaVFKZ2xB?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:04:53 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:04:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZTB6X1FfMER6eEFfTXo0aEZ2VEY5YVFlTkVBLXp2U3R1UXBOWUhfYU1Bc0lCNzlxcmstMWpOaUVEQ1VNRVQyMDBvSktVRVBWNXZQcHBuQU1fRW10RUpIdmFwTFlTeFZ1Ql9kaTZZYkZmUQ?oc=5",
+      "pubDate": "Sun, 28 Jul 2019 01:34:12 GMT",
+      "lastUpdated": "Sun, 28 Jul 2019 01:34:12 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
@@ -112,33 +112,26 @@
       "action": "No immediate action required."
     },
     {
-      "id": "flash flood bulletin",
-      "title": "Flash Flood Bulletin",
-      "summary": "Flash Flood Bulletin",
+      "id": "agromet advisory services",
+      "title": "AGROMET ADVISORY SERVICES",
+      "summary": "AGROMET ADVISORY SERVICES",
       "source": "IMD",
       "sourceClass": "official",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uYlFTRENWVHlMcGZoRmtEUXBBdGtqa1BBd0RuNHdmUDloczlxQ2hTbi1uMTNBMlpKWWR3R1kxOFg4YkIwZ3oxaWdGUlRhM1Z5RG9tMHQyMm1UUGwzRGpJUHI5dDE0NFJqY1M0?oc=5",
-      "pubDate": "Tue, 22 Nov 2022 07:03:51 GMT",
-      "lastUpdated": "Tue, 22 Nov 2022 07:03:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTXYyYXpZRmI0SmlseUNDOEx4bmhyVS1maFN5UUg3Sm1JMDg0VFRyeXIwS1BENWxCV2c3YmV5cVNKdXh6alRkWDdsQXNyN2o4N3ZDM3llZkJFX1BpZ2ZSNlRoODhoSGJ6bFhEVDBzZ05LZ1VtaVFKZ2xB?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 07:04:53 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 07:04:53 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
         "IMD"
       ],
       "confidence": "High",
-      "w": [
-        "dam release",
-        "river overflow",
-        "flood warning",
-        "flood",
-        "water level"
-      ],
-      "severity": "emergency",
-      "category": "flood",
-      "type": "Flood Alert",
-      "icon": "🌊",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
       "critical": true,
-      "action": "Avoid low-lying areas, river banks and flooded roads."
+      "action": "No immediate action required."
     }
   ]
 }
