@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-11-14T20:50:31.329Z",
+  "generatedAt": "2026-11-15T00:35:32.523Z",
   "source": "Open-Meteo",
   "regions": {
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.520Z"
+    },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 19.2,
-      "humidity": 53,
-      "rain": 0,
-      "wind": 4,
-      "gust": 8.3,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 13,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.193Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.520Z"
     },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 18,
-      "humidity": 72,
-      "rain": 0,
-      "wind": 0.4,
-      "gust": 4.3,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 11,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.194Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.521Z"
     },
     "alandi": {
       "label": "Alandi Area",
-      "temp": 17.5,
-      "humidity": 58,
-      "rain": 0,
-      "wind": 3.8,
-      "gust": 5,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.198Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.521Z"
     },
     "chakan": {
       "label": "Chakan Industrial Cluster",
-      "temp": 15.8,
-      "humidity": 77,
-      "rain": 0,
-      "wind": 2.7,
-      "gust": 4,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 10,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.202Z"
-    },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "temp": 17.5,
-      "humidity": 64,
-      "rain": 0,
-      "wind": 1.9,
-      "gust": 4,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 13,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.205Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.522Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
-      "temp": 17.9,
-      "humidity": 49,
-      "rain": 0,
-      "wind": 2.3,
-      "gust": 4,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 17,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.209Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.522Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.522Z"
     },
     "ranjangaon": {
       "label": "Ranjangaon Zone",
-      "temp": 18.2,
-      "humidity": 54,
-      "rain": 0,
-      "wind": 5.2,
-      "gust": 8.3,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.323Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.523Z"
     },
     "saswad": {
       "label": "Saswad Region",
-      "temp": 18.5,
-      "humidity": 50,
-      "rain": 0,
-      "wind": 2.1,
-      "gust": 6.1,
-      "code": 2,
-      "rainChance": 0,
-      "visibility": 16,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.326Z"
-    },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
-      "temp": 19.6,
-      "humidity": 49,
-      "rain": 0,
-      "wind": 5.8,
-      "gust": 11.2,
-      "code": 3,
-      "rainChance": 0,
-      "visibility": 14,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-14T20:50:31.328Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-15T00:35:32.523Z"
     }
   }
 }
