@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-11-19T22:31:04.740Z",
+  "generatedAt": "2026-11-20T03:49:00.761Z",
   "source": "Open-Meteo",
   "regions": {
-    "pune": {
-      "label": "Pune City (PMC)",
-      "temp": 17.8,
-      "humidity": 55,
-      "rain": 0,
-      "wind": 3.6,
-      "gust": 7.2,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.586Z"
-    },
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 17.7,
-      "humidity": 52,
-      "rain": 0,
-      "wind": 2.9,
-      "gust": 5.8,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 14,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.639Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "temp": 15.7,
-      "humidity": 58,
-      "rain": 0,
-      "wind": 7.1,
-      "gust": 12.6,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 15,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.664Z"
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.758Z"
     },
     "ranjangaon": {
       "label": "Ranjangaon Zone",
-      "temp": 16.6,
-      "humidity": 57,
-      "rain": 0,
-      "wind": 11.2,
-      "gust": 18.7,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.673Z"
-    },
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "temp": 17.4,
-      "humidity": 53,
-      "rain": 0,
-      "wind": 8,
-      "gust": 14.8,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 14,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.694Z"
-    },
-    "alandi": {
-      "label": "Alandi Area",
-      "temp": 17.1,
-      "humidity": 56,
-      "rain": 0,
-      "wind": 4,
-      "gust": 6.5,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 14,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.698Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.759Z"
     },
     "talegaon": {
       "label": "Talegaon Dabhade",
-      "temp": 15.7,
-      "humidity": 65,
-      "rain": 0,
-      "wind": 5.9,
-      "gust": 12.6,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 13,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.701Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.759Z"
+    },
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.760Z"
+    },
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.760Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.760Z"
+    },
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.761Z"
+    },
+    "pune": {
+      "label": "Pune City (PMC)",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.761Z"
     },
     "saswad": {
       "label": "Saswad Region",
-      "temp": 15.4,
-      "humidity": 58,
-      "rain": 0,
-      "wind": 6.5,
-      "gust": 15.1,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 13,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.709Z"
-    },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
-      "temp": 17.7,
-      "humidity": 56,
-      "rain": 0,
-      "wind": 3.7,
-      "gust": 7.6,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-19T22:31:04.740Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-20T03:49:00.761Z"
     }
   }
 }
