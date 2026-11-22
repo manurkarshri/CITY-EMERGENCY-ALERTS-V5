@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-11-21T21:58:12.436Z",
+  "generatedAt": "2026-11-22T01:56:09.620Z",
   "source": "Open-Meteo",
   "regions": {
-    "pune": {
-      "label": "Pune City (PMC)",
-      "temp": 18.4,
-      "humidity": 76,
-      "rain": 0,
-      "wind": 1.7,
-      "gust": 5.4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 10,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.426Z"
-    },
-    "chakan": {
-      "label": "Chakan Industrial Cluster",
-      "temp": 15.5,
-      "humidity": 80,
-      "rain": 0,
-      "wind": 2.3,
-      "gust": 4.7,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 10,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.426Z"
-    },
-    "saswad": {
-      "label": "Saswad Region",
-      "temp": 17.3,
-      "humidity": 68,
-      "rain": 0,
-      "wind": 6.7,
-      "gust": 14,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.426Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "temp": 17.7,
-      "humidity": 59,
-      "rain": 0,
-      "wind": 10.4,
-      "gust": 18.4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.427Z"
-    },
     "fursungi": {
       "label": "Fursungi / Uruli",
-      "temp": 18.8,
-      "humidity": 72,
-      "rain": 0,
-      "wind": 2.9,
-      "gust": 9.4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 11,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.428Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.616Z"
+    },
+    "pune": {
+      "label": "Pune City (PMC)",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.616Z"
     },
     "pcmc": {
       "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 16.3,
-      "humidity": 91,
-      "rain": 0,
-      "wind": 2.7,
-      "gust": 6.1,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 6,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.429Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.617Z"
     },
     "alandi": {
       "label": "Alandi Area",
-      "temp": 17.5,
-      "humidity": 66,
-      "rain": 0,
-      "wind": 2.1,
-      "gust": 4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.431Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.618Z"
     },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "temp": 16.1,
-      "humidity": 83,
-      "rain": 0,
-      "wind": 0.5,
-      "gust": 3.2,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 10,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.435Z"
+    "chakan": {
+      "label": "Chakan Industrial Cluster",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.618Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
-      "temp": 16.5,
-      "humidity": 75,
-      "rain": 0,
-      "wind": 5.2,
-      "gust": 9,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-21T21:58:12.436Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.618Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.619Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.619Z"
+    },
+    "saswad": {
+      "label": "Saswad Region",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-22T01:56:09.619Z"
     }
   }
 }
