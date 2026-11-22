@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:55:59.517Z",
+  "generatedAt": "2026-11-22T09:15:28.950Z",
   "items": [
     {
       "id": "s weather report reported on 0830 ist",
@@ -24,6 +24,28 @@
       "action": "No immediate action required."
     },
     {
+      "id": "daily",
+      "title": "Daily",
+      "summary": "Daily",
+      "source": "Google Sheets - IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MWpGT3k5OVBvWnRDVVlFMDl2SUVSVHRxU2k4T0xyTUFxVy1oaDZrWnp1M3NsbFJETlJ4aENHcFNFRF93cVBlNzd5YlZXY0RvUVpXRlFyLWJINkxienc?oc=5",
+      "pubDate": "Sat, 27 Aug 2022 17:29:42 GMT",
+      "lastUpdated": "Sat, 27 Aug 2022 17:29:42 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "Google Sheets - IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
       "id": "rainfall information all india districts",
       "title": "Rainfall Information | All India Districts",
       "summary": "Rainfall Information | All India Districts",
@@ -32,6 +54,28 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GRVJRaDc2S21DNnY1cWU2bk1OZVNrV21IbElWWWQ2QnN3QnA1ajNhQ0tjVXZxUFhWOUIyaVBLM2Rqek8wUmNUTHdJWVZ3UUhhWkktejRtTHFOS0FReE9lUXZJN1dOeEJQSjFwWg?oc=5",
       "pubDate": "Tue, 22 Nov 2022 07:04:02 GMT",
       "lastUpdated": "Tue, 22 Nov 2022 07:04:02 GMT",
+      "areas": [],
+      "region": "pune",
+      "sources": [
+        "IMD"
+      ],
+      "confidence": "High",
+      "severity": "advisory",
+      "category": "general",
+      "type": "Information",
+      "icon": "ℹ️",
+      "critical": true,
+      "action": "No immediate action required."
+    },
+    {
+      "id": "rainfall information state wise districts",
+      "title": "Rainfall Information | State-wise Districts",
+      "summary": "Rainfall Information | State-wise Districts",
+      "source": "IMD",
+      "sourceClass": "official",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2V3FVblBmTV9RSEY4M25KY1BTV0dVTG9IblRZSmNUcThlTVRyQjkyTU12bEF6b3h6Ym1tdGFTYkJ5eGVzYzdxTUh2dUduR2R1Vk9GZWNHRzNpcFJaX0s0VzRkOXRKTjNncURtb3RlT1NPQQ?oc=5",
+      "pubDate": "Tue, 22 Nov 2022 09:50:18 GMT",
+      "lastUpdated": "Tue, 22 Nov 2022 09:50:18 GMT",
       "areas": [],
       "region": "pune",
       "sources": [
