@@ -1,132 +1,60 @@
 {
-  "generatedAt": "2026-11-23T03:24:50.768Z",
+  "generatedAt": "2026-11-23T13:24:38.513Z",
   "source": "Open-Meteo",
   "regions": {
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "temp": 23.1,
-      "humidity": 56,
-      "rain": 0,
-      "wind": 3.3,
-      "gust": 13,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.283Z"
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.510Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
-      "temp": 23.4,
-      "humidity": 51,
-      "rain": 0,
-      "wind": 4.6,
-      "gust": 14,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.293Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.511Z"
+    },
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.511Z"
     },
     "alandi": {
       "label": "Alandi Area",
-      "temp": 24.1,
-      "humidity": 62,
-      "rain": 0,
-      "wind": 8.7,
-      "gust": 16.9,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 11,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.439Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.512Z"
     },
     "chakan": {
       "label": "Chakan Industrial Cluster",
-      "temp": 23.9,
-      "humidity": 61,
-      "rain": 0,
-      "wind": 9,
-      "gust": 18.4,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 11,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.449Z"
-    },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "temp": 22.1,
-      "humidity": 70,
-      "rain": 0,
-      "wind": 7.1,
-      "gust": 16.9,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 10,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.516Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.512Z"
     },
     "khed": {
       "label": "Khed Shivapur / Ghats",
-      "temp": 22.8,
-      "humidity": 65,
-      "rain": 0,
-      "wind": 11.8,
-      "gust": 22.7,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.526Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.512Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.513Z"
     },
     "ranjangaon": {
       "label": "Ranjangaon Zone",
-      "temp": 23.8,
-      "humidity": 66,
-      "rain": 0,
-      "wind": 10.8,
-      "gust": 20.9,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 11,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.580Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.513Z"
     },
     "saswad": {
       "label": "Saswad Region",
-      "temp": 22.4,
-      "humidity": 66,
-      "rain": 0,
-      "wind": 12.9,
-      "gust": 27.7,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.582Z"
-    },
-    "fursungi": {
-      "label": "Fursungi / Uruli",
-      "temp": 24.1,
-      "humidity": 51,
-      "rain": 0,
-      "wind": 5.4,
-      "gust": 15.1,
-      "code": 0,
-      "rainChance": 0,
-      "visibility": 12,
-      "next6hRainMm": 0,
-      "source": "Open-Meteo",
-      "updatedAt": "2026-11-23T03:24:50.767Z"
+      "error": true,
+      "message": "fetch failed",
+      "updatedAt": "2026-11-23T13:24:38.513Z"
     }
   }
 }
