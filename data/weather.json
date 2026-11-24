@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-11-23T13:24:38.513Z",
+  "generatedAt": "2026-11-24T01:05:29.892Z",
   "source": "Open-Meteo",
   "regions": {
-    "fursungi": {
-      "label": "Fursungi / Uruli",
+    "pcmc": {
+      "label": "Pimpri-Chinchwad (PCMC)",
       "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.510Z"
+      "message": "Open-Meteo failed for pcmc: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.531Z"
     },
     "pune": {
       "label": "Pune City (PMC)",
       "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.511Z"
-    },
-    "pcmc": {
-      "label": "Pimpri-Chinchwad (PCMC)",
-      "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.511Z"
-    },
-    "alandi": {
-      "label": "Alandi Area",
-      "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.512Z"
+      "message": "Open-Meteo failed for pune: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.534Z"
     },
     "chakan": {
       "label": "Chakan Industrial Cluster",
       "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.512Z"
-    },
-    "khed": {
-      "label": "Khed Shivapur / Ghats",
-      "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.512Z"
-    },
-    "talegaon": {
-      "label": "Talegaon Dabhade",
-      "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.513Z"
-    },
-    "ranjangaon": {
-      "label": "Ranjangaon Zone",
-      "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.513Z"
+      "message": "Open-Meteo failed for chakan: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.598Z"
     },
     "saswad": {
       "label": "Saswad Region",
       "error": true,
-      "message": "fetch failed",
-      "updatedAt": "2026-11-23T13:24:38.513Z"
+      "message": "Open-Meteo failed for saswad: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.670Z"
+    },
+    "talegaon": {
+      "label": "Talegaon Dabhade",
+      "error": true,
+      "message": "Open-Meteo failed for talegaon: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.672Z"
+    },
+    "ranjangaon": {
+      "label": "Ranjangaon Zone",
+      "error": true,
+      "message": "Open-Meteo failed for ranjangaon: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.674Z"
+    },
+    "khed": {
+      "label": "Khed Shivapur / Ghats",
+      "error": true,
+      "message": "Open-Meteo failed for khed: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.715Z"
+    },
+    "fursungi": {
+      "label": "Fursungi / Uruli",
+      "error": true,
+      "message": "Open-Meteo failed for fursungi: HTTP 503",
+      "updatedAt": "2026-11-24T01:05:21.720Z"
+    },
+    "alandi": {
+      "label": "Alandi Area",
+      "error": true,
+      "message": "Unexpected token 'U', \"Unexpected\"... is not valid JSON",
+      "updatedAt": "2026-11-24T01:05:29.891Z"
     }
   }
 }
